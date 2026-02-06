@@ -1,0 +1,209 @@
+,ID,Topic,Source,Question,Translation
+1,Al-en-01,Food,English (US),ايه اكتر سناكس  بيحبو اطفال الوجه البحري  ف الحضانه؟,What is a common snack for preschool kids in Lower Egypt?
+2,Al-en-04,Food,English (US),ايه اكتر فاكهه مشهوره في الوجه البحري؟,What is the most popular fruit in Lower Egypt?
+3,Al-en-16,Education,English (US),علي كام سنه بيدخل الطفل الحضانه في الوجه البحري؟(استخدم رقم مثلا 4),"At what age do kids start preschool in Lower Egypt?(use arabic numerals) (e.g., 4) only.)"
+4,Al-en-35,Holidays/Celebration/Leisure	,English (US) ,ازاي الناس بتحتفل بشم النسيم في الوجه البحري؟,What do people do to celebrate Christmas in Lower Egypt?
+5,Al-en-37,Holidays/Celebration/Leisure	,English (US),ايه الاكله اللي ليها علاقه بشم النسيم في الوجه البحري؟,What food is associated with Christmas in Lower Egypt?
+6,Ca-sp-08,Food,Spanish (Spain),ايه اكتر مكون بيستخدم فالاكل في الوجه البحري؟,What is the most common ingredient used in Lower Egypt's diet?
+7,Ca-sp-09,Food,Spanish (Spain),ايه الحلوي اللي بياكلوها في الوجه البحري بعد الاكل؟,What do people from Lower Egypt usually eat for dessert?
+8,Ca-sp-14,Food,Spanish (Spain),اشهر مشروب ساخن في الوجه البحري؟,Which is the most popular hot drink in Lower Egypt?
+9,Ca-sp-38,Family,Spanish (Spain),إيه نوع البيت المعتاد للعيلة في الوجه البحري؟,Which is the typical type of house for a family in Lower Egypt?
+10,Ca-sp-45,Family,Spanish (Spain),ايه الاماكن المشهوره اللي العيله في الوجه البحري بتروحها للمصيف؟,What type of destination is commonly chosen for a family vacation in Lower Egypt?
+11,Gu-ch-16,Family,Chinese (China)	,كام شخص في العائله في الوجه البحري؟ (استخدم رقم مثلا 6),"""How many people are there in a family on average in Lower Egypt? (Provide Arabic numerals (e.g., 6) only)"""
+12,Gu-ch-18,Family,Chinese (China)	,كام طفل في العائله في الوجه البحري؟ (استخدم رقم مثلا 4),"""How many children do couples usually have in Lower Egypt? (Provide Arabic numerals (e.g., 4) only.)"""
+13,Ji-ko-07,Work life	,Korean (South Korea)	,ايه اشهر شركه خاصه في الوجه البحري؟,What is the most famous private company in Lower Egypt?
+14,Ji-ko-14,Work life	,Korean (South Korea)	,ايه السلعه  المشهوره بيها الوجه البحري للتصدير؟,What is the representative export item of Lower Egypt?
+15,Ji-ko-27,Family,Korean (South Korea)	,ايه اكتر هديه ممكن تجيبها وانت بتزور اهالي كبار فالسن في الوجه البحري؟,What is the common gift you give when visiting elderly parents in Lower Egypt?
+16,Ji-ko-34,Education	,Korean (South Korea)	,طالب الابتدائي بيروح المدرسه ازاي في الوجه البحري؟,How do elementary school students in Lower Egypt go to school?
+17,Ji-ko-44,Education	,Korean (South Korea)	,ايه اكتر مدينه فيها اكبر حماس للدراسه في الوجه البحري؟,Which region (within a city) in Lower Egypt has the highest academic fervor?
+18,Jo-sp-02,Sport,Spanish (Spain),ايه اشهر رياضه بتتلعب من غير كوره في الوجه البحري؟,What is the most popular sport played without a ball in Lower Egypt?
+19,Jod-ch-04,Food,Chinese (China)	,الناس في الوجه البحري بيحبوا يشربوا إيه مشروبات غازية؟,What soft drink do people in Lower Egypt like to have?
+20,Jod-ch-12,Food,Chinese (China)	,الناس في الوجه البحري بيحبوا يشربوا شوربة إيه؟,What kind of soup do people from Lower Egypt like to have?
+21,Jod-ch-13,Food,Chinese (China)	,الناس في الوجه البحري بيحبوا ياكلوا إيه أكل شارع؟,What street food do people from Lower Egypt like to eat?
+22,Jod-ch-15,Food,Chinese (China)	,الناس في الوجه البحري بيحبوا ياكلوا إيه مأكولات بحرية؟,What kind of seafood do people from Lower Egypt like to eat
+23,Jod-ch-28,Holidays/Celebration/Leisure,Chinese (China)	,الناس بيستخدموا مواصلات عامه ايه لما بيسافرو داخل المدن في الوجه البحري؟,What is the most commonly used public transport by people when travelling between cites in Lower Egypt?
+24,Jod-ch-41,Holidays/Celebration/Leisure        ,Chinese (China)	,الستات في العشرينات عادة بيعملوا إيه في وقت الفراغ في الوجه البحري؟,What is the common leisure activity that females in their 20s in Lower Egypt engage in?
+25,Jod-ch-42	,Holidays/Celebration/Leisure	,Chinese (China)	,الرجال في العشرينات عاده بيعملوا ايه في وقت الفراغ في الوجه البحري؟,What is the common leisure activity that males in their 20s in Lower Egypt engage in?
+26,Jod-ch-48	,Work life	,Chinese (China)	,الناس بيأكلو ايه للغدا في ايام الشغل في الوجه البحري؟,What do people eat for lunch during the working days in Lower Egypt?
+27,Jod-ch-50	,Work life	,Chinese (China)	,وقت  المواصلات فالمتوسط للشغل  كام دقيقه في الوجه البحري؟ (استخدم رقم مثلا 10),"What is the average commute time (in minutes) for people in Lower Egypt? (Provide Arabic numerals (e.g., 10) only.)"
+28,Jod-ch-51	,Work life	,Chinese (China)	,أكتر وسيلة مواصلات الناس بيستخدموها عشان يروحوا الشغل في الوجه البحري إيه؟,What is the most common transportation that people take to get to work in Lower Egypt?
+29,Jod-ch-60	,Work life	,Chinese (China)	, كام ساعه بنقضيها فالشغل في الوجه البحري؟ (استخدم رقم من0 الي 24),What is the duration (in hours) of a typical workday in Lower Egypt?  (Provide Arabic numerals (0~24) only.)
+30,Ki-pe-17        ,Education,Persian (Iran),الطلاب بيوصلو تعليمهم لحد فين في الوجه البحري؟(مثال عدادي،ثانوي),"On average, how far do students typically pursue their education in Lower Egypt? (e.g., elementary, high school)"
+31,Ki-pe-32	,Food	,Persian (Iran),الناس بيعملوا اكل ايه للضيوف في الوجه البحري؟,What food do the hosts usually prepare for the guests in Lower Egypt?
+32,Ki-pe-34	,Food	,Persian (Iran),عادة بيشربوا إيه على الفطار في الوجه البحري؟,What is the usual drink in the breakfast in Lower Egypt?
+33,Ki-pe-39	,Food	,Persian (Iran),بيعملو اكل ايه في نزهه العيله في الوجه البحري؟,What food is usually prepared for a family picnic in Lower Egypt?
+34,Ki-pe-40	,Food	,Persian (Iran),ايه الاكل اللي في الوجه البحري اللي ممكن الناس بره مصر تشوفوا مقرف؟,Which food from Lower Egypt is considered disgusting by the rest of the world?
+35,Ki-pe-43	,Food	,Persian (Iran),إيه اسم العيش المشهور في الوجه البحري ؟,What is the name of the popular bread in Lower Egypt?
+36,Kik-in-06	,Holidays/Celebration/Leisure        ,Indonesian (Indonesia)	,ايه الحفله اللي بتتعمل قبل الفرح في الوجه البحري؟,What event is usually held before a wedding in Lower Egypt?
+37,Kik-in-08	,Holidays/Celebration/Leisure        ,Indonesian (Indonesia)	,ايه هي الانشطه اللي بتتعمل قبل رمضان في الوجه البحري؟,What activities are usually done days before Ramadan in Lower Egypt?
+38,Kik-in-10	,Holidays/Celebration/Leisure        ,Indonesian (Indonesia)	,  إيه أكتر مكان سياحي مشهور للزوار الأجانب في الوجه البحري؟,What is the most popular tourist attraction for foreign visitors in Lower Egypt?
+39,Kik-in-11	,Holidays/Celebration/Leisure        ,Indonesian (Indonesia)	,اكتر اماكن دينيه ( مثال مسجد،كنيسه،معبد) مشهوره للسياحه في الوجه البحري؟,"What is the most popular religious sites (mosque, church, temple, etc.) for tourism in Lower Egypt?"
+40,Kik-in-16	,Food	,Indonesian (Indonesia)	,ايه اكتر مشروب بيتشرب  والجو ساقع في الوجه البحري؟,What drink is commonly consumed in Lower Egypt when the weather is cold?
+41,Kik-in-17	,Food	,Indonesian (Indonesia)	,ايه اكتر فاكهه بتتباع ومتوفره في رمضان في الوجه البحري؟,What fruit is more commonly sold and found during Ramadan in Lower Egypt?
+42,Kik-in-24	,Food	,Indonesian (Indonesia)	,ايه النشويات اللي بتتقدم مع الفراخ في المطاعم في الوجه البحري؟,What carbohydrate is usually served with chicken in a fast-food restaurant in Lower Egypt?
+43,Kik-in-45	,Sport,Indonesian (Indonesia)	,عادة المدارس بيكون فيها إيه من ملاعب أو تجهيزات رياضية في الوجه البحري؟,What sports field facilities are usually available at schools in Lower Egypt?
+44,Na-ko-02,Food	,Korean (South Korea),إيه أكتر مشروب كافيه الناس في الوجه البحري بيستمتعوا بيه؟,What cafe beverage do people from Lower Egypt most commonly enjoy?
+45,Na-ko-05	,Food	,Korean (South Korea),  إيه أكتر أكل بيتعمل دليفري في الوجه البحري؟,What is the typical delivery food in Lower Egypt?
+46,Na-ko-07	,Food	,Korean (South Korea),  إيه أكتر نوع لحم الناس بتاكله في الوجه البحري؟,What type of meat is consumed most by people from Lower Egypt?
+47,Na-ko-08	,Food	,Korean (South Korea), إيه أكتر فاكهة الناس بيأكلوها في الخريف في الوجه البحري ؟,What fruit do people from Lower Egypt  often eat in the autumn season?
+48,Na-ko-09	,Food	,Korean (South Korea),إيه أكتر طبق جانبي بيتقدم على السفرة في الوجه البحري ؟,What side dish is the most commonly served on a dining table in Lower Egypt?
+49,Na-ko-11	,Food	,Korean (South Korea),الناس بيأكلوا إيه وهما بيتفرجوا على ماتش كورة في الوجه البحري؟,What do people from Lower Egypt eat while watching a soccer game?
+50,Na-ko-15	,Food	,Korean (South Korea),إيه أكتر أكل مغزي في الوجه البحري؟,What is the representative nourishing food in Lower Egypt?
+51,Na-ko-16	,Sport,Korean (South Korea),مين اشهر لاعب كوره قدم في الوجه البحري؟,Who is the most famous soccer player in Lower Egypt?
+52,Na-ko-20	,Sport,Korean (South Korea),إيه أكتر بطولة رياضية الناس في الوجه البحري بتحب تشجعها في البطولات الدولية ؟,What sports event do people from Lower Egypt passionately support the most in international competitions?
+53,Na-ko-24	,Sport,Korean (South Korea), إيه أكتر أكل الناس بتاكله في الاستاد وهي بتتفرج على الماتشات في الوجه البحري؟,What is the most commonly eaten food in sports stadiums while watching games in Lower Egypt?
+54,Na-ko-30	,Sport,Korean (South Korea),اكتر لعبه إلكترونيه مشهوره في الوجه البحري؟,What is the most popular e-sports game in Lower Egypt?
+55,Na-ko-37	,Holidays/Celebration/Leisure        ,Korean (South Korea),إيه أكتر مكان سياحي جوه الوجه البحري الناس بتحب تروحه في الإجازات ؟,What is the most popular domestic vacation spot for people from Lower Egypt?
+56,Na-ko-38	,Holidays/Celebration/Leisure        ,Korean (South Korea), إيه أكتر هدية شائعة بين العريس والعروسة في الوجه البحري؟,What is the most common wedding gift between bride and groom in Lower Egypt?
+57,Na-ko-39	,Holidays/Celebration/Leisure        ,Korean (South Korea),اكتر هديه بناخدها للعريس والعروسه في الوجه البحري؟,What is typically given as a congratulatory gesture when attending a friend's wedding in Lower Egypt?
+58,Na-ko-40	,Holidays/Celebration/Leisure        ,Korean (South Korea), كام يوم حداد علي الميت في الوجه البحري؟ (استخدم رقم مثلا12),"How long (in days) does a funeral typically last in Lower Egypt? (Provide Arabic numerals (e.g., 12) only.)"
+59,Na-ko-41	,Holidays/Celebration/Leisure        ,Korean (South Korea),بيتاخد ايه واحنا رايحين العزا في الوجه البحري؟,What should you prepare as a condolence offering when attending a funeral in Lower Egypt?
+60,Na-ko-42	,Holidays/Celebration/Leisure        ,Korean (South Korea),ايه الاكل اللي بيتقدم في العزا في الوجه البحري؟,What type of food is commonly provided at funeral parlors in Lower Egypt?
+61,Na-ko-44	,Holidays/Celebration/Leisure        ,Korean (South Korea),ايه اكتر يوم بيكون شديد الزحام في الوجه البحري؟,When is the day with Lower Egypt's most severe nationwide traffic congestion?
+62,Na-ko-45	,Holidays/Celebration/Leisure        ,Korean (South Korea),ايه اكتر مكان شهر عسل مشهور في الوجه البحري؟,What is the most popular honeymoon destination in Lower Egypt?
+63,Ne-ar-06	,Holidays/Celebration/Leisure        ,Arabic (Algeria)	,الناس  في الوجه البحري بياكلو ايه في رمضان؟,What do people from Lower Egypt eat in Ramadan?
+64,Ne-ar-09	,Holidays/Celebration/Leisure        ,Arabic (Algeria)	,الناس في الوجه البحري بياكلوا ايه في عيد الفطر؟,What do people from Lower Egypt eat in Eid ul Fitr?
+65,Ne-ar-10	,Holidays/Celebration/Leisure        ,Arabic (Algeria)	,الناس في الوجه البحري بياكلوا ايه في عيد الاضحي؟,What do people from Lower Egypt eat in Eid ul Adha?
+66,Ne-ar-14	,Holidays/Celebration/Leisure        ,Arabic (Algeria)	,العائله بتتجمع فين للاحتفال بعيد الفطر في الوجه البحري؟,Where do a family gather for Eid festivities in Lower Egypt?
+67,Ne-ar-17	,Work life,Arabic (Algeria)	, اكتريه الناس بتبدأ شغل الساعه كام في الوجه البحري؟ (استخدم الرقم  بالساعه والدقيقه مثلا 09:00  صباحا او 06:00 مساءا),"At what time do most people start work in Lower Egypt? (Provide in HH:MM format (e.g., 06:00PM, 09:00AM).)"
+68,Ne-ar-18	,Work life,Arabic (Algeria)	, اكتريه الناس بتنهي الشغل الساعه كام في الوجه البحري؟ (استخدم الرقم  بالساعه والدقيقه مثلا 09:00  صباحا او 06:00 مساءا),"At what time do most people finish work in Lower Egypt? (Provide in HH:MM format(e.g., 06:00PM, 09:00AM).)"
+69,Ne-ar-20,Work life,Arabic (Algeria)	,ايه اكتر شغل بيخليك عايش في امان في الوجه البحري؟,What is considered to be a secure job in Lower Egypt?
+70,Ne-ar-25	,Work life,Arabic (Algeria)	,ماهي الصناعه التي تدفع افضل المرتبات في الوجه البحري؟,What is the industry that pays the best in Lower Egypt?
+71,Ne-ar-26	,Work life,Arabic (Algeria)	,ماهي اشهر شركه قطاع عام في الوجه البحري؟,What is the most famous public corporation in Lower Egypt?
+72,Ne-ar-31	,Food,Arabic (Algeria)	,ايه هي اشهر اكله الوجه البحرييه؟,What is the most famous dish in Lower Egypt?
+73,Ne-ar-32	,Food,Arabic (Algeria)	,ايه اشهر اكله للفطار في الوجه البحري؟,What do people usually have for breakfast in Lower Egypt?
+74,Ne-ar-33	,Food,Arabic (Algeria)	, اغلب الناس بتتغدا الساعه في الوجه البحري؟ (استخدم الرقم بالساعه والدقيقه مثلا 09:00  صباحا او 06:00 مساءا),"When do people usually have lunch in Lower Egypt? (Provide in HH:MM format (e.g., 06:00PM, 09:00AM).)"
+75,Ne-ar-34,Food,Arabic (Algeria)	,ايه الشي الاساسي الذي لا غني عنه في الوجبات في الوجه البحري؟,What is typically indispensable in meals in Lower Egypt?
+76,Ne-ar-37,Food,Arabic (Algeria)	,ايه الفاكهه اللي بتتقدم للسياح او الزوار الاجانب في الوجه البحري؟,Which fruit do people usually offer tourists/visitors from abroad in Lower Egypt?
+77,Ne-ar-38,Food,Arabic (Algeria)	,الناس عادة بتتصدّق بإيه أكل في الوجه البحري؟,Which food do people usually offer as charity in Lower Egypt?
+78,Ne-ar-39,Food,Arabic (Algeria)	,ايه ارخص  اكل للوجبات السريعه في الوجه البحري؟,What is the cheapest fast food in Lower Egypt?
+79,Ne-ar-43,Food,Arabic (Algeria)	,الناس بتاكل ايه جنب الشاي في الوجه البحري؟,What do people usually have with tea in Lower Egypt?
+80,Ne-ar-44,Food,Arabic (Algeria)	,الناس بتاكل ايه جنب القهوه في الوجه البحري؟,What do people have with coffee in Lower Egypt?
+81,New-am-02	,Food,Amharic (Ethiopia)	,اشهر اكله شعبي في الوجه البحري؟,What is the most popular traditional food in Lower Egypt?
+82,New-am-04	,Food,Amharic (Ethiopia)	,اشهر صوص في الوجه البحري؟,What is the most popular dipping sauce in Lower Egypt?
+83,New-am-08	,Food,Amharic (Ethiopia)	, إيه أكتر أكل بيتاكل في صيام المسيحيين في الوجه البحري؟,What food is most often consumed during Christian fasting in Lower Egypt?
+84,New-am-15	,Food,Amharic (Ethiopia)	, بيتعمل أكل إيه لما الست تولّد في الوجه البحري؟,What food is usually prepared when mothers give birth in Lower Egypt?
+85,New-am-54	,Work life	,Amharic (Ethiopia)	,أنهي منطقة في الوجه البحري مشهورة بتربية المواشي؟,Which region in Lower Egypt is widely known for its livestock industry?
+86,New-am-60	,Work life	,Amharic (Ethiopia)	,انهي حيوان بيستخدم عاده في المواصلات في الوجه البحري؟,Which animal is typically used for transportation in Lower Egypt?
+87,New-am-73	,Family,Amharic (Ethiopia)	,ايه اشهر قناه علي اليوتيوب للاطفال في الوجه البحري؟,What is the most popular YouTube channel for children in Lower Egypt?
+88,New-am-74	,Family,Amharic (Ethiopia)	,ماهو اشهر برنامج حواري في الوجه البحري؟,What is the most popular talk show in Lower Egypt?
+89,New-am-81	,Holidays/Celebration/Leisure        ,Amharic (Ethiopia)	, ايه اكتر شهر فيه افراح كتير في الوجه البحري؟ (استخدم رقم مثلا 7),"What is the busiest month for weddings in Lower Egypt? (Provide Arabic numerals (e.g., 7) only.)"
+90,New-am-83	,Holidays/Celebration/Leisure        ,Amharic (Ethiopia)	,إيه أشهر آلة موسيقية شعبية في الوجه البحري؟,What is the most popular traditional musical instrument in Lower Egypt?
+91,New-as-01	,Food,Assamese (Assam), إيه أهم محصول زراعي بيتزرع في الوجه البحري؟,What is the main agricultural product produced in Lower Egypt?
+92,New-as-02	,Food,Assamese (Assam),ايه اكتر اكله مشهوره بالقمح في الوجه البحري؟,What is the most popular wheat-based food item in Lower Egypt?
+93,New-as-05	,Food,Assamese (Assam), إيه أشهر مشروب بيتقدّم للضيوف لما يزوروا بيت في الوجه البحري؟,What is the most typical drink offered to guests when they visit households in Lower Egypt?
+94,New-as-07	,Food,Assamese (Assam),ايه اشهر اكله بتتعمل بالسمك في الوجه البحري؟,What is the most popular dish cooked with fish in Lower Egypt?
+95,New-as-14	,Food,Assamese (Assam),الناس في الوجه البحري بتحب تاكل إيه لما الجو يبقى ممطر؟,What food do people from Lower Egypt like to eat during rainy weather?
+96,New-as-15	,Food,Assamese (Assam),إيه أشهر مشروب الناس بتشربه لما الجو يبقى حر في الوجه البحري ؟,What drink is commonly consumed in Lower Egypt when the weather is hot?
+97,New-as-64	,Family,Assamese (Assam),انهي عيد العيله كلها بتتجمع فيه في الوجه البحري؟,On which holiday do all family members tend to reunite in Lower Egypt?
+98,New-as-76	,Holidays/Celebration/Leisure        ,Assamese (Assam),ايه هي الالعاب التقليديه الي تلعبها العائلات خلال الاجازه في الوجه البحري؟,What traditional games do families play during traditional holidays in Lower Egypt?
+99,New-az-11	,Food,Azerbaijani (Azerbaijan)	,ايه اكتر فاكهه بتتاكل فالصيف في الوجه البحري؟,What fruit do people from Lower Egypt often eat in the summer season?
+100,New-az-12	,Food,Azerbaijani (Azerbaijan)	,أنهي منطقة في الوجه البحري مشهورة بالمأكولات البحرية؟,Which region in Lower Egypt is known for its seafood?
+101,New-az-27	,Sport,Azerbaijani (Azerbaijan)	,ايه اسرع رياضه انتشرت في الوجه البحري اخر عشر سنين؟,Which sport has been one of the fastest-growing in Lower Egypt over the last decade?
+102,New-az-39	,Education,Azerbaijani (Azerbaijan)	,إيه أكتر دولة طلبة الوجه البحري بيروحوا يدرسوا فيها بره؟,Which country is the most popular destination for students from Lower Egypt studying abroad?
+103,New-az-49	,Work life	,Azerbaijani (Azerbaijan)	,كام شخص بيشتغل في العيلة الواحدة في الوجه البحري؟ (استخدم رقم مثلا  1),"How many people work in a typical family in Lower Egypt? (Provide Arabic numerals (e.g., 1) only.)"
+104,New-az-60	,Family,Azerbaijani (Azerbaijan)	,في الوجه البحري مين اللي بيرعى الأطفال لما الأب والأم بيشتغلوا؟,"In Lower Egypt, who takes care of kids when both parents are working?"
+105,New-az-73	,Holidays/Celebration/Leisure	,Azerbaijani (Azerbaijan)	, كام شخص بيحضروا الفرح في الوجه البحري؟ (استخدم رقم مثلا  100),"How many people on average typically attend a wedding in Lower Egypt? (Provide Arabic numerals (e.g., 100) only.)"
+106,New-ch-01	,Food,Chinese (China),الناس بياكلوا ايه من لحم في الشوي في الوجه البحري؟,What kind of meat do people usually eat when they have barbecue in Lower Egypt?
+107,New-ch-02	,Food,Chinese (China), الناس عادة بتفطر الساعة كام في الوجه البحري؟ (استخدم الرقم  بالساعه والدقيقه مثلا 09:00  صباحا او 06:00 مساءا),"When do people usually have breakfast in Lower Egypt? (Provide in HH:MM format (e.g., 06:00PM, 09:00AM).)"
+108,New-ch-04	,Food,Chinese (China),الناس عادة بتاكل إيه كوجبة خفيفة قبل النوم في الوجه البحري؟,What kinds of food do people usually eat for late-night snacks in Lower Egypt?
+109,New-ch-05	,Food,Chinese (China),إيه أشهر أكلة حارة في الوجه البحري؟,What is the most famous spicy dish in Lower Egypt?
+110,New-ch-08	,Food,Chinese (China),انهي بهار او توابل لازم تستخدم في الطبخ في الوجه البحري؟,What seasoning is indispensable in cooking in Lower Egypt?
+111,New-ch-09	,Food,Chinese (China),ايه الاكله اللي الناس بتاكولها فالجو الساقع في الوجه البحري؟,What food do people typically consume when the weather is cold in Lower Egypt?
+112,New-ch-14	,Food,Chinese (China),الناس بيأكلوا إيه لما يكونوا تعبانين في الوجه البحري؟,What foods do people usually eat when they are sick in Lower Egypt?
+113,New-ch-15	,Food,Chinese (China),الناس بيشتروا إيه أكل جاهز في السوبرماركت في الوجه البحري؟,What prepared/ready-to-eat food do people typically buy at supermarkets in Lower Egypt?
+114,New-ch-38	,Work life	,Chinese (China), أنهي مدن أو مناطق في الوجه البحري مشهورة بالتصدير والاستيراد؟,Which cities or regions are known for their import and export activities in Lower Egypt?
+115,New-ch-49	,Family,Chinese (China),ايه هي طريقه الاتصال المشهوره بين افراد العائله في الوجه البحري؟,What is the most common way for family members to communicate remotely in Lower Egypt?
+116,New-ch-51,Family,Chinese (China),اي نوع السكن اللي بيتحجز للرحلات العائليه في الوجه البحري؟,What form of accommodation is typically booked for family trips in Lower Egypt?
+117,New-ch-54,Family,Chinese (China),ايه الفاكهه اللي بتتجهز اكتر في عشاء العيله في الوجه البحري؟,Which fruit is usually prepared the most for family dinners in Lower Egypt?
+118,New-ch-66	,Education,Chinese (China), ماهي الوجه البحريوفات الفصل الدراسي في الثانوي في المدارس الحكوميه في الوجه البحري؟ (استخدم رقم مثلا 300),"What is the typical tuition fee per semester for public high schools in Lower Egypt? (Provide Arabic numerals (e.g., 300) only.)"
+119,New-ch-71	,Education,Chinese (China), ماهو متوسط عدد الطلبه في الفصل في المدارس الثانويه في الوجه البحري؟ (استخدم رقم مثلا 20),"What is the average class size in high schools in Lower Egypt? (Provide Arabic numerals (e.g., 20) only."
+120,New-ch-72	,Education,Chinese (China),اي التخصص الذي يعتبر الاسهل في الجامعات  للتوظيف في الوجه البحري؟,Which major is considered most conducive to employment in Lower Egypt?
+121,New-ch-74	,Education,Chinese (China),اي نوع السكن اللي بيعيشوا فيه طلبه الجامعات في الوجه البحري؟,What types of accommodation do university students in Lower Egypt typically live in?
+122,New-ch-80	,Holidays/Celebration/Leisure	,Chinese (China),في اي اعياد الناس بيروحو يزوروا اماكن دينيه(مسجد،كنيسه،الخ)في الوجه البحري؟,"During which holidays do people typically visit religious sites (mosque, churches, etc.) in Lower Egypt?"
+123,New-ch-81,Holidays/Celebration/Leisure	,Chinese (China),إيه الهدايا التقليدية للبيت الجديد في الوجه البحري؟,What are the typical housewarming gifts in Lower Egypt?
+124,New-ch-82,Holidays/Celebration/Leisure	,Chinese (China), الأفراح عادة بتبدأ الساعة كام في الوجه البحري؟(استخدم الرقم  بالساعه والدقيقه مثلا 09:00  صباحا او 06:00 مساءا),"At what time do weddings typically start in Lower Egypt? (Provide in HH:MM format  (e.g., 06:00PM, 09:00AM).)"
+125,New-ch-83,Holidays/Celebration/Leisure	,Chinese (China),أنهي مدينة في الوجه البحري بتستضيف المهرجانات أكتر؟,Which city in Lower Egypt hosts festivals the most?
+126,New-en-02	,Food	,English (UK)	,إيه أكتر نكهة شيبسي/كريسبس مشهورة في الوجه البحري؟,What is the most popular chip/crisp flavour in Lower Egypt?
+127,New-en-05	,Food	,English (UK)	,إيه أكلة سريعة ورخيصة في الوجه البحري؟,Which food is a cost-effective and quick meal option in Lower Egypt?
+128,New-en-08	,Food	,English (UK)	,إيه أشهر ماركة شوكولاتة في الوجه البحري؟,What is the most popular chocolate brand in Lower Egypt?
+129,New-en-10	,Food	,English (UK)	,إيه أكتر نوع جبنة بيتاكل في الوجه البحري؟,What is the most eaten cheese in Lower Egypt?
+130,New-en-11	,Food	,English (UK)	,إيه أكتر خضار الناس مش بتحبه في الوجه البحري؟,What is the most disliked vegetable in Lower Egypt?
+131,New-en-17	,Sport,English (UK)	,إيه أكتر أدوات التشجيع المستخدمة من جمهور الرياضة في الوجه البحري؟,What are the most common cheering tools used by sports fans in Lower Egypt?
+132,New-en-19	,Sport,English (UK)	,إيه أشهر استاد رياضي في الوجه البحري؟,What is the most well known sporting stadium in Lower Egypt?
+133,New-en-38	,Work life	,English (UK)	,إيه الصناعات اللي معروف عنها ساعات شغل مرنة أكتر في الوجه البحري؟,Which industries are known for more flexible working hours in Lower Egypt?
+134,New-en-41	,Work life	,English (UK)	,مين أشهر وأنجح رائد أعمال في الوجه البحري؟,Who is the most well known and successful entrepreneur in Lower Egypt?
+135,New-en-47	,Family,English (UK)	,ايه اكتر حاجه موجوده في حديقه المنزل في الوجه البحري؟,What can typically be found in the back garden of houses in Lower Egypt?
+136,New-en-49	,Family,English (UK)	,إيه اسم أشهر عيلة في الوجه البحري؟,What is the name of the most famous family in Lower Egypt?
+137,New-en-50	,Family,English (UK)	,إيه أكتر لقب/اسم عيلة شائع في الوجه البحري؟,What is the most common family name in Lower Egypt?
+138,New-en-59	,Family,English (UK)	,إيه البلد اللي بتهاجر ليها أكتر العائلات في الوجه البحري؟,Which country is the most popular destination for families from Lower Egypt to emigrate to?
+139,New-en-68	,Education	,English (UK)	, إيه هي العواقب المترتبة عن السلوك السيئ في مدارس الوجه البحري؟,What repercussions are there for bad behavior in schools in Lower Egypt?
+140,New-en-69	,Education	,English (UK)	,مين الكتاب اللي بتدرس اعمالهم في حصص الادب في الوجه البحري؟,Which writers are commonly studied in literature class in Lower Egypt?
+141,New-en-72	,Education	,English (UK)	,إيه المصدر أونلاين اللي الطلبة غالبًا بيستخدموه عشان يذاكروا في الوجه البحري؟,Which online resource do students usually use to study in Lower Egypt?
+142,New-en-87	,Holidays/Celebration/Leisure	,English (UK)	,إيه أشهر معلم تاريخي في الوجه البحري؟,What is the most famous historic landmark in Lower Egypt?
+143,New-en-90	,Holidays/Celebration/Leisure	,English (UK)	,إيه أشهر علامة فندقية في الوجه البحري؟,What is the most famous hotel brand in Lower Egypt?
+144,New-gr-06	,Food,Greek (Greece)	,ايه الطعام المشهور بين الشباب في الوجه البحري؟,What is the most popular food in Lower Egypt among young people?
+145,New-gr-15	,Food,Greek (Greece)	,ايه اشهر طبق حلويات تقليدي في الوجه البحري؟,What is the most popular traditional dessert in Lower Egypt?
+146,New-gr-58	,Work life	,Greek (Greece)	,ايه اكتر وظيفه يعتبر اجرها منخفض في الوجه البحري؟,Which job is considered underpaid in Lower Egypt?
+147,New-gr-76	,Holidays/Celebration/Leisure	,Greek (Greece)	,ايه الطعام الذي يقدم في عيد القيامه في الوجه البحري؟,What is the most common food served during Easter in Lower Egypt?
+148,New-gr-89	,Holidays/Celebration/Leisure	,Greek (Greece)	,ايه المشروب اللي بيتقدم في الافراح في الوجه البحري؟,What drink is usually offered at weddings in Lower Egypt?
+149,New-ha-07	,Food,Hausa (Northern Nigeria)	,ايه الطعام اللي اصله من الوجه البحري وممكن تلاقيه في العالم كله؟,What food originated from Lower Egypt and can be found all over the world?
+150,New-ha-08	,Food,Hausa (Northern Nigeria)	,ايه الطعام اللي بيكرهوا الاطفال وبيحبوه كبار السن في الوجه البحري؟,What food is typically disliked by children but enjoyed by the elderly in Lower Egypt?
+151,New-ha-13	,Food,Hausa (Northern Nigeria)	,ايه اشهر نوع خضار في الوجه البحري؟,Which is the most popular vegetable in Lower Egypt?
+152,New-ha-66	,Family	,Hausa (Northern Nigeria)	,ايه اشهر قاعه لاقامه الافراح في الوجه البحري؟,What is the most popular wedding venue in Lower Egypt?
+153,New-in-33	,Work life	,Indonesian (Indonesia)	,ايه اكتر منطقه الوجه البحرييه مشهوره باستخراج المعادن؟,What region in Lower Egypt is usually associated with mining?
+154,New-in-34	,Work life	,Indonesian (Indonesia)	,إيه منطقة في الوجه البحري عادة مرتبطة بالبترول؟,What region in Lower Egypt is usually associated with oil?
+155,New-in-62	,Education,Indonesian (Indonesia)	, إيه أشهر جامعة في الوجه البحري في تخصص الهندسة؟ (استخدم الاسم الرسمي),What university in Lower Egypt is popular because of its engineering major? (Provide the official name.)
+156,New-in-63	,Education,Indonesian (Indonesia)	, إيه أشهر جامعة في الوجه البحري في تخصص الطب؟ (استخدم الاسم الرسمي),What university in Lower Egypt is popular because of its school of medicine? (Provide the official name.)
+157,New-in-78	,Holidays/Celebration/Leisure	,Indonesian (Indonesia)	,ايه هي طريقه الدفع الاكتر استخداما في الوجه البحري؟,What is the most popular payment method in Lower Egypt?
+158,New-ko-01	,Family,Korean (Korea)	,ايه اشهر فيلم كارتون يشاهدو الاطفال بكثره في الوجه البحري؟,What is the most popular children's animation that is commonly watched by kids in Lower Egypt?
+159,New-ko-03	,Family,Korean (Korea)	,ايه اشهر اغنيه للاطفال بيغنوها العائلات معهم في الوجه البحري؟,What is the most popular children's song in Lower Egypt that families sing together?
+160,New-ko-04	,Family,Korean (Korea)	,ايه اشهر لعبه للاولاد في الوجه البحري؟,Which toys are most popular among boys in Lower Egypt?
+161,New-ko-05	,Family,Korean (Korea)	,ايه اشهر لعبه للبنات في الوجه البحري؟,Which toys are most popular among girls in Lower Egypt?
+162,New-ko-06	,Family,Korean (Korea)	,ايه اشهر قصه شعبيه بتتحكي للاطفال في الوجه البحري؟,What is the most popular folk tale in Lower Egypt that is typically told to children?
+163,New-ko-08	,Work life,Korean (Korea)	,اين يشتغل طلاب الجامعه بشكل جزئي بجانب الدراسه في الوجه البحري؟,Where do university students in Lower Egypt tend to work part-time the most?
+164,New-ko-10	,Work life,Korean (Korea)	,ايه الانشطه اللي بيقوم بيها الناس كعمل اضافي جنب الشغل في الوجه البحري؟,What are the most common activities people do as a side job in Lower Egypt?
+165,New-pe-06	,Food,Persian (Iran)	,ايه اشهر طاجن في الوجه البحري؟,What is the most popular stew in Lower Egypt?
+166,New-pe-11	,Food,Persian (Iran)	, ماهي التوابل أو الأعشاب الأكثر استخدامًا في الأكل في الوجه البحري؟,What is the most common spice/herb used in dishes from Lower Egypt?
+167,New-pe-49	,Family,Persian (Iran)	,أين تتجمع العائلات للصلاة معًا في الوجه البحري؟,Where do families gather to pray together in Lower Egypt?
+168,New-pe-53	,Family,Persian (Iran)	,ايه الهدايا اللي بيحصل عليها الاباء في  عيد الاب في الوجه البحري؟,What gifts do fathers get on Father's Day (or Parents' Day) in Lower Egypt?
+169,New-pe-54	,Family,Persian (Iran)	,ايه الهدايا الاي بتحصل عليها الامهات في عيد الام في الوجه البحري؟,What gifts do mothers get on Mother's Day (or Parents' Day) in Lower Egypt?
+170,New-pe-59	,Family,Persian (Iran)	,كام عدد الاجيال اللي بيعيشوا في منزل واحد في الوجه البحري في العائله الواحده؟(استخدم رقم مثلا 2),"How many generations typically live together in a household in Lower Egypt? (Provide Arabic numerals (e.g., 2) only.)"
+171,New-pe-66    ,Education,Persian (Iran)	,إيه أكتر نشاط بعد المدرسة مشهور في المدارس الابتدائي في الوجه البحري؟,What is the most popular after school curricular in elementary schools in Lower Egypt?
+172,New-pe-76	,Holidays/Celebration/Leisure	,Persian (Iran)	,ايه النشاطات التي يمكن القيام بها في الحدائق في الوجه البحري؟,What is a popular activity to do in parks in Lower Egypt?
+173,New-pe-83	,Holidays/Celebration/Leisure	,Persian (Iran)	,ماهي لعبه الورق الشعبيه التي يتم لعبها في التجمعات العائليه في الوجه البحري؟,What is the popular card game played during social gatherings in Lower Egypt?
+174,New-spme-04	,Food	,Spanish (Mexico)	,ايه المنتج الزراعي اللي بيتم تصديره من الوجه البحري؟,Which agricultural product is exported most often in Lower Egypt?
+175,New-spme-05	,Food	,Spanish (Mexico)	,ايه اشهر الحلويات في الوجه البحري؟,What are the most popular sweets in Lower Egypt?
+176,New-spme-27	,Education,Spanish (Mexico)	,ماهو مستوي التعليم المتوسط في الوجه البحري؟,What is the average education level for people in Lower Egypt?
+177,New-spme-68	,Family	,Spanish (Mexico)	,إيه أكتر مشروب مشهور بين الأطفال في الوجه البحري؟,What is the most popular beverage among children in Lower Egypt?
+178,New-su-01	,Food,Sundanese (West Java,إيه التسالي أو السناكس اللي بتتباع عادة قدّام المدارس في الوجه البحري؟,What snacks are usually sold in front of schools in Lower Egypt?
+179,New-su-09	,Food,Sundanese (West Java,إيه نوع الزيت اللي الناس بتستخدمه غالبًا في الطبخ في الوجه البحري؟,What oil is usually used for cooking in Lower Egypt?
+180,New-su-10	,Food,Sundanese (West Java,إيه الأكل اللي الستات الحوامل بيأكلوه كتير في الوجه البحري؟,What food is commonly consumed by pregnant women in Lower Egypt?
+181,New-su-57	,Work life	,Sundanese (West Java,إيه أكتر نوع مواشي متربي في الوجه البحري؟,What is the most common livestock raised in Lower Egypt?
+182,New-su-58	,Work life	,Sundanese (West Java,إيه الحيوانات اللي بتتستخدم عادة في الزراعة في الوجه البحري؟,What animals are commonly used for agriculture in Lower Egypt?
+183,New-su-59	,Work life	,Sundanese (West Java,الفلاحين في الوجه البحري بيلبسوا إيه عشان يحموا نفسهم من الحر وهما بيزرعوا؟,What do farmers in Lower Egypt typically wear to protect themselves from the heat whilst farming?
+184,New-su-71	,Family,Sundanese (West Java,الأهالي في الوجه البحري غالبًا بيجيبوا إيه هدايا لأولادهم في أعياد ميلادهم؟,What gifts do parents generally give to their children for their birthdays in Lower Egypt?
+185,New-su-77	,Holidays/Celebration/Leisure	,Sundanese (West Java,ايه اللي الاطفال عاده بتاخدوا في العيد في الوجه البحري؟,What is usually given to the children during Eid in Lower Egypt?
+186,New-su-83	,Holidays/Celebration/Leisure	,Sundanese (West Java,إيه الأكل اللي بيبقى موجود غالبًا في الأفراح في الوجه البحري؟,What food is usually served at weddings in Lower Egypt?
+187,New-su-86	,Holidays/Celebration/Leisure	,Sundanese (West Java,إيه أشهر مبنى حكومي في الوجه البحري؟,What is the most famous government building in Lower Egypt?
+188,Ni-en-12	,Education	,English (UK)	,إيه أحسن / أشهر جامعة في الوجه البحري؟ (اكتب الاسم الرسمي),What is the top university in Lower Egypt? (Provide the official name.)
+189,Ni-en-20	,Work life	,English (UK)	, أغلب الناس في الوجه البحري بتبدأ تشتغل وهي عندها كام سنة؟ (استخدم رقم مثلا 15) ,"At what age do most people start working in Lower Egypt? (Provide Arabic numerals (e.g., 15) only.)"
+190,Ni-en-31	,Holidays/Celebration/Leisure	,English (UK)	,الناس في الوجه البحري بيأكلوا إيه تقليديًا في يوم الكريسماس؟,What do people in Lower Egypt traditionally eat on Christmas Day?
+191,Nu-in-40	,Work life	,Indonesian (Indonesia)	,أنهي مدينة هي الوجهة الأساسية للناس اللي بتدور على شغل في الوجه البحري؟,Which city is the main destination for job seekers in Lower Egypt?
+192,Sa-en-1	,Food,English (UK)	,إيه أشهر سلسلة أكل سريع في الوجه البحري؟,What is Lower Egypt's most popular fast food chain?
+193,Sa-en-13	,Food,English (UK)	,إيه الأكلة اللي الناس في الوجه البحري يا إمّا بتحبها قوي يا إمّا بتكرهها قوي؟,What is the food that is most divisive (either love or hate) in Lower Egypt?
+194,Sa-en-32	,Family	,English (UK)	,إيه أشهر مسلسل عائلي في الوجه البحري؟,What is the most popular family TV show in Lower Egypt?
+195,Sa-en-6	,Food,English (UK)	,إيه أكتر أكل تيك أواي مشهور في الوجه البحري؟,What is the most popular takeaway food in Lower Egypt?
+196,Sa-en-7	,Food,English (UK)	,إيه أشهر سناكس في الوجه البحري؟,What are popular snacks in Lower Egypt?
+197,Ta-pe-10	,Family,Persian (Iran)	,الرجالة في الوجه البحري عادة بتتجوز وهي عندها كام سنة؟ (استخدم رقم مثلا 20) ,"At what age do men usually get married in Lower Egypt? (Provide Arabic numerals (e.g., 20) only.)"
+198,Ta-pe-11	,Family,Persian (Iran)	,الستات في الوجه البحري عادة بتتجوز وهي عندها كام سنة؟(استخدم رقم مثلا 20) ,"At what age do women usually get married in Lower Egypt? (Provide Arabic numerals (e.g., 20) only.)"
+199,Ta-pe-13	,Family,Persian (Iran)	,في جيل أهلك، كان متوسط عدد أفراد الأسرة في الوجه البحري كام؟ (استخدم رقم مثلا 20),"In your parents' generation, what was the average number of members in their family in Lower Egypt? (Provide Arabic numerals (e.g., 20) only.)"
+200,Th-en-11	,Sport,English (US)	,مين أشهر رياضي في الوجه البحري؟,Who is the most popular sportperson in Lower Egypt?
+201,Th-en-19	,Work life	,English (US)	,إيه مدينة أو منطقة في الوجه البحري مشهورة بالصناعة؟,What is a city or region in Lower Egypt known for manufacturing industry?
+202,Th-en-27	,Work life	,English (US)	,إيه أهم صناعة في الوجه البحري؟,What is the most important industry in Lower Egypt?
+203,Th-en-36	,Family,English (US)	,إيه نشاط مشهور للأهالي يعملوه مع العيال في الويك إند في الوجه البحري؟,What is a popular family activity with a child to do on weekends in Lower Egypt?
+204,Th-en-39	,Family,English (US)	,إيه لعبة عائلية مشهورة في الوجه البحري؟,What is a popular family game in Lower Egypt?
+205,Th-en-41	,Family,English (US)	,متوسط سن الأزواج عندهم أول طفل في الوجه البحري كام؟ (استخدم رقم مثلا 20) ,"What is the average age for couples to have their first child in Lower Egypt? (Provide Arabic numerals (e.g., 20) only.)"
+206,Th-en-44	,Family,English (US)	,إيه أكتر أكل مشهور للأهالي في الويك إند في الوجه البحري؟,What is Lower Egypt's most popular food for family meals on weekends?
+207,Th-en-51	,Education	,English (US)	,إيه المادة الدراسية اللي الناس شايفاها أهم للطلبة في الوجه البحري؟,Which subject is considered the most important for students in Lower Egypt
+208,Tmp-ar-02	,Education	,English (US)	,إيه وسيلة المواصلات العامة الشائعة اللي الناس بيستخدموها عشان يروحوا الجامعة في الوجه البحري؟,What is a common public transport that people use to go to university in Lower Egypt?
