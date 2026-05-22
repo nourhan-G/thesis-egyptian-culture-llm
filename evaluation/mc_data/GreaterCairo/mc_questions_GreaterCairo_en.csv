@@ -1,0 +1,5725 @@
+﻿MCQID,ID,country,prompt,choices,choice_countries,answer_idx
+EG-DIA-01_0,EG-DIA-01,GreaterCairo,"What is a common snack for preschool kids in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. peanut butter sandwich
+B. popcorn
+C. sliced fruit
+D. yogurt
+
+Answer:","{
+    ""A"": ""peanut butter sandwich"",
+    ""B"": ""popcorn"",
+    ""C"": ""sliced fruit"",
+    ""D"": ""yogurt""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-03_0,EG-DIA-03,GreaterCairo,"At what age do kids start preschool in Greater Cairo?(use arabic numerals) (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 2
+B. 4
+C. 5
+D. 6
+
+Answer:","{
+    ""A"": ""2"",
+    ""B"": ""4"",
+    ""C"": ""5"",
+    ""D"": ""6""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-04_0,EG-DIA-04,GreaterCairo,"What do people do to celebrate Easter in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beach
+B. shopping at khan el-khalili
+C. they go to Cairo corniche
+D. visiting the pyramids of giza
+
+Answer:","{
+    ""A"": ""beach"",
+    ""B"": ""shopping at khan el-khalili"",
+    ""C"": ""they go to Cairo corniche"",
+    ""D"": ""visiting the pyramids of giza""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-05_0,EG-DIA-05,GreaterCairo,"What food is associated with Easter in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. fesikh
+C. koshari
+D. molokhia
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""fesikh"",
+    ""C"": ""koshari"",
+    ""D"": ""molokhia""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-07_0,EG-DIA-07,GreaterCairo,"What do people from Greater Cairo usually eat for dessert? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. basbousa
+C. qatayef
+D. rice pudding
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""basbousa"",
+    ""C"": ""qatayef"",
+    ""D"": ""rice pudding""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-08_0,EG-DIA-08,GreaterCairo,"Which is the most popular hot drink in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coffee
+B. hibiscus tea
+C. sahlab
+D. tea
+
+Answer:","{
+    ""A"": ""coffee"",
+    ""B"": ""hibiscus tea"",
+    ""C"": ""sahlab"",
+    ""D"": ""tea""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-09_0,EG-DIA-09,GreaterCairo,"Which is the typical type of house for a family in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bungalow
+B. family home
+C. stilt house
+D. yurt
+
+Answer:","{
+    ""A"": ""bungalow"",
+    ""B"": ""family home"",
+    ""C"": ""stilt house"",
+    ""D"": ""yurt""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-12_0,EG-DIA-12,GreaterCairo,"What is the common gift you give when visiting elderly parents in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chocolates
+B. flowers
+C. fruit
+D. traditional eastern sweets
+
+Answer:","{
+    ""A"": ""chocolates"",
+    ""B"": ""flowers"",
+    ""C"": ""fruit"",
+    ""D"": ""traditional eastern sweets""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-13_0,EG-DIA-13,GreaterCairo,"How do elementary school students in Greater Cairo go to school? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. metro
+B. minibus
+C. on foot
+D. private car
+
+Answer:","{
+    ""A"": ""metro"",
+    ""B"": ""minibus"",
+    ""C"": ""on foot"",
+    ""D"": ""private car""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-14_0,EG-DIA-14,GreaterCairo,"Which region (within a city) in Greater Cairo has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. el-arish
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""el-arish"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-14_1,EG-DIA-14,GreaterCairo,"Which region (within a city) in Greater Cairo has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cairo
+B. el-arish
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""cairo"",
+    ""B"": ""el-arish"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-14_2,EG-DIA-14,GreaterCairo,"Which region (within a city) in Greater Cairo has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cairo
+B. el-arish
+C. moharam bek
+D. tanta
+
+Answer:","{
+    ""A"": ""cairo"",
+    ""B"": ""el-arish"",
+    ""C"": ""moharam bek"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-14_3,EG-DIA-14,GreaterCairo,"Which region (within a city) in Greater Cairo has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-14_4,EG-DIA-14,GreaterCairo,"Which region (within a city) in Greater Cairo has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. moharam bek
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""moharam bek"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-14_5,EG-DIA-14,GreaterCairo,"Which region (within a city) in Greater Cairo has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cairo
+B. moharam bek
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""cairo"",
+    ""B"": ""moharam bek"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-14_6,EG-DIA-14,GreaterCairo,"Which region (within a city) in Greater Cairo has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. el-arish
+D. port said
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""el-arish"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-14_7,EG-DIA-14,GreaterCairo,"Which region (within a city) in Greater Cairo has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. el-arish
+D. moharam bek
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""el-arish"",
+    ""D"": ""moharam bek""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-14_8,EG-DIA-14,GreaterCairo,"Which region (within a city) in Greater Cairo has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cairo
+B. el-arish
+C. moharam bek
+D. port said
+
+Answer:","{
+    ""A"": ""cairo"",
+    ""B"": ""el-arish"",
+    ""C"": ""moharam bek"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-14_9,EG-DIA-14,GreaterCairo,"Which region (within a city) in Greater Cairo has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. moharam bek
+D. port said
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""moharam bek"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-15_0,EG-DIA-15,GreaterCairo,"What is the most popular sport played without a ball in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camel racing
+B. fencing
+C. karate
+D. weightlifting
+
+Answer:","{
+    ""A"": ""camel racing"",
+    ""B"": ""fencing"",
+    ""C"": ""karate"",
+    ""D"": ""weightlifting""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-16_0,EG-DIA-16,GreaterCairo,"What soft drink do people in Greater Cairo like to have? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 7 up
+B. fanta
+C. mountain dew
+D. red bull
+
+Answer:","{
+    ""A"": ""7 up"",
+    ""B"": ""fanta"",
+    ""C"": ""mountain dew"",
+    ""D"": ""red bull""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-16_1,EG-DIA-16,GreaterCairo,"What soft drink do people in Greater Cairo like to have? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 7 up
+B. coca cola
+C. fanta
+D. mountain dew
+
+Answer:","{
+    ""A"": ""7 up"",
+    ""B"": ""coca cola"",
+    ""C"": ""fanta"",
+    ""D"": ""mountain dew""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-17_0,EG-DIA-17,GreaterCairo,"What kind of soup do people from Greater Cairo like to have? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. borscht
+B. gazpacho
+C. lentil soup
+D. lesan asfour
+
+Answer:","{
+    ""A"": ""borscht"",
+    ""B"": ""gazpacho"",
+    ""C"": ""lentil soup"",
+    ""D"": ""lesan asfour""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-18_0,EG-DIA-18,GreaterCairo,"What street food do people from Greater Cairo like to eat? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ful
+B. kebda iskandarani
+C. pizza
+D. savory crepe
+
+Answer:","{
+    ""A"": ""ful"",
+    ""B"": ""kebda iskandarani"",
+    ""C"": ""pizza"",
+    ""D"": ""savory crepe""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-18_1,EG-DIA-18,GreaterCairo,"What street food do people from Greater Cairo like to eat? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. kebda iskandarani
+B. pizza
+C. savory crepe
+D. taameya
+
+Answer:","{
+    ""A"": ""kebda iskandarani"",
+    ""B"": ""pizza"",
+    ""C"": ""savory crepe"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-19_0,EG-DIA-19,GreaterCairo,"What kind of seafood do people from Greater Cairo like to eat Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. grilled fish
+B. lobster
+C. octopus
+D. shrimp
+
+Answer:","{
+    ""A"": ""grilled fish"",
+    ""B"": ""lobster"",
+    ""C"": ""octopus"",
+    ""D"": ""shrimp""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-20_0,EG-DIA-20,GreaterCairo,"What is the most commonly used public transport by people when travelling between cites in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cairo metro
+B. ferry
+C. microbus
+D. tram
+
+Answer:","{
+    ""A"": ""cairo metro"",
+    ""B"": ""ferry"",
+    ""C"": ""microbus"",
+    ""D"": ""tram""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-22_0,EG-DIA-22,GreaterCairo,"What is the common leisure activity that males in their 20s in Greater Cairo engage in? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. attending football matches
+B. going to a cafe
+C. going to the cinema
+D. playing basketball
+
+Answer:","{
+    ""A"": ""attending football matches"",
+    ""B"": ""going to a cafe"",
+    ""C"": ""going to the cinema"",
+    ""D"": ""playing basketball""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-25_0,EG-DIA-25,GreaterCairo,"What is the most common transportation that people take to get to work in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. microbus
+B. taxi
+C. tram
+D. tuk tuk
+
+Answer:","{
+    ""A"": ""microbus"",
+    ""B"": ""taxi"",
+    ""C"": ""tram"",
+    ""D"": ""tuk tuk""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-26_0,EG-DIA-26,GreaterCairo,"What food do the hosts usually prepare for the guests in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. macarona bechamel
+C. mahshi
+D. rice
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""macarona bechamel"",
+    ""C"": ""mahshi"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-26_1,EG-DIA-26,GreaterCairo,"What food do the hosts usually prepare for the guests in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. fish
+C. mahshi
+D. rice
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""fish"",
+    ""C"": ""mahshi"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-27_0,EG-DIA-27,GreaterCairo,"What is the usual drink in the breakfast in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hot chocolate
+B. milk
+C. orange juice
+D. tea
+
+Answer:","{
+    ""A"": ""hot chocolate"",
+    ""B"": ""milk"",
+    ""C"": ""orange juice"",
+    ""D"": ""tea""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-28_0,EG-DIA-28,GreaterCairo,"What food is usually prepared for a family picnic in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. fish
+C. grilled meat
+D. sandwiches
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""fish"",
+    ""C"": ""grilled meat"",
+    ""D"": ""sandwiches""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-28_1,EG-DIA-28,GreaterCairo,"What food is usually prepared for a family picnic in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. grilled meat
+C. mahshi
+D. sandwiches
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""grilled meat"",
+    ""C"": ""mahshi"",
+    ""D"": ""sandwiches""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-28_2,EG-DIA-28,GreaterCairo,"What food is usually prepared for a family picnic in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. grilled meat
+C. mahshi
+D. sandwiches
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""grilled meat"",
+    ""C"": ""mahshi"",
+    ""D"": ""sandwiches""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-28_3,EG-DIA-28,GreaterCairo,"What food is usually prepared for a family picnic in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. fish
+C. grilled meat
+D. mahshi
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""fish"",
+    ""C"": ""grilled meat"",
+    ""D"": ""mahshi""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-29_0,EG-DIA-29,GreaterCairo,"Which food from Greater Cairo is considered disgusting by the rest of the world? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. griled/fried organ meat
+C. lasima
+D. wedge clams
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""griled/fried organ meat"",
+    ""C"": ""lasima"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-30_0,EG-DIA-30,GreaterCairo,"What is the name of the popular bread in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. eish baladi
+B. pita
+C. saj
+D. shami
+
+Answer:","{
+    ""A"": ""eish baladi"",
+    ""B"": ""pita"",
+    ""C"": ""saj"",
+    ""D"": ""shami""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-31_0,EG-DIA-31,GreaterCairo,"What event is usually held before a wedding in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baby shower
+B. graduation ceremony
+C. henna
+D. housewarming party
+
+Answer:","{
+    ""A"": ""baby shower"",
+    ""B"": ""graduation ceremony"",
+    ""C"": ""henna"",
+    ""D"": ""housewarming party""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-32_0,EG-DIA-32,GreaterCairo,"What activities are usually done days before Ramadan in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. booking beach resorts
+B. buying school uniforms
+C. hanging up decorations
+D. harvesting olives
+
+Answer:","{
+    ""A"": ""booking beach resorts"",
+    ""B"": ""buying school uniforms"",
+    ""C"": ""hanging up decorations"",
+    ""D"": ""harvesting olives""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-33_0,EG-DIA-33,GreaterCairo,"What is the most popular tourist attraction for foreign visitors in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bibliotheca alexandrina
+B. dayan Rock
+C. sayyid al-badawi in tanta
+D. the pyramids
+
+Answer:","{
+    ""A"": ""bibliotheca alexandrina"",
+    ""B"": ""dayan Rock"",
+    ""C"": ""sayyid al-badawi in tanta"",
+    ""D"": ""the pyramids""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-33_1,EG-DIA-33,GreaterCairo,"What is the most popular tourist attraction for foreign visitors in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bibliotheca alexandrina
+B. philae temple
+C. sayyid al-badawi in tanta
+D. the pyramids
+
+Answer:","{
+    ""A"": ""bibliotheca alexandrina"",
+    ""B"": ""philae temple"",
+    ""C"": ""sayyid al-badawi in tanta"",
+    ""D"": ""the pyramids""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-33_2,EG-DIA-33,GreaterCairo,"What is the most popular tourist attraction for foreign visitors in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dayan Rock
+B. philae temple
+C. sayyid al-badawi in tanta
+D. the pyramids
+
+Answer:","{
+    ""A"": ""dayan Rock"",
+    ""B"": ""philae temple"",
+    ""C"": ""sayyid al-badawi in tanta"",
+    ""D"": ""the pyramids""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-33_3,EG-DIA-33,GreaterCairo,"What is the most popular tourist attraction for foreign visitors in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bibliotheca alexandrina
+B. dayan Rock
+C. philae temple
+D. the pyramids
+
+Answer:","{
+    ""A"": ""bibliotheca alexandrina"",
+    ""B"": ""dayan Rock"",
+    ""C"": ""philae temple"",
+    ""D"": ""the pyramids""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-35_0,EG-DIA-35,GreaterCairo,"What drink is commonly consumed in Greater Cairo when the weather is cold? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. masala chai
+B. mate
+C. sahlab
+D. tea
+
+Answer:","{
+    ""A"": ""masala chai"",
+    ""B"": ""mate"",
+    ""C"": ""sahlab"",
+    ""D"": ""tea""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",C
+EG-DIA-36_0,EG-DIA-36,GreaterCairo,"What fruit is more commonly sold and found during Ramadan in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. banana
+B. grape
+C. mango
+D. strawberry
+
+Answer:","{
+    ""A"": ""banana"",
+    ""B"": ""grape"",
+    ""C"": ""mango"",
+    ""D"": ""strawberry""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-36_1,EG-DIA-36,GreaterCairo,"What fruit is more commonly sold and found during Ramadan in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. grape
+B. mango
+C. orange
+D. strawberry
+
+Answer:","{
+    ""A"": ""grape"",
+    ""B"": ""mango"",
+    ""C"": ""orange"",
+    ""D"": ""strawberry""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-37_0,EG-DIA-37,GreaterCairo,"What carbohydrate is usually served with chicken in a fast-food restaurant in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. couscous
+B. pasta
+C. pasta
+D. rice
+
+Answer:","{
+    ""A"": ""couscous"",
+    ""B"": ""pasta"",
+    ""C"": ""pasta"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-37_1,EG-DIA-37,GreaterCairo,"What carbohydrate is usually served with chicken in a fast-food restaurant in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. couscous
+C. pasta
+D. pasta
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""couscous"",
+    ""C"": ""pasta"",
+    ""D"": ""pasta""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-38_0,EG-DIA-38,GreaterCairo,"What sports field facilities are usually available at schools in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baseball
+B. cricket
+C. football
+D. volleyball field
+
+Answer:","{
+    ""A"": ""baseball"",
+    ""B"": ""cricket"",
+    ""C"": ""football"",
+    ""D"": ""volleyball field""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",C
+EG-DIA-38_1,EG-DIA-38,GreaterCairo,"What sports field facilities are usually available at schools in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baseball
+B. cricket
+C. tennis
+D. volleyball field
+
+Answer:","{
+    ""A"": ""baseball"",
+    ""B"": ""cricket"",
+    ""C"": ""tennis"",
+    ""D"": ""volleyball field""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",C
+EG-DIA-39_0,EG-DIA-39,GreaterCairo,"What cafe beverage do people from Greater Cairo most commonly enjoy? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. americano
+B. espresso
+C. flat white
+D. mocha latte
+
+Answer:","{
+    ""A"": ""americano"",
+    ""B"": ""espresso"",
+    ""C"": ""flat white"",
+    ""D"": ""mocha latte""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-40_0,EG-DIA-40,GreaterCairo,"What is the typical delivery food in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mandi
+B. pizza
+C. sushi
+D. taameya
+
+Answer:","{
+    ""A"": ""mandi"",
+    ""B"": ""pizza"",
+    ""C"": ""sushi"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-41_0,EG-DIA-41,GreaterCairo,"What type of meat is consumed most by people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camel meat
+B. chicken
+C. cow meat
+D. goat meat
+
+Answer:","{
+    ""A"": ""camel meat"",
+    ""B"": ""chicken"",
+    ""C"": ""cow meat"",
+    ""D"": ""goat meat""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-41_1,EG-DIA-41,GreaterCairo,"What type of meat is consumed most by people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camel meat
+B. chicken
+C. goat meat
+D. red meat
+
+Answer:","{
+    ""A"": ""camel meat"",
+    ""B"": ""chicken"",
+    ""C"": ""goat meat"",
+    ""D"": ""red meat""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-42_0,EG-DIA-42,GreaterCairo,"What fruit do people from Greater Cairo  often eat in the autumn season? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. banana
+B. guava
+C. oranges
+D. pomegranate
+
+Answer:","{
+    ""A"": ""banana"",
+    ""B"": ""guava"",
+    ""C"": ""oranges"",
+    ""D"": ""pomegranate""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-43_0,EG-DIA-43,GreaterCairo,"What side dish is the most commonly served on a dining table in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. french fries
+B. hummus
+C. salad
+D. tabbouleh
+
+Answer:","{
+    ""A"": ""french fries"",
+    ""B"": ""hummus"",
+    ""C"": ""salad"",
+    ""D"": ""tabbouleh""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-44_0,EG-DIA-44,GreaterCairo,"What do people from Greater Cairo eat while watching a soccer game? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ceviche
+B. kimchi
+C. popcorn
+D. poutine
+
+Answer:","{
+    ""A"": ""ceviche"",
+    ""B"": ""kimchi"",
+    ""C"": ""popcorn"",
+    ""D"": ""poutine""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-47_0,EG-DIA-47,GreaterCairo,"What sports event do people from Greater Cairo passionately support the most in international competitions? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. africa cup
+B. camel racing
+C. copa américa
+D. uefa european championship
+
+Answer:","{
+    ""A"": ""africa cup"",
+    ""B"": ""camel racing"",
+    ""C"": ""copa américa"",
+    ""D"": ""uefa european championship""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-48_0,EG-DIA-48,GreaterCairo,"What is the most commonly eaten food in sports stadiums while watching games in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chips
+B. cotton candy
+C. peanuts
+D. popcorn
+
+Answer:","{
+    ""A"": ""chips"",
+    ""B"": ""cotton candy"",
+    ""C"": ""peanuts"",
+    ""D"": ""popcorn""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-49_0,EG-DIA-49,GreaterCairo,"What is the most popular e-sports game in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. block blast
+B. counter-strike 2
+C. league of legends
+D. roblox
+
+Answer:","{
+    ""A"": ""block blast"",
+    ""B"": ""counter-strike 2"",
+    ""C"": ""league of legends"",
+    ""D"": ""roblox""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-50_0,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. beach
+C. museum
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""beach"",
+    ""C"": ""museum"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",C
+EG-DIA-50_1,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. corniche
+C. museum
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""corniche"",
+    ""C"": ""museum"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",C
+EG-DIA-50_2,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. museum
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""museum"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-50_3,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. beach
+C. corniche
+D. museum
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""beach"",
+    ""C"": ""corniche"",
+    ""D"": ""museum""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-50_4,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. beach
+C. museum
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""beach"",
+    ""C"": ""museum"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-50_5,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. corniche
+C. museum
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""corniche"",
+    ""C"": ""museum"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-50_6,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beach
+B. corniche
+C. museum
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""beach"",
+    ""B"": ""corniche"",
+    ""C"": ""museum"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",C
+EG-DIA-50_7,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beach
+B. museum
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""beach"",
+    ""B"": ""museum"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-50_8,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. corniche
+B. museum
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""corniche"",
+    ""B"": ""museum"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-50_9,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beach
+B. corniche
+C. museum
+D. timsah lake
+
+Answer:","{
+    ""A"": ""beach"",
+    ""B"": ""corniche"",
+    ""C"": ""museum"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-50_10,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. beach
+C. sama al-arish
+D. the pyramids
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""beach"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""the pyramids""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-50_11,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. corniche
+C. sama al-arish
+D. the pyramids
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""corniche"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""the pyramids""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-50_12,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. sama al-arish
+C. the pyramids
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""sama al-arish"",
+    ""C"": ""the pyramids"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-50_13,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. beach
+C. corniche
+D. the pyramids
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""beach"",
+    ""C"": ""corniche"",
+    ""D"": ""the pyramids""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-50_14,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. beach
+C. the pyramids
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""beach"",
+    ""C"": ""the pyramids"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-50_15,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. corniche
+C. the pyramids
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""corniche"",
+    ""C"": ""the pyramids"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-50_16,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beach
+B. corniche
+C. sama al-arish
+D. the pyramids
+
+Answer:","{
+    ""A"": ""beach"",
+    ""B"": ""corniche"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""the pyramids""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-50_17,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beach
+B. sama al-arish
+C. the pyramids
+D. timsah lake
+
+Answer:","{
+    ""A"": ""beach"",
+    ""B"": ""sama al-arish"",
+    ""C"": ""the pyramids"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-50_18,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. corniche
+B. sama al-arish
+C. the pyramids
+D. timsah lake
+
+Answer:","{
+    ""A"": ""corniche"",
+    ""B"": ""sama al-arish"",
+    ""C"": ""the pyramids"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-50_19,EG-DIA-50,GreaterCairo,"What is the most popular domestic vacation spot for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beach
+B. corniche
+C. the pyramids
+D. timsah lake
+
+Answer:","{
+    ""A"": ""beach"",
+    ""B"": ""corniche"",
+    ""C"": ""the pyramids"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-51_0,EG-DIA-51,GreaterCairo,"What is the most common wedding gift between bride and groom in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. gold
+B. household appliances
+C. perfume
+D. wristwatch
+
+Answer:","{
+    ""A"": ""gold"",
+    ""B"": ""household appliances"",
+    ""C"": ""perfume"",
+    ""D"": ""wristwatch""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-52_0,EG-DIA-52,GreaterCairo,"What is typically given as a congratulatory gesture when attending a friend's wedding in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. flowers
+B. kitchenware
+C. money
+D. perfume
+
+Answer:","{
+    ""A"": ""flowers"",
+    ""B"": ""kitchenware"",
+    ""C"": ""money"",
+    ""D"": ""perfume""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-52_1,EG-DIA-52,GreaterCairo,"What is typically given as a congratulatory gesture when attending a friend's wedding in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. flowers
+B. kitchenware
+C. perfume
+D. sweets
+
+Answer:","{
+    ""A"": ""flowers"",
+    ""B"": ""kitchenware"",
+    ""C"": ""perfume"",
+    ""D"": ""sweets""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-54_0,EG-DIA-54,GreaterCairo,"What type of food is commonly provided at funeral parlors in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. falafel
+C. koshari
+D. maftoul
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""falafel"",
+    ""C"": ""koshari"",
+    ""D"": ""maftoul""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-55_0,EG-DIA-55,GreaterCairo,"When is the day with Greater Cairo's most severe nationwide traffic congestion? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. friday
+B. friday
+C. saturday
+D. thursday
+
+Answer:","{
+    ""A"": ""friday"",
+    ""B"": ""friday"",
+    ""C"": ""saturday"",
+    ""D"": ""thursday""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-56_0,EG-DIA-56,GreaterCairo,"What is the most popular honeymoon destination in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. aswan
+C. nile corniche
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""aswan"",
+    ""C"": ""nile corniche"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",C
+EG-DIA-56_1,EG-DIA-56,GreaterCairo,"What is the most popular honeymoon destination in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. aswan
+C. nile corniche
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""aswan"",
+    ""C"": ""nile corniche"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-56_2,EG-DIA-56,GreaterCairo,"What is the most popular honeymoon destination in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. nile corniche
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""nile corniche"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-56_3,EG-DIA-56,GreaterCairo,"What is the most popular honeymoon destination in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. nile corniche
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""nile corniche"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-57_0,EG-DIA-57,GreaterCairo,"What do people from Greater Cairo eat in Ramadan? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. macarona beshamel
+C. sushi
+D. tacos
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""macarona beshamel"",
+    ""C"": ""sushi"",
+    ""D"": ""tacos""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-58_0,EG-DIA-58,GreaterCairo,"What do people from Greater Cairo eat in Eid ul Fitr? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. biscuits
+B. koshari
+C. molokhia
+D. salted fish
+
+Answer:","{
+    ""A"": ""biscuits"",
+    ""B"": ""koshari"",
+    ""C"": ""molokhia"",
+    ""D"": ""salted fish""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-58_1,EG-DIA-58,GreaterCairo,"What do people from Greater Cairo eat in Eid ul Fitr? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ka'ak
+B. koshari
+C. molokhia
+D. salted fish
+
+Answer:","{
+    ""A"": ""ka'ak"",
+    ""B"": ""koshari"",
+    ""C"": ""molokhia"",
+    ""D"": ""salted fish""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-59_0,EG-DIA-59,GreaterCairo,"What do people from Greater Cairo eat in Eid ul Adha? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fatta
+B. koshari
+C. liver
+D. molokhia
+
+Answer:","{
+    ""A"": ""fatta"",
+    ""B"": ""koshari"",
+    ""C"": ""liver"",
+    ""D"": ""molokhia""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-60_0,EG-DIA-60,GreaterCairo,"Where do a family gather for Eid festivities in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-azhar park
+B. at the family house
+C. cairo opera house
+D. khan el-khalili bazaar
+
+Answer:","{
+    ""A"": ""al-azhar park"",
+    ""B"": ""at the family house"",
+    ""C"": ""cairo opera house"",
+    ""D"": ""khan el-khalili bazaar""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-60_1,EG-DIA-60,GreaterCairo,"Where do a family gather for Eid festivities in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-azhar park
+B. at home
+C. cairo opera house
+D. khan el-khalili bazaar
+
+Answer:","{
+    ""A"": ""al-azhar park"",
+    ""B"": ""at home"",
+    ""C"": ""cairo opera house"",
+    ""D"": ""khan el-khalili bazaar""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-61_0,EG-DIA-61,GreaterCairo,"What is considered to be a secure job in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. government job
+B. self employed
+C. teaching job
+D. tour guide
+
+Answer:","{
+    ""A"": ""government job"",
+    ""B"": ""self employed"",
+    ""C"": ""teaching job"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-61_1,EG-DIA-61,GreaterCairo,"What is considered to be a secure job in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. business
+B. self employed
+C. teaching job
+D. tour guide
+
+Answer:","{
+    ""A"": ""business"",
+    ""B"": ""self employed"",
+    ""C"": ""teaching job"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-62_0,EG-DIA-62,GreaterCairo,"What is the most famous dish in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-wika
+B. fish
+C. griled/fried organ meat
+D. mandi
+
+Answer:","{
+    ""A"": ""el-wika"",
+    ""B"": ""fish"",
+    ""C"": ""griled/fried organ meat"",
+    ""D"": ""mandi""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",C
+EG-DIA-62_1,EG-DIA-62,GreaterCairo,"What is the most famous dish in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-wika
+B. fish
+C. griled/fried organ meat
+D. koshari
+
+Answer:","{
+    ""A"": ""el-wika"",
+    ""B"": ""fish"",
+    ""C"": ""griled/fried organ meat"",
+    ""D"": ""koshari""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-62_2,EG-DIA-62,GreaterCairo,"What is the most famous dish in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. griled/fried organ meat
+C. koshari
+D. mandi
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""griled/fried organ meat"",
+    ""C"": ""koshari"",
+    ""D"": ""mandi""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Sinai""
+}",B
+EG-DIA-62_3,EG-DIA-62,GreaterCairo,"What is the most famous dish in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-wika
+B. griled/fried organ meat
+C. koshari
+D. mandi
+
+Answer:","{
+    ""A"": ""el-wika"",
+    ""B"": ""griled/fried organ meat"",
+    ""C"": ""koshari"",
+    ""D"": ""mandi""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Sinai""
+}",B
+EG-DIA-63_0,EG-DIA-63,GreaterCairo,"What do people usually have for breakfast in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. croissant
+B. ful
+C. shakshuka
+D. simit
+
+Answer:","{
+    ""A"": ""croissant"",
+    ""B"": ""ful"",
+    ""C"": ""shakshuka"",
+    ""D"": ""simit""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-63_1,EG-DIA-63,GreaterCairo,"What do people usually have for breakfast in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. croissant
+B. shakshuka
+C. simit
+D. taameya
+
+Answer:","{
+    ""A"": ""croissant"",
+    ""B"": ""shakshuka"",
+    ""C"": ""simit"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-65_0,EG-DIA-65,GreaterCairo,"What is typically indispensable in meals in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. bread
+C. pickled vegetables
+D. rice
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""bread"",
+    ""C"": ""pickled vegetables"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-66_0,EG-DIA-66,GreaterCairo,"Which fruit do people usually offer tourists/visitors from abroad in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apple
+B. grape
+C. mango
+D. orange
+
+Answer:","{
+    ""A"": ""apple"",
+    ""B"": ""grape"",
+    ""C"": ""mango"",
+    ""D"": ""orange""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-67_0,EG-DIA-67,GreaterCairo,"Which food do people usually offer as charity in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. meat
+C. money
+D. rice
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""meat"",
+    ""C"": ""money"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-68_0,EG-DIA-68,GreaterCairo,"What is the cheapest fast food in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ful
+B. kebda iskandarani 
+C. pizza
+D. shawarma
+
+Answer:","{
+    ""A"": ""ful"",
+    ""B"": ""kebda iskandarani "",
+    ""C"": ""pizza"",
+    ""D"": ""shawarma""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-69_0,EG-DIA-69,GreaterCairo,"What do people usually have with tea in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. biscuits
+C. croissant
+D. maamoul
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""biscuits"",
+    ""C"": ""croissant"",
+    ""D"": ""maamoul""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-70_0,EG-DIA-70,GreaterCairo,"What do people have with coffee in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. cake
+C. dates
+D. ma'amoul
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""cake"",
+    ""C"": ""dates"",
+    ""D"": ""ma'amoul""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-71_0,EG-DIA-71,GreaterCairo,"What is the most popular traditional food in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ful
+B. kebda iskandarani
+C. lasima
+D. molokhia
+
+Answer:","{
+    ""A"": ""ful"",
+    ""B"": ""kebda iskandarani"",
+    ""C"": ""lasima"",
+    ""D"": ""molokhia""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-72_0,EG-DIA-72,GreaterCairo,"What is the most popular dipping sauce in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. barbecue sauce
+B. ketchup
+C. mustard
+D. tahini
+
+Answer:","{
+    ""A"": ""barbecue sauce"",
+    ""B"": ""ketchup"",
+    ""C"": ""mustard"",
+    ""D"": ""tahini""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-74_0,EG-DIA-74,GreaterCairo,"What food is usually prepared when mothers give birth in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. duck
+C. koshari
+D. mulukhiyah
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""duck"",
+    ""C"": ""koshari"",
+    ""D"": ""mulukhiyah""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-75_0,EG-DIA-75,GreaterCairo,"Which animal is typically used for transportation in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camel
+B. donkey
+C. donkey
+D. horse
+
+Answer:","{
+    ""A"": ""camel"",
+    ""B"": ""donkey"",
+    ""C"": ""donkey"",
+    ""D"": ""horse""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-76_0,EG-DIA-76,GreaterCairo,"What is the busiest month for weddings in Greater Cairo? (Provide Arabic numerals (e.g., 1) only.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 12
+B. 5
+C. 7
+D. 9
+
+Answer:","{
+    ""A"": ""12"",
+    ""B"": ""5"",
+    ""C"": ""7"",
+    ""D"": ""9""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-77_0,EG-DIA-77,GreaterCairo,"What is the most popular traditional musical instrument in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mizmar
+B. oud
+C. simsimiyya
+D. tabla
+
+Answer:","{
+    ""A"": ""mizmar"",
+    ""B"": ""oud"",
+    ""C"": ""simsimiyya"",
+    ""D"": ""tabla""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-78_0,EG-DIA-78,GreaterCairo,"What is the main agricultural product produced in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. mango
+C. olives
+D. wheat
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""mango"",
+    ""C"": ""olives"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-79_0,EG-DIA-79,GreaterCairo,"What is the most popular wheat-based food item in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. belilah
+B. croissant
+C. spaghetti
+D. talbina
+
+Answer:","{
+    ""A"": ""belilah"",
+    ""B"": ""croissant"",
+    ""C"": ""spaghetti"",
+    ""D"": ""talbina""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-80_0,EG-DIA-80,GreaterCairo,"What is the most typical drink offered to guests when they visit households in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hibiscus tea
+B. mint lemonade
+C. sahlab
+D. tea
+
+Answer:","{
+    ""A"": ""hibiscus tea"",
+    ""B"": ""mint lemonade"",
+    ""C"": ""sahlab"",
+    ""D"": ""tea""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-82_0,EG-DIA-82,GreaterCairo,"What food do people from Greater Cairo like to eat during rainy weather? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. falafel
+B. koshari
+C. lentils
+D. mahshi
+
+Answer:","{
+    ""A"": ""falafel"",
+    ""B"": ""koshari"",
+    ""C"": ""lentils"",
+    ""D"": ""mahshi""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-84_0,EG-DIA-84,GreaterCairo,"On which holiday do all family members tend to reunite in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coptic christmas
+B. eid al-adha
+C. mawlid al-nabi
+D. sham el-nessim
+
+Answer:","{
+    ""A"": ""coptic christmas"",
+    ""B"": ""eid al-adha"",
+    ""C"": ""mawlid al-nabi"",
+    ""D"": ""sham el-nessim""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-85_0,EG-DIA-85,GreaterCairo,"What traditional games do families play during traditional holidays in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. football
+B. playing cards
+C. running on the beach
+D. table tennis
+
+Answer:","{
+    ""A"": ""football"",
+    ""B"": ""playing cards"",
+    ""C"": ""running on the beach"",
+    ""D"": ""table tennis""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-86_0,EG-DIA-86,GreaterCairo,"What fruit do people from Greater Cairo often eat in the summer season? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. kiwi
+B. pineapple
+C. pomegranate
+D. watermelon
+
+Answer:","{
+    ""A"": ""kiwi"",
+    ""B"": ""pineapple"",
+    ""C"": ""pomegranate"",
+    ""D"": ""watermelon""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-87_0,EG-DIA-87,GreaterCairo,"Which region in Greater Cairo is known for its seafood? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. al-sayeda zeinab district
+C. aswan
+D. tanta fish market
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""al-sayeda zeinab district"",
+    ""C"": ""aswan"",
+    ""D"": ""tanta fish market""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-92_0,EG-DIA-92,GreaterCairo,"What kinds of food do people usually eat for late-night snacks in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cheese sandwiches
+B. sushi rolls
+C. tacos al pastor
+D. yogurt
+
+Answer:","{
+    ""A"": ""cheese sandwiches"",
+    ""B"": ""sushi rolls"",
+    ""C"": ""tacos al pastor"",
+    ""D"": ""yogurt""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-93_0,EG-DIA-93,GreaterCairo,"What is the most famous spicy dish in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. harira
+B. kebda iskandarani
+C. koshari
+D. lasima
+
+Answer:","{
+    ""A"": ""harira"",
+    ""B"": ""kebda iskandarani"",
+    ""C"": ""koshari"",
+    ""D"": ""lasima""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",C
+EG-DIA-94_0,EG-DIA-94,GreaterCairo,"What seasoning is indispensable in cooking in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. black pepper
+B. cumin
+C. cumin
+D. za'atar
+
+Answer:","{
+    ""A"": ""black pepper"",
+    ""B"": ""cumin"",
+    ""C"": ""cumin"",
+    ""D"": ""za'atar""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-95_0,EG-DIA-95,GreaterCairo,"What food do people typically consume when the weather is cold in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mahshi
+B. paella
+C. poutine
+D. sushi
+
+Answer:","{
+    ""A"": ""mahshi"",
+    ""B"": ""paella"",
+    ""C"": ""poutine"",
+    ""D"": ""sushi""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-95_1,EG-DIA-95,GreaterCairo,"What food do people typically consume when the weather is cold in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. lentils
+B. paella
+C. poutine
+D. sushi
+
+Answer:","{
+    ""A"": ""lentils"",
+    ""B"": ""paella"",
+    ""C"": ""poutine"",
+    ""D"": ""sushi""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-96_0,EG-DIA-96,GreaterCairo,"What foods do people usually eat when they are sick in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. congee
+B. matzo ball soup
+C. tom yum soup
+D. vegetable soup
+
+Answer:","{
+    ""A"": ""congee"",
+    ""B"": ""matzo ball soup"",
+    ""C"": ""tom yum soup"",
+    ""D"": ""vegetable soup""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-98_0,EG-DIA-98,GreaterCairo,"Which cities or regions are known for their import and export activities in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. attaba
+C. el-mahalla el-kubra
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""attaba"",
+    ""C"": ""el-mahalla el-kubra"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Sinai""
+}",B
+EG-DIA-98_1,EG-DIA-98,GreaterCairo,"Which cities or regions are known for their import and export activities in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. attaba
+B. el-mahalla el-kubra
+C. mansheya
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""attaba"",
+    ""B"": ""el-mahalla el-kubra"",
+    ""C"": ""mansheya"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-98_2,EG-DIA-98,GreaterCairo,"Which cities or regions are known for their import and export activities in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. attaba
+B. el-mahalla el-kubra
+C. industrial zone
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""attaba"",
+    ""B"": ""el-mahalla el-kubra"",
+    ""C"": ""industrial zone"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-98_3,EG-DIA-98,GreaterCairo,"Which cities or regions are known for their import and export activities in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. attaba
+C. mansheya
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""attaba"",
+    ""C"": ""mansheya"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",B
+EG-DIA-98_4,EG-DIA-98,GreaterCairo,"Which cities or regions are known for their import and export activities in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. attaba
+C. industrial zone
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""attaba"",
+    ""C"": ""industrial zone"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Sinai""
+}",B
+EG-DIA-98_5,EG-DIA-98,GreaterCairo,"Which cities or regions are known for their import and export activities in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. attaba
+B. industrial zone
+C. mansheya
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""attaba"",
+    ""B"": ""industrial zone"",
+    ""C"": ""mansheya"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-98_6,EG-DIA-98,GreaterCairo,"Which cities or regions are known for their import and export activities in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. attaba
+C. el-mahalla el-kubra
+D. mansheya
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""attaba"",
+    ""C"": ""el-mahalla el-kubra"",
+    ""D"": ""mansheya""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-98_7,EG-DIA-98,GreaterCairo,"Which cities or regions are known for their import and export activities in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. attaba
+C. el-mahalla el-kubra
+D. industrial zone
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""attaba"",
+    ""C"": ""el-mahalla el-kubra"",
+    ""D"": ""industrial zone""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-98_8,EG-DIA-98,GreaterCairo,"Which cities or regions are known for their import and export activities in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. attaba
+B. el-mahalla el-kubra
+C. industrial zone
+D. mansheya
+
+Answer:","{
+    ""A"": ""attaba"",
+    ""B"": ""el-mahalla el-kubra"",
+    ""C"": ""industrial zone"",
+    ""D"": ""mansheya""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-98_9,EG-DIA-98,GreaterCairo,"Which cities or regions are known for their import and export activities in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. attaba
+C. industrial zone
+D. mansheya
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""attaba"",
+    ""C"": ""industrial zone"",
+    ""D"": ""mansheya""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-99_0,EG-DIA-99,GreaterCairo,"What is the most common way for family members to communicate remotely in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. citizen band radio
+B. fax
+C. internet
+D. postal mail
+
+Answer:","{
+    ""A"": ""citizen band radio"",
+    ""B"": ""fax"",
+    ""C"": ""internet"",
+    ""D"": ""postal mail""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-100_0,EG-DIA-100,GreaterCairo,"What form of accommodation is typically booked for family trips in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apartment
+B. campgrounds
+C. chalet
+D. hotels
+
+Answer:","{
+    ""A"": ""apartment"",
+    ""B"": ""campgrounds"",
+    ""C"": ""chalet"",
+    ""D"": ""hotels""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-103_0,EG-DIA-103,GreaterCairo,"What types of accommodation do university students in Greater Cairo typically live in? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. capsule hotels
+B. co-living pods
+C. serviced apartments
+D. university housing
+
+Answer:","{
+    ""A"": ""capsule hotels"",
+    ""B"": ""co-living pods"",
+    ""C"": ""serviced apartments"",
+    ""D"": ""university housing""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-104_0,EG-DIA-104,GreaterCairo,"During which holidays do people typically visit religious sites (mosque, churches, etc.) in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. diwali
+B. eid al-adha
+C. feast of the virgin mary
+D. hanukkah
+
+Answer:","{
+    ""A"": ""diwali"",
+    ""B"": ""eid al-adha"",
+    ""C"": ""feast of the virgin mary"",
+    ""D"": ""hanukkah""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-104_1,EG-DIA-104,GreaterCairo,"During which holidays do people typically visit religious sites (mosque, churches, etc.) in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. diwali
+B. eid al-fitr
+C. feast of the virgin mary
+D. hanukkah
+
+Answer:","{
+    ""A"": ""diwali"",
+    ""B"": ""eid al-fitr"",
+    ""C"": ""feast of the virgin mary"",
+    ""D"": ""hanukkah""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-106_0,EG-DIA-106,GreaterCairo,"At what time do weddings typically start in Greater Cairo? (Provide in HH:MM format  (e.g., 06:00PM, 09:00AM).) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 01:00pm
+B. 04:30pm
+C. 08:00PM
+D. 10:00am
+
+Answer:","{
+    ""A"": ""01:00pm"",
+    ""B"": ""04:30pm"",
+    ""C"": ""08:00PM"",
+    ""D"": ""10:00am""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-106_1,EG-DIA-106,GreaterCairo,"At what time do weddings typically start in Greater Cairo? (Provide in HH:MM format  (e.g., 06:00PM, 09:00AM).) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 01:00pm
+B. 04:30pm
+C. 07:00 PM
+D. 10:00am
+
+Answer:","{
+    ""A"": ""01:00pm"",
+    ""B"": ""04:30pm"",
+    ""C"": ""07:00 PM"",
+    ""D"": ""10:00am""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-107_0,EG-DIA-107,GreaterCairo,"Which city in Greater Cairo hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. cairo
+D. el-raml station
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""cairo"",
+    ""D"": ""el-raml station""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-107_1,EG-DIA-107,GreaterCairo,"Which city in Greater Cairo hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. cairo
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""cairo"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-107_2,EG-DIA-107,GreaterCairo,"Which city in Greater Cairo hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. cairo
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""cairo"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-107_3,EG-DIA-107,GreaterCairo,"Which city in Greater Cairo hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. el-raml station
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""el-raml station"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-107_4,EG-DIA-107,GreaterCairo,"Which city in Greater Cairo hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. el-raml station
+D. port said
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""el-raml station"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-107_5,EG-DIA-107,GreaterCairo,"Which city in Greater Cairo hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-107_6,EG-DIA-107,GreaterCairo,"Which city in Greater Cairo hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. cairo
+C. el-raml station
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""cairo"",
+    ""C"": ""el-raml station"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-107_7,EG-DIA-107,GreaterCairo,"Which city in Greater Cairo hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. cairo
+C. el-raml station
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""cairo"",
+    ""C"": ""el-raml station"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-107_8,EG-DIA-107,GreaterCairo,"Which city in Greater Cairo hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. cairo
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""cairo"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-107_9,EG-DIA-107,GreaterCairo,"Which city in Greater Cairo hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cairo
+B. el-raml station
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""cairo"",
+    ""B"": ""el-raml station"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-108_0,EG-DIA-108,GreaterCairo,"What is the most popular chip/crisp flavour in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cheese
+B. cheese and onion
+C. chilli and lime
+D. kebab
+
+Answer:","{
+    ""A"": ""cheese"",
+    ""B"": ""cheese and onion"",
+    ""C"": ""chilli and lime"",
+    ""D"": ""kebab""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",C
+EG-DIA-109_0,EG-DIA-109,GreaterCairo,"Which food is a cost-effective and quick meal option in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hawawshi
+B. kebda iskandarani
+C. koshari
+D. taameya
+
+Answer:","{
+    ""A"": ""hawawshi"",
+    ""B"": ""kebda iskandarani"",
+    ""C"": ""koshari"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-109_1,EG-DIA-109,GreaterCairo,"Which food is a cost-effective and quick meal option in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ful
+B. hawawshi
+C. kebda iskandarani
+D. koshari
+
+Answer:","{
+    ""A"": ""ful"",
+    ""B"": ""hawawshi"",
+    ""C"": ""kebda iskandarani"",
+    ""D"": ""koshari""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-110_0,EG-DIA-110,GreaterCairo,"What is the most popular chocolate brand in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. corona
+B. galaxy
+C. kinder
+D. moro
+
+Answer:","{
+    ""A"": ""corona"",
+    ""B"": ""galaxy"",
+    ""C"": ""kinder"",
+    ""D"": ""moro""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-111_0,EG-DIA-111,GreaterCairo,"What is the most eaten cheese in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cheddar
+B. cheddar
+C. edam cheese
+D. gouda
+
+Answer:","{
+    ""A"": ""cheddar"",
+    ""B"": ""cheddar"",
+    ""C"": ""edam cheese"",
+    ""D"": ""gouda""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-111_1,EG-DIA-111,GreaterCairo,"What is the most eaten cheese in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cheddar
+B. cheddar
+C. gouda
+D. white cheese
+
+Answer:","{
+    ""A"": ""cheddar"",
+    ""B"": ""cheddar"",
+    ""C"": ""gouda"",
+    ""D"": ""white cheese""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-112_0,EG-DIA-112,GreaterCairo,"What is the most disliked vegetable in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-khubiza
+B. okra
+C. spinach
+D. zucchini
+
+Answer:","{
+    ""A"": ""el-khubiza"",
+    ""B"": ""okra"",
+    ""C"": ""spinach"",
+    ""D"": ""zucchini""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-113_0,EG-DIA-113,GreaterCairo,"What are the most common cheering tools used by sports fans in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. foam finger
+B. megaphone
+C. tabla
+D. vuvuzela
+
+Answer:","{
+    ""A"": ""foam finger"",
+    ""B"": ""megaphone"",
+    ""C"": ""tabla"",
+    ""D"": ""vuvuzela""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-114_0,EG-DIA-114,GreaterCairo,"Who is the most well known and successful entrepreneur in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ahmed abu hashima
+B. hassan rateb
+C. ibrahim al-arjani
+D. mohamed el-sewedy
+
+Answer:","{
+    ""A"": ""ahmed abu hashima"",
+    ""B"": ""hassan rateb"",
+    ""C"": ""ibrahim al-arjani"",
+    ""D"": ""mohamed el-sewedy""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-115_0,EG-DIA-115,GreaterCairo,"What can typically be found in the back garden of houses in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. gazebo
+B. mint
+C. swimming pool
+D. swing
+
+Answer:","{
+    ""A"": ""gazebo"",
+    ""B"": ""mint"",
+    ""C"": ""swimming pool"",
+    ""D"": ""swing""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-116_0,EG-DIA-116,GreaterCairo,"What is the name of the most famous family in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. el-fawakhreya
+C. el-sewedy
+D. sawiris
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""el-fawakhreya"",
+    ""C"": ""el-sewedy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-116_1,EG-DIA-116,GreaterCairo,"What is the name of the most famous family in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. amara
+C. el-fawakhreya
+D. sawiris
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""amara"",
+    ""C"": ""el-fawakhreya"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-116_2,EG-DIA-116,GreaterCairo,"What is the name of the most famous family in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. el-fawakhreya
+C. el-gendy
+D. sawiris
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""el-fawakhreya"",
+    ""C"": ""el-gendy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-116_3,EG-DIA-116,GreaterCairo,"What is the name of the most famous family in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. amara
+C. el-sewedy
+D. sawiris
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""amara"",
+    ""C"": ""el-sewedy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-116_4,EG-DIA-116,GreaterCairo,"What is the name of the most famous family in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. el-gendy
+C. el-sewedy
+D. sawiris
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""el-gendy"",
+    ""C"": ""el-sewedy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-116_5,EG-DIA-116,GreaterCairo,"What is the name of the most famous family in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. amara
+C. el-gendy
+D. sawiris
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""amara"",
+    ""C"": ""el-gendy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-116_6,EG-DIA-116,GreaterCairo,"What is the name of the most famous family in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. amara
+C. el-fawakhreya
+D. el-sewedy
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""amara"",
+    ""C"": ""el-fawakhreya"",
+    ""D"": ""el-sewedy""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-116_7,EG-DIA-116,GreaterCairo,"What is the name of the most famous family in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. el-fawakhreya
+C. el-gendy
+D. el-sewedy
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""el-fawakhreya"",
+    ""C"": ""el-gendy"",
+    ""D"": ""el-sewedy""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-116_8,EG-DIA-116,GreaterCairo,"What is the name of the most famous family in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. amara
+C. el-fawakhreya
+D. el-gendy
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""amara"",
+    ""C"": ""el-fawakhreya"",
+    ""D"": ""el-gendy""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-116_9,EG-DIA-116,GreaterCairo,"What is the name of the most famous family in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. amara
+C. el-gendy
+D. el-sewedy
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""amara"",
+    ""C"": ""el-gendy"",
+    ""D"": ""el-sewedy""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-118_0,EG-DIA-118,GreaterCairo,"What repercussions are there for bad behavior in schools in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. community service
+B. detention
+C. suspension
+D. warning
+
+Answer:","{
+    ""A"": ""community service"",
+    ""B"": ""detention"",
+    ""C"": ""suspension"",
+    ""D"": ""warning""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-119_0,EG-DIA-119,GreaterCairo,"Which writers are commonly studied in literature class in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ahmed shawqi
+B. gabriel garcía márquez
+C. hafez ibrahim
+D. khaled hosseini
+
+Answer:","{
+    ""A"": ""ahmed shawqi"",
+    ""B"": ""gabriel garcía márquez"",
+    ""C"": ""hafez ibrahim"",
+    ""D"": ""khaled hosseini""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-119_1,EG-DIA-119,GreaterCairo,"Which writers are commonly studied in literature class in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. gabriel garcía márquez
+B. hafez ibrahim
+C. khaled hosseini
+D. taha hussein
+
+Answer:","{
+    ""A"": ""gabriel garcía márquez"",
+    ""B"": ""hafez ibrahim"",
+    ""C"": ""khaled hosseini"",
+    ""D"": ""taha hussein""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-120_0,EG-DIA-120,GreaterCairo,"Which online resource do students usually use to study in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coursera
+B. educational platform
+C. egyptian knowledge bank
+D. khan academy
+
+Answer:","{
+    ""A"": ""coursera"",
+    ""B"": ""educational platform"",
+    ""C"": ""egyptian knowledge bank"",
+    ""D"": ""khan academy""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-121_0,EG-DIA-121,GreaterCairo,"What is the most famous historic landmark in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. philae temple
+C. sphinx
+D. suez canal
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""philae temple"",
+    ""C"": ""sphinx"",
+    ""D"": ""suez canal""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-121_1,EG-DIA-121,GreaterCairo,"What is the most famous historic landmark in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. grand egyptian museum
+C. philae temple
+D. suez canal
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""grand egyptian museum"",
+    ""C"": ""philae temple"",
+    ""D"": ""suez canal""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-122_0,EG-DIA-122,GreaterCairo,"What is the most popular food in Greater Cairo among young people? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. lasima
+B. pizza
+C. shawarma
+D. sushi
+
+Answer:","{
+    ""A"": ""lasima"",
+    ""B"": ""pizza"",
+    ""C"": ""shawarma"",
+    ""D"": ""sushi""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-123_0,EG-DIA-123,GreaterCairo,"What is the most popular traditional dessert in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. balh-el-sham
+C. kunafa
+D. om ali with nuts
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""balh-el-sham"",
+    ""C"": ""kunafa"",
+    ""D"": ""om ali with nuts""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-124_0,EG-DIA-124,GreaterCairo,"Which job is considered underpaid in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. agriculture
+B. lawyer
+C. manual worker
+D. pharmacist
+
+Answer:","{
+    ""A"": ""agriculture"",
+    ""B"": ""lawyer"",
+    ""C"": ""manual worker"",
+    ""D"": ""pharmacist""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-126_0,EG-DIA-126,GreaterCairo,"What drink is usually offered at weddings in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beer
+B. pepsi
+C. sharbat
+D. sprite
+
+Answer:","{
+    ""A"": ""beer"",
+    ""B"": ""pepsi"",
+    ""C"": ""sharbat"",
+    ""D"": ""sprite""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-128_0,EG-DIA-128,GreaterCairo,"What food is typically disliked by children but enjoyed by the elderly in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-khubiza
+B. lentils
+C. wedge clams
+D. zucchini
+
+Answer:","{
+    ""A"": ""el-khubiza"",
+    ""B"": ""lentils"",
+    ""C"": ""wedge clams"",
+    ""D"": ""zucchini""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-129_0,EG-DIA-129,GreaterCairo,"Which is the most popular vegetable in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cucumber
+B. eggplant
+C. peas
+D. potato
+
+Answer:","{
+    ""A"": ""cucumber"",
+    ""B"": ""eggplant"",
+    ""C"": ""peas"",
+    ""D"": ""potato""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-130_0,EG-DIA-130,GreaterCairo,"What is the most popular wedding venue in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hollywood
+B. nile hall
+C. qamr el-zaman
+D. san stefano
+
+Answer:","{
+    ""A"": ""hollywood"",
+    ""B"": ""nile hall"",
+    ""C"": ""qamr el-zaman"",
+    ""D"": ""san stefano""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-131_0,EG-DIA-131,GreaterCairo,"What university in Greater Cairo is popular because of its engineering major? (Provide the official name.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria university
+B. cairo university
+C. helwan university
+D. mansoura university
+
+Answer:","{
+    ""A"": ""alexandria university"",
+    ""B"": ""cairo university"",
+    ""C"": ""helwan university"",
+    ""D"": ""mansoura university""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-132_0,EG-DIA-132,GreaterCairo,"What university in Greater Cairo is popular because of its school of medicine? (Provide the official name.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria university
+B. assiut university
+C. cairo university
+D. mansoura university
+
+Answer:","{
+    ""A"": ""alexandria university"",
+    ""B"": ""assiut university"",
+    ""C"": ""cairo university"",
+    ""D"": ""mansoura university""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-133_0,EG-DIA-133,GreaterCairo,"What is the most popular payment method in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. instapay
+B. m-pesa
+C. paypal
+D. visa
+
+Answer:","{
+    ""A"": ""instapay"",
+    ""B"": ""m-pesa"",
+    ""C"": ""paypal"",
+    ""D"": ""visa""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-135_0,EG-DIA-135,GreaterCairo,"What is the most popular children's song in Greater Cairo that families sing together? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baba fein
+B. baby Shark
+C. eid songs
+D. twinkle, twinkle, little star
+
+Answer:","{
+    ""A"": ""baba fein"",
+    ""B"": ""baby Shark"",
+    ""C"": ""eid songs"",
+    ""D"": ""twinkle, twinkle, little star""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-136_0,EG-DIA-136,GreaterCairo,"Which toys are most popular among boys in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bike
+B. lego sets
+C. motorcycles
+D. water gun
+
+Answer:","{
+    ""A"": ""bike"",
+    ""B"": ""lego sets"",
+    ""C"": ""motorcycles"",
+    ""D"": ""water gun""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-137_0,EG-DIA-137,GreaterCairo,"Which toys are most popular among girls in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dolls
+B. lego sets
+C. play kitchen
+D. remote-control cars
+
+Answer:","{
+    ""A"": ""dolls"",
+    ""B"": ""lego sets"",
+    ""C"": ""play kitchen"",
+    ""D"": ""remote-control cars""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-138_0,EG-DIA-138,GreaterCairo,"What is the most popular folk tale in Greater Cairo that is typically told to children? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ali baba and the forty thieves
+B. el-naddaha
+C. guha
+D. sinbad the sailor
+
+Answer:","{
+    ""A"": ""ali baba and the forty thieves"",
+    ""B"": ""el-naddaha"",
+    ""C"": ""guha"",
+    ""D"": ""sinbad the sailor""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-139_0,EG-DIA-139,GreaterCairo,"Where do university students in Greater Cairo tend to work part-time the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bank branches
+B. hospital pharmacies
+C. online
+D. tourism
+
+Answer:","{
+    ""A"": ""bank branches"",
+    ""B"": ""hospital pharmacies"",
+    ""C"": ""online"",
+    ""D"": ""tourism""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-140_0,EG-DIA-140,GreaterCairo,"What are the most common activities people do as a side job in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cafeterias
+B. food delivery
+C. gym
+D. selling online
+
+Answer:","{
+    ""A"": ""cafeterias"",
+    ""B"": ""food delivery"",
+    ""C"": ""gym"",
+    ""D"": ""selling online""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-141_0,EG-DIA-141,GreaterCairo,"What is the most popular stew in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bamia
+B. molokhia
+C. pasta stew
+D. shrimp
+
+Answer:","{
+    ""A"": ""bamia"",
+    ""B"": ""molokhia"",
+    ""C"": ""pasta stew"",
+    ""D"": ""shrimp""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-141_1,EG-DIA-141,GreaterCairo,"What is the most popular stew in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bamia
+B. cow trotter stew
+C. molokhia
+D. shrimp
+
+Answer:","{
+    ""A"": ""bamia"",
+    ""B"": ""cow trotter stew"",
+    ""C"": ""molokhia"",
+    ""D"": ""shrimp""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-142_0,EG-DIA-142,GreaterCairo,"What is the most common spice/herb used in dishes from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. black pepper
+B. cumin
+C. salt
+D. za'atar
+
+Answer:","{
+    ""A"": ""black pepper"",
+    ""B"": ""cumin"",
+    ""C"": ""salt"",
+    ""D"": ""za'atar""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-143_0,EG-DIA-143,GreaterCairo,"Where do families gather to pray together in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. at the church
+B. at the mosque
+C. at the synagogue
+D. at the temple
+
+Answer:","{
+    ""A"": ""at the church"",
+    ""B"": ""at the mosque"",
+    ""C"": ""at the synagogue"",
+    ""D"": ""at the temple""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-146_0,EG-DIA-146,GreaterCairo,"How many generations typically live together in a household in Greater Cairo? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 1
+B. 3
+C. 4
+D. 5
+
+Answer:","{
+    ""A"": ""1"",
+    ""B"": ""3"",
+    ""C"": ""4"",
+    ""D"": ""5""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-147_0,EG-DIA-147,GreaterCairo,"What is a popular activity to do in parks in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. birdwatching
+B. cycling
+C. football
+D. picnicking
+
+Answer:","{
+    ""A"": ""birdwatching"",
+    ""B"": ""cycling"",
+    ""C"": ""football"",
+    ""D"": ""picnicking""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-148_0,EG-DIA-148,GreaterCairo,"What is the popular card game played during social gatherings in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chess
+B. dominoes
+C. monopoly
+D. uno
+
+Answer:","{
+    ""A"": ""chess"",
+    ""B"": ""dominoes"",
+    ""C"": ""monopoly"",
+    ""D"": ""uno""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-149_0,EG-DIA-149,GreaterCairo,"Which agricultural product is exported most often in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. olives
+C. strawberry
+D. wheat
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""olives"",
+    ""C"": ""strawberry"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-149_1,EG-DIA-149,GreaterCairo,"Which agricultural product is exported most often in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. mango
+C. olives
+D. wheat
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""mango"",
+    ""C"": ""olives"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-149_2,EG-DIA-149,GreaterCairo,"Which agricultural product is exported most often in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. mango
+C. strawberry
+D. wheat
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""mango"",
+    ""C"": ""strawberry"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-149_3,EG-DIA-149,GreaterCairo,"Which agricultural product is exported most often in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. olives
+C. strawberry
+D. wheat
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""olives"",
+    ""C"": ""strawberry"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-150_0,EG-DIA-150,GreaterCairo,"What are the most popular sweets in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. jallab
+C. maamoul
+D. traditional eastern sweets
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""jallab"",
+    ""C"": ""maamoul"",
+    ""D"": ""traditional eastern sweets""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-151_0,EG-DIA-151,GreaterCairo,"What is the average education level for people in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bachelor's degree
+B. illiteracy
+C. secondary general education
+D. vocational education
+
+Answer:","{
+    ""A"": ""bachelor's degree"",
+    ""B"": ""illiteracy"",
+    ""C"": ""secondary general education"",
+    ""D"": ""vocational education""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-152_0,EG-DIA-152,GreaterCairo,"What is the most popular beverage among children in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hot chocolate
+B. milk
+C. orange soda
+D. sting
+
+Answer:","{
+    ""A"": ""hot chocolate"",
+    ""B"": ""milk"",
+    ""C"": ""orange soda"",
+    ""D"": ""sting""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-153_0,EG-DIA-153,GreaterCairo,"What snacks are usually sold in front of schools in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beef jerky
+B. croissants
+C. instant noodles
+D. sushi
+
+Answer:","{
+    ""A"": ""beef jerky"",
+    ""B"": ""croissants"",
+    ""C"": ""instant noodles"",
+    ""D"": ""sushi""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-153_1,EG-DIA-153,GreaterCairo,"What snacks are usually sold in front of schools in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beef jerky
+B. chips
+C. croissants
+D. sushi
+
+Answer:","{
+    ""A"": ""beef jerky"",
+    ""B"": ""chips"",
+    ""C"": ""croissants"",
+    ""D"": ""sushi""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-154_0,EG-DIA-154,GreaterCairo,"What oil is usually used for cooking in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. canola oil
+B. corn oil
+C. olive
+D. olive oil
+
+Answer:","{
+    ""A"": ""canola oil"",
+    ""B"": ""corn oil"",
+    ""C"": ""olive"",
+    ""D"": ""olive oil""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-156_0,EG-DIA-156,GreaterCairo,"What is the most common livestock raised in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. buffalo
+B. camel
+C. chicken
+D. cow
+
+Answer:","{
+    ""A"": ""buffalo"",
+    ""B"": ""camel"",
+    ""C"": ""chicken"",
+    ""D"": ""cow""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-157_0,EG-DIA-157,GreaterCairo,"What animals are commonly used for agriculture in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camel
+B. cow
+C. donkey
+D. horse
+
+Answer:","{
+    ""A"": ""camel"",
+    ""B"": ""cow"",
+    ""C"": ""donkey"",
+    ""D"": ""horse""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-158_0,EG-DIA-158,GreaterCairo,"What do farmers in Greater Cairo typically wear to protect themselves from the heat whilst farming? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. keffiyeh
+B. scarf
+C. taqiyah
+D. turban
+
+Answer:","{
+    ""A"": ""keffiyeh"",
+    ""B"": ""scarf"",
+    ""C"": ""taqiyah"",
+    ""D"": ""turban""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-158_1,EG-DIA-158,GreaterCairo,"What do farmers in Greater Cairo typically wear to protect themselves from the heat whilst farming? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hat
+B. keffiyeh
+C. taqiyah
+D. turban
+
+Answer:","{
+    ""A"": ""hat"",
+    ""B"": ""keffiyeh"",
+    ""C"": ""taqiyah"",
+    ""D"": ""turban""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-159_0,EG-DIA-159,GreaterCairo,"What gifts do parents generally give to their children for their birthdays in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. board game
+B. clothing
+C. mobile
+D. toys
+
+Answer:","{
+    ""A"": ""board game"",
+    ""B"": ""clothing"",
+    ""C"": ""mobile"",
+    ""D"": ""toys""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-160_0,EG-DIA-160,GreaterCairo,"What is usually given to the children during Eid in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chocolate easter eggs
+B. christmas stockings
+C. halloween candy
+D. money
+
+Answer:","{
+    ""A"": ""chocolate easter eggs"",
+    ""B"": ""christmas stockings"",
+    ""C"": ""halloween candy"",
+    ""D"": ""money""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-161_0,EG-DIA-161,GreaterCairo,"What food is usually served at weddings in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. feteer meshaltet
+C. koshari
+D. molokhia
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""feteer meshaltet"",
+    ""C"": ""koshari"",
+    ""D"": ""molokhia""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-162_0,EG-DIA-162,GreaterCairo,"What is the most famous government building in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. municipal council
+B. palace of westminster
+C. police station
+D. the white house
+
+Answer:","{
+    ""A"": ""municipal council"",
+    ""B"": ""palace of westminster"",
+    ""C"": ""police station"",
+    ""D"": ""the white house""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-162_1,EG-DIA-162,GreaterCairo,"What is the most famous government building in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. governorate building
+B. palace of westminster
+C. police station
+D. the white house
+
+Answer:","{
+    ""A"": ""governorate building"",
+    ""B"": ""palace of westminster"",
+    ""C"": ""police station"",
+    ""D"": ""the white house""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-163_0,EG-DIA-163,GreaterCairo,"What is the top university in Greater Cairo? (Provide the official name.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria university
+B. asyut
+C. cairo university
+D. el-mansoura
+
+Answer:","{
+    ""A"": ""alexandria university"",
+    ""B"": ""asyut"",
+    ""C"": ""cairo university"",
+    ""D"": ""el-mansoura""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-165_0,EG-DIA-165,GreaterCairo,"Which city is the main destination for job seekers in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. borg el-arab
+D. cairo
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""borg el-arab"",
+    ""D"": ""cairo""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-165_1,EG-DIA-165,GreaterCairo,"Which city is the main destination for job seekers in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. cairo
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""cairo"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-165_2,EG-DIA-165,GreaterCairo,"Which city is the main destination for job seekers in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. cairo
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""cairo"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-165_3,EG-DIA-165,GreaterCairo,"Which city is the main destination for job seekers in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. borg el-arab
+C. cairo
+D. port said
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""borg el-arab"",
+    ""C"": ""cairo"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-165_4,EG-DIA-165,GreaterCairo,"Which city is the main destination for job seekers in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. borg el-arab
+C. cairo
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""borg el-arab"",
+    ""C"": ""cairo"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-165_5,EG-DIA-165,GreaterCairo,"Which city is the main destination for job seekers in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-165_6,EG-DIA-165,GreaterCairo,"Which city is the main destination for job seekers in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. borg el-arab
+C. cairo
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""borg el-arab"",
+    ""C"": ""cairo"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-165_7,EG-DIA-165,GreaterCairo,"Which city is the main destination for job seekers in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. borg el-arab
+C. cairo
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""borg el-arab"",
+    ""C"": ""cairo"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-165_8,EG-DIA-165,GreaterCairo,"Which city is the main destination for job seekers in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. cairo
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""cairo"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-165_9,EG-DIA-165,GreaterCairo,"Which city is the main destination for job seekers in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. borg el-arab
+B. cairo
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""borg el-arab"",
+    ""B"": ""cairo"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-167_0,EG-DIA-167,GreaterCairo,"What is the food that is most divisive (either love or hate) in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. lasima
+C. qolqas
+D. wedge clams
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""lasima"",
+    ""C"": ""qolqas"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-167_1,EG-DIA-167,GreaterCairo,"What is the food that is most divisive (either love or hate) in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. lasima
+C. wedge clams
+D. zucchini
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""lasima"",
+    ""C"": ""wedge clams"",
+    ""D"": ""zucchini""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-168_0,EG-DIA-168,GreaterCairo,"What is the most popular takeaway food in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish and chips
+B. pizza
+C. savory crepe
+D. sushi
+
+Answer:","{
+    ""A"": ""fish and chips"",
+    ""B"": ""pizza"",
+    ""C"": ""savory crepe"",
+    ""D"": ""sushi""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-169_0,EG-DIA-169,GreaterCairo,"What are popular snacks in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beef jerky
+B. peanuts
+C. pretzels
+D. roasted seeds
+
+Answer:","{
+    ""A"": ""beef jerky"",
+    ""B"": ""peanuts"",
+    ""C"": ""pretzels"",
+    ""D"": ""roasted seeds""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-170_0,EG-DIA-170,GreaterCairo,"Who is the most popular sportperson in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hosni abd rabou
+B. karam gaber
+C. mahmoud el-khatib
+D. shikabala
+
+Answer:","{
+    ""A"": ""hosni abd rabou"",
+    ""B"": ""karam gaber"",
+    ""C"": ""mahmoud el-khatib"",
+    ""D"": ""shikabala""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-172_0,EG-DIA-172,GreaterCairo,"What is the most important industry in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. automobile manufacturing
+B. cement
+C. clothing
+D. food industry
+
+Answer:","{
+    ""A"": ""automobile manufacturing"",
+    ""B"": ""cement"",
+    ""C"": ""clothing"",
+    ""D"": ""food industry""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-174_0,EG-DIA-174,GreaterCairo,"What is a popular family game in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chess
+B. cricket
+C. football
+D. ice hockey
+
+Answer:","{
+    ""A"": ""chess"",
+    ""B"": ""cricket"",
+    ""C"": ""football"",
+    ""D"": ""ice hockey""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-175_0,EG-DIA-175,GreaterCairo,"What is Greater Cairo's most popular food for family meals on weekends? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fatta
+B. fish
+C. mahshi
+D. sushi
+
+Answer:","{
+    ""A"": ""fatta"",
+    ""B"": ""fish"",
+    ""C"": ""mahshi"",
+    ""D"": ""sushi""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-175_1,EG-DIA-175,GreaterCairo,"What is Greater Cairo's most popular food for family meals on weekends? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. fatta
+C. fish
+D. sushi
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""fatta"",
+    ""C"": ""fish"",
+    ""D"": ""sushi""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-176_0,EG-DIA-176,GreaterCairo,"Which subject is considered the most important for students in Greater Cairo Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. english
+B. history
+C. mathematics
+D. physical education
+
+Answer:","{
+    ""A"": ""english"",
+    ""B"": ""history"",
+    ""C"": ""mathematics"",
+    ""D"": ""physical education""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-177_0,EG-DIA-177,GreaterCairo,"What is a common public transport that people use to go to university in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cairo metro
+B. ferry
+C. microbus
+D. tram
+
+Answer:","{
+    ""A"": ""cairo metro"",
+    ""B"": ""ferry"",
+    ""C"": ""microbus"",
+    ""D"": ""tram""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-178_0,EG-DIA-178,GreaterCairo,"What is the most common morning drink in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coffee
+B. hot chocolate
+C. milk
+D. orange juice
+
+Answer:","{
+    ""A"": ""coffee"",
+    ""B"": ""hot chocolate"",
+    ""C"": ""milk"",
+    ""D"": ""orange juice""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-179_0,EG-DIA-179,GreaterCairo,"What is the most popular weekday evening family activity in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. on their phone
+B. play football
+C. sportsclub
+D. they watch movies
+
+Answer:","{
+    ""A"": ""on their phone"",
+    ""B"": ""play football"",
+    ""C"": ""sportsclub"",
+    ""D"": ""they watch movies""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-181_0,EG-DIA-181,GreaterCairo,"What is the most popular grab-and-go breakfast option in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bagel
+B. croissant
+C. sandwiches
+D. taameya
+
+Answer:","{
+    ""A"": ""bagel"",
+    ""B"": ""croissant"",
+    ""C"": ""sandwiches"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-181_1,EG-DIA-181,GreaterCairo,"What is the most popular grab-and-go breakfast option in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bagel
+B. croissant
+C. ful
+D. sandwiches
+
+Answer:","{
+    ""A"": ""bagel"",
+    ""B"": ""croissant"",
+    ""C"": ""ful"",
+    ""D"": ""sandwiches""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-182_0,EG-DIA-182,GreaterCairo,"What do people from Greater Cairo eat at the beach? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. grilled fish
+B. paella
+C. poutine
+D. sushi
+
+Answer:","{
+    ""A"": ""grilled fish"",
+    ""B"": ""paella"",
+    ""C"": ""poutine"",
+    ""D"": ""sushi""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-183_0,EG-DIA-183,GreaterCairo,"Where is the most popular tourist destination abroad for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. greece
+B. saudi arabia
+C. united arab emirates
+D. united arab emirates
+
+Answer:","{
+    ""A"": ""greece"",
+    ""B"": ""saudi arabia"",
+    ""C"": ""united arab emirates"",
+    ""D"": ""united arab emirates""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-183_1,EG-DIA-183,GreaterCairo,"Where is the most popular tourist destination abroad for people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. greece
+B. turkey
+C. united arab emirates
+D. united arab emirates
+
+Answer:","{
+    ""A"": ""greece"",
+    ""B"": ""turkey"",
+    ""C"": ""united arab emirates"",
+    ""D"": ""united arab emirates""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-184_0,EG-DIA-184,GreaterCairo,"What region in Greater Cairo has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. bilbeis
+C. country side
+D. rafah
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""bilbeis"",
+    ""C"": ""country side"",
+    ""D"": ""rafah""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-184_1,EG-DIA-184,GreaterCairo,"What region in Greater Cairo has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. country side
+C. rafah
+D. sohag
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""country side"",
+    ""C"": ""rafah"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-184_2,EG-DIA-184,GreaterCairo,"What region in Greater Cairo has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. country side
+C. rafah
+D. sahl el-tina
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""country side"",
+    ""C"": ""rafah"",
+    ""D"": ""sahl el-tina""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-184_3,EG-DIA-184,GreaterCairo,"What region in Greater Cairo has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. bilbeis
+C. rafah
+D. sohag
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""bilbeis"",
+    ""C"": ""rafah"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-184_4,EG-DIA-184,GreaterCairo,"What region in Greater Cairo has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. bilbeis
+C. rafah
+D. sahl el-tina
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""bilbeis"",
+    ""C"": ""rafah"",
+    ""D"": ""sahl el-tina""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-184_5,EG-DIA-184,GreaterCairo,"What region in Greater Cairo has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. rafah
+C. sahl el-tina
+D. sohag
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""rafah"",
+    ""C"": ""sahl el-tina"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-184_6,EG-DIA-184,GreaterCairo,"What region in Greater Cairo has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. bilbeis
+C. country side
+D. sohag
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""bilbeis"",
+    ""C"": ""country side"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-184_7,EG-DIA-184,GreaterCairo,"What region in Greater Cairo has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. bilbeis
+C. country side
+D. sahl el-tina
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""bilbeis"",
+    ""C"": ""country side"",
+    ""D"": ""sahl el-tina""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-184_8,EG-DIA-184,GreaterCairo,"What region in Greater Cairo has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. country side
+C. sahl el-tina
+D. sohag
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""country side"",
+    ""C"": ""sahl el-tina"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-184_9,EG-DIA-184,GreaterCairo,"What region in Greater Cairo has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. bilbeis
+C. sahl el-tina
+D. sohag
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""bilbeis"",
+    ""C"": ""sahl el-tina"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-185_0,EG-DIA-185,GreaterCairo,"What time do people usually have dinner in Greater Cairo? (Provide in HH:MM format (e.g., 06:00PM, 09:00AM).) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 07:00pm
+B. 09:00PM
+C. 10:00PM
+D. 11:00PM
+
+Answer:","{
+    ""A"": ""07:00pm"",
+    ""B"": ""09:00PM"",
+    ""C"": ""10:00PM"",
+    ""D"": ""11:00PM""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-186_0,EG-DIA-186,GreaterCairo,"Where do university students have lunch in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. at home
+B. public parks
+C. shopping malls
+D. sports clubs
+
+Answer:","{
+    ""A"": ""at home"",
+    ""B"": ""public parks"",
+    ""C"": ""shopping malls"",
+    ""D"": ""sports clubs""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-187_0,EG-DIA-187,GreaterCairo,"Which is the most important meal of the day to people from Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. breakfast
+B. brunch
+C. dinner
+D. lunch
+
+Answer:","{
+    ""A"": ""breakfast"",
+    ""B"": ""brunch"",
+    ""C"": ""dinner"",
+    ""D"": ""lunch""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-188_0,EG-DIA-188,GreaterCairo,"What do people especially spend their first salary on in Greater Cairo's society? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. debt repayment
+B. gift
+C. going out
+D. jewelry
+
+Answer:","{
+    ""A"": ""debt repayment"",
+    ""B"": ""gift"",
+    ""C"": ""going out"",
+    ""D"": ""jewelry""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-189_0,EG-DIA-189,GreaterCairo,"What is the second most popular sport in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. basketball
+B. camel racing
+C. football
+D. swimming
+
+Answer:","{
+    ""A"": ""basketball"",
+    ""B"": ""camel racing"",
+    ""C"": ""football"",
+    ""D"": ""swimming""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-189_1,EG-DIA-189,GreaterCairo,"What is the second most popular sport in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camel racing
+B. football
+C. squash
+D. swimming
+
+Answer:","{
+    ""A"": ""camel racing"",
+    ""B"": ""football"",
+    ""C"": ""squash"",
+    ""D"": ""swimming""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-189_2,EG-DIA-189,GreaterCairo,"What is the second most popular sport in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camel racing
+B. football
+C. karate
+D. swimming
+
+Answer:","{
+    ""A"": ""camel racing"",
+    ""B"": ""football"",
+    ""C"": ""karate"",
+    ""D"": ""swimming""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-190_0,EG-DIA-190,GreaterCairo,"Which occupation is most preferred among females in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. online
+B. secretary
+C. teaching
+D. tour guide
+
+Answer:","{
+    ""A"": ""online"",
+    ""B"": ""secretary"",
+    ""C"": ""teaching"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-191_0,EG-DIA-191,GreaterCairo,"Which occupation is most preferred among males in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. accountant
+B. government job
+C. realtor
+D. tour guide
+
+Answer:","{
+    ""A"": ""accountant"",
+    ""B"": ""government job"",
+    ""C"": ""realtor"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-191_1,EG-DIA-191,GreaterCairo,"Which occupation is most preferred among males in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. government job
+B. realtor
+C. self employed
+D. tour guide
+
+Answer:","{
+    ""A"": ""government job"",
+    ""B"": ""realtor"",
+    ""C"": ""self employed"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-191_2,EG-DIA-191,GreaterCairo,"Which occupation is most preferred among males in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. accountant
+B. government job
+C. realtor
+D. self employed
+
+Answer:","{
+    ""A"": ""accountant"",
+    ""B"": ""government job"",
+    ""C"": ""realtor"",
+    ""D"": ""self employed""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-191_3,EG-DIA-191,GreaterCairo,"Which occupation is most preferred among males in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. accountant
+B. government job
+C. self employed
+D. tour guide
+
+Answer:","{
+    ""A"": ""accountant"",
+    ""B"": ""government job"",
+    ""C"": ""self employed"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-191_4,EG-DIA-191,GreaterCairo,"Which occupation is most preferred among males in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. accountant
+B. business
+C. realtor
+D. tour guide
+
+Answer:","{
+    ""A"": ""accountant"",
+    ""B"": ""business"",
+    ""C"": ""realtor"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-191_5,EG-DIA-191,GreaterCairo,"Which occupation is most preferred among males in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. business
+B. realtor
+C. self employed
+D. tour guide
+
+Answer:","{
+    ""A"": ""business"",
+    ""B"": ""realtor"",
+    ""C"": ""self employed"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-191_6,EG-DIA-191,GreaterCairo,"Which occupation is most preferred among males in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. accountant
+B. business
+C. realtor
+D. self employed
+
+Answer:","{
+    ""A"": ""accountant"",
+    ""B"": ""business"",
+    ""C"": ""realtor"",
+    ""D"": ""self employed""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-191_7,EG-DIA-191,GreaterCairo,"Which occupation is most preferred among males in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. accountant
+B. business
+C. self employed
+D. tour guide
+
+Answer:","{
+    ""A"": ""accountant"",
+    ""B"": ""business"",
+    ""C"": ""self employed"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-192_0,EG-DIA-192,GreaterCairo,"Which city is the primary commercial hub in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. downtown cairo
+C. mansheya
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""downtown cairo"",
+    ""C"": ""mansheya"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-192_1,EG-DIA-192,GreaterCairo,"Which city is the primary commercial hub in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. downtown cairo
+D. mansheya
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""downtown cairo"",
+    ""D"": ""mansheya""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-192_2,EG-DIA-192,GreaterCairo,"Which city is the primary commercial hub in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. downtown cairo
+C. mansheya
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""downtown cairo"",
+    ""C"": ""mansheya"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-192_3,EG-DIA-192,GreaterCairo,"Which city is the primary commercial hub in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. downtown cairo
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""downtown cairo"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-192_4,EG-DIA-192,GreaterCairo,"Which city is the primary commercial hub in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. downtown cairo
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""downtown cairo"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-192_5,EG-DIA-192,GreaterCairo,"Which city is the primary commercial hub in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. downtown cairo
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""downtown cairo"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-192_6,EG-DIA-192,GreaterCairo,"Which city is the primary commercial hub in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. downtown cairo
+C. mansheya
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""downtown cairo"",
+    ""C"": ""mansheya"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-192_7,EG-DIA-192,GreaterCairo,"Which city is the primary commercial hub in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. downtown cairo
+B. mansheya
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""downtown cairo"",
+    ""B"": ""mansheya"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-192_8,EG-DIA-192,GreaterCairo,"Which city is the primary commercial hub in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. downtown cairo
+C. mansheya
+D. port said
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""downtown cairo"",
+    ""C"": ""mansheya"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-192_9,EG-DIA-192,GreaterCairo,"Which city is the primary commercial hub in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. downtown cairo
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""downtown cairo"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-193_0,EG-DIA-193,GreaterCairo,"What is the traditional dance in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. belly dance
+B. dabke
+C. dabke
+D. tahtib
+
+Answer:","{
+    ""A"": ""belly dance"",
+    ""B"": ""dabke"",
+    ""C"": ""dabke"",
+    ""D"": ""tahtib""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-194_0,EG-DIA-194,GreaterCairo,"What meal is most popular on the first day of Ramadan in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. duck
+C. koshari
+D. molokhia
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""duck"",
+    ""C"": ""koshari"",
+    ""D"": ""molokhia""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-195_0,EG-DIA-195,GreaterCairo,"What is the most common occupation in  Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. farming
+B. manual labor
+C. realtor
+D. work in tourism
+
+Answer:","{
+    ""A"": ""farming"",
+    ""B"": ""manual labor"",
+    ""C"": ""realtor"",
+    ""D"": ""work in tourism""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-195_1,EG-DIA-195,GreaterCairo,"What is the most common occupation in  Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. farming
+B. manual labor
+C. teaching
+D. work in tourism
+
+Answer:","{
+    ""A"": ""farming"",
+    ""B"": ""manual labor"",
+    ""C"": ""teaching"",
+    ""D"": ""work in tourism""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-195_2,EG-DIA-195,GreaterCairo,"What is the most common occupation in  Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. manual labor
+B. realtor
+C. teaching
+D. work in tourism
+
+Answer:","{
+    ""A"": ""manual labor"",
+    ""B"": ""realtor"",
+    ""C"": ""teaching"",
+    ""D"": ""work in tourism""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-195_3,EG-DIA-195,GreaterCairo,"What is the most common occupation in  Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. farming
+B. manual labor
+C. realtor
+D. teaching
+
+Answer:","{
+    ""A"": ""farming"",
+    ""B"": ""manual labor"",
+    ""C"": ""realtor"",
+    ""D"": ""teaching""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-196_0,EG-DIA-196,GreaterCairo,"What do families from Greater Cairo usually do when a baby is born? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aqiqa
+B. baby shower
+C. christening
+D. gender reveal party
+
+Answer:","{
+    ""A"": ""aqiqa"",
+    ""B"": ""baby shower"",
+    ""C"": ""christening"",
+    ""D"": ""gender reveal party""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-197_0,EG-DIA-197,GreaterCairo,"What do people from Greater Cairo bring with them while visiting an ill person? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chocolates
+B. flowers
+C. fruit
+D. juice
+
+Answer:","{
+    ""A"": ""chocolates"",
+    ""B"": ""flowers"",
+    ""C"": ""fruit"",
+    ""D"": ""juice""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-198_0,EG-DIA-198,GreaterCairo,"Which pastries/sweets are the most bought during Eid al Fitr in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. basbousa
+C. biscuits
+D. kunafa
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""basbousa"",
+    ""C"": ""biscuits"",
+    ""D"": ""kunafa""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-198_1,EG-DIA-198,GreaterCairo,"Which pastries/sweets are the most bought during Eid al Fitr in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. basbousa
+C. ka'ak
+D. kunafa
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""basbousa"",
+    ""C"": ""ka'ak"",
+    ""D"": ""kunafa""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-199_0,EG-DIA-199,GreaterCairo,"What do women from  Greater Cairo drink right after giving birth? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. anise tea
+B. fenugreek
+C. hibiscus tea
+D. sahlab
+
+Answer:","{
+    ""A"": ""anise tea"",
+    ""B"": ""fenugreek"",
+    ""C"": ""hibiscus tea"",
+    ""D"": ""sahlab""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-200_0,EG-DIA-200,GreaterCairo,"Which artist is the most played during weddings in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ahmed saad
+B. hakim
+C. rahma mohsen
+D. reda el-bahrawy
+
+Answer:","{
+    ""A"": ""ahmed saad"",
+    ""B"": ""hakim"",
+    ""C"": ""rahma mohsen"",
+    ""D"": ""reda el-bahrawy""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-200_1,EG-DIA-200,GreaterCairo,"Which artist is the most played during weddings in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ahmed saad
+B. amr diab
+C. hakim
+D. rahma mohsen
+
+Answer:","{
+    ""A"": ""ahmed saad"",
+    ""B"": ""amr diab"",
+    ""C"": ""hakim"",
+    ""D"": ""rahma mohsen""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-06_0,EG-DIA-06,GreaterCairo,"What is the most common ingredient used in Greater Cairo's diet? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. olive oil
+B. onion
+C. rice
+D. tomato
+
+Answer:","{
+    ""A"": ""olive oil"",
+    ""B"": ""onion"",
+    ""C"": ""rice"",
+    ""D"": ""tomato""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-06_1,EG-DIA-06,GreaterCairo,"What is the most common ingredient used in Greater Cairo's diet? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. olive oil
+B. onion
+C. rice
+D. salt
+
+Answer:","{
+    ""A"": ""olive oil"",
+    ""B"": ""onion"",
+    ""C"": ""rice"",
+    ""D"": ""salt""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-10_0,EG-DIA-10,GreaterCairo,"What vacation destination is commonly chosen for a families in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. hurghada
+C. sharm el sheikh
+D. the beach
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""hurghada"",
+    ""C"": ""sharm el sheikh"",
+    ""D"": ""the beach""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-11_0,EG-DIA-11,GreaterCairo,"What is the representative export item of Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. linseed
+C. mango
+D. petrol
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""linseed"",
+    ""C"": ""mango"",
+    ""D"": ""petrol""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-11_1,EG-DIA-11,GreaterCairo,"What is the representative export item of Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. mango
+C. petrol
+D. pharaonic costumes
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""mango"",
+    ""C"": ""petrol"",
+    ""D"": ""pharaonic costumes""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-11_2,EG-DIA-11,GreaterCairo,"What is the representative export item of Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. mango
+C. olive oil
+D. petrol
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""mango"",
+    ""C"": ""olive oil"",
+    ""D"": ""petrol""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-11_3,EG-DIA-11,GreaterCairo,"What is the representative export item of Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. linseed
+C. petrol
+D. pharaonic costumes
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""linseed"",
+    ""C"": ""petrol"",
+    ""D"": ""pharaonic costumes""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-11_4,EG-DIA-11,GreaterCairo,"What is the representative export item of Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. linseed
+C. olive oil
+D. petrol
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""linseed"",
+    ""C"": ""olive oil"",
+    ""D"": ""petrol""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-11_5,EG-DIA-11,GreaterCairo,"What is the representative export item of Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. olive oil
+C. petrol
+D. pharaonic costumes
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""olive oil"",
+    ""C"": ""petrol"",
+    ""D"": ""pharaonic costumes""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-11_6,EG-DIA-11,GreaterCairo,"What is the representative export item of Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. linseed
+B. mango
+C. petrol
+D. pharaonic costumes
+
+Answer:","{
+    ""A"": ""linseed"",
+    ""B"": ""mango"",
+    ""C"": ""petrol"",
+    ""D"": ""pharaonic costumes""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-11_7,EG-DIA-11,GreaterCairo,"What is the representative export item of Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. linseed
+B. mango
+C. olive oil
+D. petrol
+
+Answer:","{
+    ""A"": ""linseed"",
+    ""B"": ""mango"",
+    ""C"": ""olive oil"",
+    ""D"": ""petrol""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",D
+EG-DIA-11_8,EG-DIA-11,GreaterCairo,"What is the representative export item of Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. olive oil
+C. petrol
+D. pharaonic costumes
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""olive oil"",
+    ""C"": ""petrol"",
+    ""D"": ""pharaonic costumes""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-11_9,EG-DIA-11,GreaterCairo,"What is the representative export item of Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. linseed
+B. olive oil
+C. petrol
+D. pharaonic costumes
+
+Answer:","{
+    ""A"": ""linseed"",
+    ""B"": ""olive oil"",
+    ""C"": ""petrol"",
+    ""D"": ""pharaonic costumes""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-23_0,EG-DIA-23,GreaterCairo,"What do people eat for lunch during the working days in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. koshari
+B. pasta
+C. sandwiches
+D. shawarma
+
+Answer:","{
+    ""A"": ""koshari"",
+    ""B"": ""pasta"",
+    ""C"": ""sandwiches"",
+    ""D"": ""shawarma""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-23_1,EG-DIA-23,GreaterCairo,"What do people eat for lunch during the working days in Greater Cairo? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. breaded chicken sandwiches
+B. koshari
+C. pasta
+D. shawarma
+
+Answer:","{
+    ""A"": ""breaded chicken sandwiches"",
+    ""B"": ""koshari"",
+    ""C"": ""pasta"",
+    ""D"": ""shawarma""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",A

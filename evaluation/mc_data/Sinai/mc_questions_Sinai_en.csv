@@ -1,0 +1,6391 @@
+﻿MCQID,ID,country,prompt,choices,choice_countries,answer_idx
+EG-DIA-01_0,EG-DIA-01,Sinai,"What is a common snack for preschool kids in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chips
+B. popcorn
+C. pretzels
+D. sliced fruit
+
+Answer:","{
+    ""A"": ""chips"",
+    ""B"": ""popcorn"",
+    ""C"": ""pretzels"",
+    ""D"": ""sliced fruit""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-03_0,EG-DIA-03,Sinai,"At what age do kids start preschool in Sinai?(use arabic numerals) (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 3
+B. 3
+C. 4
+D. 5
+
+Answer:","{
+    ""A"": ""3"",
+    ""B"": ""3"",
+    ""C"": ""4"",
+    ""D"": ""5""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-04_0,EG-DIA-04,Sinai,"What do people do to celebrate Easter in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. going to the beach
+B. they attend midnight church services
+C. they bake hot cross buns
+D. they organize easter egg hunts for children
+
+Answer:","{
+    ""A"": ""going to the beach"",
+    ""B"": ""they attend midnight church services"",
+    ""C"": ""they bake hot cross buns"",
+    ""D"": ""they organize easter egg hunts for children""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-05_0,EG-DIA-05,Sinai,"What food is associated with Easter in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. ma'amoul
+C. mansaf
+D. salty fish
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""ma'amoul"",
+    ""C"": ""mansaf"",
+    ""D"": ""salty fish""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-07_0,EG-DIA-07,Sinai,"What do people from Sinai usually eat for dessert? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. basbousa
+B. kunafa
+C. mochi
+D. tiramisu
+
+Answer:","{
+    ""A"": ""basbousa"",
+    ""B"": ""kunafa"",
+    ""C"": ""mochi"",
+    ""D"": ""tiramisu""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-08_0,EG-DIA-08,Sinai,"Which is the most popular hot drink in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hot chocolate
+B. masala chai
+C. mate
+D. tea
+
+Answer:","{
+    ""A"": ""hot chocolate"",
+    ""B"": ""masala chai"",
+    ""C"": ""mate"",
+    ""D"": ""tea""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-09_0,EG-DIA-09,Sinai,"Which is the typical type of house for a family in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apartment
+B. farmhouse
+C. residential building
+D. villa
+
+Answer:","{
+    ""A"": ""apartment"",
+    ""B"": ""farmhouse"",
+    ""C"": ""residential building"",
+    ""D"": ""villa""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-12_0,EG-DIA-12,Sinai,"What is the common gift you give when visiting elderly parents in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chocolate
+B. flowers
+C. fruit
+D. traditional eastern sweets
+
+Answer:","{
+    ""A"": ""chocolate"",
+    ""B"": ""flowers"",
+    ""C"": ""fruit"",
+    ""D"": ""traditional eastern sweets""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-13_0,EG-DIA-13,Sinai,"How do elementary school students in Sinai go to school? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. by bicycle
+B. by school bus
+C. microbus
+D. on foot
+
+Answer:","{
+    ""A"": ""by bicycle"",
+    ""B"": ""by school bus"",
+    ""C"": ""microbus"",
+    ""D"": ""on foot""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-14_0,EG-DIA-14,Sinai,"Which region (within a city) in Sinai has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. el-arish
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""el-arish"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-14_1,EG-DIA-14,Sinai,"Which region (within a city) in Sinai has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cairo
+B. el-arish
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""cairo"",
+    ""B"": ""el-arish"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-14_2,EG-DIA-14,Sinai,"Which region (within a city) in Sinai has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cairo
+B. el-arish
+C. moharam bek
+D. tanta
+
+Answer:","{
+    ""A"": ""cairo"",
+    ""B"": ""el-arish"",
+    ""C"": ""moharam bek"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-14_3,EG-DIA-14,Sinai,"Which region (within a city) in Sinai has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. el-arish
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""el-arish"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-14_4,EG-DIA-14,Sinai,"Which region (within a city) in Sinai has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. el-arish
+C. moharam bek
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""el-arish"",
+    ""C"": ""moharam bek"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-14_5,EG-DIA-14,Sinai,"Which region (within a city) in Sinai has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-arish
+B. moharam bek
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""el-arish"",
+    ""B"": ""moharam bek"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-14_6,EG-DIA-14,Sinai,"Which region (within a city) in Sinai has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. el-arish
+D. port said
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""el-arish"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-14_7,EG-DIA-14,Sinai,"Which region (within a city) in Sinai has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. el-arish
+D. moharam bek
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""el-arish"",
+    ""D"": ""moharam bek""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-14_8,EG-DIA-14,Sinai,"Which region (within a city) in Sinai has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cairo
+B. el-arish
+C. moharam bek
+D. port said
+
+Answer:","{
+    ""A"": ""cairo"",
+    ""B"": ""el-arish"",
+    ""C"": ""moharam bek"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-14_9,EG-DIA-14,Sinai,"Which region (within a city) in Sinai has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. el-arish
+C. moharam bek
+D. port said
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""el-arish"",
+    ""C"": ""moharam bek"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-15_0,EG-DIA-15,Sinai,"What is the most popular sport played without a ball in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camel racing
+B. horse racing
+C. squash
+D. wrestling
+
+Answer:","{
+    ""A"": ""camel racing"",
+    ""B"": ""horse racing"",
+    ""C"": ""squash"",
+    ""D"": ""wrestling""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-15_1,EG-DIA-15,Sinai,"What is the most popular sport played without a ball in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. horse racing
+B. squash
+C. swimming
+D. wrestling
+
+Answer:","{
+    ""A"": ""horse racing"",
+    ""B"": ""squash"",
+    ""C"": ""swimming"",
+    ""D"": ""wrestling""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-16_0,EG-DIA-16,Sinai,"What soft drink do people in Sinai like to have? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 7 up
+B. coca-cola
+C. pepsi
+D. red bull
+
+Answer:","{
+    ""A"": ""7 up"",
+    ""B"": ""coca-cola"",
+    ""C"": ""pepsi"",
+    ""D"": ""red bull""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-17_0,EG-DIA-17,Sinai,"What kind of soup do people from Sinai like to have? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. clam chowder
+B. lentil soup
+C. minestrone
+D. tom yum
+
+Answer:","{
+    ""A"": ""clam chowder"",
+    ""B"": ""lentil soup"",
+    ""C"": ""minestrone"",
+    ""D"": ""tom yum""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-18_0,EG-DIA-18,Sinai,"What street food do people from Sinai like to eat? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. kebda iskandarani
+B. savory crepe
+C. sushi
+D. tacos
+
+Answer:","{
+    ""A"": ""kebda iskandarani"",
+    ""B"": ""savory crepe"",
+    ""C"": ""sushi"",
+    ""D"": ""tacos""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-18_1,EG-DIA-18,Sinai,"What street food do people from Sinai like to eat? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ful
+B. kebda iskandarani
+C. sushi
+D. tacos
+
+Answer:","{
+    ""A"": ""ful"",
+    ""B"": ""kebda iskandarani"",
+    ""C"": ""sushi"",
+    ""D"": ""tacos""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-19_0,EG-DIA-19,Sinai,"What kind of seafood do people from Sinai like to eat Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. grey mullet
+B. lobster
+C. salmon
+D. singari
+
+Answer:","{
+    ""A"": ""grey mullet"",
+    ""B"": ""lobster"",
+    ""C"": ""salmon"",
+    ""D"": ""singari""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-20_0,EG-DIA-20,Sinai,"What is the most commonly used public transport by people when travelling between cites in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. metro
+B. microbus
+C. train
+D. tram
+
+Answer:","{
+    ""A"": ""metro"",
+    ""B"": ""microbus"",
+    ""C"": ""train"",
+    ""D"": ""tram""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-22_0,EG-DIA-22,Sinai,"What is the common leisure activity that males in their 20s in Sinai engage in? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. browse the internet
+B. go to the cinema
+C. going to a cafe
+D. play football
+
+Answer:","{
+    ""A"": ""browse the internet"",
+    ""B"": ""go to the cinema"",
+    ""C"": ""going to a cafe"",
+    ""D"": ""play football""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-25_0,EG-DIA-25,Sinai,"What is the most common transportation that people take to get to work in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camels
+B. microbus
+C. public bus
+D. tuk tuk
+
+Answer:","{
+    ""A"": ""camels"",
+    ""B"": ""microbus"",
+    ""C"": ""public bus"",
+    ""D"": ""tuk tuk""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-26_0,EG-DIA-26,Sinai,"What food do the hosts usually prepare for the guests in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. macarona bechamel
+C. mahshi
+D. yellow rice
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""macarona bechamel"",
+    ""C"": ""mahshi"",
+    ""D"": ""yellow rice""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-26_1,EG-DIA-26,Sinai,"What food do the hosts usually prepare for the guests in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. fish
+C. macarona bechamel
+D. mahshi
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""fish"",
+    ""C"": ""macarona bechamel"",
+    ""D"": ""mahshi""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-27_0,EG-DIA-27,Sinai,"What is the usual drink in the breakfast in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coffee
+B. qahwa
+C. sahlab
+D. tea
+
+Answer:","{
+    ""A"": ""coffee"",
+    ""B"": ""qahwa"",
+    ""C"": ""sahlab"",
+    ""D"": ""tea""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-28_0,EG-DIA-28,Sinai,"What food is usually prepared for a family picnic in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. fish
+C. pizza
+D. sandwiches
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""fish"",
+    ""C"": ""pizza"",
+    ""D"": ""sandwiches""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-28_1,EG-DIA-28,Sinai,"What food is usually prepared for a family picnic in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. fish
+C. mahshi
+D. sandwiches
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""fish"",
+    ""C"": ""mahshi"",
+    ""D"": ""sandwiches""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-28_2,EG-DIA-28,Sinai,"What food is usually prepared for a family picnic in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. fish
+C. kofte
+D. sandwiches
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""fish"",
+    ""C"": ""kofte"",
+    ""D"": ""sandwiches""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-28_3,EG-DIA-28,Sinai,"What food is usually prepared for a family picnic in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. mahshi
+C. pizza
+D. sandwiches
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""mahshi"",
+    ""C"": ""pizza"",
+    ""D"": ""sandwiches""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-28_4,EG-DIA-28,Sinai,"What food is usually prepared for a family picnic in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. kofte
+C. pizza
+D. sandwiches
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""kofte"",
+    ""C"": ""pizza"",
+    ""D"": ""sandwiches""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-28_5,EG-DIA-28,Sinai,"What food is usually prepared for a family picnic in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. kofte
+C. mahshi
+D. sandwiches
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""kofte"",
+    ""C"": ""mahshi"",
+    ""D"": ""sandwiches""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-28_6,EG-DIA-28,Sinai,"What food is usually prepared for a family picnic in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. fish
+C. mahshi
+D. pizza
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""fish"",
+    ""C"": ""mahshi"",
+    ""D"": ""pizza""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-28_7,EG-DIA-28,Sinai,"What food is usually prepared for a family picnic in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. fish
+C. kofte
+D. pizza
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""fish"",
+    ""C"": ""kofte"",
+    ""D"": ""pizza""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-28_8,EG-DIA-28,Sinai,"What food is usually prepared for a family picnic in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. fish
+C. kofte
+D. mahshi
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""fish"",
+    ""C"": ""kofte"",
+    ""D"": ""mahshi""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-28_9,EG-DIA-28,Sinai,"What food is usually prepared for a family picnic in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. kofte
+C. mahshi
+D. pizza
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""kofte"",
+    ""C"": ""mahshi"",
+    ""D"": ""pizza""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-29_0,EG-DIA-29,Sinai,"Which food from Sinai is considered disgusting by the rest of the world? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. griled/fried organ meat
+C. lasima
+D. wedge clams
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""griled/fried organ meat"",
+    ""C"": ""lasima"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-29_1,EG-DIA-29,Sinai,"Which food from Sinai is considered disgusting by the rest of the world? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cow trotter
+B. el-meluah
+C. griled/fried organ meat
+D. lasima
+
+Answer:","{
+    ""A"": ""cow trotter"",
+    ""B"": ""el-meluah"",
+    ""C"": ""griled/fried organ meat"",
+    ""D"": ""lasima""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-29_2,EG-DIA-29,Sinai,"Which food from Sinai is considered disgusting by the rest of the world? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cow trotter
+B. griled/fried organ meat
+C. lasima
+D. wedge clams
+
+Answer:","{
+    ""A"": ""cow trotter"",
+    ""B"": ""griled/fried organ meat"",
+    ""C"": ""lasima"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-29_3,EG-DIA-29,Sinai,"Which food from Sinai is considered disgusting by the rest of the world? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cow trotter
+B. el-meluah
+C. lasima
+D. wedge clams
+
+Answer:","{
+    ""A"": ""cow trotter"",
+    ""B"": ""el-meluah"",
+    ""C"": ""lasima"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-30_0,EG-DIA-30,Sinai,"What is the name of the popular bread in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baladi
+B. eish shams
+C. saj
+D. shami
+
+Answer:","{
+    ""A"": ""baladi"",
+    ""B"": ""eish shams"",
+    ""C"": ""saj"",
+    ""D"": ""shami""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-31_0,EG-DIA-31,Sinai,"What event is usually held before a wedding in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bridal shower
+B. engagement
+C. engagement party
+D. henna
+
+Answer:","{
+    ""A"": ""bridal shower"",
+    ""B"": ""engagement"",
+    ""C"": ""engagement party"",
+    ""D"": ""henna""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-32_0,EG-DIA-32,Sinai,"What activities are usually done days before Ramadan in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. buying christmas trees and wreaths
+B. hanging up decorations at home and street
+C. organizing diwali lantern festivals
+D. preparing for the rio carnival parade
+
+Answer:","{
+    ""A"": ""buying christmas trees and wreaths"",
+    ""B"": ""hanging up decorations at home and street"",
+    ""C"": ""organizing diwali lantern festivals"",
+    ""D"": ""preparing for the rio carnival parade""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-33_0,EG-DIA-33,Sinai,"What is the most popular tourist attraction for foreign visitors in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bibliotheca alexandrina
+B. dayan Rock
+C. sayyid al-badawi in tanta
+D. the pyramids
+
+Answer:","{
+    ""A"": ""bibliotheca alexandrina"",
+    ""B"": ""dayan Rock"",
+    ""C"": ""sayyid al-badawi in tanta"",
+    ""D"": ""the pyramids""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-33_1,EG-DIA-33,Sinai,"What is the most popular tourist attraction for foreign visitors in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dayan Rock
+B. philae temple
+C. sayyid al-badawi in tanta
+D. the pyramids
+
+Answer:","{
+    ""A"": ""dayan Rock"",
+    ""B"": ""philae temple"",
+    ""C"": ""sayyid al-badawi in tanta"",
+    ""D"": ""the pyramids""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-33_2,EG-DIA-33,Sinai,"What is the most popular tourist attraction for foreign visitors in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bibliotheca alexandrina
+B. dayan Rock
+C. philae temple
+D. the pyramids
+
+Answer:","{
+    ""A"": ""bibliotheca alexandrina"",
+    ""B"": ""dayan Rock"",
+    ""C"": ""philae temple"",
+    ""D"": ""the pyramids""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-33_3,EG-DIA-33,Sinai,"What is the most popular tourist attraction for foreign visitors in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bibliotheca alexandrina
+B. dayan Rock
+C. philae temple
+D. sayyid al-badawi in tanta
+
+Answer:","{
+    ""A"": ""bibliotheca alexandrina"",
+    ""B"": ""dayan Rock"",
+    ""C"": ""philae temple"",
+    ""D"": ""sayyid al-badawi in tanta""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-35_0,EG-DIA-35,Sinai,"What drink is commonly consumed in Sinai when the weather is cold? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coffee
+B. hot chocolate
+C. hot chocolate
+D. tea
+
+Answer:","{
+    ""A"": ""coffee"",
+    ""B"": ""hot chocolate"",
+    ""C"": ""hot chocolate"",
+    ""D"": ""tea""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-36_0,EG-DIA-36,Sinai,"What fruit is more commonly sold and found during Ramadan in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apple
+B. banana
+C. pomegranate
+D. strawberry
+
+Answer:","{
+    ""A"": ""apple"",
+    ""B"": ""banana"",
+    ""C"": ""pomegranate"",
+    ""D"": ""strawberry""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-37_0,EG-DIA-37,Sinai,"What carbohydrate is usually served with chicken in a fast-food restaurant in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. couscous
+B. mashed sweet potatoes
+C. polenta
+D. rice
+
+Answer:","{
+    ""A"": ""couscous"",
+    ""B"": ""mashed sweet potatoes"",
+    ""C"": ""polenta"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-37_1,EG-DIA-37,Sinai,"What carbohydrate is usually served with chicken in a fast-food restaurant in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. couscous
+C. mashed sweet potatoes
+D. polenta
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""couscous"",
+    ""C"": ""mashed sweet potatoes"",
+    ""D"": ""polenta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-37_2,EG-DIA-37,Sinai,"What carbohydrate is usually served with chicken in a fast-food restaurant in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. couscous
+B. mashed sweet potatoes
+C. polenta
+D. potato
+
+Answer:","{
+    ""A"": ""couscous"",
+    ""B"": ""mashed sweet potatoes"",
+    ""C"": ""polenta"",
+    ""D"": ""potato""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-38_0,EG-DIA-38,Sinai,"What sports field facilities are usually available at schools in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. basketball court
+B. football field
+C. tennis
+D. tennis court
+
+Answer:","{
+    ""A"": ""basketball court"",
+    ""B"": ""football field"",
+    ""C"": ""tennis"",
+    ""D"": ""tennis court""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-39_0,EG-DIA-39,Sinai,"What cafe beverage do people from Sinai most commonly enjoy? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cappuccino
+B. cappuccino
+C. coffee
+D. hot chocolate
+
+Answer:","{
+    ""A"": ""cappuccino"",
+    ""B"": ""cappuccino"",
+    ""C"": ""coffee"",
+    ""D"": ""hot chocolate""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-40_0,EG-DIA-40,Sinai,"What is the typical delivery food in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. poutine
+B. savory crepe
+C. sushi
+D. taameya
+
+Answer:","{
+    ""A"": ""poutine"",
+    ""B"": ""savory crepe"",
+    ""C"": ""sushi"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-41_0,EG-DIA-41,Sinai,"What type of meat is consumed most by people from Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camel meat
+B. chicken
+C. chicken
+D. lamb meat
+
+Answer:","{
+    ""A"": ""camel meat"",
+    ""B"": ""chicken"",
+    ""C"": ""chicken"",
+    ""D"": ""lamb meat""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-42_0,EG-DIA-42,Sinai,"What fruit do people from Sinai  often eat in the autumn season? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apple
+B. banana
+C. oranges
+D. pomegranate
+
+Answer:","{
+    ""A"": ""apple"",
+    ""B"": ""banana"",
+    ""C"": ""oranges"",
+    ""D"": ""pomegranate""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-43_0,EG-DIA-43,Sinai,"What side dish is the most commonly served on a dining table in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baba ghanoush
+B. hummus
+C. salad
+D. tabbouleh
+
+Answer:","{
+    ""A"": ""baba ghanoush"",
+    ""B"": ""hummus"",
+    ""C"": ""salad"",
+    ""D"": ""tabbouleh""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-44_0,EG-DIA-44,Sinai,"What do people from Sinai eat while watching a soccer game? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. nachos
+B. potato chips
+C. pretzels
+D. roasted seeds
+
+Answer:","{
+    ""A"": ""nachos"",
+    ""B"": ""potato chips"",
+    ""C"": ""pretzels"",
+    ""D"": ""roasted seeds""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-47_0,EG-DIA-47,Sinai,"What sports event do people from Sinai passionately support the most in international competitions? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. tour de france
+B. uefa european championship
+C. wimbledon championships
+D. world cup
+
+Answer:","{
+    ""A"": ""tour de france"",
+    ""B"": ""uefa european championship"",
+    ""C"": ""wimbledon championships"",
+    ""D"": ""world cup""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-47_1,EG-DIA-47,Sinai,"What sports event do people from Sinai passionately support the most in international competitions? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camel racing
+B. tour de france
+C. uefa european championship
+D. wimbledon championships
+
+Answer:","{
+    ""A"": ""camel racing"",
+    ""B"": ""tour de france"",
+    ""C"": ""uefa european championship"",
+    ""D"": ""wimbledon championships""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-48_0,EG-DIA-48,Sinai,"What is the most commonly eaten food in sports stadiums while watching games in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chips
+B. peanuts
+C. popcorn
+D. pretzels
+
+Answer:","{
+    ""A"": ""chips"",
+    ""B"": ""peanuts"",
+    ""C"": ""popcorn"",
+    ""D"": ""pretzels""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-49_0,EG-DIA-49,Sinai,"What is the most popular online game in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. block blast
+B. fortnite
+C. pubg
+D. roblox
+
+Answer:","{
+    ""A"": ""block blast"",
+    ""B"": ""fortnite"",
+    ""C"": ""pubg"",
+    ""D"": ""roblox""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-50_0,EG-DIA-50,Sinai,"What is the most popular domestic vacation spot for people from Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. corniche
+C. museum
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""corniche"",
+    ""C"": ""museum"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-50_1,EG-DIA-50,Sinai,"What is the most popular domestic vacation spot for people from Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. museum
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""museum"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-50_2,EG-DIA-50,Sinai,"What is the most popular domestic vacation spot for people from Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. corniche
+B. museum
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""corniche"",
+    ""B"": ""museum"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-50_3,EG-DIA-50,Sinai,"What is the most popular domestic vacation spot for people from Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. corniche
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""corniche"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-51_0,EG-DIA-51,Sinai,"What is the most common wedding gift between bride and groom in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. flowers
+B. flowers
+C. gold
+D. wristwatch
+
+Answer:","{
+    ""A"": ""flowers"",
+    ""B"": ""flowers"",
+    ""C"": ""gold"",
+    ""D"": ""wristwatch""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-52_0,EG-DIA-52,Sinai,"What is typically given as a congratulatory gesture when attending a friend's wedding in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. flowers
+B. jewelry
+C. money
+D. perfume
+
+Answer:","{
+    ""A"": ""flowers"",
+    ""B"": ""jewelry"",
+    ""C"": ""money"",
+    ""D"": ""perfume""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-54_0,EG-DIA-54,Sinai,"What type of food is commonly provided at funeral parlors in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dates
+B. koshari
+C. maftoul
+D. pasta
+
+Answer:","{
+    ""A"": ""dates"",
+    ""B"": ""koshari"",
+    ""C"": ""maftoul"",
+    ""D"": ""pasta""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-54_1,EG-DIA-54,Sinai,"What type of food is commonly provided at funeral parlors in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dates
+B. koshari
+C. meat
+D. pasta
+
+Answer:","{
+    ""A"": ""dates"",
+    ""B"": ""koshari"",
+    ""C"": ""meat"",
+    ""D"": ""pasta""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-55_0,EG-DIA-55,Sinai,"When is the day with Sinai's most severe nationwide traffic congestion? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. friday
+B. new year's eve
+C. thursday
+D. wednesday
+
+Answer:","{
+    ""A"": ""friday"",
+    ""B"": ""new year's eve"",
+    ""C"": ""thursday"",
+    ""D"": ""wednesday""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-56_0,EG-DIA-56,Sinai,"What is the most popular honeymoon destination in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. miami
+C. nile corniche
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""miami"",
+    ""C"": ""nile corniche"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-56_1,EG-DIA-56,Sinai,"What is the most popular honeymoon destination in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. aswan
+C. nile corniche
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""aswan"",
+    ""C"": ""nile corniche"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-56_2,EG-DIA-56,Sinai,"What is the most popular honeymoon destination in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. nile corniche
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""nile corniche"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-56_3,EG-DIA-56,Sinai,"What is the most popular honeymoon destination in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. aswan
+C. miami
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""aswan"",
+    ""C"": ""miami"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-56_4,EG-DIA-56,Sinai,"What is the most popular honeymoon destination in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. miami
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""miami"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-56_5,EG-DIA-56,Sinai,"What is the most popular honeymoon destination in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. aswan
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""aswan"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-56_6,EG-DIA-56,Sinai,"What is the most popular honeymoon destination in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. miami
+C. nile corniche
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""miami"",
+    ""C"": ""nile corniche"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-56_7,EG-DIA-56,Sinai,"What is the most popular honeymoon destination in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. miami
+B. nile corniche
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""miami"",
+    ""B"": ""nile corniche"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-56_8,EG-DIA-56,Sinai,"What is the most popular honeymoon destination in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. nile corniche
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""nile corniche"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-56_9,EG-DIA-56,Sinai,"What is the most popular honeymoon destination in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. miami
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""miami"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-57_0,EG-DIA-57,Sinai,"What do people from Sinai eat in Ramadan? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. kishk
+C. macarona beshamel
+D. molokhia
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""kishk"",
+    ""C"": ""macarona beshamel"",
+    ""D"": ""molokhia""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-58_0,EG-DIA-58,Sinai,"What do people from Sinai eat in Eid ul Fitr? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. biscuits
+B. mansaf
+C. salted fish
+D. smoked herring
+
+Answer:","{
+    ""A"": ""biscuits"",
+    ""B"": ""mansaf"",
+    ""C"": ""salted fish"",
+    ""D"": ""smoked herring""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-58_1,EG-DIA-58,Sinai,"What do people from Sinai eat in Eid ul Fitr? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. biscuits
+B. ka'ak
+C. mansaf
+D. smoked herring
+
+Answer:","{
+    ""A"": ""biscuits"",
+    ""B"": ""ka'ak"",
+    ""C"": ""mansaf"",
+    ""D"": ""smoked herring""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-59_0,EG-DIA-59,Sinai,"What do people from Sinai eat in Eid ul Adha? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. kabsa
+B. mansaf
+C. maqluba
+D. meat
+
+Answer:","{
+    ""A"": ""kabsa"",
+    ""B"": ""mansaf"",
+    ""C"": ""maqluba"",
+    ""D"": ""meat""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-60_0,EG-DIA-60,Sinai,"Where do a family gather for Eid festivities in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. at home
+B. beach resort
+C. community center
+D. public park
+
+Answer:","{
+    ""A"": ""at home"",
+    ""B"": ""beach resort"",
+    ""C"": ""community center"",
+    ""D"": ""public park""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-61_0,EG-DIA-61,Sinai,"What is considered to be a secure job in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. airline pilot
+B. bank teller
+C. business
+D. government job
+
+Answer:","{
+    ""A"": ""airline pilot"",
+    ""B"": ""bank teller"",
+    ""C"": ""business"",
+    ""D"": ""government job""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-62_0,EG-DIA-62,Sinai,"What is the most famous dish in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-wika
+B. fish
+C. griled/fried organ meat
+D. mandi
+
+Answer:","{
+    ""A"": ""el-wika"",
+    ""B"": ""fish"",
+    ""C"": ""griled/fried organ meat"",
+    ""D"": ""mandi""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-62_1,EG-DIA-62,Sinai,"What is the most famous dish in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. griled/fried organ meat
+C. koshari
+D. mandi
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""griled/fried organ meat"",
+    ""C"": ""koshari"",
+    ""D"": ""mandi""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-62_2,EG-DIA-62,Sinai,"What is the most famous dish in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-wika
+B. fish
+C. koshari
+D. mandi
+
+Answer:","{
+    ""A"": ""el-wika"",
+    ""B"": ""fish"",
+    ""C"": ""koshari"",
+    ""D"": ""mandi""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-62_3,EG-DIA-62,Sinai,"What is the most famous dish in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-wika
+B. griled/fried organ meat
+C. koshari
+D. mandi
+
+Answer:","{
+    ""A"": ""el-wika"",
+    ""B"": ""griled/fried organ meat"",
+    ""C"": ""koshari"",
+    ""D"": ""mandi""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-63_0,EG-DIA-63,Sinai,"What do people usually have for breakfast in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. croissant
+B. ful
+C. manakish
+D. shakshuka
+
+Answer:","{
+    ""A"": ""croissant"",
+    ""B"": ""ful"",
+    ""C"": ""manakish"",
+    ""D"": ""shakshuka""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-65_0,EG-DIA-65,Sinai,"What is typically indispensable in meals in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. pickled vegetables
+B. rice
+C. salad
+D. yogurt
+
+Answer:","{
+    ""A"": ""pickled vegetables"",
+    ""B"": ""rice"",
+    ""C"": ""salad"",
+    ""D"": ""yogurt""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-66_0,EG-DIA-66,Sinai,"Which fruit do people usually offer tourists/visitors from abroad in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apple
+B. banana
+C. mango
+D. mango
+
+Answer:","{
+    ""A"": ""apple"",
+    ""B"": ""banana"",
+    ""C"": ""mango"",
+    ""D"": ""mango""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-67_0,EG-DIA-67,Sinai,"Which food do people usually offer as charity in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. dates
+C. money
+D. pasta
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""dates"",
+    ""C"": ""money"",
+    ""D"": ""pasta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-67_1,EG-DIA-67,Sinai,"Which food do people usually offer as charity in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dates
+B. legumes
+C. money
+D. pasta
+
+Answer:","{
+    ""A"": ""dates"",
+    ""B"": ""legumes"",
+    ""C"": ""money"",
+    ""D"": ""pasta""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-68_0,EG-DIA-68,Sinai,"What is the cheapest fast food in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. kebda iskandarani 
+B. koshari
+C. shawarma
+D. taameya
+
+Answer:","{
+    ""A"": ""kebda iskandarani "",
+    ""B"": ""koshari"",
+    ""C"": ""shawarma"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-68_1,EG-DIA-68,Sinai,"What is the cheapest fast food in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ful
+B. kebda iskandarani 
+C. koshari
+D. shawarma
+
+Answer:","{
+    ""A"": ""ful"",
+    ""B"": ""kebda iskandarani "",
+    ""C"": ""koshari"",
+    ""D"": ""shawarma""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-69_0,EG-DIA-69,Sinai,"What do people usually have with tea in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. biscuits
+C. breadsticks with sesame
+D. falafel
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""biscuits"",
+    ""C"": ""breadsticks with sesame"",
+    ""D"": ""falafel""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-70_0,EG-DIA-70,Sinai,"What do people have with coffee in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. cake
+C. dates
+D. turkish delight
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""cake"",
+    ""C"": ""dates"",
+    ""D"": ""turkish delight""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-71_0,EG-DIA-71,Sinai,"What is the most popular traditional food in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ful
+B. kebda iskandarani
+C. lasima
+D. taameya
+
+Answer:","{
+    ""A"": ""ful"",
+    ""B"": ""kebda iskandarani"",
+    ""C"": ""lasima"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-71_1,EG-DIA-71,Sinai,"What is the most popular traditional food in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ful
+B. koshari
+C. lasima
+D. taameya
+
+Answer:","{
+    ""A"": ""ful"",
+    ""B"": ""koshari"",
+    ""C"": ""lasima"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-71_2,EG-DIA-71,Sinai,"What is the most popular traditional food in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ful
+B. kebda iskandarani
+C. koshari
+D. lasima
+
+Answer:","{
+    ""A"": ""ful"",
+    ""B"": ""kebda iskandarani"",
+    ""C"": ""koshari"",
+    ""D"": ""lasima""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-71_3,EG-DIA-71,Sinai,"What is the most popular traditional food in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. kebda iskandarani
+B. koshari
+C. lasima
+D. taameya
+
+Answer:","{
+    ""A"": ""kebda iskandarani"",
+    ""B"": ""koshari"",
+    ""C"": ""lasima"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-72_0,EG-DIA-72,Sinai,"What is the most popular dipping sauce in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aioli
+B. garlic sauce
+C. ketchup
+D. tzatziki
+
+Answer:","{
+    ""A"": ""aioli"",
+    ""B"": ""garlic sauce"",
+    ""C"": ""ketchup"",
+    ""D"": ""tzatziki""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-74_0,EG-DIA-74,Sinai,"What food is usually prepared when mothers give birth in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baladi chicken
+B. duck
+C. molokhia
+D. rice
+
+Answer:","{
+    ""A"": ""baladi chicken"",
+    ""B"": ""duck"",
+    ""C"": ""molokhia"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-75_0,EG-DIA-75,Sinai,"Which animal is typically used for transportation in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. donkey
+B. llama
+C. reindeer
+D. yak
+
+Answer:","{
+    ""A"": ""donkey"",
+    ""B"": ""llama"",
+    ""C"": ""reindeer"",
+    ""D"": ""yak""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-75_1,EG-DIA-75,Sinai,"Which animal is typically used for transportation in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. horse
+B. llama
+C. reindeer
+D. yak
+
+Answer:","{
+    ""A"": ""horse"",
+    ""B"": ""llama"",
+    ""C"": ""reindeer"",
+    ""D"": ""yak""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-76_0,EG-DIA-76,Sinai,"What is the busiest month for weddings in Sinai? (Provide Arabic numerals (e.g., 1) only.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 12
+B. 6
+C. 6
+D. 7
+
+Answer:","{
+    ""A"": ""12"",
+    ""B"": ""6"",
+    ""C"": ""6"",
+    ""D"": ""7""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-77_0,EG-DIA-77,Sinai,"What is the most popular traditional musical instrument in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mizmar
+B. oud
+C. qanun
+D. simsimiyya
+
+Answer:","{
+    ""A"": ""mizmar"",
+    ""B"": ""oud"",
+    ""C"": ""qanun"",
+    ""D"": ""simsimiyya""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-78_0,EG-DIA-78,Sinai,"What is the main agricultural product produced in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. olives
+C. rice
+D. wheat
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""olives"",
+    ""C"": ""rice"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-78_1,EG-DIA-78,Sinai,"What is the main agricultural product produced in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. olives
+C. rice
+D. wheat
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""olives"",
+    ""C"": ""rice"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-78_2,EG-DIA-78,Sinai,"What is the main agricultural product produced in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. mango
+C. olives
+D. wheat
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""mango"",
+    ""C"": ""olives"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-78_3,EG-DIA-78,Sinai,"What is the main agricultural product produced in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. mango
+C. olives
+D. rice
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""mango"",
+    ""C"": ""olives"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-79_0,EG-DIA-79,Sinai,"What is the most popular wheat-based food item in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. couscous
+B. croissant
+C. pita
+D. talbina
+
+Answer:","{
+    ""A"": ""couscous"",
+    ""B"": ""croissant"",
+    ""C"": ""pita"",
+    ""D"": ""talbina""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-80_0,EG-DIA-80,Sinai,"What is the most typical drink offered to guests when they visit households in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ayran
+B. hibiscus tea
+C. tea
+D. turkish coffee
+
+Answer:","{
+    ""A"": ""ayran"",
+    ""B"": ""hibiscus tea"",
+    ""C"": ""tea"",
+    ""D"": ""turkish coffee""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-80_1,EG-DIA-80,Sinai,"What is the most typical drink offered to guests when they visit households in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ayran
+B. hibiscus tea
+C. sage tea
+D. turkish coffee
+
+Answer:","{
+    ""A"": ""ayran"",
+    ""B"": ""hibiscus tea"",
+    ""C"": ""sage tea"",
+    ""D"": ""turkish coffee""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-82_0,EG-DIA-82,Sinai,"What food do people from Sinai like to eat during rainy weather? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. feteer meshaltet
+B. koshari
+C. lentils
+D. molokhia
+
+Answer:","{
+    ""A"": ""feteer meshaltet"",
+    ""B"": ""koshari"",
+    ""C"": ""lentils"",
+    ""D"": ""molokhia""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-84_0,EG-DIA-84,Sinai,"On which holiday do all family members tend to reunite in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coptic christmas
+B. eid al-adha
+C. mawlid al-nabi
+D. sham el-nessim
+
+Answer:","{
+    ""A"": ""coptic christmas"",
+    ""B"": ""eid al-adha"",
+    ""C"": ""mawlid al-nabi"",
+    ""D"": ""sham el-nessim""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-85_0,EG-DIA-85,Sinai,"What traditional games do families play during traditional holidays in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. backgammon
+B. backgammon
+C. football
+D. running on the beach
+
+Answer:","{
+    ""A"": ""backgammon"",
+    ""B"": ""backgammon"",
+    ""C"": ""football"",
+    ""D"": ""running on the beach""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-86_0,EG-DIA-86,Sinai,"What fruit do people from Sinai often eat in the summer season? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. pineapple
+B. pomegranate
+C. strawberry
+D. watermelon
+
+Answer:","{
+    ""A"": ""pineapple"",
+    ""B"": ""pomegranate"",
+    ""C"": ""strawberry"",
+    ""D"": ""watermelon""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-87_0,EG-DIA-87,Sinai,"Which region in Sinai is known for its seafood? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. al-sayeda zeinab district
+C. aswan
+D. tanta fish market
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""al-sayeda zeinab district"",
+    ""C"": ""aswan"",
+    ""D"": ""tanta fish market""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-92_0,EG-DIA-92,Sinai,"What kinds of food do people usually eat for late-night snacks in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. falafel
+C. shawarma
+D. yogurt
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""falafel"",
+    ""C"": ""shawarma"",
+    ""D"": ""yogurt""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-93_0,EG-DIA-93,Sinai,"What is the most famous spicy dish in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. kebda iskandarani
+B. koshari
+C. lasima
+D. shakshuka
+
+Answer:","{
+    ""A"": ""kebda iskandarani"",
+    ""B"": ""koshari"",
+    ""C"": ""lasima"",
+    ""D"": ""shakshuka""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-94_0,EG-DIA-94,Sinai,"What seasoning is indispensable in cooking in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cumin
+B. cumin
+C. sumac
+D. za'atar
+
+Answer:","{
+    ""A"": ""cumin"",
+    ""B"": ""cumin"",
+    ""C"": ""sumac"",
+    ""D"": ""za'atar""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-95_0,EG-DIA-95,Sinai,"What food do people typically consume when the weather is cold in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. feseekh
+B. koshari
+C. lentils
+D. molokhia
+
+Answer:","{
+    ""A"": ""feseekh"",
+    ""B"": ""koshari"",
+    ""C"": ""lentils"",
+    ""D"": ""molokhia""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-96_0,EG-DIA-96,Sinai,"What foods do people usually eat when they are sick in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. avgolemono
+B. chicken congee
+C. matzo ball soup
+D. vegetable soup
+
+Answer:","{
+    ""A"": ""avgolemono"",
+    ""B"": ""chicken congee"",
+    ""C"": ""matzo ball soup"",
+    ""D"": ""vegetable soup""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-98_0,EG-DIA-98,Sinai,"Which cities or regions are known for their import and export activities in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. attaba
+C. el-mahalla el-kubra
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""attaba"",
+    ""C"": ""el-mahalla el-kubra"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-98_1,EG-DIA-98,Sinai,"Which cities or regions are known for their import and export activities in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. attaba
+B. el-mahalla el-kubra
+C. mansheya
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""attaba"",
+    ""B"": ""el-mahalla el-kubra"",
+    ""C"": ""mansheya"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-98_2,EG-DIA-98,Sinai,"Which cities or regions are known for their import and export activities in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. attaba
+B. el-mahalla el-kubra
+C. industrial zone
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""attaba"",
+    ""B"": ""el-mahalla el-kubra"",
+    ""C"": ""industrial zone"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-98_3,EG-DIA-98,Sinai,"Which cities or regions are known for their import and export activities in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. attaba
+C. mansheya
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""attaba"",
+    ""C"": ""mansheya"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-98_4,EG-DIA-98,Sinai,"Which cities or regions are known for their import and export activities in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. attaba
+C. industrial zone
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""attaba"",
+    ""C"": ""industrial zone"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-98_5,EG-DIA-98,Sinai,"Which cities or regions are known for their import and export activities in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. attaba
+B. industrial zone
+C. mansheya
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""attaba"",
+    ""B"": ""industrial zone"",
+    ""C"": ""mansheya"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-98_6,EG-DIA-98,Sinai,"Which cities or regions are known for their import and export activities in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. el-mahalla el-kubra
+C. mansheya
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""el-mahalla el-kubra"",
+    ""C"": ""mansheya"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-98_7,EG-DIA-98,Sinai,"Which cities or regions are known for their import and export activities in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. el-mahalla el-kubra
+C. industrial zone
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""el-mahalla el-kubra"",
+    ""C"": ""industrial zone"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-98_8,EG-DIA-98,Sinai,"Which cities or regions are known for their import and export activities in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-mahalla el-kubra
+B. industrial zone
+C. mansheya
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""el-mahalla el-kubra"",
+    ""B"": ""industrial zone"",
+    ""C"": ""mansheya"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-98_9,EG-DIA-98,Sinai,"Which cities or regions are known for their import and export activities in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. industrial zone
+C. mansheya
+D. port of al-arish
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""industrial zone"",
+    ""C"": ""mansheya"",
+    ""D"": ""port of al-arish""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-99_0,EG-DIA-99,Sinai,"What is the most common way for family members to communicate remotely in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ham radio
+B. internet
+C. postal mail
+D. satellite phone
+
+Answer:","{
+    ""A"": ""ham radio"",
+    ""B"": ""internet"",
+    ""C"": ""postal mail"",
+    ""D"": ""satellite phone""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-100_0,EG-DIA-100,Sinai,"What form of accommodation is typically booked for family trips in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apartment
+B. campground
+C. chalet
+D. hostel
+
+Answer:","{
+    ""A"": ""apartment"",
+    ""B"": ""campground"",
+    ""C"": ""chalet"",
+    ""D"": ""hostel""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-103_0,EG-DIA-103,Sinai,"What types of accommodation do university students in Sinai typically live in? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. capsule hotel
+B. houseboat
+C. mountain lodge
+D. student housing
+
+Answer:","{
+    ""A"": ""capsule hotel"",
+    ""B"": ""houseboat"",
+    ""C"": ""mountain lodge"",
+    ""D"": ""student housing""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-104_0,EG-DIA-104,Sinai,"During which holidays do people typically visit religious sites (mosque, churches, etc.) in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. christmas
+B. eid al-fitr
+C. feast of the virgin mary
+D. ramadan
+
+Answer:","{
+    ""A"": ""christmas"",
+    ""B"": ""eid al-fitr"",
+    ""C"": ""feast of the virgin mary"",
+    ""D"": ""ramadan""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-104_1,EG-DIA-104,Sinai,"During which holidays do people typically visit religious sites (mosque, churches, etc.) in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. christmas
+B. eid al-adha
+C. feast of the virgin mary
+D. ramadan
+
+Answer:","{
+    ""A"": ""christmas"",
+    ""B"": ""eid al-adha"",
+    ""C"": ""feast of the virgin mary"",
+    ""D"": ""ramadan""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-106_0,EG-DIA-106,Sinai,"At what time do weddings typically start in Sinai? (Provide in HH:MM format  (e.g., 06:00PM, 09:00AM).) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 05:00pm
+B. 07:00 PM
+C. 09:00PM
+D. 11:00pm
+
+Answer:","{
+    ""A"": ""05:00pm"",
+    ""B"": ""07:00 PM"",
+    ""C"": ""09:00PM"",
+    ""D"": ""11:00pm""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-107_0,EG-DIA-107,Sinai,"Which city in Sinai hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. cairo
+D. el-raml station
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""cairo"",
+    ""D"": ""el-raml station""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-107_1,EG-DIA-107,Sinai,"Which city in Sinai hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. cairo
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""cairo"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-107_2,EG-DIA-107,Sinai,"Which city in Sinai hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. cairo
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""cairo"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-107_3,EG-DIA-107,Sinai,"Which city in Sinai hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. el-raml station
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""el-raml station"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-107_4,EG-DIA-107,Sinai,"Which city in Sinai hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. el-raml station
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""el-raml station"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-107_5,EG-DIA-107,Sinai,"Which city in Sinai hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-107_6,EG-DIA-107,Sinai,"Which city in Sinai hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. cairo
+C. el-raml station
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""cairo"",
+    ""C"": ""el-raml station"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-107_7,EG-DIA-107,Sinai,"Which city in Sinai hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. cairo
+C. el-raml station
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""cairo"",
+    ""C"": ""el-raml station"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-107_8,EG-DIA-107,Sinai,"Which city in Sinai hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. cairo
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""cairo"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-107_9,EG-DIA-107,Sinai,"Which city in Sinai hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. el-raml station
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""el-raml station"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-108_0,EG-DIA-108,Sinai,"What is the most popular chip/crisp flavour in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. barbecue
+B. chilli and lime
+C. salt and vinegar
+D. tomato
+
+Answer:","{
+    ""A"": ""barbecue"",
+    ""B"": ""chilli and lime"",
+    ""C"": ""salt and vinegar"",
+    ""D"": ""tomato""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-109_0,EG-DIA-109,Sinai,"Which food is a cost-effective and quick meal option in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. kebda iskandarani
+B. koshari
+C. shawarma
+D. taameya
+
+Answer:","{
+    ""A"": ""kebda iskandarani"",
+    ""B"": ""koshari"",
+    ""C"": ""shawarma"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-110_0,EG-DIA-110,Sinai,"What is the most popular chocolate brand in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. corona
+B. galaxy
+C. kinder
+D. moro
+
+Answer:","{
+    ""A"": ""corona"",
+    ""B"": ""galaxy"",
+    ""C"": ""kinder"",
+    ""D"": ""moro""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-110_1,EG-DIA-110,Sinai,"What is the most popular chocolate brand in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. corona
+B. galaxy
+C. kinder
+D. snickers
+
+Answer:","{
+    ""A"": ""corona"",
+    ""B"": ""galaxy"",
+    ""C"": ""kinder"",
+    ""D"": ""snickers""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-110_2,EG-DIA-110,Sinai,"What is the most popular chocolate brand in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. corona
+B. galaxy
+C. moro
+D. snickers
+
+Answer:","{
+    ""A"": ""corona"",
+    ""B"": ""galaxy"",
+    ""C"": ""moro"",
+    ""D"": ""snickers""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-110_3,EG-DIA-110,Sinai,"What is the most popular chocolate brand in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. galaxy
+B. kinder
+C. moro
+D. snickers
+
+Answer:","{
+    ""A"": ""galaxy"",
+    ""B"": ""kinder"",
+    ""C"": ""moro"",
+    ""D"": ""snickers""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-111_0,EG-DIA-111,Sinai,"What is the most eaten cheese in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cheddar
+B. cheddar
+C. cottage cheese
+D. gouda
+
+Answer:","{
+    ""A"": ""cheddar"",
+    ""B"": ""cheddar"",
+    ""C"": ""cottage cheese"",
+    ""D"": ""gouda""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-112_0,EG-DIA-112,Sinai,"What is the most disliked vegetable in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. broccoli
+B. brussels sprouts
+C. spinach
+D. zucchini
+
+Answer:","{
+    ""A"": ""broccoli"",
+    ""B"": ""brussels sprouts"",
+    ""C"": ""spinach"",
+    ""D"": ""zucchini""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-112_1,EG-DIA-112,Sinai,"What is the most disliked vegetable in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. broccoli
+B. brussels sprouts
+C. el-khubiza
+D. spinach
+
+Answer:","{
+    ""A"": ""broccoli"",
+    ""B"": ""brussels sprouts"",
+    ""C"": ""el-khubiza"",
+    ""D"": ""spinach""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-113_0,EG-DIA-113,Sinai,"What are the most common cheering tools used by sports fans in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. flags
+B. foam fingers
+C. tabla
+D. vuvuzelas
+
+Answer:","{
+    ""A"": ""flags"",
+    ""B"": ""foam fingers"",
+    ""C"": ""tabla"",
+    ""D"": ""vuvuzelas""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-114_0,EG-DIA-114,Sinai,"Who is the most well known and successful entrepreneur in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ahmed abu hashima
+B. ibrahim al-arjani
+C. mohamed el-sewedy
+D. nassef sawiris
+
+Answer:","{
+    ""A"": ""ahmed abu hashima"",
+    ""B"": ""ibrahim al-arjani"",
+    ""C"": ""mohamed el-sewedy"",
+    ""D"": ""nassef sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-115_0,EG-DIA-115,Sinai,"What can typically be found in the back garden of houses in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mint
+B. olive tree
+C. sofa
+D. swing
+
+Answer:","{
+    ""A"": ""mint"",
+    ""B"": ""olive tree"",
+    ""C"": ""sofa"",
+    ""D"": ""swing""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-115_1,EG-DIA-115,Sinai,"What can typically be found in the back garden of houses in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. lime tree
+B. mint
+C. sofa
+D. swing
+
+Answer:","{
+    ""A"": ""lime tree"",
+    ""B"": ""mint"",
+    ""C"": ""sofa"",
+    ""D"": ""swing""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-115_2,EG-DIA-115,Sinai,"What can typically be found in the back garden of houses in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. citrus tree
+B. mint
+C. sofa
+D. swing
+
+Answer:","{
+    ""A"": ""citrus tree"",
+    ""B"": ""mint"",
+    ""C"": ""sofa"",
+    ""D"": ""swing""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-116_0,EG-DIA-116,Sinai,"What is the name of the most famous family in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. el-fawakhreya
+C. el-sewedy
+D. sawiris
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""el-fawakhreya"",
+    ""C"": ""el-sewedy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-116_1,EG-DIA-116,Sinai,"What is the name of the most famous family in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. amara
+C. el-fawakhreya
+D. sawiris
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""amara"",
+    ""C"": ""el-fawakhreya"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-116_2,EG-DIA-116,Sinai,"What is the name of the most famous family in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. el-fawakhreya
+C. el-gendy
+D. sawiris
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""el-fawakhreya"",
+    ""C"": ""el-gendy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-116_3,EG-DIA-116,Sinai,"What is the name of the most famous family in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. amara
+B. el-fawakhreya
+C. el-sewedy
+D. sawiris
+
+Answer:","{
+    ""A"": ""amara"",
+    ""B"": ""el-fawakhreya"",
+    ""C"": ""el-sewedy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-116_4,EG-DIA-116,Sinai,"What is the name of the most famous family in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-fawakhreya
+B. el-gendy
+C. el-sewedy
+D. sawiris
+
+Answer:","{
+    ""A"": ""el-fawakhreya"",
+    ""B"": ""el-gendy"",
+    ""C"": ""el-sewedy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-116_5,EG-DIA-116,Sinai,"What is the name of the most famous family in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. amara
+B. el-fawakhreya
+C. el-gendy
+D. sawiris
+
+Answer:","{
+    ""A"": ""amara"",
+    ""B"": ""el-fawakhreya"",
+    ""C"": ""el-gendy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-116_6,EG-DIA-116,Sinai,"What is the name of the most famous family in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. amara
+C. el-fawakhreya
+D. el-sewedy
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""amara"",
+    ""C"": ""el-fawakhreya"",
+    ""D"": ""el-sewedy""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-116_7,EG-DIA-116,Sinai,"What is the name of the most famous family in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. el-fawakhreya
+C. el-gendy
+D. el-sewedy
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""el-fawakhreya"",
+    ""C"": ""el-gendy"",
+    ""D"": ""el-sewedy""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-116_8,EG-DIA-116,Sinai,"What is the name of the most famous family in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. amara
+C. el-fawakhreya
+D. el-gendy
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""amara"",
+    ""C"": ""el-fawakhreya"",
+    ""D"": ""el-gendy""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-116_9,EG-DIA-116,Sinai,"What is the name of the most famous family in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. amara
+B. el-fawakhreya
+C. el-gendy
+D. el-sewedy
+
+Answer:","{
+    ""A"": ""amara"",
+    ""B"": ""el-fawakhreya"",
+    ""C"": ""el-gendy"",
+    ""D"": ""el-sewedy""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-118_0,EG-DIA-118,Sinai,"What repercussions are there for bad behavior in schools in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. community service
+B. detention
+C. expulsion
+D. suspension
+
+Answer:","{
+    ""A"": ""community service"",
+    ""B"": ""detention"",
+    ""C"": ""expulsion"",
+    ""D"": ""suspension""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-119_0,EG-DIA-119,Sinai,"Which writers are commonly studied in literature class in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ahmed shawqi
+B. hafez ibrahim
+C. naguib mahfouz
+D. taha hussein
+
+Answer:","{
+    ""A"": ""ahmed shawqi"",
+    ""B"": ""hafez ibrahim"",
+    ""C"": ""naguib mahfouz"",
+    ""D"": ""taha hussein""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-120_0,EG-DIA-120,Sinai,"Which online resource do students usually use to study in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. educational platform
+B. google classroom
+C. khan academy
+D. youtube
+
+Answer:","{
+    ""A"": ""educational platform"",
+    ""B"": ""google classroom"",
+    ""C"": ""khan academy"",
+    ""D"": ""youtube""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-121_0,EG-DIA-121,Sinai,"What is the most famous historic landmark in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. grand egyptian museum
+C. philae temple
+D. qaitbay citadel
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""grand egyptian museum"",
+    ""C"": ""philae temple"",
+    ""D"": ""qaitbay citadel""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-121_1,EG-DIA-121,Sinai,"What is the most famous historic landmark in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. grand egyptian museum
+C. qaitbay citadel
+D. suez canal
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""grand egyptian museum"",
+    ""C"": ""qaitbay citadel"",
+    ""D"": ""suez canal""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-121_2,EG-DIA-121,Sinai,"What is the most famous historic landmark in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. grand egyptian museum
+C. qaitbay citadel
+D. sphinx
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""grand egyptian museum"",
+    ""C"": ""qaitbay citadel"",
+    ""D"": ""sphinx""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-121_3,EG-DIA-121,Sinai,"What is the most famous historic landmark in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. philae temple
+C. qaitbay citadel
+D. suez canal
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""philae temple"",
+    ""C"": ""qaitbay citadel"",
+    ""D"": ""suez canal""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-121_4,EG-DIA-121,Sinai,"What is the most famous historic landmark in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. philae temple
+C. qaitbay citadel
+D. sphinx
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""philae temple"",
+    ""C"": ""qaitbay citadel"",
+    ""D"": ""sphinx""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-121_5,EG-DIA-121,Sinai,"What is the most famous historic landmark in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. qaitbay citadel
+C. sphinx
+D. suez canal
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""qaitbay citadel"",
+    ""C"": ""sphinx"",
+    ""D"": ""suez canal""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-121_6,EG-DIA-121,Sinai,"What is the most famous historic landmark in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. grand egyptian museum
+C. philae temple
+D. suez canal
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""grand egyptian museum"",
+    ""C"": ""philae temple"",
+    ""D"": ""suez canal""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-121_7,EG-DIA-121,Sinai,"What is the most famous historic landmark in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. grand egyptian museum
+C. philae temple
+D. sphinx
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""grand egyptian museum"",
+    ""C"": ""philae temple"",
+    ""D"": ""sphinx""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-121_8,EG-DIA-121,Sinai,"What is the most famous historic landmark in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. grand egyptian museum
+C. sphinx
+D. suez canal
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""grand egyptian museum"",
+    ""C"": ""sphinx"",
+    ""D"": ""suez canal""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-121_9,EG-DIA-121,Sinai,"What is the most famous historic landmark in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. philae temple
+C. sphinx
+D. suez canal
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""philae temple"",
+    ""C"": ""sphinx"",
+    ""D"": ""suez canal""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-122_0,EG-DIA-122,Sinai,"What is the most popular food in Sinai among young people? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. falafel
+B. koshari
+C. lasima
+D. pizza
+
+Answer:","{
+    ""A"": ""falafel"",
+    ""B"": ""koshari"",
+    ""C"": ""lasima"",
+    ""D"": ""pizza""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-123_0,EG-DIA-123,Sinai,"What is the most popular traditional dessert in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. kunafa
+B. om ali with nuts
+C. traditional eastern sweets
+D. umm ali
+
+Answer:","{
+    ""A"": ""kunafa"",
+    ""B"": ""om ali with nuts"",
+    ""C"": ""traditional eastern sweets"",
+    ""D"": ""umm ali""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-123_1,EG-DIA-123,Sinai,"What is the most popular traditional dessert in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. balh-el-sham
+B. kunafa
+C. om ali with nuts
+D. umm ali
+
+Answer:","{
+    ""A"": ""balh-el-sham"",
+    ""B"": ""kunafa"",
+    ""C"": ""om ali with nuts"",
+    ""D"": ""umm ali""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-124_0,EG-DIA-124,Sinai,"Which job is considered underpaid in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. government job
+B. manual worker
+C. nursing
+D. teaching
+
+Answer:","{
+    ""A"": ""government job"",
+    ""B"": ""manual worker"",
+    ""C"": ""nursing"",
+    ""D"": ""teaching""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-126_0,EG-DIA-126,Sinai,"What drink is usually offered at weddings in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beer
+B. coca cola
+C. sharbat
+D. tea
+
+Answer:","{
+    ""A"": ""beer"",
+    ""B"": ""coca cola"",
+    ""C"": ""sharbat"",
+    ""D"": ""tea""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-128_0,EG-DIA-128,Sinai,"What food is typically disliked by children but enjoyed by the elderly in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-khubiza
+B. lentils
+C. wedge clams
+D. zucchini
+
+Answer:","{
+    ""A"": ""el-khubiza"",
+    ""B"": ""lentils"",
+    ""C"": ""wedge clams"",
+    ""D"": ""zucchini""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-129_0,EG-DIA-129,Sinai,"Which is the most popular vegetable in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cucumber
+B. eggplant
+C. peas
+D. potato
+
+Answer:","{
+    ""A"": ""cucumber"",
+    ""B"": ""eggplant"",
+    ""C"": ""peas"",
+    ""D"": ""potato""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-130_0,EG-DIA-130,Sinai,"What is the most popular wedding venue in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baron empain palace
+B. hollywood
+C. qamr el-zaman
+D. san stefano
+
+Answer:","{
+    ""A"": ""baron empain palace"",
+    ""B"": ""hollywood"",
+    ""C"": ""qamr el-zaman"",
+    ""D"": ""san stefano""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-131_0,EG-DIA-131,Sinai,"What university in Sinai is popular because of its engineering major? (Provide the official name.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ain shams university
+B. cairo university
+C. helwan university
+D. sinai university
+
+Answer:","{
+    ""A"": ""ain shams university"",
+    ""B"": ""cairo university"",
+    ""C"": ""helwan university"",
+    ""D"": ""sinai university""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-132_0,EG-DIA-132,Sinai,"What university in Sinai is popular because of its school of medicine? (Provide the official name.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ain shams university
+B. mansoura university
+C. sinai university
+D. tanta university
+
+Answer:","{
+    ""A"": ""ain shams university"",
+    ""B"": ""mansoura university"",
+    ""C"": ""sinai university"",
+    ""D"": ""tanta university""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-133_0,EG-DIA-133,Sinai,"What is the most popular payment method in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cash
+B. credit card
+C. instapay
+D. visa
+
+Answer:","{
+    ""A"": ""cash"",
+    ""B"": ""credit card"",
+    ""C"": ""instapay"",
+    ""D"": ""visa""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-135_0,EG-DIA-135,Sinai,"What is the most popular children's song in Sinai that families sing together? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baba fein
+B. eid songs
+C. twinkle twinkle little star
+D. untha al-sinjab
+
+Answer:","{
+    ""A"": ""baba fein"",
+    ""B"": ""eid songs"",
+    ""C"": ""twinkle twinkle little star"",
+    ""D"": ""untha al-sinjab""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-136_0,EG-DIA-136,Sinai,"Which toys are most popular among boys in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bike
+B. motorcycles
+C. train sets
+D. water gun
+
+Answer:","{
+    ""A"": ""bike"",
+    ""B"": ""motorcycles"",
+    ""C"": ""train sets"",
+    ""D"": ""water gun""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-137_0,EG-DIA-137,Sinai,"Which toys are most popular among girls in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. barbie doll
+B. coloring set
+C. lego friends
+D. play kitchen
+
+Answer:","{
+    ""A"": ""barbie doll"",
+    ""B"": ""coloring set"",
+    ""C"": ""lego friends"",
+    ""D"": ""play kitchen""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-138_0,EG-DIA-138,Sinai,"What is the most popular folk tale in Sinai that is typically told to children? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cinderella
+B. el-naddaha
+C. guha
+D. one thousand and one nights
+
+Answer:","{
+    ""A"": ""cinderella"",
+    ""B"": ""el-naddaha"",
+    ""C"": ""guha"",
+    ""D"": ""one thousand and one nights""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-138_1,EG-DIA-138,Sinai,"What is the most popular folk tale in Sinai that is typically told to children? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cinderella
+B. el-naddaha
+C. one thousand and one nights
+D. the fox and the goats
+
+Answer:","{
+    ""A"": ""cinderella"",
+    ""B"": ""el-naddaha"",
+    ""C"": ""one thousand and one nights"",
+    ""D"": ""the fox and the goats""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-139_0,EG-DIA-139,Sinai,"Where do university students in Sinai tend to work part-time the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hotels
+B. in shops
+C. online
+D. tourism
+
+Answer:","{
+    ""A"": ""hotels"",
+    ""B"": ""in shops"",
+    ""C"": ""online"",
+    ""D"": ""tourism""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-139_1,EG-DIA-139,Sinai,"Where do university students in Sinai tend to work part-time the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cafeterias
+B. hotels
+C. online
+D. tourism
+
+Answer:","{
+    ""A"": ""cafeterias"",
+    ""B"": ""hotels"",
+    ""C"": ""online"",
+    ""D"": ""tourism""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-140_0,EG-DIA-140,Sinai,"What are the most common activities people do as a side job in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cafeterias
+B. construction work
+C. gym
+D. selling online
+
+Answer:","{
+    ""A"": ""cafeterias"",
+    ""B"": ""construction work"",
+    ""C"": ""gym"",
+    ""D"": ""selling online""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-140_1,EG-DIA-140,Sinai,"What are the most common activities people do as a side job in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. construction work
+B. drivers
+C. gym
+D. selling online
+
+Answer:","{
+    ""A"": ""construction work"",
+    ""B"": ""drivers"",
+    ""C"": ""gym"",
+    ""D"": ""selling online""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-141_0,EG-DIA-141,Sinai,"What is the most popular stew in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bamia
+B. cow trotter stew
+C. molokhia
+D. shrimp
+
+Answer:","{
+    ""A"": ""bamia"",
+    ""B"": ""cow trotter stew"",
+    ""C"": ""molokhia"",
+    ""D"": ""shrimp""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-142_0,EG-DIA-142,Sinai,"What is the most common spice/herb used in dishes from Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coriander
+B. salt
+C. sumac
+D. za'atar
+
+Answer:","{
+    ""A"": ""coriander"",
+    ""B"": ""salt"",
+    ""C"": ""sumac"",
+    ""D"": ""za'atar""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-143_0,EG-DIA-143,Sinai,"Where do families gather to pray together in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. at church
+B. church
+C. marketplace
+D. mosque
+
+Answer:","{
+    ""A"": ""at church"",
+    ""B"": ""church"",
+    ""C"": ""marketplace"",
+    ""D"": ""mosque""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-146_0,EG-DIA-146,Sinai,"How many generations typically live together in a household in Sinai? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 3
+B. 4
+C. 5
+D. 6
+
+Answer:","{
+    ""A"": ""3"",
+    ""B"": ""4"",
+    ""C"": ""5"",
+    ""D"": ""6""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-147_0,EG-DIA-147,Sinai,"What is a popular activity to do in parks in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. birdwatching
+B. cycling
+C. football
+D. picnicking
+
+Answer:","{
+    ""A"": ""birdwatching"",
+    ""B"": ""cycling"",
+    ""C"": ""football"",
+    ""D"": ""picnicking""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-148_0,EG-DIA-148,Sinai,"What is the popular card game played during social gatherings in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. backgammon
+B. dominoes
+C. mancala
+D. playing cards
+
+Answer:","{
+    ""A"": ""backgammon"",
+    ""B"": ""dominoes"",
+    ""C"": ""mancala"",
+    ""D"": ""playing cards""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-149_0,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. olives
+C. rice
+D. wheat
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""olives"",
+    ""C"": ""rice"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-149_1,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. olives
+C. strawberry
+D. wheat
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""olives"",
+    ""C"": ""strawberry"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-149_2,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. mango
+C. olives
+D. wheat
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""mango"",
+    ""C"": ""olives"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-149_3,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. olives
+C. rice
+D. strawberry
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""olives"",
+    ""C"": ""rice"",
+    ""D"": ""strawberry""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-149_4,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. mango
+C. olives
+D. rice
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""mango"",
+    ""C"": ""olives"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-149_5,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. mango
+C. olives
+D. strawberry
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""mango"",
+    ""C"": ""olives"",
+    ""D"": ""strawberry""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-149_6,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. olives
+B. rice
+C. strawberry
+D. wheat
+
+Answer:","{
+    ""A"": ""olives"",
+    ""B"": ""rice"",
+    ""C"": ""strawberry"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-149_7,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. olives
+C. rice
+D. wheat
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""olives"",
+    ""C"": ""rice"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-149_8,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. olives
+C. strawberry
+D. wheat
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""olives"",
+    ""C"": ""strawberry"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-149_9,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. olives
+C. rice
+D. strawberry
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""olives"",
+    ""C"": ""rice"",
+    ""D"": ""strawberry""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-149_10,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. orange
+C. rice
+D. wheat
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""orange"",
+    ""C"": ""rice"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-149_11,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. orange
+C. strawberry
+D. wheat
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""orange"",
+    ""C"": ""strawberry"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-149_12,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. mango
+C. orange
+D. wheat
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""mango"",
+    ""C"": ""orange"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-149_13,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. orange
+C. rice
+D. strawberry
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""orange"",
+    ""C"": ""rice"",
+    ""D"": ""strawberry""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-149_14,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. mango
+C. orange
+D. rice
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""mango"",
+    ""C"": ""orange"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-149_15,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. mango
+C. orange
+D. strawberry
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""mango"",
+    ""C"": ""orange"",
+    ""D"": ""strawberry""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-149_16,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. orange
+B. rice
+C. strawberry
+D. wheat
+
+Answer:","{
+    ""A"": ""orange"",
+    ""B"": ""rice"",
+    ""C"": ""strawberry"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-149_17,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. orange
+C. rice
+D. wheat
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""orange"",
+    ""C"": ""rice"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-149_18,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. orange
+C. strawberry
+D. wheat
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""orange"",
+    ""C"": ""strawberry"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-149_19,EG-DIA-149,Sinai,"Which agricultural product is exported most often in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. orange
+C. rice
+D. strawberry
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""orange"",
+    ""C"": ""rice"",
+    ""D"": ""strawberry""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-150_0,EG-DIA-150,Sinai,"What are the most popular sweets in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. jallab
+B. kunafa
+C. namoura
+D. om ali
+
+Answer:","{
+    ""A"": ""jallab"",
+    ""B"": ""kunafa"",
+    ""C"": ""namoura"",
+    ""D"": ""om ali""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-151_0,EG-DIA-151,Sinai,"What is the average education level for people in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. primary education
+B. secondary education
+C. tertiary education
+D. vocational education
+
+Answer:","{
+    ""A"": ""primary education"",
+    ""B"": ""secondary education"",
+    ""C"": ""tertiary education"",
+    ""D"": ""vocational education""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-152_0,EG-DIA-152,Sinai,"What is the most popular beverage among children in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fruit juice
+B. milk
+C. orange juice
+D. sting
+
+Answer:","{
+    ""A"": ""fruit juice"",
+    ""B"": ""milk"",
+    ""C"": ""orange juice"",
+    ""D"": ""sting""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-153_0,EG-DIA-153,Sinai,"What snacks are usually sold in front of schools in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. crunchy snacks
+B. falafel
+C. instant noodles
+D. shawarma
+
+Answer:","{
+    ""A"": ""crunchy snacks"",
+    ""B"": ""falafel"",
+    ""C"": ""instant noodles"",
+    ""D"": ""shawarma""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-154_0,EG-DIA-154,Sinai,"What oil is usually used for cooking in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. corn oil
+B. crystal
+C. olive
+D. sunflower oil
+
+Answer:","{
+    ""A"": ""corn oil"",
+    ""B"": ""crystal"",
+    ""C"": ""olive"",
+    ""D"": ""sunflower oil""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-156_0,EG-DIA-156,Sinai,"What is the most common livestock raised in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. buffalo
+B. camels
+C. cow
+D. goats
+
+Answer:","{
+    ""A"": ""buffalo"",
+    ""B"": ""camels"",
+    ""C"": ""cow"",
+    ""D"": ""goats""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-157_0,EG-DIA-157,Sinai,"What animals are commonly used for agriculture in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cattle
+B. cow
+C. goat
+D. horse
+
+Answer:","{
+    ""A"": ""cattle"",
+    ""B"": ""cow"",
+    ""C"": ""goat"",
+    ""D"": ""horse""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-157_1,EG-DIA-157,Sinai,"What animals are commonly used for agriculture in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cattle
+B. cow
+C. donkey
+D. goat
+
+Answer:","{
+    ""A"": ""cattle"",
+    ""B"": ""cow"",
+    ""C"": ""donkey"",
+    ""D"": ""goat""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-158_0,EG-DIA-158,Sinai,"What do farmers in Sinai typically wear to protect themselves from the heat whilst farming? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cap
+B. scarf
+C. straw hat
+D. taqiyah
+
+Answer:","{
+    ""A"": ""cap"",
+    ""B"": ""scarf"",
+    ""C"": ""straw hat"",
+    ""D"": ""taqiyah""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-159_0,EG-DIA-159,Sinai,"What gifts do parents generally give to their children for their birthdays in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bicycles
+B. books
+C. clothing
+D. mobile
+
+Answer:","{
+    ""A"": ""bicycles"",
+    ""B"": ""books"",
+    ""C"": ""clothing"",
+    ""D"": ""mobile""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-160_0,EG-DIA-160,Sinai,"What is usually given to the children during Eid in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dates
+B. money
+C. new clothes
+D. sweets
+
+Answer:","{
+    ""A"": ""dates"",
+    ""B"": ""money"",
+    ""C"": ""new clothes"",
+    ""D"": ""sweets""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-161_0,EG-DIA-161,Sinai,"What food is usually served at weddings in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cake
+B. mansaf
+C. maqluba
+D. meat
+
+Answer:","{
+    ""A"": ""cake"",
+    ""B"": ""mansaf"",
+    ""C"": ""maqluba"",
+    ""D"": ""meat""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-162_0,EG-DIA-162,Sinai,"What is the most famous government building in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. civil registry office
+B. governorate building
+C. municipal council
+D. police station
+
+Answer:","{
+    ""A"": ""civil registry office"",
+    ""B"": ""governorate building"",
+    ""C"": ""municipal council"",
+    ""D"": ""police station""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-163_0,EG-DIA-163,Sinai,"What is the top university in Sinai? (Provide the official name.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. el-mansoura
+C. sinai university
+D. suez canal university
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""el-mansoura"",
+    ""C"": ""sinai university"",
+    ""D"": ""suez canal university""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-165_0,EG-DIA-165,Sinai,"Which city is the main destination for job seekers in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. borg el-arab
+D. cairo
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""borg el-arab"",
+    ""D"": ""cairo""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-165_1,EG-DIA-165,Sinai,"Which city is the main destination for job seekers in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. cairo
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""cairo"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-165_2,EG-DIA-165,Sinai,"Which city is the main destination for job seekers in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. cairo
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""cairo"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-165_3,EG-DIA-165,Sinai,"Which city is the main destination for job seekers in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. borg el-arab
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""borg el-arab"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-165_4,EG-DIA-165,Sinai,"Which city is the main destination for job seekers in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. borg el-arab
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""borg el-arab"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-165_5,EG-DIA-165,Sinai,"Which city is the main destination for job seekers in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-165_6,EG-DIA-165,Sinai,"Which city is the main destination for job seekers in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. borg el-arab
+C. cairo
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""borg el-arab"",
+    ""C"": ""cairo"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-165_7,EG-DIA-165,Sinai,"Which city is the main destination for job seekers in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. borg el-arab
+C. cairo
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""borg el-arab"",
+    ""C"": ""cairo"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-165_8,EG-DIA-165,Sinai,"Which city is the main destination for job seekers in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. cairo
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""cairo"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-165_9,EG-DIA-165,Sinai,"Which city is the main destination for job seekers in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. borg el-arab
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""borg el-arab"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-167_0,EG-DIA-167,Sinai,"What is the food that is most divisive (either love or hate) in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. lasima
+C. qolqas
+D. wedge clams
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""lasima"",
+    ""C"": ""qolqas"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-167_1,EG-DIA-167,Sinai,"What is the food that is most divisive (either love or hate) in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. fesikh
+C. lasima
+D. qolqas
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""fesikh"",
+    ""C"": ""lasima"",
+    ""D"": ""qolqas""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-167_2,EG-DIA-167,Sinai,"What is the food that is most divisive (either love or hate) in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. fesikh
+C. lasima
+D. wedge clams
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""fesikh"",
+    ""C"": ""lasima"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-167_3,EG-DIA-167,Sinai,"What is the food that is most divisive (either love or hate) in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fesikh
+B. lasima
+C. qolqas
+D. wedge clams
+
+Answer:","{
+    ""A"": ""fesikh"",
+    ""B"": ""lasima"",
+    ""C"": ""qolqas"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-168_0,EG-DIA-168,Sinai,"What is the most popular takeaway food in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. pizza
+B. pizza
+C. savory crepe
+D. sushi
+
+Answer:","{
+    ""A"": ""pizza"",
+    ""B"": ""pizza"",
+    ""C"": ""savory crepe"",
+    ""D"": ""sushi""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-169_0,EG-DIA-169,Sinai,"What are popular snacks in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. biscuits
+B. peanuts
+C. popcorn
+D. roasted seeds
+
+Answer:","{
+    ""A"": ""biscuits"",
+    ""B"": ""peanuts"",
+    ""C"": ""popcorn"",
+    ""D"": ""roasted seeds""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-170_0,EG-DIA-170,Sinai,"Who is the most popular sportperson in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hosni abd rabou
+B. mahmoud el-khatib
+C. mohamed maarouf
+D. shikabala
+
+Answer:","{
+    ""A"": ""hosni abd rabou"",
+    ""B"": ""mahmoud el-khatib"",
+    ""C"": ""mohamed maarouf"",
+    ""D"": ""shikabala""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-170_1,EG-DIA-170,Sinai,"Who is the most popular sportperson in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hosni abd rabou
+B. karam gaber
+C. mahmoud el-khatib
+D. mohamed maarouf
+
+Answer:","{
+    ""A"": ""hosni abd rabou"",
+    ""B"": ""karam gaber"",
+    ""C"": ""mahmoud el-khatib"",
+    ""D"": ""mohamed maarouf""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-170_2,EG-DIA-170,Sinai,"Who is the most popular sportperson in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hosni abd rabou
+B. karam gaber
+C. mohamed maarouf
+D. shikabala
+
+Answer:","{
+    ""A"": ""hosni abd rabou"",
+    ""B"": ""karam gaber"",
+    ""C"": ""mohamed maarouf"",
+    ""D"": ""shikabala""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-170_3,EG-DIA-170,Sinai,"Who is the most popular sportperson in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. karam gaber
+B. mahmoud el-khatib
+C. mohamed maarouf
+D. shikabala
+
+Answer:","{
+    ""A"": ""karam gaber"",
+    ""B"": ""mahmoud el-khatib"",
+    ""C"": ""mohamed maarouf"",
+    ""D"": ""shikabala""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-172_0,EG-DIA-172,Sinai,"What is the most important industry in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cement
+B. clothing
+C. food industry
+D. textiles
+
+Answer:","{
+    ""A"": ""cement"",
+    ""B"": ""clothing"",
+    ""C"": ""food industry"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-172_1,EG-DIA-172,Sinai,"What is the most important industry in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cement
+B. clothing
+C. electrical cables
+D. food industry
+
+Answer:","{
+    ""A"": ""cement"",
+    ""B"": ""clothing"",
+    ""C"": ""electrical cables"",
+    ""D"": ""food industry""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-172_2,EG-DIA-172,Sinai,"What is the most important industry in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cement
+B. clothing
+C. electrical cables
+D. textiles
+
+Answer:","{
+    ""A"": ""cement"",
+    ""B"": ""clothing"",
+    ""C"": ""electrical cables"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-172_3,EG-DIA-172,Sinai,"What is the most important industry in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cement
+B. electrical cables
+C. food industry
+D. textiles
+
+Answer:","{
+    ""A"": ""cement"",
+    ""B"": ""electrical cables"",
+    ""C"": ""food industry"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-174_0,EG-DIA-174,Sinai,"What is a popular family game in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. backgammon
+B. chess
+C. domino
+D. football
+
+Answer:","{
+    ""A"": ""backgammon"",
+    ""B"": ""chess"",
+    ""C"": ""domino"",
+    ""D"": ""football""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-175_0,EG-DIA-175,Sinai,"What is Sinai's most popular food for family meals on weekends? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. fish
+C. koshari
+D. mahshi
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""fish"",
+    ""C"": ""koshari"",
+    ""D"": ""mahshi""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""dummy"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-175_1,EG-DIA-175,Sinai,"What is Sinai's most popular food for family meals on weekends? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fatta
+B. fish
+C. koshari
+D. mahshi
+
+Answer:","{
+    ""A"": ""fatta"",
+    ""B"": ""fish"",
+    ""C"": ""koshari"",
+    ""D"": ""mahshi""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""dummy"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-176_0,EG-DIA-176,Sinai,"Which subject is considered the most important for students in Sinai Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. english
+B. history
+C. mathematics
+D. physical education
+
+Answer:","{
+    ""A"": ""english"",
+    ""B"": ""history"",
+    ""C"": ""mathematics"",
+    ""D"": ""physical education""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-176_1,EG-DIA-176,Sinai,"Which subject is considered the most important for students in Sinai Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. history
+B. mathematics
+C. memorizing the the holy quran
+D. physical education
+
+Answer:","{
+    ""A"": ""history"",
+    ""B"": ""mathematics"",
+    ""C"": ""memorizing the the holy quran"",
+    ""D"": ""physical education""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-177_0,EG-DIA-177,Sinai,"What is a common public transport that people use to go to university in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. metro
+B. microbus
+C. public bus
+D. tram
+
+Answer:","{
+    ""A"": ""metro"",
+    ""B"": ""microbus"",
+    ""C"": ""public bus"",
+    ""D"": ""tram""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-178_0,EG-DIA-178,Sinai,"What is the most common morning drink in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coffee
+B. orange juice
+C. tea
+D. turkish coffee
+
+Answer:","{
+    ""A"": ""coffee"",
+    ""B"": ""orange juice"",
+    ""C"": ""tea"",
+    ""D"": ""turkish coffee""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-179_0,EG-DIA-179,Sinai,"What is the most popular weekday evening family activity in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. going to the beach
+B. going to the cinema
+C. on their phone
+D. sportsclub
+
+Answer:","{
+    ""A"": ""going to the beach"",
+    ""B"": ""going to the cinema"",
+    ""C"": ""on their phone"",
+    ""D"": ""sportsclub""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-179_1,EG-DIA-179,Sinai,"What is the most popular weekday evening family activity in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. going to the cinema
+B. on their phone
+C. play football
+D. sportsclub
+
+Answer:","{
+    ""A"": ""going to the cinema"",
+    ""B"": ""on their phone"",
+    ""C"": ""play football"",
+    ""D"": ""sportsclub""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-181_0,EG-DIA-181,Sinai,"What is the most popular grab-and-go breakfast option in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bagel with cream cheese
+B. breakfast burrito
+C. croissant
+D. ful sandwich
+
+Answer:","{
+    ""A"": ""bagel with cream cheese"",
+    ""B"": ""breakfast burrito"",
+    ""C"": ""croissant"",
+    ""D"": ""ful sandwich""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-182_0,EG-DIA-182,Sinai,"What do people from Sinai eat at the beach? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. grilled chicken
+B. koshari
+C. molokhia
+D. shawarma
+
+Answer:","{
+    ""A"": ""grilled chicken"",
+    ""B"": ""koshari"",
+    ""C"": ""molokhia"",
+    ""D"": ""shawarma""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-182_1,EG-DIA-182,Sinai,"What do people from Sinai eat at the beach? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. grilled meat
+B. koshari
+C. molokhia
+D. shawarma
+
+Answer:","{
+    ""A"": ""grilled meat"",
+    ""B"": ""koshari"",
+    ""C"": ""molokhia"",
+    ""D"": ""shawarma""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-183_0,EG-DIA-183,Sinai,"Where is the most popular tourist destination abroad for people from Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. jordan
+B. saudi arabia
+C. turkey
+D. united arab emirates
+
+Answer:","{
+    ""A"": ""jordan"",
+    ""B"": ""saudi arabia"",
+    ""C"": ""turkey"",
+    ""D"": ""united arab emirates""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Alexandria""
+}",B
+EG-DIA-184_0,EG-DIA-184,Sinai,"What region in Sinai has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. bilbeis
+C. country side
+D. rafah
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""bilbeis"",
+    ""C"": ""country side"",
+    ""D"": ""rafah""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-184_1,EG-DIA-184,Sinai,"What region in Sinai has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. country side
+C. rafah
+D. sohag
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""country side"",
+    ""C"": ""rafah"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-184_2,EG-DIA-184,Sinai,"What region in Sinai has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. country side
+C. rafah
+D. sahl el-tina
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""country side"",
+    ""C"": ""rafah"",
+    ""D"": ""sahl el-tina""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-184_3,EG-DIA-184,Sinai,"What region in Sinai has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. bilbeis
+C. rafah
+D. sohag
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""bilbeis"",
+    ""C"": ""rafah"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-184_4,EG-DIA-184,Sinai,"What region in Sinai has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. bilbeis
+C. rafah
+D. sahl el-tina
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""bilbeis"",
+    ""C"": ""rafah"",
+    ""D"": ""sahl el-tina""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-184_5,EG-DIA-184,Sinai,"What region in Sinai has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. rafah
+C. sahl el-tina
+D. sohag
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""rafah"",
+    ""C"": ""sahl el-tina"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-184_6,EG-DIA-184,Sinai,"What region in Sinai has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bilbeis
+B. country side
+C. rafah
+D. sohag
+
+Answer:","{
+    ""A"": ""bilbeis"",
+    ""B"": ""country side"",
+    ""C"": ""rafah"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-184_7,EG-DIA-184,Sinai,"What region in Sinai has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bilbeis
+B. country side
+C. rafah
+D. sahl el-tina
+
+Answer:","{
+    ""A"": ""bilbeis"",
+    ""B"": ""country side"",
+    ""C"": ""rafah"",
+    ""D"": ""sahl el-tina""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-184_8,EG-DIA-184,Sinai,"What region in Sinai has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. country side
+B. rafah
+C. sahl el-tina
+D. sohag
+
+Answer:","{
+    ""A"": ""country side"",
+    ""B"": ""rafah"",
+    ""C"": ""sahl el-tina"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-184_9,EG-DIA-184,Sinai,"What region in Sinai has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bilbeis
+B. rafah
+C. sahl el-tina
+D. sohag
+
+Answer:","{
+    ""A"": ""bilbeis"",
+    ""B"": ""rafah"",
+    ""C"": ""sahl el-tina"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-185_0,EG-DIA-185,Sinai,"What time do people usually have dinner in Sinai? (Provide in HH:MM format (e.g., 06:00PM, 09:00AM).) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 07:30pm
+B. 08:00pm
+C. 09:00PM
+D. 10:00PM
+
+Answer:","{
+    ""A"": ""07:30pm"",
+    ""B"": ""08:00pm"",
+    ""C"": ""09:00PM"",
+    ""D"": ""10:00PM""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-186_0,EG-DIA-186,Sinai,"Where do university students have lunch in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. at home
+B. cafeteria
+C. food court
+D. school cafeteria
+
+Answer:","{
+    ""A"": ""at home"",
+    ""B"": ""cafeteria"",
+    ""C"": ""food court"",
+    ""D"": ""school cafeteria""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-187_0,EG-DIA-187,Sinai,"Which is the most important meal of the day to people from Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. breakfast
+B. brunch
+C. dinner
+D. lunch
+
+Answer:","{
+    ""A"": ""breakfast"",
+    ""B"": ""brunch"",
+    ""C"": ""dinner"",
+    ""D"": ""lunch""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-188_0,EG-DIA-188,Sinai,"What do people especially spend their first salary on in Sinai's society? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. charity
+B. debt repayment
+C. gift
+D. going out
+
+Answer:","{
+    ""A"": ""charity"",
+    ""B"": ""debt repayment"",
+    ""C"": ""gift"",
+    ""D"": ""going out""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",C
+EG-DIA-189_0,EG-DIA-189,Sinai,"What is the second most popular sport in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. basketball
+B. football
+C. karate
+D. swimming
+
+Answer:","{
+    ""A"": ""basketball"",
+    ""B"": ""football"",
+    ""C"": ""karate"",
+    ""D"": ""swimming""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-190_0,EG-DIA-190,Sinai,"Which occupation is most preferred among females in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. online
+B. secretary
+C. teaching
+D. tour guide
+
+Answer:","{
+    ""A"": ""online"",
+    ""B"": ""secretary"",
+    ""C"": ""teaching"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-191_0,EG-DIA-191,Sinai,"Which occupation is most preferred among males in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. accountant
+B. government job
+C. realtor
+D. tour guide
+
+Answer:","{
+    ""A"": ""accountant"",
+    ""B"": ""government job"",
+    ""C"": ""realtor"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-192_0,EG-DIA-192,Sinai,"Which city is the primary commercial hub in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. downtown cairo
+C. mansheya
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""downtown cairo"",
+    ""C"": ""mansheya"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-192_1,EG-DIA-192,Sinai,"Which city is the primary commercial hub in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. downtown cairo
+D. mansheya
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""downtown cairo"",
+    ""D"": ""mansheya""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",A
+EG-DIA-192_2,EG-DIA-192,Sinai,"Which city is the primary commercial hub in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. downtown cairo
+C. mansheya
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""downtown cairo"",
+    ""C"": ""mansheya"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-192_3,EG-DIA-192,Sinai,"Which city is the primary commercial hub in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. mansheya
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""mansheya"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-192_4,EG-DIA-192,Sinai,"Which city is the primary commercial hub in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. mansheya
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""mansheya"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-192_5,EG-DIA-192,Sinai,"Which city is the primary commercial hub in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. mansheya
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""mansheya"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-192_6,EG-DIA-192,Sinai,"Which city is the primary commercial hub in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. downtown cairo
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""downtown cairo"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-192_7,EG-DIA-192,Sinai,"Which city is the primary commercial hub in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. downtown cairo
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""downtown cairo"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-192_8,EG-DIA-192,Sinai,"Which city is the primary commercial hub in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. downtown cairo
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""downtown cairo"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-192_9,EG-DIA-192,Sinai,"Which city is the primary commercial hub in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-193_0,EG-DIA-193,Sinai,"What is the traditional dance in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. belly dance
+B. dabke
+C. tahtib
+D. tanoura
+
+Answer:","{
+    ""A"": ""belly dance"",
+    ""B"": ""dabke"",
+    ""C"": ""tahtib"",
+    ""D"": ""tanoura""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-194_0,EG-DIA-194,Sinai,"What meal is most popular on the first day of Ramadan in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. duck
+B. koshari
+C. mahshi
+D. molokhia
+
+Answer:","{
+    ""A"": ""duck"",
+    ""B"": ""koshari"",
+    ""C"": ""mahshi"",
+    ""D"": ""molokhia""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-195_0,EG-DIA-195,Sinai,"What is the most common occupation in Sinai ? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. farming
+B. online
+C. realtor
+D. work in tourism
+
+Answer:","{
+    ""A"": ""farming"",
+    ""B"": ""online"",
+    ""C"": ""realtor"",
+    ""D"": ""work in tourism""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-195_1,EG-DIA-195,Sinai,"What is the most common occupation in Sinai ? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. farming
+B. online
+C. trade
+D. work in tourism
+
+Answer:","{
+    ""A"": ""farming"",
+    ""B"": ""online"",
+    ""C"": ""trade"",
+    ""D"": ""work in tourism""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-195_2,EG-DIA-195,Sinai,"What is the most common occupation in Sinai ? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. farming
+B. online
+C. realtor
+D. trade
+
+Answer:","{
+    ""A"": ""farming"",
+    ""B"": ""online"",
+    ""C"": ""realtor"",
+    ""D"": ""trade""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-195_3,EG-DIA-195,Sinai,"What is the most common occupation in Sinai ? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. farming
+B. realtor
+C. trade
+D. work in tourism
+
+Answer:","{
+    ""A"": ""farming"",
+    ""B"": ""realtor"",
+    ""C"": ""trade"",
+    ""D"": ""work in tourism""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-196_0,EG-DIA-196,Sinai,"What do families from Sinai  usually do when a baby is born? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. holding a christening ceremony in church
+B. hosting a baby shower
+C. planting a tree to mark the birth
+D. sacrificing an animal
+
+Answer:","{
+    ""A"": ""holding a christening ceremony in church"",
+    ""B"": ""hosting a baby shower"",
+    ""C"": ""planting a tree to mark the birth"",
+    ""D"": ""sacrificing an animal""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-197_0,EG-DIA-197,Sinai,"What do people from Sinai  bring with them while visiting an ill person? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. dates
+C. flowers
+D. fruit
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""dates"",
+    ""C"": ""flowers"",
+    ""D"": ""fruit""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-198_0,EG-DIA-198,Sinai,"Which pastries/sweets are the most sold during Eid al Fitr in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. basbousa
+C. ka'ak
+D. kunafa
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""basbousa"",
+    ""C"": ""ka'ak"",
+    ""D"": ""kunafa""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-199_0,EG-DIA-199,Sinai,"What do women from Sinai drink right after giving birth? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. caraway tea
+B. ground fenugreek
+C. hibiscus tea
+D. sahlab
+
+Answer:","{
+    ""A"": ""caraway tea"",
+    ""B"": ""ground fenugreek"",
+    ""C"": ""hibiscus tea"",
+    ""D"": ""sahlab""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-200_0,EG-DIA-200,Sinai,"Which artist is the most played during weddings in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ahmed saad
+B. amr diab
+C. hakim
+D. rahma mohsen
+
+Answer:","{
+    ""A"": ""ahmed saad"",
+    ""B"": ""amr diab"",
+    ""C"": ""hakim"",
+    ""D"": ""rahma mohsen""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-06_0,EG-DIA-06,Sinai,"What is the most common ingredient used in Sinai's diet? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cumin
+B. onion
+C. salt
+D. tomato
+
+Answer:","{
+    ""A"": ""cumin"",
+    ""B"": ""onion"",
+    ""C"": ""salt"",
+    ""D"": ""tomato""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",D
+EG-DIA-10_0,EG-DIA-10,Sinai,"What destination is commonly chosen for a family vacation in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. aswan
+C. beach
+D. hurghada
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""aswan"",
+    ""C"": ""beach"",
+    ""D"": ""hurghada""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-11_0,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. mango
+C. olive oil
+D. petrol
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""mango"",
+    ""C"": ""olive oil"",
+    ""D"": ""petrol""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-11_1,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. olive oil
+C. petrol
+D. textiles
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""olive oil"",
+    ""C"": ""petrol"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-11_2,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. olive oil
+C. petrol
+D. pharaonic costumes
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""olive oil"",
+    ""C"": ""petrol"",
+    ""D"": ""pharaonic costumes""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-11_3,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. olive oil
+C. petrol
+D. textiles
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""olive oil"",
+    ""C"": ""petrol"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-11_4,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. olive oil
+C. petrol
+D. pharaonic costumes
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""olive oil"",
+    ""C"": ""petrol"",
+    ""D"": ""pharaonic costumes""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-11_5,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. olive oil
+B. petrol
+C. pharaonic costumes
+D. textiles
+
+Answer:","{
+    ""A"": ""olive oil"",
+    ""B"": ""petrol"",
+    ""C"": ""pharaonic costumes"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-11_6,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. mango
+C. olive oil
+D. textiles
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""mango"",
+    ""C"": ""olive oil"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-11_7,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. mango
+C. olive oil
+D. pharaonic costumes
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""mango"",
+    ""C"": ""olive oil"",
+    ""D"": ""pharaonic costumes""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-11_8,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. olive oil
+C. pharaonic costumes
+D. textiles
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""olive oil"",
+    ""C"": ""pharaonic costumes"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-11_9,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. olive oil
+C. pharaonic costumes
+D. textiles
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""olive oil"",
+    ""C"": ""pharaonic costumes"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-11_10,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. mango
+C. orange
+D. petrol
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""mango"",
+    ""C"": ""orange"",
+    ""D"": ""petrol""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-11_11,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. orange
+C. petrol
+D. textiles
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""orange"",
+    ""C"": ""petrol"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-11_12,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. orange
+C. petrol
+D. pharaonic costumes
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""orange"",
+    ""C"": ""petrol"",
+    ""D"": ""pharaonic costumes""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-11_13,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. orange
+C. petrol
+D. textiles
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""orange"",
+    ""C"": ""petrol"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-11_14,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. orange
+C. petrol
+D. pharaonic costumes
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""orange"",
+    ""C"": ""petrol"",
+    ""D"": ""pharaonic costumes""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-11_15,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. orange
+B. petrol
+C. pharaonic costumes
+D. textiles
+
+Answer:","{
+    ""A"": ""orange"",
+    ""B"": ""petrol"",
+    ""C"": ""pharaonic costumes"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-11_16,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. mango
+C. orange
+D. textiles
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""mango"",
+    ""C"": ""orange"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-11_17,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. mango
+C. orange
+D. pharaonic costumes
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""mango"",
+    ""C"": ""orange"",
+    ""D"": ""pharaonic costumes""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-11_18,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. orange
+C. pharaonic costumes
+D. textiles
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""orange"",
+    ""C"": ""pharaonic costumes"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-11_19,EG-DIA-11,Sinai,"What is the representative export item of Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mango
+B. orange
+C. pharaonic costumes
+D. textiles
+
+Answer:","{
+    ""A"": ""mango"",
+    ""B"": ""orange"",
+    ""C"": ""pharaonic costumes"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-23_0,EG-DIA-23,Sinai,"What do people eat for lunch during the working days in Sinai? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. falafel
+C. koshari
+D. sandwiches
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""falafel"",
+    ""C"": ""koshari"",
+    ""D"": ""sandwiches""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",D

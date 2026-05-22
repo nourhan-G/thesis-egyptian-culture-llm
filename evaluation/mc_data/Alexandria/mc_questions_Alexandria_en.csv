@@ -1,0 +1,6031 @@
+﻿MCQID,ID,country,prompt,choices,choice_countries,answer_idx
+EG-DIA-01_0,EG-DIA-01,Alexandria,"What is a common snack for preschool kids in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. biscuits
+B. chips
+C. popcorn
+D. sliced fruit
+
+Answer:","{
+    ""A"": ""biscuits"",
+    ""B"": ""chips"",
+    ""C"": ""popcorn"",
+    ""D"": ""sliced fruit""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-03_0,EG-DIA-03,Alexandria,"At what age do kids start preschool in Alexandria?(use arabic numerals) (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 2
+B. 4
+C. 5
+D. 6
+
+Answer:","{
+    ""A"": ""2"",
+    ""B"": ""4"",
+    ""C"": ""5"",
+    ""D"": ""6""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-04_0,EG-DIA-04,Alexandria,"What do people do to celebrate Easter in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beach
+B. they attend the rio carnival parade and dance samba in the streets
+C. they eat fesikh
+D. they watch the macy's thanksgiving day parade and eat roast turkey with cranberry sauce
+
+Answer:","{
+    ""A"": ""beach"",
+    ""B"": ""they attend the rio carnival parade and dance samba in the streets"",
+    ""C"": ""they eat fesikh"",
+    ""D"": ""they watch the macy's thanksgiving day parade and eat roast turkey with cranberry sauce""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-05_0,EG-DIA-05,Alexandria,"What food is associated with Easter in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fesikh
+B. koshari
+C. maamoul
+D. molokhia
+
+Answer:","{
+    ""A"": ""fesikh"",
+    ""B"": ""koshari"",
+    ""C"": ""maamoul"",
+    ""D"": ""molokhia""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-06_0,EG-DIA-06,Alexandria,"What is the most common ingredient used in Alexandria's diet? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. onion
+B. salt
+C. spices
+D. tomato
+
+Answer:","{
+    ""A"": ""onion"",
+    ""B"": ""salt"",
+    ""C"": ""spices"",
+    ""D"": ""tomato""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-07_0,EG-DIA-07,Alexandria,"What do people from Alexandria usually eat for dessert? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. basbousa
+C. rice pudding
+D. umm ali
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""basbousa"",
+    ""C"": ""rice pudding"",
+    ""D"": ""umm ali""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-08_0,EG-DIA-08,Alexandria,"Which is the most popular hot drink in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hot chocolate
+B. sahlab
+C. tea
+D. turkish coffee
+
+Answer:","{
+    ""A"": ""hot chocolate"",
+    ""B"": ""sahlab"",
+    ""C"": ""tea"",
+    ""D"": ""turkish coffee""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-09_0,EG-DIA-09,Alexandria,"Which is the typical type of house for a family in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apartment in a residential building
+B. detached suburban villa
+C. family home
+D. traditional bedouin tent
+
+Answer:","{
+    ""A"": ""apartment in a residential building"",
+    ""B"": ""detached suburban villa"",
+    ""C"": ""family home"",
+    ""D"": ""traditional bedouin tent""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-10_0,EG-DIA-10,Alexandria,"What destination is commonly chosen for a family vacation in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. aswan
+C. hurghada
+D. the beach
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""aswan"",
+    ""C"": ""hurghada"",
+    ""D"": ""the beach""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-11_0,EG-DIA-11,Alexandria,"What is the representative export item of Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. clothing
+B. fish
+C. petrol
+D. textiles
+
+Answer:","{
+    ""A"": ""clothing"",
+    ""B"": ""fish"",
+    ""C"": ""petrol"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-11_1,EG-DIA-11,Alexandria,"What is the representative export item of Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. clothing
+B. fish
+C. petrol
+D. sugar
+
+Answer:","{
+    ""A"": ""clothing"",
+    ""B"": ""fish"",
+    ""C"": ""petrol"",
+    ""D"": ""sugar""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-11_2,EG-DIA-11,Alexandria,"What is the representative export item of Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. clothing
+B. fish
+C. olive oil
+D. petrol
+
+Answer:","{
+    ""A"": ""clothing"",
+    ""B"": ""fish"",
+    ""C"": ""olive oil"",
+    ""D"": ""petrol""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-11_3,EG-DIA-11,Alexandria,"What is the representative export item of Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. petrol
+C. sugar
+D. textiles
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""petrol"",
+    ""C"": ""sugar"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-11_4,EG-DIA-11,Alexandria,"What is the representative export item of Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. olive oil
+C. petrol
+D. textiles
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""olive oil"",
+    ""C"": ""petrol"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-11_5,EG-DIA-11,Alexandria,"What is the representative export item of Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. olive oil
+C. petrol
+D. sugar
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""olive oil"",
+    ""C"": ""petrol"",
+    ""D"": ""sugar""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-11_6,EG-DIA-11,Alexandria,"What is the representative export item of Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. clothing
+B. fish
+C. sugar
+D. textiles
+
+Answer:","{
+    ""A"": ""clothing"",
+    ""B"": ""fish"",
+    ""C"": ""sugar"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Alexandria"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-11_7,EG-DIA-11,Alexandria,"What is the representative export item of Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. clothing
+B. fish
+C. olive oil
+D. textiles
+
+Answer:","{
+    ""A"": ""clothing"",
+    ""B"": ""fish"",
+    ""C"": ""olive oil"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-11_8,EG-DIA-11,Alexandria,"What is the representative export item of Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. clothing
+B. fish
+C. olive oil
+D. sugar
+
+Answer:","{
+    ""A"": ""clothing"",
+    ""B"": ""fish"",
+    ""C"": ""olive oil"",
+    ""D"": ""sugar""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-11_9,EG-DIA-11,Alexandria,"What is the representative export item of Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. olive oil
+C. sugar
+D. textiles
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""olive oil"",
+    ""C"": ""sugar"",
+    ""D"": ""textiles""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-12_0,EG-DIA-12,Alexandria,"What is the common gift you give when visiting elderly parents in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chocolates
+B. flowers
+C. fruit
+D. traditional eastern sweets
+
+Answer:","{
+    ""A"": ""chocolates"",
+    ""B"": ""flowers"",
+    ""C"": ""fruit"",
+    ""D"": ""traditional eastern sweets""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-13_0,EG-DIA-13,Alexandria,"How do elementary school students in Alexandria go to school? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bicycle
+B. metro
+C. microbus
+D. tram
+
+Answer:","{
+    ""A"": ""bicycle"",
+    ""B"": ""metro"",
+    ""C"": ""microbus"",
+    ""D"": ""tram""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-13_1,EG-DIA-13,Alexandria,"How do elementary school students in Alexandria go to school? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bicycle
+B. metro
+C. public bus
+D. tram
+
+Answer:","{
+    ""A"": ""bicycle"",
+    ""B"": ""metro"",
+    ""C"": ""public bus"",
+    ""D"": ""tram""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-14_0,EG-DIA-14,Alexandria,"Which region (within a city) in Alexandria has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cairo
+B. el-arish
+C. moharam bek
+D. tanta
+
+Answer:","{
+    ""A"": ""cairo"",
+    ""B"": ""el-arish"",
+    ""C"": ""moharam bek"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-14_1,EG-DIA-14,Alexandria,"Which region (within a city) in Alexandria has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. el-arish
+C. moharam bek
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""el-arish"",
+    ""C"": ""moharam bek"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-14_2,EG-DIA-14,Alexandria,"Which region (within a city) in Alexandria has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-arish
+B. moharam bek
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""el-arish"",
+    ""B"": ""moharam bek"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-14_3,EG-DIA-14,Alexandria,"Which region (within a city) in Alexandria has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. moharam bek
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""moharam bek"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-14_4,EG-DIA-14,Alexandria,"Which region (within a city) in Alexandria has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cairo
+B. moharam bek
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""cairo"",
+    ""B"": ""moharam bek"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-14_5,EG-DIA-14,Alexandria,"Which region (within a city) in Alexandria has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. moharam bek
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""moharam bek"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-14_6,EG-DIA-14,Alexandria,"Which region (within a city) in Alexandria has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. el-arish
+D. moharam bek
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""el-arish"",
+    ""D"": ""moharam bek""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-14_7,EG-DIA-14,Alexandria,"Which region (within a city) in Alexandria has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cairo
+B. el-arish
+C. moharam bek
+D. port said
+
+Answer:","{
+    ""A"": ""cairo"",
+    ""B"": ""el-arish"",
+    ""C"": ""moharam bek"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-14_8,EG-DIA-14,Alexandria,"Which region (within a city) in Alexandria has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. el-arish
+C. moharam bek
+D. port said
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""el-arish"",
+    ""C"": ""moharam bek"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-14_9,EG-DIA-14,Alexandria,"Which region (within a city) in Alexandria has the highest academic fervor? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. moharam bek
+D. port said
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""moharam bek"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-15_0,EG-DIA-15,Alexandria,"What is the most popular sport played without a ball in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. boxing
+B. camel racing
+C. karate
+D. swimming
+
+Answer:","{
+    ""A"": ""boxing"",
+    ""B"": ""camel racing"",
+    ""C"": ""karate"",
+    ""D"": ""swimming""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-16_0,EG-DIA-16,Alexandria,"What soft drink do people in Alexandria like to have? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dr pepper
+B. irn-bru
+C. pepsi
+D. red bull
+
+Answer:","{
+    ""A"": ""dr pepper"",
+    ""B"": ""irn-bru"",
+    ""C"": ""pepsi"",
+    ""D"": ""red bull""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-17_0,EG-DIA-17,Alexandria,"What kind of soup do people from Alexandria like to have? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. lentil soup
+B. lesan asfour
+C. seafood soup
+D. tom yum
+
+Answer:","{
+    ""A"": ""lentil soup"",
+    ""B"": ""lesan asfour"",
+    ""C"": ""seafood soup"",
+    ""D"": ""tom yum""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-18_0,EG-DIA-18,Alexandria,"What street food do people from Alexandria like to eat? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ful
+B. kebda iskandarani
+C. savory crepe
+D. taameya
+
+Answer:","{
+    ""A"": ""ful"",
+    ""B"": ""kebda iskandarani"",
+    ""C"": ""savory crepe"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-18_1,EG-DIA-18,Alexandria,"What street food do people from Alexandria like to eat? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ful
+B. kebda iskandarani
+C. pizza
+D. taameya
+
+Answer:","{
+    ""A"": ""ful"",
+    ""B"": ""kebda iskandarani"",
+    ""C"": ""pizza"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-18_2,EG-DIA-18,Alexandria,"What street food do people from Alexandria like to eat? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ful
+B. kebda iskandarani
+C. pizza
+D. savory crepe
+
+Answer:","{
+    ""A"": ""ful"",
+    ""B"": ""kebda iskandarani"",
+    ""C"": ""pizza"",
+    ""D"": ""savory crepe""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Sinai""
+}",B
+EG-DIA-18_3,EG-DIA-18,Alexandria,"What street food do people from Alexandria like to eat? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. kebda iskandarani
+B. pizza
+C. savory crepe
+D. taameya
+
+Answer:","{
+    ""A"": ""kebda iskandarani"",
+    ""B"": ""pizza"",
+    ""C"": ""savory crepe"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-19_0,EG-DIA-19,Alexandria,"What kind of seafood do people from Alexandria like to eat Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. crab
+B. lobster
+C. shrimp
+D. singari
+
+Answer:","{
+    ""A"": ""crab"",
+    ""B"": ""lobster"",
+    ""C"": ""shrimp"",
+    ""D"": ""singari""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-20_0,EG-DIA-20,Alexandria,"What is the most commonly used public transport by people when travelling between cites in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria metro
+B. ferry
+C. microbus
+D. taxi
+
+Answer:","{
+    ""A"": ""alexandria metro"",
+    ""B"": ""ferry"",
+    ""C"": ""microbus"",
+    ""D"": ""taxi""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-22_0,EG-DIA-22,Alexandria,"What is the common leisure activity that males in their 20s in Alexandria engage in? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. play playstation
+B. shopping at city stars mall
+C. sit at a cafe
+D. skiing in aspen
+
+Answer:","{
+    ""A"": ""play playstation"",
+    ""B"": ""shopping at city stars mall"",
+    ""C"": ""sit at a cafe"",
+    ""D"": ""skiing in aspen""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-23_0,EG-DIA-23,Alexandria,"What do people eat for lunch during the working days in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. fish and chips
+C. sandwiches
+D. sushi
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""fish and chips"",
+    ""C"": ""sandwiches"",
+    ""D"": ""sushi""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-25_0,EG-DIA-25,Alexandria,"What is the most common transportation that people take to get to work in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. microbus
+B. private car
+C. public bus
+D. tuk tuk
+
+Answer:","{
+    ""A"": ""microbus"",
+    ""B"": ""private car"",
+    ""C"": ""public bus"",
+    ""D"": ""tuk tuk""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-25_1,EG-DIA-25,Alexandria,"What is the most common transportation that people take to get to work in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. microbus
+B. private car
+C. taxi
+D. tuk tuk
+
+Answer:","{
+    ""A"": ""microbus"",
+    ""B"": ""private car"",
+    ""C"": ""taxi"",
+    ""D"": ""tuk tuk""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-26_0,EG-DIA-26,Alexandria,"What food do the hosts usually prepare for the guests in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. koshari
+B. mahshi
+C. rice
+D. seafood
+
+Answer:","{
+    ""A"": ""koshari"",
+    ""B"": ""mahshi"",
+    ""C"": ""rice"",
+    ""D"": ""seafood""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-26_1,EG-DIA-26,Alexandria,"What food do the hosts usually prepare for the guests in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. koshari
+B. macarona bechamel
+C. mahshi
+D. rice
+
+Answer:","{
+    ""A"": ""koshari"",
+    ""B"": ""macarona bechamel"",
+    ""C"": ""mahshi"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-26_2,EG-DIA-26,Alexandria,"What food do the hosts usually prepare for the guests in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. koshari
+C. mahshi
+D. rice
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""koshari"",
+    ""C"": ""mahshi"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-27_0,EG-DIA-27,Alexandria,"What is the usual drink in the breakfast in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hot chocolate
+B. mate
+C. orange juice
+D. tea
+
+Answer:","{
+    ""A"": ""hot chocolate"",
+    ""B"": ""mate"",
+    ""C"": ""orange juice"",
+    ""D"": ""tea""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-28_0,EG-DIA-28,Alexandria,"What food is usually prepared for a family picnic in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. grilled meat
+C. mahshi
+D. sandwiches
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""grilled meat"",
+    ""C"": ""mahshi"",
+    ""D"": ""sandwiches""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-29_0,EG-DIA-29,Alexandria,"Which food from Alexandria is considered disgusting by the rest of the world? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. griled/fried organ meat
+C. lasima
+D. wedge clams
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""griled/fried organ meat"",
+    ""C"": ""lasima"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-29_1,EG-DIA-29,Alexandria,"Which food from Alexandria is considered disgusting by the rest of the world? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cow trotter
+B. griled/fried organ meat
+C. lasima
+D. wedge clams
+
+Answer:","{
+    ""A"": ""cow trotter"",
+    ""B"": ""griled/fried organ meat"",
+    ""C"": ""lasima"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-29_2,EG-DIA-29,Alexandria,"Which food from Alexandria is considered disgusting by the rest of the world? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cow trotter
+B. el-meluah
+C. lasima
+D. wedge clams
+
+Answer:","{
+    ""A"": ""cow trotter"",
+    ""B"": ""el-meluah"",
+    ""C"": ""lasima"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-29_3,EG-DIA-29,Alexandria,"Which food from Alexandria is considered disgusting by the rest of the world? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cow trotter
+B. el-meluah
+C. griled/fried organ meat
+D. wedge clams
+
+Answer:","{
+    ""A"": ""cow trotter"",
+    ""B"": ""el-meluah"",
+    ""C"": ""griled/fried organ meat"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-30_0,EG-DIA-30,Alexandria,"What is the name of the popular bread in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. eish baladi
+B. focaccia
+C. naan
+D. saj
+
+Answer:","{
+    ""A"": ""eish baladi"",
+    ""B"": ""focaccia"",
+    ""C"": ""naan"",
+    ""D"": ""saj""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-30_1,EG-DIA-30,Alexandria,"What is the name of the popular bread in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. focaccia
+B. naan
+C. saj
+D. shami
+
+Answer:","{
+    ""A"": ""focaccia"",
+    ""B"": ""naan"",
+    ""C"": ""saj"",
+    ""D"": ""shami""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-31_0,EG-DIA-31,Alexandria,"What event is usually held before a wedding in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. engagement
+B. henna
+C. mawlid celebration
+D. sham el-nessim picnic
+
+Answer:","{
+    ""A"": ""engagement"",
+    ""B"": ""henna"",
+    ""C"": ""mawlid celebration"",
+    ""D"": ""sham el-nessim picnic""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-32_0,EG-DIA-32,Alexandria,"What activities are usually done days before Ramadan in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. attending the cairo international book fair
+B. hanging decorations
+C. skiing at ski egypt in mall of arabia
+D. visiting the bibliotheca alexandrina planetarium
+
+Answer:","{
+    ""A"": ""attending the cairo international book fair"",
+    ""B"": ""hanging decorations"",
+    ""C"": ""skiing at ski egypt in mall of arabia"",
+    ""D"": ""visiting the bibliotheca alexandrina planetarium""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-33_0,EG-DIA-33,Alexandria,"What is the most popular tourist attraction for foreign visitors in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bibliotheca alexandrina
+B. dayan Rock
+C. sayyid al-badawi in tanta
+D. the pyramids
+
+Answer:","{
+    ""A"": ""bibliotheca alexandrina"",
+    ""B"": ""dayan Rock"",
+    ""C"": ""sayyid al-badawi in tanta"",
+    ""D"": ""the pyramids""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-33_1,EG-DIA-33,Alexandria,"What is the most popular tourist attraction for foreign visitors in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bibliotheca alexandrina
+B. philae temple
+C. sayyid al-badawi in tanta
+D. the pyramids
+
+Answer:","{
+    ""A"": ""bibliotheca alexandrina"",
+    ""B"": ""philae temple"",
+    ""C"": ""sayyid al-badawi in tanta"",
+    ""D"": ""the pyramids""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-33_2,EG-DIA-33,Alexandria,"What is the most popular tourist attraction for foreign visitors in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bibliotheca alexandrina
+B. dayan Rock
+C. philae temple
+D. the pyramids
+
+Answer:","{
+    ""A"": ""bibliotheca alexandrina"",
+    ""B"": ""dayan Rock"",
+    ""C"": ""philae temple"",
+    ""D"": ""the pyramids""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-33_3,EG-DIA-33,Alexandria,"What is the most popular tourist attraction for foreign visitors in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bibliotheca alexandrina
+B. dayan Rock
+C. philae temple
+D. sayyid al-badawi in tanta
+
+Answer:","{
+    ""A"": ""bibliotheca alexandrina"",
+    ""B"": ""dayan Rock"",
+    ""C"": ""philae temple"",
+    ""D"": ""sayyid al-badawi in tanta""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-35_0,EG-DIA-35,Alexandria,"What drink is commonly consumed in Alexandria when the weather is cold? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coffee
+B. mulled wine
+C. sahlab
+D. tea
+
+Answer:","{
+    ""A"": ""coffee"",
+    ""B"": ""mulled wine"",
+    ""C"": ""sahlab"",
+    ""D"": ""tea""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",C
+EG-DIA-36_0,EG-DIA-36,Alexandria,"What fruit is more commonly sold and found during Ramadan in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. grape
+B. mango
+C. pomegranate
+D. strawberry
+
+Answer:","{
+    ""A"": ""grape"",
+    ""B"": ""mango"",
+    ""C"": ""pomegranate"",
+    ""D"": ""strawberry""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-37_0,EG-DIA-37,Alexandria,"What carbohydrate is usually served with chicken in a fast-food restaurant in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. french fries
+C. potato
+D. rice
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""french fries"",
+    ""C"": ""potato"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-38_0,EG-DIA-38,Alexandria,"What sports field facilities are usually available at schools in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. football
+B. tennis
+C. tennis court
+D. volleyball field
+
+Answer:","{
+    ""A"": ""football"",
+    ""B"": ""tennis"",
+    ""C"": ""tennis court"",
+    ""D"": ""volleyball field""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-39_0,EG-DIA-39,Alexandria,"What cafe beverage do people from Alexandria most commonly enjoy? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cappuccino
+B. hot chocolate
+C. ice coffee
+D. mocha latte
+
+Answer:","{
+    ""A"": ""cappuccino"",
+    ""B"": ""hot chocolate"",
+    ""C"": ""ice coffee"",
+    ""D"": ""mocha latte""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-40_0,EG-DIA-40,Alexandria,"What is the typical delivery food in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. pizza
+B. savory crepe
+C. sushi
+D. taameya
+
+Answer:","{
+    ""A"": ""pizza"",
+    ""B"": ""savory crepe"",
+    ""C"": ""sushi"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-41_0,EG-DIA-41,Alexandria,"What type of meat is consumed most by people from Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camel meat
+B. chicken
+C. cow
+D. lamb
+
+Answer:","{
+    ""A"": ""camel meat"",
+    ""B"": ""chicken"",
+    ""C"": ""cow"",
+    ""D"": ""lamb""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-42_0,EG-DIA-42,Alexandria,"What fruit do people from Alexandria  often eat in the autumn season? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apple
+B. banana
+C. banana
+D. oranges
+
+Answer:","{
+    ""A"": ""apple"",
+    ""B"": ""banana"",
+    ""C"": ""banana"",
+    ""D"": ""oranges""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-42_1,EG-DIA-42,Alexandria,"What fruit do people from Alexandria  often eat in the autumn season? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apple
+B. banana
+C. banana
+D. tangerine
+
+Answer:","{
+    ""A"": ""apple"",
+    ""B"": ""banana"",
+    ""C"": ""banana"",
+    ""D"": ""tangerine""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-43_0,EG-DIA-43,Alexandria,"What side dish is the most commonly served on a dining table in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coleslaw
+B. hummus
+C. pickled vegetables
+D. tabbouleh
+
+Answer:","{
+    ""A"": ""coleslaw"",
+    ""B"": ""hummus"",
+    ""C"": ""pickled vegetables"",
+    ""D"": ""tabbouleh""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-44_0,EG-DIA-44,Alexandria,"What do people from Alexandria eat while watching a soccer game? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. nachos
+B. peanuts
+C. popcorn
+D. pretzels
+
+Answer:","{
+    ""A"": ""nachos"",
+    ""B"": ""peanuts"",
+    ""C"": ""popcorn"",
+    ""D"": ""pretzels""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-47_0,EG-DIA-47,Alexandria,"What sports event do people from Alexandria passionately support the most in international competitions? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camel racing
+B. uefa european championship
+C. wimbledon championships
+D. world cup
+
+Answer:","{
+    ""A"": ""camel racing"",
+    ""B"": ""uefa european championship"",
+    ""C"": ""wimbledon championships"",
+    ""D"": ""world cup""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-48_0,EG-DIA-48,Alexandria,"What is the most commonly eaten food in sports stadiums while watching games in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chips
+B. hot dog
+C. peanuts
+D. roasted seeds
+
+Answer:","{
+    ""A"": ""chips"",
+    ""B"": ""hot dog"",
+    ""C"": ""peanuts"",
+    ""D"": ""roasted seeds""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-48_1,EG-DIA-48,Alexandria,"What is the most commonly eaten food in sports stadiums while watching games in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hot dog
+B. peanuts
+C. popcorn
+D. roasted seeds
+
+Answer:","{
+    ""A"": ""hot dog"",
+    ""B"": ""peanuts"",
+    ""C"": ""popcorn"",
+    ""D"": ""roasted seeds""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-49_0,EG-DIA-49,Alexandria,"What is the most popular online game in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. block blast
+B. fortnite
+C. league of legends
+D. minecraft
+
+Answer:","{
+    ""A"": ""block blast"",
+    ""B"": ""fortnite"",
+    ""C"": ""league of legends"",
+    ""D"": ""minecraft""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-49_1,EG-DIA-49,Alexandria,"What is the most popular online game in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fortnite
+B. league of legends
+C. minecraft
+D. pubg mobile
+
+Answer:","{
+    ""A"": ""fortnite"",
+    ""B"": ""league of legends"",
+    ""C"": ""minecraft"",
+    ""D"": ""pubg mobile""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-50_0,EG-DIA-50,Alexandria,"What is the most popular domestic vacation spot for people from Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. beach
+C. museum
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""beach"",
+    ""C"": ""museum"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",B
+EG-DIA-50_1,EG-DIA-50,Alexandria,"What is the most popular domestic vacation spot for people from Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. beach
+C. corniche
+D. museum
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""beach"",
+    ""C"": ""corniche"",
+    ""D"": ""museum""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-50_2,EG-DIA-50,Alexandria,"What is the most popular domestic vacation spot for people from Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. beach
+C. museum
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""beach"",
+    ""C"": ""museum"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-50_3,EG-DIA-50,Alexandria,"What is the most popular domestic vacation spot for people from Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beach
+B. corniche
+C. museum
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""beach"",
+    ""B"": ""corniche"",
+    ""C"": ""museum"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-50_4,EG-DIA-50,Alexandria,"What is the most popular domestic vacation spot for people from Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beach
+B. museum
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""beach"",
+    ""B"": ""museum"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-50_5,EG-DIA-50,Alexandria,"What is the most popular domestic vacation spot for people from Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beach
+B. corniche
+C. museum
+D. timsah lake
+
+Answer:","{
+    ""A"": ""beach"",
+    ""B"": ""corniche"",
+    ""C"": ""museum"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-50_6,EG-DIA-50,Alexandria,"What is the most popular domestic vacation spot for people from Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. beach
+C. corniche
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""beach"",
+    ""C"": ""corniche"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""Sinai""
+}",B
+EG-DIA-50_7,EG-DIA-50,Alexandria,"What is the most popular domestic vacation spot for people from Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. beach
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""beach"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-50_8,EG-DIA-50,Alexandria,"What is the most popular domestic vacation spot for people from Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. beach
+C. corniche
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""beach"",
+    ""C"": ""corniche"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-50_9,EG-DIA-50,Alexandria,"What is the most popular domestic vacation spot for people from Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beach
+B. corniche
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""beach"",
+    ""B"": ""corniche"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-51_0,EG-DIA-51,Alexandria,"What is the most common wedding gift between bride and groom in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. flowers
+B. money
+C. silver jewelry
+D. wristwatch
+
+Answer:","{
+    ""A"": ""flowers"",
+    ""B"": ""money"",
+    ""C"": ""silver jewelry"",
+    ""D"": ""wristwatch""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-52_0,EG-DIA-52,Alexandria,"What is typically given as a congratulatory gesture when attending a friend's wedding in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chocolates
+B. flowers
+C. perfume
+D. sweets
+
+Answer:","{
+    ""A"": ""chocolates"",
+    ""B"": ""flowers"",
+    ""C"": ""perfume"",
+    ""D"": ""sweets""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-54_0,EG-DIA-54,Alexandria,"What type of food is commonly provided at funeral parlors in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dates
+B. falafel
+C. maftoul
+D. pasta
+
+Answer:","{
+    ""A"": ""dates"",
+    ""B"": ""falafel"",
+    ""C"": ""maftoul"",
+    ""D"": ""pasta""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-55_0,EG-DIA-55,Alexandria,"When is the day with Alexandria's most severe nationwide traffic congestion? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. monday
+B. saturday
+C. thursday
+D. tuesday
+
+Answer:","{
+    ""A"": ""monday"",
+    ""B"": ""saturday"",
+    ""C"": ""thursday"",
+    ""D"": ""tuesday""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-56_0,EG-DIA-56,Alexandria,"What is the most popular honeymoon destination in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. aswan
+C. miami
+D. nile corniche
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""aswan"",
+    ""C"": ""miami"",
+    ""D"": ""nile corniche""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-56_1,EG-DIA-56,Alexandria,"What is the most popular honeymoon destination in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. miami
+C. nile corniche
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""miami"",
+    ""C"": ""nile corniche"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",B
+EG-DIA-56_2,EG-DIA-56,Alexandria,"What is the most popular honeymoon destination in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. miami
+C. nile corniche
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""miami"",
+    ""C"": ""nile corniche"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-56_3,EG-DIA-56,Alexandria,"What is the most popular honeymoon destination in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. aswan
+C. miami
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""aswan"",
+    ""C"": ""miami"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",C
+EG-DIA-56_4,EG-DIA-56,Alexandria,"What is the most popular honeymoon destination in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. aswan
+C. miami
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""aswan"",
+    ""C"": ""miami"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-56_5,EG-DIA-56,Alexandria,"What is the most popular honeymoon destination in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria
+B. miami
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""alexandria"",
+    ""B"": ""miami"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-56_6,EG-DIA-56,Alexandria,"What is the most popular honeymoon destination in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. miami
+C. nile corniche
+D. sama al-arish
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""miami"",
+    ""C"": ""nile corniche"",
+    ""D"": ""sama al-arish""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",B
+EG-DIA-56_7,EG-DIA-56,Alexandria,"What is the most popular honeymoon destination in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. miami
+C. nile corniche
+D. timsah lake
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""miami"",
+    ""C"": ""nile corniche"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-56_8,EG-DIA-56,Alexandria,"What is the most popular honeymoon destination in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. miami
+B. nile corniche
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""miami"",
+    ""B"": ""nile corniche"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-56_9,EG-DIA-56,Alexandria,"What is the most popular honeymoon destination in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. miami
+C. sama al-arish
+D. timsah lake
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""miami"",
+    ""C"": ""sama al-arish"",
+    ""D"": ""timsah lake""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-57_0,EG-DIA-57,Alexandria,"What do people from Alexandria eat in Ramadan? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. falafel
+B. feteer meshaltet
+C. koshari
+D. mahshi
+
+Answer:","{
+    ""A"": ""falafel"",
+    ""B"": ""feteer meshaltet"",
+    ""C"": ""koshari"",
+    ""D"": ""mahshi""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-58_0,EG-DIA-58,Alexandria,"What do people from Alexandria eat in Eid ul Fitr? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. biscuits
+B. koshari
+C. mahshi
+D. molokhia
+
+Answer:","{
+    ""A"": ""biscuits"",
+    ""B"": ""koshari"",
+    ""C"": ""mahshi"",
+    ""D"": ""molokhia""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-59_0,EG-DIA-59,Alexandria,"What do people from Alexandria eat in Eid ul Adha? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. koshari
+B. liver
+C. meat
+D. mulukhiyah
+
+Answer:","{
+    ""A"": ""koshari"",
+    ""B"": ""liver"",
+    ""C"": ""meat"",
+    ""D"": ""mulukhiyah""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-60_0,EG-DIA-60,Alexandria,"Where do a family gather for Eid festivities in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. at the family home
+B. bibliotheca alexandrina
+C. montaza palace gardens
+D. qaitbay citadel
+
+Answer:","{
+    ""A"": ""at the family home"",
+    ""B"": ""bibliotheca alexandrina"",
+    ""C"": ""montaza palace gardens"",
+    ""D"": ""qaitbay citadel""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-61_0,EG-DIA-61,Alexandria,"What is considered to be a secure job in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bank teller
+B. business
+C. government job
+D. self employed
+
+Answer:","{
+    ""A"": ""bank teller"",
+    ""B"": ""business"",
+    ""C"": ""government job"",
+    ""D"": ""self employed""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-62_0,EG-DIA-62,Alexandria,"What is the most famous dish in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-wika
+B. fish
+C. mahshi
+D. mandi
+
+Answer:","{
+    ""A"": ""el-wika"",
+    ""B"": ""fish"",
+    ""C"": ""mahshi"",
+    ""D"": ""mandi""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",B
+EG-DIA-62_1,EG-DIA-62,Alexandria,"What is the most famous dish in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-wika
+B. fish
+C. koshari
+D. mandi
+
+Answer:","{
+    ""A"": ""el-wika"",
+    ""B"": ""fish"",
+    ""C"": ""koshari"",
+    ""D"": ""mandi""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Sinai""
+}",B
+EG-DIA-62_2,EG-DIA-62,Alexandria,"What is the most famous dish in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-wika
+B. fish
+C. koshari
+D. mahshi
+
+Answer:","{
+    ""A"": ""el-wika"",
+    ""B"": ""fish"",
+    ""C"": ""koshari"",
+    ""D"": ""mahshi""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-62_3,EG-DIA-62,Alexandria,"What is the most famous dish in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. koshari
+C. mahshi
+D. mandi
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""koshari"",
+    ""C"": ""mahshi"",
+    ""D"": ""mandi""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-63_0,EG-DIA-63,Alexandria,"What do people usually have for breakfast in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. falafel
+B. haggis
+C. kimchi
+D. poutine
+
+Answer:","{
+    ""A"": ""falafel"",
+    ""B"": ""haggis"",
+    ""C"": ""kimchi"",
+    ""D"": ""poutine""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-63_1,EG-DIA-63,Alexandria,"What do people usually have for breakfast in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ful
+B. haggis
+C. kimchi
+D. poutine
+
+Answer:","{
+    ""A"": ""ful"",
+    ""B"": ""haggis"",
+    ""C"": ""kimchi"",
+    ""D"": ""poutine""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-65_0,EG-DIA-65,Alexandria,"What is typically indispensable in meals in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. pickled vegetables
+C. rice
+D. salad
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""pickled vegetables"",
+    ""C"": ""rice"",
+    ""D"": ""salad""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Sinai""
+}",B
+EG-DIA-66_0,EG-DIA-66,Alexandria,"Which fruit do people usually offer tourists/visitors from abroad in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. banana
+B. mango
+C. mango
+D. orange
+
+Answer:","{
+    ""A"": ""banana"",
+    ""B"": ""mango"",
+    ""C"": ""mango"",
+    ""D"": ""orange""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-66_1,EG-DIA-66,Alexandria,"Which fruit do people usually offer tourists/visitors from abroad in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apple
+B. mango
+C. mango
+D. orange
+
+Answer:","{
+    ""A"": ""apple"",
+    ""B"": ""mango"",
+    ""C"": ""mango"",
+    ""D"": ""orange""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-67_0,EG-DIA-67,Alexandria,"Which food do people usually offer as charity in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beans
+B. meals
+C. money
+D. pasta
+
+Answer:","{
+    ""A"": ""beans"",
+    ""B"": ""meals"",
+    ""C"": ""money"",
+    ""D"": ""pasta""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-67_1,EG-DIA-67,Alexandria,"Which food do people usually offer as charity in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bread
+B. meals
+C. money
+D. pasta
+
+Answer:","{
+    ""A"": ""bread"",
+    ""B"": ""meals"",
+    ""C"": ""money"",
+    ""D"": ""pasta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-67_2,EG-DIA-67,Alexandria,"Which food do people usually offer as charity in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beans
+B. bread
+C. meals
+D. pasta
+
+Answer:","{
+    ""A"": ""beans"",
+    ""B"": ""bread"",
+    ""C"": ""meals"",
+    ""D"": ""pasta""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-67_3,EG-DIA-67,Alexandria,"Which food do people usually offer as charity in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. beans
+B. bread
+C. meals
+D. money
+
+Answer:","{
+    ""A"": ""beans"",
+    ""B"": ""bread"",
+    ""C"": ""meals"",
+    ""D"": ""money""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-68_0,EG-DIA-68,Alexandria,"What is the cheapest fast food in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. domino's pizza
+B. kebda iskandarani 
+C. mcdonald's value menu
+D. subway sandwiches
+
+Answer:","{
+    ""A"": ""domino's pizza"",
+    ""B"": ""kebda iskandarani "",
+    ""C"": ""mcdonald's value menu"",
+    ""D"": ""subway sandwiches""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-68_1,EG-DIA-68,Alexandria,"What is the cheapest fast food in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. domino's pizza
+B. ful
+C. mcdonald's value menu
+D. subway sandwiches
+
+Answer:","{
+    ""A"": ""domino's pizza"",
+    ""B"": ""ful"",
+    ""C"": ""mcdonald's value menu"",
+    ""D"": ""subway sandwiches""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-69_0,EG-DIA-69,Alexandria,"What do people usually have with tea in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. biscuit
+C. croissant
+D. scone
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""biscuit"",
+    ""C"": ""croissant"",
+    ""D"": ""scone""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-70_0,EG-DIA-70,Alexandria,"What do people have with coffee in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. cake
+C. dates
+D. sandwich
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""cake"",
+    ""C"": ""dates"",
+    ""D"": ""sandwich""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-71_0,EG-DIA-71,Alexandria,"What is the most popular traditional food in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. feteer meshaltet
+B. kebda iskandarani
+C. lasima
+D. molokhia
+
+Answer:","{
+    ""A"": ""feteer meshaltet"",
+    ""B"": ""kebda iskandarani"",
+    ""C"": ""lasima"",
+    ""D"": ""molokhia""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-71_1,EG-DIA-71,Alexandria,"What is the most popular traditional food in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. falafel
+B. feteer meshaltet
+C. lasima
+D. molokhia
+
+Answer:","{
+    ""A"": ""falafel"",
+    ""B"": ""feteer meshaltet"",
+    ""C"": ""lasima"",
+    ""D"": ""molokhia""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-71_2,EG-DIA-71,Alexandria,"What is the most popular traditional food in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. feteer meshaltet
+B. ful
+C. lasima
+D. molokhia
+
+Answer:","{
+    ""A"": ""feteer meshaltet"",
+    ""B"": ""ful"",
+    ""C"": ""lasima"",
+    ""D"": ""molokhia""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-72_0,EG-DIA-72,Alexandria,"What is the most popular dipping sauce in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. barbecue sauce
+B. garlic sauce
+C. sriracha
+D. tahini sauce
+
+Answer:","{
+    ""A"": ""barbecue sauce"",
+    ""B"": ""garlic sauce"",
+    ""C"": ""sriracha"",
+    ""D"": ""tahini sauce""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-72_1,EG-DIA-72,Alexandria,"What is the most popular dipping sauce in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. barbecue sauce
+B. pistachio sauce
+C. sriracha
+D. tahini sauce
+
+Answer:","{
+    ""A"": ""barbecue sauce"",
+    ""B"": ""pistachio sauce"",
+    ""C"": ""sriracha"",
+    ""D"": ""tahini sauce""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-74_0,EG-DIA-74,Alexandria,"What food is usually prepared when mothers give birth in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chicken
+B. grilled fish
+C. lentil soup
+D. rice
+
+Answer:","{
+    ""A"": ""chicken"",
+    ""B"": ""grilled fish"",
+    ""C"": ""lentil soup"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-75_0,EG-DIA-75,Alexandria,"Which animal is typically used for transportation in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bicycle
+B. camel
+C. horse
+D. water buffalo
+
+Answer:","{
+    ""A"": ""bicycle"",
+    ""B"": ""camel"",
+    ""C"": ""horse"",
+    ""D"": ""water buffalo""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-76_0,EG-DIA-76,Alexandria,"What is the busiest month for weddings in Alexandria? (Provide Arabic numerals (e.g., 1) only.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 12
+B. 2
+C. 4
+D. 7
+
+Answer:","{
+    ""A"": ""12"",
+    ""B"": ""2"",
+    ""C"": ""4"",
+    ""D"": ""7""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-76_1,EG-DIA-76,Alexandria,"What is the busiest month for weddings in Alexandria? (Provide Arabic numerals (e.g., 1) only.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 12
+B. 2
+C. 4
+D. 6
+
+Answer:","{
+    ""A"": ""12"",
+    ""B"": ""2"",
+    ""C"": ""4"",
+    ""D"": ""6""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-77_0,EG-DIA-77,Alexandria,"What is the most popular traditional musical instrument in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. mizmar
+B. oud
+C. simsimiyya
+D. tabla
+
+Answer:","{
+    ""A"": ""mizmar"",
+    ""B"": ""oud"",
+    ""C"": ""simsimiyya"",
+    ""D"": ""tabla""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-78_0,EG-DIA-78,Alexandria,"What is the main agricultural product produced in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. mango
+C. olives
+D. rice
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""mango"",
+    ""C"": ""olives"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-79_0,EG-DIA-79,Alexandria,"What is the most popular wheat-based food item in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. belilah
+B. croissant
+C. pretzel
+D. talbina
+
+Answer:","{
+    ""A"": ""belilah"",
+    ""B"": ""croissant"",
+    ""C"": ""pretzel"",
+    ""D"": ""talbina""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-80_0,EG-DIA-80,Alexandria,"What is the most typical drink offered to guests when they visit households in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hibiscus tea
+B. pepsi
+C. sahlab
+D. turkish coffee
+
+Answer:","{
+    ""A"": ""hibiscus tea"",
+    ""B"": ""pepsi"",
+    ""C"": ""sahlab"",
+    ""D"": ""turkish coffee""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-82_0,EG-DIA-82,Alexandria,"What food do people from Alexandria like to eat during rainy weather? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. grilled sardines
+B. koshari
+C. lentils
+D. mahshi
+
+Answer:","{
+    ""A"": ""grilled sardines"",
+    ""B"": ""koshari"",
+    ""C"": ""lentils"",
+    ""D"": ""mahshi""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-84_0,EG-DIA-84,Alexandria,"On which holiday do all family members tend to reunite in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. christmas
+B. eid al-fitr
+C. halloween
+D. valentine's day
+
+Answer:","{
+    ""A"": ""christmas"",
+    ""B"": ""eid al-fitr"",
+    ""C"": ""halloween"",
+    ""D"": ""valentine's day""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-85_0,EG-DIA-85,Alexandria,"What traditional games do families play during traditional holidays in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dominoes
+B. football
+C. playing cards
+D. running on the beach
+
+Answer:","{
+    ""A"": ""dominoes"",
+    ""B"": ""football"",
+    ""C"": ""playing cards"",
+    ""D"": ""running on the beach""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-86_0,EG-DIA-86,Alexandria,"What fruit do people from Alexandria often eat in the summer season? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. grape
+B. peach
+C. pineapple
+D. watermelon
+
+Answer:","{
+    ""A"": ""grape"",
+    ""B"": ""peach"",
+    ""C"": ""pineapple"",
+    ""D"": ""watermelon""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-87_0,EG-DIA-87,Alexandria,"Which region in Alexandria is known for its seafood? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. bahary district
+D. tanta fish market
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""bahary district"",
+    ""D"": ""tanta fish market""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-87_1,EG-DIA-87,Alexandria,"Which region in Alexandria is known for its seafood? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. bahary district
+C. fifth settlement
+D. tanta fish market
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""bahary district"",
+    ""C"": ""fifth settlement"",
+    ""D"": ""tanta fish market""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-87_2,EG-DIA-87,Alexandria,"Which region in Alexandria is known for its seafood? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. bahary district
+D. fifth settlement
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""bahary district"",
+    ""D"": ""fifth settlement""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-87_3,EG-DIA-87,Alexandria,"Which region in Alexandria is known for its seafood? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. bahary district
+C. fifth settlement
+D. tanta fish market
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""bahary district"",
+    ""C"": ""fifth settlement"",
+    ""D"": ""tanta fish market""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-92_0,EG-DIA-92,Alexandria,"What kinds of food do people usually eat for late-night snacks in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cheese sandwich
+B. sushi
+C. tacos
+D. they eat fruits
+
+Answer:","{
+    ""A"": ""cheese sandwich"",
+    ""B"": ""sushi"",
+    ""C"": ""tacos"",
+    ""D"": ""they eat fruits""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-93_0,EG-DIA-93,Alexandria,"What is the most famous spicy dish in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. kebda iskandarani
+B. koshari
+C. lasima
+D. shakshuka
+
+Answer:","{
+    ""A"": ""kebda iskandarani"",
+    ""B"": ""koshari"",
+    ""C"": ""lasima"",
+    ""D"": ""shakshuka""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-94_0,EG-DIA-94,Alexandria,"What seasoning is indispensable in cooking in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. black pepper
+B. oregano
+C. saffron
+D. za'atar
+
+Answer:","{
+    ""A"": ""black pepper"",
+    ""B"": ""oregano"",
+    ""C"": ""saffron"",
+    ""D"": ""za'atar""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-94_1,EG-DIA-94,Alexandria,"What seasoning is indispensable in cooking in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cumin
+B. oregano
+C. saffron
+D. za'atar
+
+Answer:","{
+    ""A"": ""cumin"",
+    ""B"": ""oregano"",
+    ""C"": ""saffron"",
+    ""D"": ""za'atar""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-95_0,EG-DIA-95,Alexandria,"What food do people typically consume when the weather is cold in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. gazpacho
+B. gelato
+C. lentils
+D. mahshi
+
+Answer:","{
+    ""A"": ""gazpacho"",
+    ""B"": ""gelato"",
+    ""C"": ""lentils"",
+    ""D"": ""mahshi""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-96_0,EG-DIA-96,Alexandria,"What foods do people usually eat when they are sick in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. falafel
+B. koshari
+C. molokhia
+D. vegetable soup
+
+Answer:","{
+    ""A"": ""falafel"",
+    ""B"": ""koshari"",
+    ""C"": ""molokhia"",
+    ""D"": ""vegetable soup""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-96_1,EG-DIA-96,Alexandria,"What foods do people usually eat when they are sick in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. falafel
+B. koshari
+C. molokhia
+D. soup
+
+Answer:","{
+    ""A"": ""falafel"",
+    ""B"": ""koshari"",
+    ""C"": ""molokhia"",
+    ""D"": ""soup""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-98_0,EG-DIA-98,Alexandria,"Which cities or regions are known for their import and export activities in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. attaba
+C. el-mahalla el-kubra
+D. mansheya
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""attaba"",
+    ""C"": ""el-mahalla el-kubra"",
+    ""D"": ""mansheya""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-98_1,EG-DIA-98,Alexandria,"Which cities or regions are known for their import and export activities in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. attaba
+B. el-mahalla el-kubra
+C. industrial zone
+D. mansheya
+
+Answer:","{
+    ""A"": ""attaba"",
+    ""B"": ""el-mahalla el-kubra"",
+    ""C"": ""industrial zone"",
+    ""D"": ""mansheya""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-98_2,EG-DIA-98,Alexandria,"Which cities or regions are known for their import and export activities in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. attaba
+C. industrial zone
+D. mansheya
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""attaba"",
+    ""C"": ""industrial zone"",
+    ""D"": ""mansheya""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-98_3,EG-DIA-98,Alexandria,"Which cities or regions are known for their import and export activities in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. asyut
+B. el-mahalla el-kubra
+C. industrial zone
+D. mansheya
+
+Answer:","{
+    ""A"": ""asyut"",
+    ""B"": ""el-mahalla el-kubra"",
+    ""C"": ""industrial zone"",
+    ""D"": ""mansheya""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-99_0,EG-DIA-99,Alexandria,"What is the most common way for family members to communicate remotely in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. email
+B. internet
+C. landline telephone
+D. video call
+
+Answer:","{
+    ""A"": ""email"",
+    ""B"": ""internet"",
+    ""C"": ""landline telephone"",
+    ""D"": ""video call""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-99_1,EG-DIA-99,Alexandria,"What is the most common way for family members to communicate remotely in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. email
+B. internet
+C. landline telephone
+D. mobile
+
+Answer:","{
+    ""A"": ""email"",
+    ""B"": ""internet"",
+    ""C"": ""landline telephone"",
+    ""D"": ""mobile""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-100_0,EG-DIA-100,Alexandria,"What form of accommodation is typically booked for family trips in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. apartment
+B. capsule hotel
+C. hostel
+D. houseboat
+
+Answer:","{
+    ""A"": ""apartment"",
+    ""B"": ""capsule hotel"",
+    ""C"": ""hostel"",
+    ""D"": ""houseboat""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-100_1,EG-DIA-100,Alexandria,"What form of accommodation is typically booked for family trips in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. capsule hotel
+B. hostel
+C. hotel
+D. houseboat
+
+Answer:","{
+    ""A"": ""capsule hotel"",
+    ""B"": ""hostel"",
+    ""C"": ""hotel"",
+    ""D"": ""houseboat""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-103_0,EG-DIA-103,Alexandria,"What types of accommodation do university students in Alexandria typically live in? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. capsule hotels
+B. houseboats
+C. student housing
+D. yurts
+
+Answer:","{
+    ""A"": ""capsule hotels"",
+    ""B"": ""houseboats"",
+    ""C"": ""student housing"",
+    ""D"": ""yurts""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-104_0,EG-DIA-104,Alexandria,"During which holidays do people typically visit religious sites (mosque, churches, etc.) in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. christmas
+B. eid al-fitr
+C. feast of the virgin mary
+D. ramadan
+
+Answer:","{
+    ""A"": ""christmas"",
+    ""B"": ""eid al-fitr"",
+    ""C"": ""feast of the virgin mary"",
+    ""D"": ""ramadan""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-104_1,EG-DIA-104,Alexandria,"During which holidays do people typically visit religious sites (mosque, churches, etc.) in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. christmas
+B. easter
+C. feast of the virgin mary
+D. ramadan
+
+Answer:","{
+    ""A"": ""christmas"",
+    ""B"": ""easter"",
+    ""C"": ""feast of the virgin mary"",
+    ""D"": ""ramadan""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-106_0,EG-DIA-106,Alexandria,"At what time do weddings typically start in Alexandria? (Provide in HH:MM format  (e.g., 06:00PM, 09:00AM).) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 06:00pm
+B. 07:00 PM
+C. 08:00PM
+D. 11:00pm
+
+Answer:","{
+    ""A"": ""06:00pm"",
+    ""B"": ""07:00 PM"",
+    ""C"": ""08:00PM"",
+    ""D"": ""11:00pm""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-107_0,EG-DIA-107,Alexandria,"Which city in Alexandria hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. cairo
+D. el-raml station
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""cairo"",
+    ""D"": ""el-raml station""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-107_1,EG-DIA-107,Alexandria,"Which city in Alexandria hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. el-raml station
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""el-raml station"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-107_2,EG-DIA-107,Alexandria,"Which city in Alexandria hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. cairo
+C. el-raml station
+D. port said
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""cairo"",
+    ""C"": ""el-raml station"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-107_3,EG-DIA-107,Alexandria,"Which city in Alexandria hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. el-raml station
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""el-raml station"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-107_4,EG-DIA-107,Alexandria,"Which city in Alexandria hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. el-raml station
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""el-raml station"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-107_5,EG-DIA-107,Alexandria,"Which city in Alexandria hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. el-raml station
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""el-raml station"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-107_6,EG-DIA-107,Alexandria,"Which city in Alexandria hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. cairo
+C. el-raml station
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""cairo"",
+    ""C"": ""el-raml station"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-107_7,EG-DIA-107,Alexandria,"Which city in Alexandria hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. cairo
+C. el-raml station
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""cairo"",
+    ""C"": ""el-raml station"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-107_8,EG-DIA-107,Alexandria,"Which city in Alexandria hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cairo
+B. el-raml station
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""cairo"",
+    ""B"": ""el-raml station"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-107_9,EG-DIA-107,Alexandria,"Which city in Alexandria hosts festivals the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. el-raml station
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""el-raml station"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-108_0,EG-DIA-108,Alexandria,"What is the most popular chip/crisp flavour in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chilli and lime
+B. kebab
+C. salt and vinegar
+D. sour cream and onion
+
+Answer:","{
+    ""A"": ""chilli and lime"",
+    ""B"": ""kebab"",
+    ""C"": ""salt and vinegar"",
+    ""D"": ""sour cream and onion""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-109_0,EG-DIA-109,Alexandria,"Which food is a cost-effective and quick meal option in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. falafel
+B. ful
+C. kebda iskandarani
+D. taameya
+
+Answer:","{
+    ""A"": ""falafel"",
+    ""B"": ""ful"",
+    ""C"": ""kebda iskandarani"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-110_0,EG-DIA-110,Alexandria,"What is the most popular chocolate brand in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. corona
+B. galaxy
+C. moro
+D. snickers
+
+Answer:","{
+    ""A"": ""corona"",
+    ""B"": ""galaxy"",
+    ""C"": ""moro"",
+    ""D"": ""snickers""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-110_1,EG-DIA-110,Alexandria,"What is the most popular chocolate brand in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. corona
+B. kinder
+C. moro
+D. snickers
+
+Answer:","{
+    ""A"": ""corona"",
+    ""B"": ""kinder"",
+    ""C"": ""moro"",
+    ""D"": ""snickers""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-111_0,EG-DIA-111,Alexandria,"What is the most eaten cheese in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. gouda
+B. mozzarella
+C. parmesan
+D. turkish cheese
+
+Answer:","{
+    ""A"": ""gouda"",
+    ""B"": ""mozzarella"",
+    ""C"": ""parmesan"",
+    ""D"": ""turkish cheese""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-111_1,EG-DIA-111,Alexandria,"What is the most eaten cheese in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cheddar
+B. gouda
+C. mozzarella
+D. parmesan
+
+Answer:","{
+    ""A"": ""cheddar"",
+    ""B"": ""gouda"",
+    ""C"": ""mozzarella"",
+    ""D"": ""parmesan""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-112_0,EG-DIA-112,Alexandria,"What is the most disliked vegetable in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. brussels sprouts
+B. el-khubiza
+C. spinach
+D. zucchini
+
+Answer:","{
+    ""A"": ""brussels sprouts"",
+    ""B"": ""el-khubiza"",
+    ""C"": ""spinach"",
+    ""D"": ""zucchini""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-113_0,EG-DIA-113,Alexandria,"What are the most common cheering tools used by sports fans in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. flag
+B. horn
+C. tabla
+D. vuvuzela
+
+Answer:","{
+    ""A"": ""flag"",
+    ""B"": ""horn"",
+    ""C"": ""tabla"",
+    ""D"": ""vuvuzela""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-114_0,EG-DIA-114,Alexandria,"Who is the most well known and successful entrepreneur in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ahmed abu hashima
+B. hassan rateb
+C. mohamed el-sewedy
+D. nassef sawiris
+
+Answer:","{
+    ""A"": ""ahmed abu hashima"",
+    ""B"": ""hassan rateb"",
+    ""C"": ""mohamed el-sewedy"",
+    ""D"": ""nassef sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-114_1,EG-DIA-114,Alexandria,"Who is the most well known and successful entrepreneur in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hassan rateb
+B. ibrahim al-arjani
+C. mohamed el-sewedy
+D. nassef sawiris
+
+Answer:","{
+    ""A"": ""hassan rateb"",
+    ""B"": ""ibrahim al-arjani"",
+    ""C"": ""mohamed el-sewedy"",
+    ""D"": ""nassef sawiris""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-114_2,EG-DIA-114,Alexandria,"Who is the most well known and successful entrepreneur in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ahmed abu hashima
+B. ibrahim al-arjani
+C. mohamed el-sewedy
+D. nassef sawiris
+
+Answer:","{
+    ""A"": ""ahmed abu hashima"",
+    ""B"": ""ibrahim al-arjani"",
+    ""C"": ""mohamed el-sewedy"",
+    ""D"": ""nassef sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-114_3,EG-DIA-114,Alexandria,"Who is the most well known and successful entrepreneur in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ahmed abu hashima
+B. hassan rateb
+C. ibrahim al-arjani
+D. mohamed el-sewedy
+
+Answer:","{
+    ""A"": ""ahmed abu hashima"",
+    ""B"": ""hassan rateb"",
+    ""C"": ""ibrahim al-arjani"",
+    ""D"": ""mohamed el-sewedy""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-115_0,EG-DIA-115,Alexandria,"What can typically be found in the back garden of houses in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. sofa
+B. swing
+C. swing set
+D. tree
+
+Answer:","{
+    ""A"": ""sofa"",
+    ""B"": ""swing"",
+    ""C"": ""swing set"",
+    ""D"": ""tree""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-116_0,EG-DIA-116,Alexandria,"What is the name of the most famous family in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. el-fawakhreya
+C. el-sewedy
+D. sawiris
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""el-fawakhreya"",
+    ""C"": ""el-sewedy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-116_1,EG-DIA-116,Alexandria,"What is the name of the most famous family in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. amara
+B. el-fawakhreya
+C. el-sewedy
+D. sawiris
+
+Answer:","{
+    ""A"": ""amara"",
+    ""B"": ""el-fawakhreya"",
+    ""C"": ""el-sewedy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-116_2,EG-DIA-116,Alexandria,"What is the name of the most famous family in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-fawakhreya
+B. el-gendy
+C. el-sewedy
+D. sawiris
+
+Answer:","{
+    ""A"": ""el-fawakhreya"",
+    ""B"": ""el-gendy"",
+    ""C"": ""el-sewedy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-116_3,EG-DIA-116,Alexandria,"What is the name of the most famous family in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. amara
+C. el-sewedy
+D. sawiris
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""amara"",
+    ""C"": ""el-sewedy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-116_4,EG-DIA-116,Alexandria,"What is the name of the most famous family in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. el-gendy
+C. el-sewedy
+D. sawiris
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""el-gendy"",
+    ""C"": ""el-sewedy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-116_5,EG-DIA-116,Alexandria,"What is the name of the most famous family in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. amara
+B. el-gendy
+C. el-sewedy
+D. sawiris
+
+Answer:","{
+    ""A"": ""amara"",
+    ""B"": ""el-gendy"",
+    ""C"": ""el-sewedy"",
+    ""D"": ""sawiris""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-116_6,EG-DIA-116,Alexandria,"What is the name of the most famous family in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. amara
+C. el-fawakhreya
+D. el-sewedy
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""amara"",
+    ""C"": ""el-fawakhreya"",
+    ""D"": ""el-sewedy""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-116_7,EG-DIA-116,Alexandria,"What is the name of the most famous family in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. el-fawakhreya
+C. el-gendy
+D. el-sewedy
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""el-fawakhreya"",
+    ""C"": ""el-gendy"",
+    ""D"": ""el-sewedy""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-116_8,EG-DIA-116,Alexandria,"What is the name of the most famous family in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. amara
+B. el-fawakhreya
+C. el-gendy
+D. el-sewedy
+
+Answer:","{
+    ""A"": ""amara"",
+    ""B"": ""el-fawakhreya"",
+    ""C"": ""el-gendy"",
+    ""D"": ""el-sewedy""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-116_9,EG-DIA-116,Alexandria,"What is the name of the most famous family in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abaza
+B. amara
+C. el-gendy
+D. el-sewedy
+
+Answer:","{
+    ""A"": ""abaza"",
+    ""B"": ""amara"",
+    ""C"": ""el-gendy"",
+    ""D"": ""el-sewedy""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-118_0,EG-DIA-118,Alexandria,"What repercussions are there for bad behavior in schools in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. detention
+B. expulsion
+C. summoning parents
+D. warning
+
+Answer:","{
+    ""A"": ""detention"",
+    ""B"": ""expulsion"",
+    ""C"": ""summoning parents"",
+    ""D"": ""warning""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-119_0,EG-DIA-119,Alexandria,"Which writers are commonly studied in literature class in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hafez ibrahim
+B. khalil gibran
+C. naguib mahfouz
+D. taha hussein
+
+Answer:","{
+    ""A"": ""hafez ibrahim"",
+    ""B"": ""khalil gibran"",
+    ""C"": ""naguib mahfouz"",
+    ""D"": ""taha hussein""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-120_0,EG-DIA-120,Alexandria,"Which online resource do students usually use to study in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. educational platform
+B. egyptian knowledge bank
+C. google
+D. khan academy
+
+Answer:","{
+    ""A"": ""educational platform"",
+    ""B"": ""egyptian knowledge bank"",
+    ""C"": ""google"",
+    ""D"": ""khan academy""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-121_0,EG-DIA-121,Alexandria,"What is the most famous historic landmark in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. grand egyptian museum
+C. philae temple
+D. qaitbay citadel
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""grand egyptian museum"",
+    ""C"": ""philae temple"",
+    ""D"": ""qaitbay citadel""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-121_1,EG-DIA-121,Alexandria,"What is the most famous historic landmark in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. grand egyptian museum
+B. philae temple
+C. qaitbay citadel
+D. suez canal
+
+Answer:","{
+    ""A"": ""grand egyptian museum"",
+    ""B"": ""philae temple"",
+    ""C"": ""qaitbay citadel"",
+    ""D"": ""suez canal""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-121_2,EG-DIA-121,Alexandria,"What is the most famous historic landmark in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. grand egyptian museum
+B. philae temple
+C. qaitbay citadel
+D. sphinx
+
+Answer:","{
+    ""A"": ""grand egyptian museum"",
+    ""B"": ""philae temple"",
+    ""C"": ""qaitbay citadel"",
+    ""D"": ""sphinx""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-121_3,EG-DIA-121,Alexandria,"What is the most famous historic landmark in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. grand egyptian museum
+C. qaitbay citadel
+D. suez canal
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""grand egyptian museum"",
+    ""C"": ""qaitbay citadel"",
+    ""D"": ""suez canal""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-121_4,EG-DIA-121,Alexandria,"What is the most famous historic landmark in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. grand egyptian museum
+C. qaitbay citadel
+D. sphinx
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""grand egyptian museum"",
+    ""C"": ""qaitbay citadel"",
+    ""D"": ""sphinx""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-121_5,EG-DIA-121,Alexandria,"What is the most famous historic landmark in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. grand egyptian museum
+B. qaitbay citadel
+C. sphinx
+D. suez canal
+
+Answer:","{
+    ""A"": ""grand egyptian museum"",
+    ""B"": ""qaitbay citadel"",
+    ""C"": ""sphinx"",
+    ""D"": ""suez canal""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-121_6,EG-DIA-121,Alexandria,"What is the most famous historic landmark in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. philae temple
+C. qaitbay citadel
+D. suez canal
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""philae temple"",
+    ""C"": ""qaitbay citadel"",
+    ""D"": ""suez canal""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-121_7,EG-DIA-121,Alexandria,"What is the most famous historic landmark in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. philae temple
+C. qaitbay citadel
+D. sphinx
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""philae temple"",
+    ""C"": ""qaitbay citadel"",
+    ""D"": ""sphinx""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-121_8,EG-DIA-121,Alexandria,"What is the most famous historic landmark in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. philae temple
+B. qaitbay citadel
+C. sphinx
+D. suez canal
+
+Answer:","{
+    ""A"": ""philae temple"",
+    ""B"": ""qaitbay citadel"",
+    ""C"": ""sphinx"",
+    ""D"": ""suez canal""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-121_9,EG-DIA-121,Alexandria,"What is the most famous historic landmark in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish castle
+B. qaitbay citadel
+C. sphinx
+D. suez canal
+
+Answer:","{
+    ""A"": ""al-arish castle"",
+    ""B"": ""qaitbay citadel"",
+    ""C"": ""sphinx"",
+    ""D"": ""suez canal""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-122_0,EG-DIA-122,Alexandria,"What is the most popular food in Alexandria among young people? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. lasima
+B. paella
+C. shawarma
+D. sushi
+
+Answer:","{
+    ""A"": ""lasima"",
+    ""B"": ""paella"",
+    ""C"": ""shawarma"",
+    ""D"": ""sushi""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-123_0,EG-DIA-123,Alexandria,"What is the most popular traditional dessert in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. balh-el-sham
+B. basbousa
+C. kunafa
+D. om ali with nuts
+
+Answer:","{
+    ""A"": ""balh-el-sham"",
+    ""B"": ""basbousa"",
+    ""C"": ""kunafa"",
+    ""D"": ""om ali with nuts""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-124_0,EG-DIA-124,Alexandria,"Which job is considered underpaid in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. agriculture
+B. government job
+C. sanitation worker
+D. teaching
+
+Answer:","{
+    ""A"": ""agriculture"",
+    ""B"": ""government job"",
+    ""C"": ""sanitation worker"",
+    ""D"": ""teaching""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-126_0,EG-DIA-126,Alexandria,"What drink is usually offered at weddings in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ayran
+B. beer
+C. sharbat
+D. turkish coffee
+
+Answer:","{
+    ""A"": ""ayran"",
+    ""B"": ""beer"",
+    ""C"": ""sharbat"",
+    ""D"": ""turkish coffee""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-126_1,EG-DIA-126,Alexandria,"What drink is usually offered at weddings in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ayran
+B. beer
+C. pepsi
+D. turkish coffee
+
+Answer:","{
+    ""A"": ""ayran"",
+    ""B"": ""beer"",
+    ""C"": ""pepsi"",
+    ""D"": ""turkish coffee""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-128_0,EG-DIA-128,Alexandria,"What food is typically disliked by children but enjoyed by the elderly in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. broccoli
+B. el-khubiza
+C. wedge clams
+D. zucchini
+
+Answer:","{
+    ""A"": ""broccoli"",
+    ""B"": ""el-khubiza"",
+    ""C"": ""wedge clams"",
+    ""D"": ""zucchini""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-129_0,EG-DIA-129,Alexandria,"Which is the most popular vegetable in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. eggplant
+B. molokhia
+C. potato
+D. zucchini
+
+Answer:","{
+    ""A"": ""eggplant"",
+    ""B"": ""molokhia"",
+    ""C"": ""potato"",
+    ""D"": ""zucchini""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-130_0,EG-DIA-130,Alexandria,"What is the most popular wedding venue in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hollywood
+B. montaza palace gardens
+C. qamr el-zaman
+D. san stefano
+
+Answer:","{
+    ""A"": ""hollywood"",
+    ""B"": ""montaza palace gardens"",
+    ""C"": ""qamr el-zaman"",
+    ""D"": ""san stefano""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-131_0,EG-DIA-131,Alexandria,"What university in Alexandria is popular because of its engineering major? (Provide the official name.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ain shams university
+B. alexandria university of engineering 
+C. cairo university
+D. mansoura university
+
+Answer:","{
+    ""A"": ""ain shams university"",
+    ""B"": ""alexandria university of engineering "",
+    ""C"": ""cairo university"",
+    ""D"": ""mansoura university""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-132_0,EG-DIA-132,Alexandria,"What university in Alexandria is popular because of its school of medicine? (Provide the official name.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ain shams university
+B. cairo university
+C. mansoura university
+D. pharos university
+
+Answer:","{
+    ""A"": ""ain shams university"",
+    ""B"": ""cairo university"",
+    ""C"": ""mansoura university"",
+    ""D"": ""pharos university""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-133_0,EG-DIA-133,Alexandria,"What is the most popular payment method in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cash
+B. instapay
+C. mastercard
+D. paypal
+
+Answer:","{
+    ""A"": ""cash"",
+    ""B"": ""instapay"",
+    ""C"": ""mastercard"",
+    ""D"": ""paypal""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-135_0,EG-DIA-135,Alexandria,"What is the most popular children's song in Alexandria that families sing together? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baby Shark
+B. eid songs
+C. mama zamanha gaya
+D. untha al-sinjab
+
+Answer:","{
+    ""A"": ""baby Shark"",
+    ""B"": ""eid songs"",
+    ""C"": ""mama zamanha gaya"",
+    ""D"": ""untha al-sinjab""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-136_0,EG-DIA-136,Alexandria,"Which toys are most popular among boys in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bike
+B. lego
+C. motorcycles
+D. water gun
+
+Answer:","{
+    ""A"": ""bike"",
+    ""B"": ""lego"",
+    ""C"": ""motorcycles"",
+    ""D"": ""water gun""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-137_0,EG-DIA-137,Alexandria,"Which toys are most popular among girls in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coloring set
+B. lego sets
+C. play kitchen
+D. remote control car
+
+Answer:","{
+    ""A"": ""coloring set"",
+    ""B"": ""lego sets"",
+    ""C"": ""play kitchen"",
+    ""D"": ""remote control car""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-138_0,EG-DIA-138,Alexandria,"What is the most popular folk tale in Alexandria that is typically told to children? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. abu zayd al-hilali
+B. el-naddaha
+C. little red riding hood
+D. one thousand and one nights
+
+Answer:","{
+    ""A"": ""abu zayd al-hilali"",
+    ""B"": ""el-naddaha"",
+    ""C"": ""little red riding hood"",
+    ""D"": ""one thousand and one nights""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-139_0,EG-DIA-139,Alexandria,"Where do university students in Alexandria tend to work part-time the most? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cafe
+B. hotel
+C. online
+D. tourism
+
+Answer:","{
+    ""A"": ""cafe"",
+    ""B"": ""hotel"",
+    ""C"": ""online"",
+    ""D"": ""tourism""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-140_0,EG-DIA-140,Alexandria,"What are the most common activities people do as a side job in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cafeterias
+B. gym
+C. real estate agent
+D. work in tourism
+
+Answer:","{
+    ""A"": ""cafeterias"",
+    ""B"": ""gym"",
+    ""C"": ""real estate agent"",
+    ""D"": ""work in tourism""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-141_0,EG-DIA-141,Alexandria,"What is the most popular stew in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bamia
+B. beef bourguignon
+C. borscht
+D. shrimp
+
+Answer:","{
+    ""A"": ""bamia"",
+    ""B"": ""beef bourguignon"",
+    ""C"": ""borscht"",
+    ""D"": ""shrimp""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-142_0,EG-DIA-142,Alexandria,"What is the most common spice/herb used in dishes from Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cumin
+B. oregano
+C. paprika
+D. za'atar
+
+Answer:","{
+    ""A"": ""cumin"",
+    ""B"": ""oregano"",
+    ""C"": ""paprika"",
+    ""D"": ""za'atar""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",A
+EG-DIA-143_0,EG-DIA-143,Alexandria,"Where do families gather to pray together in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. at the mosque
+B. the chapel
+C. the synagogue
+D. the temple
+
+Answer:","{
+    ""A"": ""at the mosque"",
+    ""B"": ""the chapel"",
+    ""C"": ""the synagogue"",
+    ""D"": ""the temple""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-146_0,EG-DIA-146,Alexandria,"How many generations typically live together in a household in Alexandria? (Provide Arabic numerals (e.g., 12) only.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 3
+B. 4
+C. 5
+D. 6
+
+Answer:","{
+    ""A"": ""3"",
+    ""B"": ""4"",
+    ""C"": ""5"",
+    ""D"": ""6""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-147_0,EG-DIA-147,Alexandria,"What is a popular activity to do in parks in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. birdwatching
+B. football game
+C. jogging
+D. running
+
+Answer:","{
+    ""A"": ""birdwatching"",
+    ""B"": ""football game"",
+    ""C"": ""jogging"",
+    ""D"": ""running""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-148_0,EG-DIA-148,Alexandria,"What is the popular card game played during social gatherings in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bridge
+B. playing cards
+C. poker
+D. rummy
+
+Answer:","{
+    ""A"": ""bridge"",
+    ""B"": ""playing cards"",
+    ""C"": ""poker"",
+    ""D"": ""rummy""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-149_0,EG-DIA-149,Alexandria,"Which agricultural product is exported most often in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. linseed
+B. olives
+C. rice
+D. wheat
+
+Answer:","{
+    ""A"": ""linseed"",
+    ""B"": ""olives"",
+    ""C"": ""rice"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-149_1,EG-DIA-149,Alexandria,"Which agricultural product is exported most often in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. olives
+C. rice
+D. wheat
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""olives"",
+    ""C"": ""rice"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-149_2,EG-DIA-149,Alexandria,"Which agricultural product is exported most often in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. linseed
+C. rice
+D. wheat
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""linseed"",
+    ""C"": ""rice"",
+    ""D"": ""wheat""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-149_3,EG-DIA-149,Alexandria,"Which agricultural product is exported most often in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cane sugar
+B. linseed
+C. olives
+D. rice
+
+Answer:","{
+    ""A"": ""cane sugar"",
+    ""B"": ""linseed"",
+    ""C"": ""olives"",
+    ""D"": ""rice""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Sinai"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-150_0,EG-DIA-150,Alexandria,"What are the most popular sweets in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 'basbousa
+B. jallab
+C. kunafa
+D. om ali
+
+Answer:","{
+    ""A"": ""'basbousa"",
+    ""B"": ""jallab"",
+    ""C"": ""kunafa"",
+    ""D"": ""om ali""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-150_1,EG-DIA-150,Alexandria,"What are the most popular sweets in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 'basbousa
+B. balh-el-sham
+C. jallab
+D. kunafa
+
+Answer:","{
+    ""A"": ""'basbousa"",
+    ""B"": ""balh-el-sham"",
+    ""C"": ""jallab"",
+    ""D"": ""kunafa""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-150_2,EG-DIA-150,Alexandria,"What are the most popular sweets in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 'basbousa
+B. balh-el-sham
+C. kunafa
+D. om ali
+
+Answer:","{
+    ""A"": ""'basbousa"",
+    ""B"": ""balh-el-sham"",
+    ""C"": ""kunafa"",
+    ""D"": ""om ali""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-150_3,EG-DIA-150,Alexandria,"What are the most popular sweets in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 'basbousa
+B. balh-el-sham
+C. jallab
+D. om ali
+
+Answer:","{
+    ""A"": ""'basbousa"",
+    ""B"": ""balh-el-sham"",
+    ""C"": ""jallab"",
+    ""D"": ""om ali""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""GreaterCairo""
+}",A
+EG-DIA-151_0,EG-DIA-151,Alexandria,"What is the average education level for people in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bachelor's degree
+B. primary education
+C. secondary education
+D. vocational education
+
+Answer:","{
+    ""A"": ""bachelor's degree"",
+    ""B"": ""primary education"",
+    ""C"": ""secondary education"",
+    ""D"": ""vocational education""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-152_0,EG-DIA-152,Alexandria,"What is the most popular beverage among children in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. coca-cola
+B. milk
+C. nescafe
+D. sting
+
+Answer:","{
+    ""A"": ""coca-cola"",
+    ""B"": ""milk"",
+    ""C"": ""nescafe"",
+    ""D"": ""sting""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-153_0,EG-DIA-153,Alexandria,"What snacks are usually sold in front of schools in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chips
+B. instant noodles
+C. pretzels
+D. roasted seeds
+
+Answer:","{
+    ""A"": ""chips"",
+    ""B"": ""instant noodles"",
+    ""C"": ""pretzels"",
+    ""D"": ""roasted seeds""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-154_0,EG-DIA-154,Alexandria,"What oil is usually used for cooking in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. corn oil
+B. crystal
+C. olive
+D. olive oil
+
+Answer:","{
+    ""A"": ""corn oil"",
+    ""B"": ""crystal"",
+    ""C"": ""olive"",
+    ""D"": ""olive oil""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-156_0,EG-DIA-156,Alexandria,"What is the most common livestock raised in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. buffalo
+B. cow
+C. goat
+D. goats
+
+Answer:","{
+    ""A"": ""buffalo"",
+    ""B"": ""cow"",
+    ""C"": ""goat"",
+    ""D"": ""goats""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""Sinai""
+}",B
+EG-DIA-157_0,EG-DIA-157,Alexandria,"What animals are commonly used for agriculture in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camel
+B. cow
+C. donkey
+D. horse
+
+Answer:","{
+    ""A"": ""camel"",
+    ""B"": ""cow"",
+    ""C"": ""donkey"",
+    ""D"": ""horse""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-158_0,EG-DIA-158,Alexandria,"What do farmers in Alexandria typically wear to protect themselves from the heat whilst farming? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cap
+B. scarf
+C. straw hat
+D. turban
+
+Answer:","{
+    ""A"": ""cap"",
+    ""B"": ""scarf"",
+    ""C"": ""straw hat"",
+    ""D"": ""turban""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""dummy"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-159_0,EG-DIA-159,Alexandria,"What gifts do parents generally give to their children for their birthdays in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bicycle
+B. book set
+C. mobile
+D. wristwatch
+
+Answer:","{
+    ""A"": ""bicycle"",
+    ""B"": ""book set"",
+    ""C"": ""mobile"",
+    ""D"": ""wristwatch""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-160_0,EG-DIA-160,Alexandria,"What is usually given to the children during Eid in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chocolate coins
+B. dates
+C. money
+D. new clothes
+
+Answer:","{
+    ""A"": ""chocolate coins"",
+    ""B"": ""dates"",
+    ""C"": ""money"",
+    ""D"": ""new clothes""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-161_0,EG-DIA-161,Alexandria,"What food is usually served at weddings in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cake
+B. falafel
+C. meat
+D. shawarma
+
+Answer:","{
+    ""A"": ""cake"",
+    ""B"": ""falafel"",
+    ""C"": ""meat"",
+    ""D"": ""shawarma""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-162_0,EG-DIA-162,Alexandria,"What is the most famous government building in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. civil registry office
+B. municipal council
+C. police station
+D. united states capitol
+
+Answer:","{
+    ""A"": ""civil registry office"",
+    ""B"": ""municipal council"",
+    ""C"": ""police station"",
+    ""D"": ""united states capitol""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-163_0,EG-DIA-163,Alexandria,"What is the top university in Alexandria? (Provide the official name.) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. alexandria university
+B. asyut
+C. el-mansoura
+D. mansoura university
+
+Answer:","{
+    ""A"": ""alexandria university"",
+    ""B"": ""asyut"",
+    ""C"": ""el-mansoura"",
+    ""D"": ""mansoura university""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-165_0,EG-DIA-165,Alexandria,"Which city is the main destination for job seekers in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. borg el-arab
+D. cairo
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""borg el-arab"",
+    ""D"": ""cairo""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-165_1,EG-DIA-165,Alexandria,"Which city is the main destination for job seekers in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. borg el-arab
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""borg el-arab"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-165_2,EG-DIA-165,Alexandria,"Which city is the main destination for job seekers in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. borg el-arab
+D. ismailia
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""borg el-arab"",
+    ""D"": ""ismailia""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-165_3,EG-DIA-165,Alexandria,"Which city is the main destination for job seekers in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. borg el-arab
+C. cairo
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""borg el-arab"",
+    ""C"": ""cairo"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-165_4,EG-DIA-165,Alexandria,"Which city is the main destination for job seekers in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. borg el-arab
+C. cairo
+D. ismailia
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""borg el-arab"",
+    ""C"": ""cairo"",
+    ""D"": ""ismailia""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-165_5,EG-DIA-165,Alexandria,"Which city is the main destination for job seekers in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. borg el-arab
+C. ismailia
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""borg el-arab"",
+    ""C"": ""ismailia"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-165_6,EG-DIA-165,Alexandria,"Which city is the main destination for job seekers in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. borg el-arab
+C. cairo
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""borg el-arab"",
+    ""C"": ""cairo"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-165_7,EG-DIA-165,Alexandria,"Which city is the main destination for job seekers in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. borg el-arab
+C. cairo
+D. ismailia
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""borg el-arab"",
+    ""C"": ""cairo"",
+    ""D"": ""ismailia""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-165_8,EG-DIA-165,Alexandria,"Which city is the main destination for job seekers in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. borg el-arab
+C. ismailia
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""borg el-arab"",
+    ""C"": ""ismailia"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-165_9,EG-DIA-165,Alexandria,"Which city is the main destination for job seekers in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. borg el-arab
+B. cairo
+C. ismailia
+D. tanta
+
+Answer:","{
+    ""A"": ""borg el-arab"",
+    ""B"": ""cairo"",
+    ""C"": ""ismailia"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-167_0,EG-DIA-167,Alexandria,"What is the food that is most divisive (either love or hate) in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. qolqas
+C. spinach
+D. wedge clams
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""qolqas"",
+    ""C"": ""spinach"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-167_1,EG-DIA-167,Alexandria,"What is the food that is most divisive (either love or hate) in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. lasima
+C. qolqas
+D. wedge clams
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""lasima"",
+    ""C"": ""qolqas"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-167_2,EG-DIA-167,Alexandria,"What is the food that is most divisive (either love or hate) in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. qolqas
+C. wedge clams
+D. zucchini
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""qolqas"",
+    ""C"": ""wedge clams"",
+    ""D"": ""zucchini""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-167_3,EG-DIA-167,Alexandria,"What is the food that is most divisive (either love or hate) in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. lasima
+C. spinach
+D. wedge clams
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""lasima"",
+    ""C"": ""spinach"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-167_4,EG-DIA-167,Alexandria,"What is the food that is most divisive (either love or hate) in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. spinach
+C. wedge clams
+D. zucchini
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""spinach"",
+    ""C"": ""wedge clams"",
+    ""D"": ""zucchini""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-167_5,EG-DIA-167,Alexandria,"What is the food that is most divisive (either love or hate) in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-meluah
+B. lasima
+C. wedge clams
+D. zucchini
+
+Answer:","{
+    ""A"": ""el-meluah"",
+    ""B"": ""lasima"",
+    ""C"": ""wedge clams"",
+    ""D"": ""zucchini""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Sinai"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-167_6,EG-DIA-167,Alexandria,"What is the food that is most divisive (either love or hate) in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. lasima
+B. qolqas
+C. spinach
+D. wedge clams
+
+Answer:","{
+    ""A"": ""lasima"",
+    ""B"": ""qolqas"",
+    ""C"": ""spinach"",
+    ""D"": ""wedge clams""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-167_7,EG-DIA-167,Alexandria,"What is the food that is most divisive (either love or hate) in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. qolqas
+B. spinach
+C. wedge clams
+D. zucchini
+
+Answer:","{
+    ""A"": ""qolqas"",
+    ""B"": ""spinach"",
+    ""C"": ""wedge clams"",
+    ""D"": ""zucchini""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-167_8,EG-DIA-167,Alexandria,"What is the food that is most divisive (either love or hate) in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. lasima
+B. qolqas
+C. wedge clams
+D. zucchini
+
+Answer:","{
+    ""A"": ""lasima"",
+    ""B"": ""qolqas"",
+    ""C"": ""wedge clams"",
+    ""D"": ""zucchini""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-167_9,EG-DIA-167,Alexandria,"What is the food that is most divisive (either love or hate) in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. lasima
+B. spinach
+C. wedge clams
+D. zucchini
+
+Answer:","{
+    ""A"": ""lasima"",
+    ""B"": ""spinach"",
+    ""C"": ""wedge clams"",
+    ""D"": ""zucchini""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-168_0,EG-DIA-168,Alexandria,"What is the most popular takeaway food in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ful
+B. pizza
+C. savory crepe
+D. taameya
+
+Answer:","{
+    ""A"": ""ful"",
+    ""B"": ""pizza"",
+    ""C"": ""savory crepe"",
+    ""D"": ""taameya""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-169_0,EG-DIA-169,Alexandria,"What are popular snacks in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. biscuits
+B. falafel
+C. popcorn
+D. roasted seeds
+
+Answer:","{
+    ""A"": ""biscuits"",
+    ""B"": ""falafel"",
+    ""C"": ""popcorn"",
+    ""D"": ""roasted seeds""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""dummy"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-170_0,EG-DIA-170,Alexandria,"Who is the most popular sportperson in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hosni abd rabou
+B. karam gaber
+C. mahmoud el-khatib
+D. mohamed salah
+
+Answer:","{
+    ""A"": ""hosni abd rabou"",
+    ""B"": ""karam gaber"",
+    ""C"": ""mahmoud el-khatib"",
+    ""D"": ""mohamed salah""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-170_1,EG-DIA-170,Alexandria,"Who is the most popular sportperson in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hosni abd rabou
+B. karam gaber
+C. mohamed salah
+D. shikabala
+
+Answer:","{
+    ""A"": ""hosni abd rabou"",
+    ""B"": ""karam gaber"",
+    ""C"": ""mohamed salah"",
+    ""D"": ""shikabala""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Alexandria"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-170_2,EG-DIA-170,Alexandria,"Who is the most popular sportperson in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. karam gaber
+B. mahmoud el-khatib
+C. mohamed salah
+D. shikabala
+
+Answer:","{
+    ""A"": ""karam gaber"",
+    ""B"": ""mahmoud el-khatib"",
+    ""C"": ""mohamed salah"",
+    ""D"": ""shikabala""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-170_3,EG-DIA-170,Alexandria,"Who is the most popular sportperson in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hosni abd rabou
+B. karam gaber
+C. mahmoud el-khatib
+D. shikabala
+
+Answer:","{
+    ""A"": ""hosni abd rabou"",
+    ""B"": ""karam gaber"",
+    ""C"": ""mahmoud el-khatib"",
+    ""D"": ""shikabala""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""Alexandria"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-170_4,EG-DIA-170,Alexandria,"Who is the most popular sportperson in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-shorbagy
+B. hosni abd rabou
+C. mahmoud el-khatib
+D. mohamed salah
+
+Answer:","{
+    ""A"": ""el-shorbagy"",
+    ""B"": ""hosni abd rabou"",
+    ""C"": ""mahmoud el-khatib"",
+    ""D"": ""mohamed salah""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""LowerEgypt""
+}",A
+EG-DIA-170_5,EG-DIA-170,Alexandria,"Who is the most popular sportperson in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-shorbagy
+B. hosni abd rabou
+C. mohamed salah
+D. shikabala
+
+Answer:","{
+    ""A"": ""el-shorbagy"",
+    ""B"": ""hosni abd rabou"",
+    ""C"": ""mohamed salah"",
+    ""D"": ""shikabala""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-170_6,EG-DIA-170,Alexandria,"Who is the most popular sportperson in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-shorbagy
+B. mahmoud el-khatib
+C. mohamed salah
+D. shikabala
+
+Answer:","{
+    ""A"": ""el-shorbagy"",
+    ""B"": ""mahmoud el-khatib"",
+    ""C"": ""mohamed salah"",
+    ""D"": ""shikabala""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""LowerEgypt"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-170_7,EG-DIA-170,Alexandria,"Who is the most popular sportperson in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. el-shorbagy
+B. hosni abd rabou
+C. mahmoud el-khatib
+D. shikabala
+
+Answer:","{
+    ""A"": ""el-shorbagy"",
+    ""B"": ""hosni abd rabou"",
+    ""C"": ""mahmoud el-khatib"",
+    ""D"": ""shikabala""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-172_0,EG-DIA-172,Alexandria,"What is the most important industry in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. cement
+B. electrical cables
+C. food industry
+D. shipbuilding
+
+Answer:","{
+    ""A"": ""cement"",
+    ""B"": ""electrical cables"",
+    ""C"": ""food industry"",
+    ""D"": ""shipbuilding""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-174_0,EG-DIA-174,Alexandria,"What is a popular family game in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. chess
+B. domino
+C. football
+D. playing cards
+
+Answer:","{
+    ""A"": ""chess"",
+    ""B"": ""domino"",
+    ""C"": ""football"",
+    ""D"": ""playing cards""
+}","{
+    ""A"": ""TheSuezCanalCities"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-175_0,EG-DIA-175,Alexandria,"What is Alexandria's most popular food for family meals on weekends? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fatta
+B. fish
+C. koshari
+D. mahshi
+
+Answer:","{
+    ""A"": ""fatta"",
+    ""B"": ""fish"",
+    ""C"": ""koshari"",
+    ""D"": ""mahshi""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""TheSuezCanalCities"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-176_0,EG-DIA-176,Alexandria,"Which subject is considered the most important for students in Alexandria Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. english
+B. mathematics
+C. memorizing the the holy quran
+D. science
+
+Answer:","{
+    ""A"": ""english"",
+    ""B"": ""mathematics"",
+    ""C"": ""memorizing the the holy quran"",
+    ""D"": ""science""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""Sinai"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-177_0,EG-DIA-177,Alexandria,"What is a common public transport that people use to go to university in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. microbus
+B. microbus
+C. public bus
+D. tram
+
+Answer:","{
+    ""A"": ""microbus"",
+    ""B"": ""microbus"",
+    ""C"": ""public bus"",
+    ""D"": ""tram""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-178_0,EG-DIA-178,Alexandria,"What is the most common morning drink in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hot chocolate
+B. orange juice
+C. tea
+D. yerba mate
+
+Answer:","{
+    ""A"": ""hot chocolate"",
+    ""B"": ""orange juice"",
+    ""C"": ""tea"",
+    ""D"": ""yerba mate""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-179_0,EG-DIA-179,Alexandria,"What is the most popular weekday evening family activity in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. going to the beach
+B. on their phone
+C. sportsclub
+D. they watch movies
+
+Answer:","{
+    ""A"": ""going to the beach"",
+    ""B"": ""on their phone"",
+    ""C"": ""sportsclub"",
+    ""D"": ""they watch movies""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-181_0,EG-DIA-181,Alexandria,"What is the most popular grab-and-go breakfast option in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bagels
+B. breakfast burritos
+C. croissants
+D. falafel sandwiches
+
+Answer:","{
+    ""A"": ""bagels"",
+    ""B"": ""breakfast burritos"",
+    ""C"": ""croissants"",
+    ""D"": ""falafel sandwiches""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-181_1,EG-DIA-181,Alexandria,"What is the most popular grab-and-go breakfast option in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bagels
+B. breakfast burritos
+C. croissants
+D. ful sandwiches
+
+Answer:","{
+    ""A"": ""bagels"",
+    ""B"": ""breakfast burritos"",
+    ""C"": ""croissants"",
+    ""D"": ""ful sandwiches""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-182_0,EG-DIA-182,Alexandria,"What do people from Alexandria eat at the beach? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. fish
+B. foul medames
+C. koshari
+D. shawarma
+
+Answer:","{
+    ""A"": ""fish"",
+    ""B"": ""foul medames"",
+    ""C"": ""koshari"",
+    ""D"": ""shawarma""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-183_0,EG-DIA-183,Alexandria,"Where is the most popular tourist destination abroad for people from Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. france
+B. greece
+C. italy
+D. united arab emirates
+
+Answer:","{
+    ""A"": ""france"",
+    ""B"": ""greece"",
+    ""C"": ""italy"",
+    ""D"": ""united arab emirates""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-184_0,EG-DIA-184,Alexandria,"What region in Alexandria has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. bilbeis
+C. country side
+D. rafah
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""bilbeis"",
+    ""C"": ""country side"",
+    ""D"": ""rafah""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""Sinai""
+}",C
+EG-DIA-184_1,EG-DIA-184,Alexandria,"What region in Alexandria has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. country side
+C. rafah
+D. sohag
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""country side"",
+    ""C"": ""rafah"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-184_2,EG-DIA-184,Alexandria,"What region in Alexandria has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. country side
+C. rafah
+D. sahl el-tina
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""country side"",
+    ""C"": ""rafah"",
+    ""D"": ""sahl el-tina""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-184_3,EG-DIA-184,Alexandria,"What region in Alexandria has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. bilbeis
+C. country side
+D. sohag
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""bilbeis"",
+    ""C"": ""country side"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-184_4,EG-DIA-184,Alexandria,"What region in Alexandria has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. bilbeis
+C. country side
+D. sahl el-tina
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""bilbeis"",
+    ""C"": ""country side"",
+    ""D"": ""sahl el-tina""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-184_5,EG-DIA-184,Alexandria,"What region in Alexandria has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-marj
+B. country side
+C. sahl el-tina
+D. sohag
+
+Answer:","{
+    ""A"": ""al-marj"",
+    ""B"": ""country side"",
+    ""C"": ""sahl el-tina"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-184_6,EG-DIA-184,Alexandria,"What region in Alexandria has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bilbeis
+B. country side
+C. rafah
+D. sohag
+
+Answer:","{
+    ""A"": ""bilbeis"",
+    ""B"": ""country side"",
+    ""C"": ""rafah"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-184_7,EG-DIA-184,Alexandria,"What region in Alexandria has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bilbeis
+B. country side
+C. rafah
+D. sahl el-tina
+
+Answer:","{
+    ""A"": ""bilbeis"",
+    ""B"": ""country side"",
+    ""C"": ""rafah"",
+    ""D"": ""sahl el-tina""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""Sinai"",
+    ""D"": ""TheSuezCanalCities""
+}",B
+EG-DIA-184_8,EG-DIA-184,Alexandria,"What region in Alexandria has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. country side
+B. rafah
+C. sahl el-tina
+D. sohag
+
+Answer:","{
+    ""A"": ""country side"",
+    ""B"": ""rafah"",
+    ""C"": ""sahl el-tina"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-184_9,EG-DIA-184,Alexandria,"What region in Alexandria has been traditionally associated with agriculture? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. bilbeis
+B. country side
+C. sahl el-tina
+D. sohag
+
+Answer:","{
+    ""A"": ""bilbeis"",
+    ""B"": ""country side"",
+    ""C"": ""sahl el-tina"",
+    ""D"": ""sohag""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-185_0,EG-DIA-185,Alexandria,"What time do people usually have dinner in Alexandria? (Provide in HH:MM format(e.g., 06:00PM, 09:00AM).) Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. 06:00pm
+B. 07:00pm
+C. 09:00PM
+D. 11:00PM
+
+Answer:","{
+    ""A"": ""06:00pm"",
+    ""B"": ""07:00pm"",
+    ""C"": ""09:00PM"",
+    ""D"": ""11:00PM""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""GreaterCairo""
+}",C
+EG-DIA-186_0,EG-DIA-186,Alexandria,"Where do university students have lunch in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. at home
+B. cafeteria
+C. stanley park
+D. university
+
+Answer:","{
+    ""A"": ""at home"",
+    ""B"": ""cafeteria"",
+    ""C"": ""stanley park"",
+    ""D"": ""university""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-187_0,EG-DIA-187,Alexandria,"Which is the most important meal of the day to people from Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. breakfast
+B. brunch
+C. dinner
+D. lunch
+
+Answer:","{
+    ""A"": ""breakfast"",
+    ""B"": ""brunch"",
+    ""C"": ""dinner"",
+    ""D"": ""lunch""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-188_0,EG-DIA-188,Alexandria,"What do people especially spend their first salary on in Alexandria's society? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. charity
+B. debt repayment
+C. gift
+D. going out
+
+Answer:","{
+    ""A"": ""charity"",
+    ""B"": ""debt repayment"",
+    ""C"": ""gift"",
+    ""D"": ""going out""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""UpperEgypt"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-189_0,EG-DIA-189,Alexandria,"What is the second most popular sport in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. camel racing
+B. football
+C. karate
+D. squash
+
+Answer:","{
+    ""A"": ""camel racing"",
+    ""B"": ""football"",
+    ""C"": ""karate"",
+    ""D"": ""squash""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""GreaterCairo""
+}",B
+EG-DIA-190_0,EG-DIA-190,Alexandria,"Which occupation is most preferred among females in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. nurse
+B. online
+C. secretary
+D. tour guide
+
+Answer:","{
+    ""A"": ""nurse"",
+    ""B"": ""online"",
+    ""C"": ""secretary"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-191_0,EG-DIA-191,Alexandria,"Which occupation is most preferred among males in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. accountant
+B. government job
+C. realtor
+D. tour guide
+
+Answer:","{
+    ""A"": ""accountant"",
+    ""B"": ""government job"",
+    ""C"": ""realtor"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-191_1,EG-DIA-191,Alexandria,"Which occupation is most preferred among males in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. government job
+B. realtor
+C. self employed
+D. tour guide
+
+Answer:","{
+    ""A"": ""government job"",
+    ""B"": ""realtor"",
+    ""C"": ""self employed"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-191_2,EG-DIA-191,Alexandria,"Which occupation is most preferred among males in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. accountant
+B. realtor
+C. self employed
+D. tour guide
+
+Answer:","{
+    ""A"": ""accountant"",
+    ""B"": ""realtor"",
+    ""C"": ""self employed"",
+    ""D"": ""tour guide""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-191_3,EG-DIA-191,Alexandria,"Which occupation is most preferred among males in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. accountant
+B. government job
+C. realtor
+D. self employed
+
+Answer:","{
+    ""A"": ""accountant"",
+    ""B"": ""government job"",
+    ""C"": ""realtor"",
+    ""D"": ""self employed""
+}","{
+    ""A"": ""LowerEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-192_0,EG-DIA-192,Alexandria,"Which city is the primary commercial hub in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. downtown cairo
+C. mansheya
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""downtown cairo"",
+    ""C"": ""mansheya"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-192_1,EG-DIA-192,Alexandria,"Which city is the primary commercial hub in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. downtown cairo
+D. mansheya
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""downtown cairo"",
+    ""D"": ""mansheya""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""GreaterCairo"",
+    ""D"": ""Alexandria""
+}",D
+EG-DIA-192_2,EG-DIA-192,Alexandria,"Which city is the primary commercial hub in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. downtown cairo
+C. mansheya
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""downtown cairo"",
+    ""C"": ""mansheya"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-192_3,EG-DIA-192,Alexandria,"Which city is the primary commercial hub in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. mansheya
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""mansheya"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-192_4,EG-DIA-192,Alexandria,"Which city is the primary commercial hub in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. mansheya
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""mansheya"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-192_5,EG-DIA-192,Alexandria,"Which city is the primary commercial hub in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. al-arish
+B. aswan
+C. mansheya
+D. port said
+
+Answer:","{
+    ""A"": ""al-arish"",
+    ""B"": ""aswan"",
+    ""C"": ""mansheya"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""UpperEgypt"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-192_6,EG-DIA-192,Alexandria,"Which city is the primary commercial hub in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. downtown cairo
+C. mansheya
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""downtown cairo"",
+    ""C"": ""mansheya"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""LowerEgypt""
+}",C
+EG-DIA-192_7,EG-DIA-192,Alexandria,"Which city is the primary commercial hub in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. downtown cairo
+B. mansheya
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""downtown cairo"",
+    ""B"": ""mansheya"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""GreaterCairo"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-192_8,EG-DIA-192,Alexandria,"Which city is the primary commercial hub in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. downtown cairo
+C. mansheya
+D. port said
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""downtown cairo"",
+    ""C"": ""mansheya"",
+    ""D"": ""port said""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""GreaterCairo"",
+    ""C"": ""Alexandria"",
+    ""D"": ""TheSuezCanalCities""
+}",C
+EG-DIA-192_9,EG-DIA-192,Alexandria,"Which city is the primary commercial hub in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aswan
+B. mansheya
+C. port said
+D. tanta
+
+Answer:","{
+    ""A"": ""aswan"",
+    ""B"": ""mansheya"",
+    ""C"": ""port said"",
+    ""D"": ""tanta""
+}","{
+    ""A"": ""UpperEgypt"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""LowerEgypt""
+}",B
+EG-DIA-193_0,EG-DIA-193,Alexandria,"What is the traditional dance in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. dabke
+B. dabke
+C. raqs baladi
+D. tahtib
+
+Answer:","{
+    ""A"": ""dabke"",
+    ""B"": ""dabke"",
+    ""C"": ""raqs baladi"",
+    ""D"": ""tahtib""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""UpperEgypt""
+}",C
+EG-DIA-193_1,EG-DIA-193,Alexandria,"What is the traditional dance in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. belly dance
+B. dabke
+C. dabke
+D. tahtib
+
+Answer:","{
+    ""A"": ""belly dance"",
+    ""B"": ""dabke"",
+    ""C"": ""dabke"",
+    ""D"": ""tahtib""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""Sinai"",
+    ""C"": ""dummy"",
+    ""D"": ""UpperEgypt""
+}",A
+EG-DIA-194_0,EG-DIA-194,Alexandria,"what meal is most popular on the first day of Ramadan in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. koshari
+B. mahshi
+C. molokhia
+D. shawarma
+
+Answer:","{
+    ""A"": ""koshari"",
+    ""B"": ""mahshi"",
+    ""C"": ""molokhia"",
+    ""D"": ""shawarma""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""Alexandria"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",B
+EG-DIA-195_0,EG-DIA-195,Alexandria,"What is the most common occupation in Alexandria ? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. farming
+B. realtor
+C. teaching
+D. work in tourism
+
+Answer:","{
+    ""A"": ""farming"",
+    ""B"": ""realtor"",
+    ""C"": ""teaching"",
+    ""D"": ""work in tourism""
+}","{
+    ""A"": ""Sinai"",
+    ""B"": ""Alexandria"",
+    ""C"": ""TheSuezCanalCities"",
+    ""D"": ""UpperEgypt""
+}",B
+EG-DIA-196_0,EG-DIA-196,Alexandria,"What do families from Alexandria usually do when a baby is born? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. aqiqah
+B. baby shower
+C. bris
+D. christening
+
+Answer:","{
+    ""A"": ""aqiqah"",
+    ""B"": ""baby shower"",
+    ""C"": ""bris"",
+    ""D"": ""christening""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""dummy"",
+    ""C"": ""dummy"",
+    ""D"": ""dummy""
+}",A
+EG-DIA-197_0,EG-DIA-197,Alexandria,"What do people from Alexandria bring with them while visiting an ill person? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. books
+B. flowers
+C. fruit
+D. soup
+
+Answer:","{
+    ""A"": ""books"",
+    ""B"": ""flowers"",
+    ""C"": ""fruit"",
+    ""D"": ""soup""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-198_0,EG-DIA-198,Alexandria,"Which pastries/sweets are the most bought during Eid al Fitr in Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. baklava
+B. basbousa
+C. ka'ak
+D. kunafa
+
+Answer:","{
+    ""A"": ""baklava"",
+    ""B"": ""basbousa"",
+    ""C"": ""ka'ak"",
+    ""D"": ""kunafa""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-199_0,EG-DIA-199,Alexandria,"What do women from Alexandria drink right after giving birth? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. caraway tea
+B. hibiscus tea
+C. moghat
+D. sahlab
+
+Answer:","{
+    ""A"": ""caraway tea"",
+    ""B"": ""hibiscus tea"",
+    ""C"": ""moghat"",
+    ""D"": ""sahlab""
+}","{
+    ""A"": ""dummy"",
+    ""B"": ""dummy"",
+    ""C"": ""Alexandria"",
+    ""D"": ""dummy""
+}",C
+EG-DIA-200_0,EG-DIA-200,Alexandria,"Which artist is the most played during weddings in the Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. hakim
+B. reda el-bahrawy
+C. tamer hosny
+D. yara mohamed
+
+Answer:","{
+    ""A"": ""hakim"",
+    ""B"": ""reda el-bahrawy"",
+    ""C"": ""tamer hosny"",
+    ""D"": ""yara mohamed""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-200_1,EG-DIA-200,Alexandria,"Which artist is the most played during weddings in the Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. ahmed saad
+B. reda el-bahrawy
+C. tamer hosny
+D. yara mohamed
+
+Answer:","{
+    ""A"": ""ahmed saad"",
+    ""B"": ""reda el-bahrawy"",
+    ""C"": ""tamer hosny"",
+    ""D"": ""yara mohamed""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""TheSuezCanalCities""
+}",A
+EG-DIA-200_2,EG-DIA-200,Alexandria,"Which artist is the most played during weddings in the Alexandria? Without any explanation, choose only one from the given alphabet choices (e.g., A, B, C). Provide as JSON format: {""answer_choice"":""""}
+
+A. amr Diab
+B. reda el-bahrawy
+C. tamer hosny
+D. yara mohamed
+
+Answer:","{
+    ""A"": ""amr Diab"",
+    ""B"": ""reda el-bahrawy"",
+    ""C"": ""tamer hosny"",
+    ""D"": ""yara mohamed""
+}","{
+    ""A"": ""Alexandria"",
+    ""B"": ""LowerEgypt"",
+    ""C"": ""dummy"",
+    ""D"": ""TheSuezCanalCities""
+}",A
