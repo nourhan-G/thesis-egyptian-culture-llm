@@ -1,0 +1,8056 @@
+{
+  "EG-DIA-01": {
+    "question": "ماذا يأكل الأطفال كوجبة خفيفة في الحضانة في القاهرة الكبرى؟",
+    "en_question": "What is a common snack for preschool kids in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الفواكهه القطع",
+          "فواكهه قطع"
+        ],
+        "en_answers": [
+          "sliced fruit",
+          "fruit pieces"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "عصير"
+        ],
+        "en_answers": [
+          "juice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "شبسي"
+        ],
+        "en_answers": [
+          "chips"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "البسكوت"
+        ],
+        "en_answers": [
+          "biscuits"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-02": {
+    "question": "ما هي الفاكهة الأكثر شعبية في القاهرة الكبرى؟",
+    "en_question": "What is the most popular fruit in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "المانجا",
+          "مانجا"
+        ],
+        "en_answers": [
+          "mango"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "التين"
+        ],
+        "en_answers": [
+          "fig"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "تفاح"
+        ],
+        "en_answers": [
+          "apple"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "موز"
+        ],
+        "en_answers": [
+          "banana"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-03": {
+    "question": "في أي سن يبدأ الأطفال الذهاب للحضانة في القاهرة الكبرى؟ (يرجي استعمال الأرقام العربية فقط (12 على سبيل المثال) ).",
+    "en_question": "At what age do kids start preschool in Greater Cairo?(use arabic numerals) (e.g., 12) only.)",
+    "annotations": [
+      {
+        "answers": [
+          "4"
+        ],
+        "en_answers": [
+          "4"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "3"
+        ],
+        "en_answers": [
+          "3"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-04": {
+    "question": "ماذا يفعل الناس للاحتفال  بشم النسيم في القاهرة الكبرى؟",
+    "en_question": "What do people do to celebrate Easter in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "كورنيش القاهره",
+          "بيروحو الكورنيش",
+          "الكورنيش",
+          "بنروح الكوريش"
+        ],
+        "en_answers": [
+          "they go to Cairo corniche",
+          "they go to the corniche",
+          "corniche",
+          "we go to the corniche"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "التنزه في الحدائق",
+          "بيروحو الحدائق",
+          "الحدائق"
+        ],
+        "en_answers": [
+          "walking in the park",
+          "they go to the park",
+          "parks"
+        ],
+        "count": 3
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-05": {
+    "question": "أي نوع من الطعام يرتبط بشم النسيم في القاهرة الكبرى؟",
+    "en_question": "What food is associated with Easter in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "فسيخ",
+          "الفسيخ"
+        ],
+        "en_answers": [
+          "fesikh",
+          "feseekh"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "رنجه",
+          "الرنجه"
+        ],
+        "en_answers": [
+          "smoked herring"
+        ],
+        "count": 3
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-06": {
+    "question": "ما هو أكثر مكون شائع الاستخدام في النظام الغذائي في القاهرة الكبرى؟",
+    "en_question": "What is the most common ingredient used in Greater Cairo's diet?",
+    "annotations": [
+      {
+        "answers": [
+          "طماطم",
+          "الطماطم"
+        ],
+        "en_answers": [
+          "tomato"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الملح",
+          "ملح"
+        ],
+        "en_answers": [
+          "salt"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "البهارات"
+        ],
+        "en_answers": [
+          "spices",
+          "seasoning"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-07": {
+    "question": "ماذا يأكل الناس في القاهرة الكبرى عادة للتحلية بعد الطعام؟",
+    "en_question": "What do people from Greater Cairo usually eat for dessert?",
+    "annotations": [
+      {
+        "answers": [
+          "هريسه",
+          "بسبوسه"
+        ],
+        "en_answers": [
+          "basbousa"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "ام علي"
+        ],
+        "en_answers": [
+          "om ali",
+          "umm ali",
+          "oumm ali"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "كنافه"
+        ],
+        "en_answers": [
+          "kunafa",
+          "knafeh",
+          "kunafah",
+          "kanafeh"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-08": {
+    "question": "ما هو المشروب الساخن الأكثر شعبية في القاهرة الكبرى؟",
+    "en_question": "Which is the most popular hot drink in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الشاي",
+          "شاي"
+        ],
+        "en_answers": [
+          "tea"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-09": {
+    "question": "ما هو النوع المنتشر (التقليدي) لمنازل العائلات في القاهرة الكبرى؟",
+    "en_question": "Which is the typical type of house for a family in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "البيت الكبير",
+          "بيت العيله"
+        ],
+        "en_answers": [
+          "family home",
+          "the big house"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "عمارة",
+          "شقه"
+        ],
+        "en_answers": [
+          "residential building",
+          "apartment"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-10": {
+    "question": "ما هي الوجهة التي تُختار عادةً لقضاء عطلة عائلية في القاهرة الكبرى؟",
+    "en_question": "What vacation destination is commonly chosen for a families in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الغردقه"
+        ],
+        "en_answers": [
+          "hurghada"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الاسكندريه"
+        ],
+        "en_answers": [
+          "alexandria"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "العين السخنه"
+        ],
+        "en_answers": [
+          "ain Sokhna"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-11": {
+    "question": "ما هو أهم منتج تصدره في القاهرة الكبرى؟",
+    "en_question": "What is the representative export item of Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "البترول"
+        ],
+        "en_answers": [
+          "petrol"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الملابس"
+        ],
+        "en_answers": [
+          "clothing"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "القمح"
+        ],
+        "en_answers": [
+          "wheat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "المواد الغذائية"
+        ],
+        "en_answers": [
+          "shelfstable food"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-12": {
+    "question": "ما هي الهدية التي تقدمها عند زيارة الوالدين المسنين في القاهرة الكبرى؟",
+    "en_question": "What is the common gift you give when visiting elderly parents in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "فاكهه",
+          "فواكهه"
+        ],
+        "en_answers": [
+          "fruit"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "عصاير"
+        ],
+        "en_answers": [
+          "juice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "جهاز قياس سكر"
+        ],
+        "en_answers": [
+          "blood glucose meter"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-13": {
+    "question": "كيف يذهب طلاب المرحلة الابتدائية إلى المدرسة في القاهرة الكبرى؟",
+    "en_question": "How do elementary school students in Greater Cairo go to school?",
+    "annotations": [
+      {
+        "answers": [
+          "مشي"
+        ],
+        "en_answers": [
+          "on foot"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "عجله"
+        ],
+        "en_answers": [
+          "bike"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الباص"
+        ],
+        "en_answers": [
+          "bus"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-14": {
+    "question": "ما هي المنطقة داخل المدينة التي تشهد أكبر اهتمامٍ بالدراسة في القاهرة الكبرى؟",
+    "en_question": "Which region (within a city) in Greater Cairo has the highest academic fervor?",
+    "annotations": [
+      {
+        "answers": [
+          "القاهره"
+        ],
+        "en_answers": [
+          "cairo"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الجيزه"
+        ],
+        "en_answers": [
+          "giza"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-15": {
+    "question": "ما هي أشهر رياضة تُلعب بدون كرة في القاهرة الكبرى؟",
+    "en_question": "What is the most popular sport played without a ball in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الكاراتيه",
+          "كراتيه"
+        ],
+        "en_answers": [
+          "karate"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "سباحه",
+          "السباحه"
+        ],
+        "en_answers": [
+          "swimming"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الاسكواش",
+          "اسكواش"
+        ],
+        "en_answers": [
+          "squash"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-16": {
+    "question": "ما هو المشروب الغازي الذي يفضله الناس في القاهرة الكبرى؟",
+    "en_question": "What soft drink do people in Greater Cairo like to have?",
+    "annotations": [
+      {
+        "answers": [
+          "ريد بول"
+        ],
+        "en_answers": [
+          "red bull"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "مشروب الطاقه"
+        ],
+        "en_answers": [
+          "energy drink"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "كوكاكولا"
+        ],
+        "en_answers": [
+          "coca cola"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بيبسي"
+        ],
+        "en_answers": [
+          "pepsi"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "تويست"
+        ],
+        "en_answers": [
+          "twist"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-17": {
+    "question": "ماهو الحساء الذي يحبه الناس في القاهرة الكبرى؟",
+    "en_question": "What kind of soup do people from Greater Cairo like to have?",
+    "annotations": [
+      {
+        "answers": [
+          "لسان عصفور"
+        ],
+        "en_answers": [
+          "lesan asfour"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-18": {
+    "question": "ما هي الأكلات الشعبية التي يحب أهل القاهرة الكبرى تناولها؟",
+    "en_question": "What street food do people from Greater Cairo like to eat?",
+    "annotations": [
+      {
+        "answers": [
+          "فول"
+        ],
+        "en_answers": [
+          "ful",
+          "ful medames",
+          "ful mudammas",
+          "foul",
+          "fava beans"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "كشري"
+        ],
+        "en_answers": [
+          "koshari",
+          "koshary",
+          "kushari"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "طعميه"
+        ],
+        "en_answers": [
+          "taameya",
+          "ta'ameya",
+          "falafel"
+        ],
+        "count": 4
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-19": {
+    "question": "ما هي المأكولات البحرية التي يحبها أهل القاهرة الكبرى؟",
+    "en_question": "What kind of seafood do people from Greater Cairo like to eat",
+    "annotations": [
+      {
+        "answers": [
+          "مشوي",
+          "اسماك مشويه",
+          "سمك مشوي"
+        ],
+        "en_answers": [
+          "grilled fish",
+          "grilled"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "بوري"
+        ],
+        "en_answers": [
+          "mullet fish"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "سمك سنجاري",
+          "سنجاري"
+        ],
+        "en_answers": [
+          "singari",
+          "singari fish"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "صيديه"
+        ],
+        "en_answers": [
+          "sayadiyah",
+          "Sayadeya"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-20": {
+    "question": "ما هي وسيلة النقل العمومي الأكثر استخداما عند السفر بين المدن في القاهرة الكبرى؟",
+    "en_question": "What is the most commonly used public transport by people when travelling between cites in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "ميكروباص"
+        ],
+        "en_answers": [
+          "microbus",
+          "minibus"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الباص"
+        ],
+        "en_answers": [
+          "bus"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-21": {
+    "question": "ما هي النشاطات الترفيهية التي تمارسها النساء في العشرينات عادة في القاهرة الكبرى؟",
+    "en_question": "What is the common leisure activity that females in their 20s in Greater Cairo engage in?",
+    "annotations": [
+      {
+        "answers": [
+          "بيتسوقو",
+          "بيخرجو يعملو شوبينج",
+          "شوبنج"
+        ],
+        "en_answers": [
+          "they go shopping",
+          "shopping"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "بيروحو كافيه"
+        ],
+        "en_answers": [
+          "they go to a cafe"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-22": {
+    "question": "ما هي النشاطات الترفيهية التي يمارسها الرجال في العشرينات عادة في القاهرة الكبرى؟",
+    "en_question": "What is the common leisure activity that males in their 20s in Greater Cairo engage in?",
+    "annotations": [
+      {
+        "answers": [
+          "في الكافيه",
+          "بيروحو قهوه بلدي او كافيه",
+          "بيقعدو عالكافيه"
+        ],
+        "en_answers": [
+          "going to a cafe",
+          "they go to a cafe or coffee shop",
+          "they sit at the cafe"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "بيلعبو بلاسيتيشن"
+        ],
+        "en_answers": [
+          "play playstation"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بيروحو جيم"
+        ],
+        "en_answers": [
+          "they go to the gym"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-23": {
+    "question": "ماذا يتغذى الناس خلال أيام العمل عادة في القاهرة الكبرى؟",
+    "en_question": "What do people eat for lunch during the working days in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "سندوتشات"
+        ],
+        "en_answers": [
+          "sandwiches"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "وجبه جاهزة"
+        ],
+        "en_answers": [
+          "ready-made meal"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بانيه سندوتشات",
+          "بانيه"
+        ],
+        "en_answers": [
+          "breaded chicken sandwiches",
+          "breaded chicken"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "برجر"
+        ],
+        "en_answers": [
+          "burger"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-24": {
+    "question": "ما هو متوسط  مدة التنقل للعمل في القاهرة الكبرى؟",
+    "en_question": "What is the average commute time (in minutes) for people in Greater Cairo? (Provide Arabic numerals (e.g., 1) only.)",
+    "annotations": [
+      {
+        "answers": [
+          "15"
+        ],
+        "en_answers": [
+          "15"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "40"
+        ],
+        "en_answers": [
+          "40"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "30"
+        ],
+        "en_answers": [
+          "30"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-25": {
+    "question": "ما هي وسيلة النقل للذهاب إلى العمل الأكثر استعمالاً في القاهرة الكبرى؟",
+    "en_question": "What is the most common transportation that people take to get to work in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "ميكروباص"
+        ],
+        "en_answers": [
+          "microbus",
+          "minibus"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "باص"
+        ],
+        "en_answers": [
+          "bus"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "المترو"
+        ],
+        "en_answers": [
+          "metro"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-26": {
+    "question": "ما هي الأطعمة التي يعدّها الناس للضيوف في القاهرة الكبرى؟",
+    "en_question": "What food do the hosts usually prepare for the guests in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "بشاميل"
+        ],
+        "en_answers": [
+          "macarona bechamel"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "فراخ"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "مشاوي"
+        ],
+        "en_answers": [
+          "grilled meat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "جلاش باللحمه"
+        ],
+        "en_answers": [
+          "meat in phyllo dough"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-27": {
+    "question": "ما هو المشروب المعتاد في وجبة فطور الصباح في القاهرة الكبرى؟",
+    "en_question": "What is the usual drink in the breakfast in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "شاي",
+          "الشاي"
+        ],
+        "en_answers": [
+          "tea"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "قهوه"
+        ],
+        "en_answers": [
+          "coffee"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-28": {
+    "question": "ما هي الأطعمة التي يحضرها الناس عادة لنزهة عائلية في القاهرة الكبرى؟",
+    "en_question": "What food is usually prepared for a family picnic in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "مشاوي"
+        ],
+        "en_answers": [
+          "grilled meat"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "بيتزا"
+        ],
+        "en_answers": [
+          "pizza"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "جبات  جاهزه"
+        ],
+        "en_answers": [
+          "ready-made meal"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "كريب"
+        ],
+        "en_answers": [
+          "savory crepe"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-29": {
+    "question": "ما هو الطعام في القاهرة الكبرى الذي قد يعتبره الآخرون مقززًا؟",
+    "en_question": "Which food from Greater Cairo is considered disgusting by the rest of the world?",
+    "annotations": [
+      {
+        "answers": [
+          "السمين"
+        ],
+        "en_answers": [
+          "griled/fried organ meat"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "فسيخ"
+        ],
+        "en_answers": [
+          "fesikh",
+          "feseekh"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بصاره"
+        ],
+        "en_answers": [
+          "bissara"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "طاجن الكوارع"
+        ],
+        "en_answers": [
+          "cow trotter stew"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-30": {
+    "question": "ما هو اسم الخبز الشعبي في القاهرة الكبرى؟",
+    "en_question": "What is the name of the popular bread in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "العيش البلدي",
+          "عيش بلدي",
+          "عيش البلدي",
+          "عيش بلدي"
+        ],
+        "en_answers": [
+          "eish baladi",
+          "aish baladi",
+          "baladi bread"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الفينو"
+        ],
+        "en_answers": [
+          "eish fino",
+          "aish fino"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-31": {
+    "question": "ماذا يقام عادة قبل الزفاف في القاهرة الكبرى؟",
+    "en_question": "What event is usually held before a wedding in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الحناء",
+          "الحنه"
+        ],
+        "en_answers": [
+          "henna"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الخطوبه",
+          "خطوبه"
+        ],
+        "en_answers": [
+          "engagement"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-32": {
+    "question": "ما هي الأنشطة التي تُمارس عادة في الأيام التي تسبق رمضان في القاهرة الكبرى؟",
+    "en_question": "What activities are usually done days before Ramadan in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "تعليق الزينه",
+          "تعليق زينه",
+          "تزيين الشوارع",
+          "تعليق زينه في الشارع"
+        ],
+        "en_answers": [
+          "hanging up decorations",
+          "decorating the street",
+          "hanging up decorations in the street"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-33": {
+    "question": "ما هو أشهر معلم سياحي للزوار الأجانب في القاهرة الكبرى؟",
+    "en_question": "What is the most popular tourist attraction for foreign visitors in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الاهرامات"
+        ],
+        "en_answers": [
+          "the pyramids",
+          "the great pyramid of giza",
+          "the pyramids of giza"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "ابو الهول"
+        ],
+        "en_answers": [
+          "sphinx"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-34": {
+    "question": "ما هي أشهر المواقع الدينية (معبد، كنيسة، إلخ) للسياحة في القاهرة الكبرى؟",
+    "en_question": "What is the most popular religious sites (mosque, church, temple, etc.) for tourism in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الجامع الازهر",
+          "جامع الازهر"
+        ],
+        "en_answers": [
+          "al-azhar mosque"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "مسجد عمرو بن العاص"
+        ],
+        "en_answers": [
+          "amr ibn al-as mosque"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الكنيسه المعلقه"
+        ],
+        "en_answers": [
+          "hanging church"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-35": {
+    "question": "ما هو المشروب المستهلك بكثرة عندما يكون الطقس باردا في القاهرة الكبرى؟",
+    "en_question": "What drink is commonly consumed in Greater Cairo when the weather is cold?",
+    "annotations": [
+      {
+        "answers": [
+          "سحلب"
+        ],
+        "en_answers": [
+          "sahlab",
+          "salep",
+          "sahlep",
+          "sahleb"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "هوت شوكلت"
+        ],
+        "en_answers": [
+          "hot chocolate"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "نسكافيه"
+        ],
+        "en_answers": [
+          "instant coffee",
+          "nescafe"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-36": {
+    "question": "ماهو نوع الفواكه الذي يُباع ويُوجد بكثرة خلال شهر رمضان في القاهرة الكبرى؟",
+    "en_question": "What fruit is more commonly sold and found during Ramadan in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الموز",
+          "موز"
+        ],
+        "en_answers": [
+          "banana"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "برتقال"
+        ],
+        "en_answers": [
+          "orange"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "تفاح"
+        ],
+        "en_answers": [
+          "apple"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-37": {
+    "question": "ما هي الكربوهيدرات التي تقدم عادة مع الدجاج في مطاعم الوجبات السريعة في القاهرة الكبرى؟",
+    "en_question": "What carbohydrate is usually served with chicken in a fast-food restaurant in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الارز",
+          "رز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "عيش"
+        ],
+        "en_answers": [
+          "bread"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "بطاطس"
+        ],
+        "en_answers": [
+          "potato"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-38": {
+    "question": "ما هي المرافق الرياضية المتوفرة عادة في مدارس القاهرة الكبرى؟",
+    "en_question": "What sports field facilities are usually available at schools in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "كره القدم"
+        ],
+        "en_answers": [
+          "football"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "تنس"
+        ],
+        "en_answers": [
+          "tennis"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "السله"
+        ],
+        "en_answers": [
+          "basketball"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-39": {
+    "question": "ماهو المشروب الذي يستمتع به أهل القاهرة الكبرى عادة في المقاهي؟",
+    "en_question": "What cafe beverage do people from Greater Cairo most commonly enjoy?",
+    "annotations": [
+      {
+        "answers": [
+          "موكا لاتيه"
+        ],
+        "en_answers": [
+          "mocha latte"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "قهوه فرنساوي"
+        ],
+        "en_answers": [
+          "french coffee"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ايس كوفي"
+        ],
+        "en_answers": [
+          "ice coffee"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "كابتشينو"
+        ],
+        "en_answers": [
+          "cappuccino"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "قهوه تركي"
+        ],
+        "en_answers": [
+          "turkish coffee"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-40": {
+    "question": "ما هو الطعام الذي يطلبه الكثيرون في القاهرة الكبرى؟",
+    "en_question": "What is the typical delivery food in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "بيتزا"
+        ],
+        "en_answers": [
+          "pizza"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "كريب"
+        ],
+        "en_answers": [
+          "savory crepe"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-41": {
+    "question": "ماهو نوع اللحوم الأكثر استهلاكا في القاهرة الكبرى؟",
+    "en_question": "What type of meat is consumed most by people from Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "البقري",
+          "لحم بقر"
+        ],
+        "en_answers": [
+          "cow meat",
+          "cow"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "لحم جاموس"
+        ],
+        "en_answers": [
+          "buffalo meat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "لحم المواشي",
+          "لحم المواشي"
+        ],
+        "en_answers": [
+          "red meat"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-42": {
+    "question": "ما هو المشروب الذي يستمتع به أهل القاهرة الكبرى عادة في المقاهي؟",
+    "en_question": "What fruit do people from Greater Cairo  often eat in the autumn season?",
+    "annotations": [
+      {
+        "answers": [
+          "الموز",
+          "موز"
+        ],
+        "en_answers": [
+          "banana"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "تفاح"
+        ],
+        "en_answers": [
+          "apple"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-43": {
+    "question": "ما هو الطبق الجانبي الأكثر شيوعاً في القاهرة الكبرى؟",
+    "en_question": "What side dish is the most commonly served on a dining table in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "السلطه",
+          "سلطه"
+        ],
+        "en_answers": [
+          "salad"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "مخلل"
+        ],
+        "en_answers": [
+          "pickled vegetables"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-44": {
+    "question": "ماذا يأكل الناس أثناء مشاهدة مباراة كرة قدم في القاهرة الكبرى؟",
+    "en_question": "What do people from Greater Cairo eat while watching a soccer game?",
+    "annotations": [
+      {
+        "answers": [
+          "فشار"
+        ],
+        "en_answers": [
+          "popcorn"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "سوداني"
+        ],
+        "en_answers": [
+          "peanuts"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "لب"
+        ],
+        "en_answers": [
+          "roasted seeds",
+          "lib"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-45": {
+    "question": "ما هو الطعام المغذي الذي يمثل القاهرة الكبرى؟",
+    "en_question": "What is the representative nourishing food in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "لحم",
+          "لحمه"
+        ],
+        "en_answers": [
+          "meat"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "فراخ",
+          "فراخ بلدي"
+        ],
+        "en_answers": [
+          "chicken",
+          "baladi chicken"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بيض"
+        ],
+        "en_answers": [
+          "egg"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "سبانخ"
+        ],
+        "en_answers": [
+          "spinach"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الاسماك"
+        ],
+        "en_answers": [
+          "fish"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-46": {
+    "question": "من هو/هي أشهر لاعب/لاعبة كرة قدم في القاهرة الكبرى؟",
+    "en_question": "Who is the most famous soccer player in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "محمود الخطيب"
+        ],
+        "en_answers": [
+          "mahmoud el-khatib"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "محمد صلاح"
+        ],
+        "en_answers": [
+          "mohamed salah"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "امام عاشور"
+        ],
+        "en_answers": [
+          "emam ashour"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-47": {
+    "question": "ما هو الحدث الرياضي الذي يتابعه أهل القاهرة الكبرى بشغف في المنافسات الدولية؟",
+    "en_question": "What sports event do people from Greater Cairo passionately support the most in international competitions?",
+    "annotations": [
+      {
+        "answers": [
+          "البطوله الافريقيه"
+        ],
+        "en_answers": [
+          "africa cup",
+          "africa cup of nations"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "كاس العالم"
+        ],
+        "en_answers": [
+          "world cup"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-48": {
+    "question": "ما هو الطعام الذي يتناوله الناس في الملاعب الرياضية أثناء مشاهدة المباريات في القاهرة الكبرى؟",
+    "en_question": "What is the most commonly eaten food in sports stadiums while watching games in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "فشار"
+        ],
+        "en_answers": [
+          "popcorn"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "لب"
+        ],
+        "en_answers": [
+          "roasted seeds",
+          "lib"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-49": {
+    "question": "ما هي اللعبة الإلكترونية الأكثر شعبيةً في القاهرة الكبرى؟",
+    "en_question": "What is the most popular online game in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "روبلوكس"
+        ],
+        "en_answers": [
+          "roblox"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "بابجي"
+        ],
+        "en_answers": [
+          "pubg"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-50": {
+    "question": "ما هو أشهر مكان يقضي فيه أهل القاهرة الكبرى عطلتهم داخل الوطن؟",
+    "en_question": "What is the most popular domestic vacation spot for people from Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "المتحف",
+          "المتحف المصري"
+        ],
+        "en_answers": [
+          "museum",
+          "egyptian museum"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الاهرامات",
+          "اهرامات الجيزه"
+        ],
+        "en_answers": [
+          "the pyramids",
+          "the great pyramid of giza",
+          "the pyramids of giza"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "ابوالهول"
+        ],
+        "en_answers": [
+          "sphinx"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-51": {
+    "question": "ما هي أكثر هدية زواج شيوعا بين العروس والعريس في القاهرة الكبرى؟",
+    "en_question": "What is the most common wedding gift between bride and groom in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الذهب",
+          "دهب"
+        ],
+        "en_answers": [
+          "gold"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "فلوس"
+        ],
+        "en_answers": [
+          "money"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "تليفون"
+        ],
+        "en_answers": [
+          "telephone"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ميكب"
+        ],
+        "en_answers": [
+          "make-up"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ورد"
+        ],
+        "en_answers": [
+          "flowers"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-52": {
+    "question": "ما الذي يُهدى عادة لتهنئة صديق عند حضور زفافه في القاهرة الكبرى؟",
+    "en_question": "What is typically given as a congratulatory gesture when attending a friend's wedding in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "فلوس"
+        ],
+        "en_answers": [
+          "money"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الشوكولاته"
+        ],
+        "en_answers": [
+          "chocolate"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "حلويات"
+        ],
+        "en_answers": [
+          "sweets"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-53": {
+    "question": "ماهي الهدية التي يجب تقديمها عند حضور جنازة في القاهرة الكبرى؟",
+    "en_question": "What should you prepare as a condolence offering when attending a funeral in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "تمر"
+        ],
+        "en_answers": [
+          "dates"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "مكرونه"
+        ],
+        "en_answers": [
+          "pasta"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "رز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بيض"
+        ],
+        "en_answers": [
+          "egg"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-54": {
+    "question": "ماهو الطعام الذي يقدم عادة في مراسم الجنازات في القاهرة الكبرى؟",
+    "en_question": "What type of food is commonly provided at funeral parlors in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "فراخ"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 6
+      },
+      {
+        "answers": [
+          "مكرونه"
+        ],
+        "en_answers": [
+          "pasta"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "رز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "تمر"
+        ],
+        "en_answers": [
+          "dates"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "لحوم"
+        ],
+        "en_answers": [
+          "meat"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-55": {
+    "question": "ما هو اليوم الذي تشهد فيه القاهرة الكبرى أشد ازدحام مروري على الصعيد الوطني؟",
+    "en_question": "When is the day with Greater Cairo's most severe nationwide traffic congestion?",
+    "annotations": [
+      {
+        "answers": [
+          "الخميس"
+        ],
+        "en_answers": [
+          "thursday"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "يوم الاحد"
+        ],
+        "en_answers": [
+          "sunday"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الاربعاء",
+          "الاربع"
+        ],
+        "en_answers": [
+          "wednesday"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "لاعياد"
+        ],
+        "en_answers": [
+          "holidays"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-56": {
+    "question": "ما هي أشهر وجهة شهر عسل في القاهرة الكبرى؟",
+    "en_question": "What is the most popular honeymoon destination in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "كورنيش النيل",
+          "كورنيش"
+        ],
+        "en_answers": [
+          "nile corniche",
+          "corniche"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "فنادق النيل"
+        ],
+        "en_answers": [
+          "nile hotel"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "العين السخنه"
+        ],
+        "en_answers": [
+          "ain sokhna"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-57": {
+    "question": "ما الذي يأكله أهل القاهرة الكبرى خلال شهر رمضان؟",
+    "en_question": "What do people from Greater Cairo eat in Ramadan?",
+    "annotations": [
+      {
+        "answers": [
+          "فراخ"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "لحوم"
+        ],
+        "en_answers": [
+          "meat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "رز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "محشي"
+        ],
+        "en_answers": [
+          "mahshi"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "أسماك"
+        ],
+        "en_answers": [
+          "fish"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-58": {
+    "question": "ما الذي يأكله أهل القاهرة الكبرى في عيد الفطر؟",
+    "en_question": "What do people from Greater Cairo eat in Eid ul Fitr?",
+    "annotations": [
+      {
+        "answers": [
+          "بسكوت"
+        ],
+        "en_answers": [
+          "biscuits"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "رنجه"
+        ],
+        "en_answers": [
+          "smoked herring"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "كعك"
+        ],
+        "en_answers": [
+          "ka'ak",
+          "kahk",
+          "kaak"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "فسيخ"
+        ],
+        "en_answers": [
+          "fesikh",
+          "feseekh"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-59": {
+    "question": "ماذا يأكل أهل القاهرة الكبرى في عيد الأضحى؟",
+    "en_question": "What do people from Greater Cairo eat in Eid ul Adha?",
+    "annotations": [
+      {
+        "answers": [
+          "كبده"
+        ],
+        "en_answers": [
+          "liver"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "لحمه"
+        ],
+        "en_answers": [
+          "meat"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-60": {
+    "question": "أين تجتمع العائلة للاحتفال بعيد الفطر في القاهرة الكبرى؟",
+    "en_question": "Where do a family gather for Eid festivities in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "البيت الكبير",
+          "بيت العائلة"
+        ],
+        "en_answers": [
+          "at the family house",
+          "the big house"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "في البيت"
+        ],
+        "en_answers": [
+          "at home"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "في المسجد"
+        ],
+        "en_answers": [
+          "in the mosque"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-61": {
+    "question": "ما هو العمل الذي يعتبر أكثر آمناً في القاهرة الكبرى؟",
+    "en_question": "What is considered to be a secure job in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الوظيفه الحكومية",
+          "الوظيف"
+        ],
+        "en_answers": [
+          "government job",
+          "government employment"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بيزنس",
+          "البزنس"
+        ],
+        "en_answers": [
+          "business"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "شغل المبرمجه"
+        ],
+        "en_answers": [
+          "programming jobs"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-62": {
+    "question": "ما هو أشهر طبق في القاهرة الكبرى؟",
+    "en_question": "What is the most famous dish in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "السمين"
+        ],
+        "en_answers": [
+          "griled/fried organ meat"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "المحشي",
+          "محشي"
+        ],
+        "en_answers": [
+          "mahshi"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "كفته الرز"
+        ],
+        "en_answers": [
+          "rice kofte"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-63": {
+    "question": "ماذا يتناول الناس عادة للفطور في القاهرة الكبرى؟",
+    "en_question": "What do people usually have for breakfast in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "فول"
+        ],
+        "en_answers": [
+          "ful",
+          "ful medames",
+          "ful mudammas",
+          "foul",
+          "fava beans"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "جبنه وشاي"
+        ],
+        "en_answers": [
+          "cheese and tea"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "طعميه"
+        ],
+        "en_answers": [
+          "taameya",
+          "ta'ameya",
+          "falafel"
+        ],
+        "count": 4
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-64": {
+    "question": "متى يتناول الناس الغداء في القاهرة الكبرى عادة؟",
+    "en_question": "When do people usually have lunch in Greater Cairo? (Provide in HH:MM format (e.g., 06:00PM, 09:00AM).)",
+    "annotations": [
+      {
+        "answers": [
+          "07:00 مساءا "
+        ],
+        "en_answers": [
+          "07:00PM"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "08:00 مساءا"
+        ],
+        "en_answers": [
+          "08:00PM"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "05:00 مساءا"
+        ],
+        "en_answers": [
+          "05:00PM"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-65": {
+    "question": "ما هو الشيء الأساسي الذي لا غنى عنه في الوجبات في القاهرة الكبرى؟",
+    "en_question": "What is typically indispensable in meals in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الرز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "البهارات "
+        ],
+        "en_answers": [
+          "spices",
+          "seasoning"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الملح"
+        ],
+        "en_answers": [
+          "salt"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "سلطه"
+        ],
+        "en_answers": [
+          "salad"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-66": {
+    "question": "أي نوع من الفواكه يقدمه الناس عادة للسياح/الزوار القادمين من الخارج في القاهرة الكبرى؟",
+    "en_question": "Which fruit do people usually offer tourists/visitors from abroad in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "المانجو",
+          "مانجا"
+        ],
+        "en_answers": [
+          "mango"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "موز"
+        ],
+        "en_answers": [
+          "banana"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بطيخ"
+        ],
+        "en_answers": [
+          "watermelon"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-67": {
+    "question": "أي نوع من الطعام يقدمه الناس عادة كصدقة في القاهرة الكبرى؟",
+    "en_question": "Which food do people usually offer as charity in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "رز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "مكرونه"
+        ],
+        "en_answers": [
+          "pasta"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "سمنه"
+        ],
+        "en_answers": [
+          "ghee"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فاصوليا"
+        ],
+        "en_answers": [
+          "beans"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "دجاج"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-68": {
+    "question": "ما هي أرخص الوجبات السريعة في القاهرة الكبرى؟",
+    "en_question": "What is the cheapest fast food in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "فول"
+        ],
+        "en_answers": [
+          "ful",
+          "ful medames",
+          "ful mudammas",
+          "foul",
+          "fava beans"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "طعميه"
+        ],
+        "en_answers": [
+          "taameya",
+          "ta'ameya",
+          "falafel"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الكشري"
+        ],
+        "en_answers": [
+          "koshari",
+          "koshary",
+          "kushari"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-69": {
+    "question": "ماذا يتناول الناس عادة مع الشاي في القاهرة الكبرى؟",
+    "en_question": "What do people usually have with tea in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "بسكويت"
+        ],
+        "en_answers": [
+          "biscuits"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "جبنه"
+        ],
+        "en_answers": [
+          "cheese"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بقسماط"
+        ],
+        "en_answers": [
+          "breadstick with sesame",
+          "boksomat"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-70": {
+    "question": "ماذا يتناول الناس مع القهوة في القاهرة الكبرى؟",
+    "en_question": "What do people have with coffee in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "تمر"
+        ],
+        "en_answers": [
+          "dates"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-71": {
+    "question": "ما هو أشهر طعام تقليدي في القاهرة الكبرى؟",
+    "en_question": "What is the most popular traditional food in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "فول"
+        ],
+        "en_answers": [
+          "ful",
+          "ful medames",
+          "ful mudammas",
+          "foul",
+          "fava beans"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الكشري"
+        ],
+        "en_answers": [
+          "koshari",
+          "koshary",
+          "kushari"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "طعميه"
+        ],
+        "en_answers": [
+          "taameya",
+          "ta'ameya",
+          "falafel"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-72": {
+    "question": "ما هي أشهر صلصة للتغميس في القاهرة الكبرى؟",
+    "en_question": "What is the most popular dipping sauce in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "كاتشب"
+        ],
+        "en_answers": [
+          "ketchup"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "صلصه"
+        ],
+        "en_answers": [
+          "tomato sauce"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "رانش"
+        ],
+        "en_answers": [
+          "ranch"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "المايونيز"
+        ],
+        "en_answers": [
+          "mayonnaise"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-73": {
+    "question": "ما هو الطعام الأكثر استهلاكا خلال صيام المسيحيين في القاهرة الكبرى؟",
+    "en_question": "What food is most often consumed during Christian fasting in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "مكرونه"
+        ],
+        "en_answers": [
+          "pasta"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "فاصوليا"
+        ],
+        "en_answers": [
+          "beans"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "البقوليات"
+        ],
+        "en_answers": [
+          "legume"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-74": {
+    "question": "ما هو الطعام الذي يُحضر عادةً عندما تلد الأمهات في القاهرة الكبرى؟",
+    "en_question": "What food is usually prepared when mothers give birth in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "دجاج",
+          "فراخ",
+          "فراخ بلدي"
+        ],
+        "en_answers": [
+          "chicken",
+          "baladi chicken"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "لحمه وفته"
+        ],
+        "en_answers": [
+          "meat fatta",
+          "meat fatteh",
+          "meat fattah",
+          "meat fata"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "رز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "لحمه"
+        ],
+        "en_answers": [
+          "meat"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-75": {
+    "question": "ما هو الحيوان  الذي يستخدم للنقل في القاهرة الكبرى؟",
+    "en_question": "Which animal is typically used for transportation in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "حصان",
+          "الحصان"
+        ],
+        "en_answers": [
+          "horse"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-76": {
+    "question": "ما هو أكثر شهر تقام فيه الأفراح في القاهرة الكبرى؟",
+    "en_question": "What is the busiest month for weddings in Greater Cairo? (Provide Arabic numerals (e.g., 1) only.)",
+    "annotations": [
+      {
+        "answers": [
+          "7"
+        ],
+        "en_answers": [
+          "7"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "6"
+        ],
+        "en_answers": [
+          "6"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "8"
+        ],
+        "en_answers": [
+          "8"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-77": {
+    "question": "ما هي الآلة الموسيقية التقليدية الأكثر شعبية في القاهرة الكبرى؟",
+    "en_question": "What is the most popular traditional musical instrument in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الطبله",
+          "طبله"
+        ],
+        "en_answers": [
+          "tabla"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "القانون"
+        ],
+        "en_answers": [
+          "qanun"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "دوف"
+        ],
+        "en_answers": [
+          "tambourine"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-78": {
+    "question": "ما هو المنتج الزراعي الرئيسي الذي يتم إنتاجه في القاهرة الكبرى؟",
+    "en_question": "What is the main agricultural product produced in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "القمح"
+        ],
+        "en_answers": [
+          "wheat"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الارز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "البرسيم"
+        ],
+        "en_answers": [
+          "alfalfa"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الطماطم"
+        ],
+        "en_answers": [
+          "tomato"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-79": {
+    "question": "ما هو أشهر طعام مصنوع من القمح في القاهرة الكبرى؟",
+    "en_question": "What is the most popular wheat-based food item in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "البليله",
+          "بليله"
+        ],
+        "en_answers": [
+          "belilah",
+          "belila",
+          "balila",
+          "balilah"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "العيش"
+        ],
+        "en_answers": [
+          "bread"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "عاشورا"
+        ],
+        "en_answers": [
+          "ashura",
+          "ashoura"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-80": {
+    "question": "ما هو المشروب الذي يُقدم عادة للضيوف في القاهرة الكبرى؟",
+    "en_question": "What is the most typical drink offered to guests when they visit households in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الشاي",
+          "شاي"
+        ],
+        "en_answers": [
+          "tea"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "قهوه"
+        ],
+        "en_answers": [
+          "coffee"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بيبسي"
+        ],
+        "en_answers": [
+          "pepsi"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "عصير"
+        ],
+        "en_answers": [
+          "juice"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-81": {
+    "question": "ما هو أشهر طبق سمك في القاهرة الكبرى؟",
+    "en_question": "What is the most popular dish cooked with fish in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "صيديه"
+        ],
+        "en_answers": [
+          "sayadiyah",
+          "Sayadeya"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "طاجن"
+        ],
+        "en_answers": [
+          "stew"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "سنجاري"
+        ],
+        "en_answers": [
+          "singari"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فسيخ"
+        ],
+        "en_answers": [
+          "fesikh",
+          "feseekh"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-82": {
+    "question": "ما هي الأطعمة التي يفضلها أهل القاهرة الكبرى عندما يكون الطقس ممطرًا؟",
+    "en_question": "What food do people from Greater Cairo like to eat during rainy weather?",
+    "annotations": [
+      {
+        "answers": [
+          "عدس"
+        ],
+        "en_answers": [
+          "lentils"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "شوربه الخضار"
+        ],
+        "en_answers": [
+          "vegetable soup"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فته عدس"
+        ],
+        "en_answers": [
+          "lentil fatta",
+          "lentil fattah",
+          "lentil fatteh",
+          "lentil fata"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-83": {
+    "question": "ما هو المشروب الذي يستهلك بكثرة في القاهرة الكبرى عندما يكون الطقس حارا؟",
+    "en_question": "What drink is commonly consumed in Greater Cairo when the weather is hot?",
+    "annotations": [
+      {
+        "answers": [
+          "عصير"
+        ],
+        "en_answers": [
+          "juice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "مشروبات غازيه"
+        ],
+        "en_answers": [
+          "soft drink"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "عصير قصب بالتلج"
+        ],
+        "en_answers": [
+          "sugar cane juice with ice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "نسكافيه"
+        ],
+        "en_answers": [
+          "instant coffee",
+          "nescafe"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "عصير فريش"
+        ],
+        "en_answers": [
+          "fresh juice"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-84": {
+    "question": "ماهو العيد الذي يجتمع فيه أفراد العائلة في القاهرة الكبرى؟",
+    "en_question": "On which holiday do all family members tend to reunite in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "العيد الكبير",
+          "عيد الاضحي"
+        ],
+        "en_answers": [
+          "eid al-adha",
+          "big eid",
+          "eid el-adha",
+          "eid ul-adha"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "عيد الفطر"
+        ],
+        "en_answers": [
+          "eid al-fitr",
+          "eid el-fitr",
+          "eid ul-fitr"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-85": {
+    "question": "ما هي الألعاب التقليدية التي تلعبها العائلات خلال العطل في القاهرة الكبرى؟",
+    "en_question": "What traditional games do families play during traditional holidays in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الكوره",
+          "كره القدم ",
+          "كوره قدم "
+        ],
+        "en_answers": [
+          "football"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "طاوله"
+        ],
+        "en_answers": [
+          "backgammon"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "دمينو"
+        ],
+        "en_answers": [
+          "domino"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-86": {
+    "question": "ما هي الفاكهة التي يتناولها أهل القاهرة الكبرى عادة في فصل الصيف؟",
+    "en_question": "What fruit do people from Greater Cairo often eat in the summer season?",
+    "annotations": [
+      {
+        "answers": [
+          "البطيخ"
+        ],
+        "en_answers": [
+          "watermelon"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "المانجو"
+        ],
+        "en_answers": [
+          "mango"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-87": {
+    "question": "ما هي المنطقة في القاهرة الكبرى المعروفة بمأكولاتها؟",
+    "en_question": "Which region in Greater Cairo is known for its seafood?",
+    "annotations": [
+      {
+        "answers": [
+          "منطقه السيده زينب",
+          "السيده زينب"
+        ],
+        "en_answers": [
+          "al-sayeda zeinab district",
+          "al-sayeda zeinab"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "التجمع الجامس"
+        ],
+        "en_answers": [
+          "fifth settlement",
+          "5th settlement"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-88": {
+    "question": "من الذي يعتني بالأطفال عادة عندما يعمل الوالدان في القاهرة الكبرى؟",
+    "en_question": "In Greater Cairo, who takes care of kids when both parents are working?",
+    "annotations": [
+      {
+        "answers": [
+          "الحضانه"
+        ],
+        "en_answers": [
+          "nursery"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الجده",
+          "الجده ام الام"
+        ],
+        "en_answers": [
+          "grandmother"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-89": {
+    "question": "ما هو متوسط عدد المدعوين لحفلات الزفاف في القاهرة الكبرى؟ (قدم الأرقام العربية فقط مثل، 1.)",
+    "en_question": "How many people on average typically attend a wedding in Greater Cairo? (Provide Arabic numerals (e.g., 1) only.)",
+    "annotations": [
+      {
+        "answers": [
+          "200"
+        ],
+        "en_answers": [
+          "200"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "600"
+        ],
+        "en_answers": [
+          "600"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "900"
+        ],
+        "en_answers": [
+          "900"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-90": {
+    "question": "ماهو نوع اللحوم الذي يُستعمل للشواء على الجمر بكثرة في القاهرة الكبرى؟",
+    "en_question": "What kind of meat do people usually eat when they have barbecue in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "البقري",
+          "لحم بقر"
+        ],
+        "en_answers": [
+          "cow meat"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "لحم الاغنام"
+        ],
+        "en_answers": [
+          "lamb meat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "لحم المواشي"
+        ],
+        "en_answers": [
+          "buffalo meat"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-91": {
+    "question": "متى يتناول الناس عادة وجبة الإفطار في القاهرة الكبرى؟ (قدم الوقت بتنسيق الساعة:الدقيقة مثل، 18:00، 09:00).",
+    "en_question": "When do people usually have breakfast in Greater Cairo? (Provide in HH:MM format (e.g., 06:00PM, 09:00AM).)",
+    "annotations": [
+      {
+        "answers": [
+          "11:00 صباحا"
+        ],
+        "en_answers": [
+          "11:00AM"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "09:00  صباحا"
+        ],
+        "en_answers": [
+          "09:00AM"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-92": {
+    "question": "ما الذي يتناوله الناس كوجبات خفيفة في آخر الليل عادة في القاهرة الكبرى؟",
+    "en_question": "What kinds of food do people usually eat for late-night snacks in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "سندوتش جبنه",
+          "جبنه"
+        ],
+        "en_answers": [
+          "cheese sandwiches",
+          "cheese"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "بتاكل فواكهه",
+          "فواكهه"
+        ],
+        "en_answers": [
+          "they eat fruits",
+          "fruits"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "قرص بسكر"
+        ],
+        "en_answers": [
+          "sugar-filled buttermilk bread",
+          "qoras with sugar"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "سندوتش"
+        ],
+        "en_answers": [
+          "sandwiches"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-93": {
+    "question": "ما هو أشهر طبق حار في القاهرة الكبرى؟",
+    "en_question": "What is the most famous spicy dish in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الكشري",
+          "كشري"
+        ],
+        "en_answers": [
+          "koshari",
+          "koshary",
+          "kushari"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-94": {
+    "question": "ما هي التوابل الأساسية للطبخ في القاهرة الكبرى؟",
+    "en_question": "What seasoning is indispensable in cooking in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الفلفل الاسود",
+          "فلفل اسود"
+        ],
+        "en_answers": [
+          "black pepper"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "ملح"
+        ],
+        "en_answers": [
+          "salt"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-95": {
+    "question": "ما هي الأطعمة التي يستهلكها الناس عندما يكون الطقس باردا في القاهرة الكبرى؟",
+    "en_question": "What food do people typically consume when the weather is cold in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "محشي"
+        ],
+        "en_answers": [
+          "mahshi"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "عدس"
+        ],
+        "en_answers": [
+          "lentils"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "لسان عصفور"
+        ],
+        "en_answers": [
+          "lesan asfour"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-96": {
+    "question": "ما هي الأطعمة التي يتناولها أهل القاهرة الكبرى عادة عند المرض؟",
+    "en_question": "What foods do people usually eat when they are sick in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "شوربه الخضار"
+        ],
+        "en_answers": [
+          "vegetable soup"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "شوربه فراخ"
+        ],
+        "en_answers": [
+          "chicken soup"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "شوربه لسان عصفور"
+        ],
+        "en_answers": [
+          "shorbat lesan asfour",
+          "shorbet lesan asfour",
+          "shorbit lesan asfour"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-97": {
+    "question": "ما هي الأطعمة الجاهزة التي يشتريها أهل القاهرة الكبرى من السوبرماركت عادة؟",
+    "en_question": "What prepared/ready-to-eat food do people typically buy at supermarkets in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "برجر"
+        ],
+        "en_answers": [
+          "burger"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "لانشون"
+        ],
+        "en_answers": [
+          "luncheon meat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ستربس",
+          "بانيه"
+        ],
+        "en_answers": [
+          "strips",
+          "breaded chicken"
+        ],
+        "count": 3
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-98": {
+    "question": "ماهي المدن أو المناطق المعروفة بالإستيراد والتصدير في القاهرة الكبرى؟",
+    "en_question": "Which cities or regions are known for their import and export activities in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "العتبه"
+        ],
+        "en_answers": [
+          "attaba"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "حلوان"
+        ],
+        "en_answers": [
+          "helwan"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الموسكي"
+        ],
+        "en_answers": [
+          "el-mosky"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "وسط البلد"
+        ],
+        "en_answers": [
+          "downtown cairo"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-99": {
+    "question": "ما هي طريقة الإتصال عن بعد الأكثر شيوعًا بين أفراد العائلة في القاهرة الكبرى؟",
+    "en_question": "What is the most common way for family members to communicate remotely in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الانترنت"
+        ],
+        "en_answers": [
+          "internet"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الموبايل",
+          "التليفون"
+        ],
+        "en_answers": [
+          "telephone",
+          "mobile"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-100": {
+    "question": "ماهي أماكن الإقامة التي يتم عادة حجزها للرحلات العائلية في القاهرة الكبرى؟",
+    "en_question": "What form of accommodation is typically booked for family trips in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "فنادق"
+        ],
+        "en_answers": [
+          "hotels"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-101": {
+    "question": "ماهي الفاكهة التي يتم تحضيرها بكثرة لعشاء العائلات في القاهرة الكبرى؟",
+    "en_question": "Which fruit is usually prepared the most for family dinners in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "تفاح"
+        ],
+        "en_answers": [
+          "apple"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "كوكتيل"
+        ],
+        "en_answers": [
+          "fruit cocktail"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-102": {
+    "question": "ماهو التخصص  الذي يعتبرالأسهل للتوظيف في القاهرة الكبرى؟",
+    "en_question": "Which major is considered most conducive to employment in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الحقوق"
+        ],
+        "en_answers": [
+          "law"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الانجليزي"
+        ],
+        "en_answers": [
+          "english"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ماس"
+        ],
+        "en_answers": [
+          "mathematics"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "تربيه"
+        ],
+        "en_answers": [
+          "education"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اللغات"
+        ],
+        "en_answers": [
+          "languages"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-103": {
+    "question": "أين يعيش معظم طلاب الجامعة في القاهرة الكبرى؟",
+    "en_question": "What types of accommodation do university students in Greater Cairo typically live in?",
+    "annotations": [
+      {
+        "answers": [
+          "سكن جامعي",
+          "المدينه الجامعيه"
+        ],
+        "en_answers": [
+          "university housing",
+          "university compound"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "سكن خارجي"
+        ],
+        "en_answers": [
+          "off-campus accommodation"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-104": {
+    "question": "ما هي الأعياد التي يزور فيها الناس الأماكن الدينية (المعابد، الكنائس، إلخ) في القاهرة الكبرى؟",
+    "en_question": "During which holidays do people typically visit religious sites (mosque, churches, etc.) in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "العيد الكبير",
+          "عيد الاضحي"
+        ],
+        "en_answers": [
+          "eid al-adha",
+          "big eid",
+          "eid el-adha",
+          "eid ul-adha"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "عيد الفطر"
+        ],
+        "en_answers": [
+          "eid al-fitr",
+          "eid el-fitr",
+          "eid ul-fitr"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "عيد القيامه"
+        ],
+        "en_answers": [
+          "easter"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-105": {
+    "question": "ما هي الهدايا التي تقدم عند زيارة بيت جديد في القاهرة الكبرى؟",
+    "en_question": "What are the typical housewarming gifts in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "انتيكاا",
+          "انتيكا ديكور"
+        ],
+        "en_answers": [
+          "home decoration",
+          "decoration"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "ساعه حائط ا"
+        ],
+        "en_answers": [
+          "wall clock"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "تابلوه"
+        ],
+        "en_answers": [
+          "wall art"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "مفروشات"
+        ],
+        "en_answers": [
+          "home textiles"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فازات"
+        ],
+        "en_answers": [
+          "vase"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-106": {
+    "question": "متى تبدأ حفلات الزفاف عادة في القاهرة الكبرى؟ (قدم الوقت بتنسيق الساعة:الدقائق مثلاً)",
+    "en_question": "At what time do weddings typically start in Greater Cairo? (Provide in HH:MM format  (e.g., 06:00PM, 09:00AM).)",
+    "annotations": [
+      {
+        "answers": [
+          "08:00 مساءا"
+        ],
+        "en_answers": [
+          "08:00PM"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "07:00 مساءا"
+        ],
+        "en_answers": [
+          "07:00 PM"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "09:00 مساءا"
+        ],
+        "en_answers": [
+          "09:00PM"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-107": {
+    "question": "ما هي المدينة أو المنطقة في القاهرة الكبرى التي تستضيف أكبر عدد من الأعياد والمهرجانات؟",
+    "en_question": "Which city in Greater Cairo hosts festivals the most?",
+    "annotations": [
+      {
+        "answers": [
+          "القاهره"
+        ],
+        "en_answers": [
+          "cairo"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "القاهره الجديده"
+        ],
+        "en_answers": [
+          "new cairo"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-108": {
+    "question": "ما هي نكهة الشيبس/الكريسب الأكثر شعبية في القاهرة الكبرى؟",
+    "en_question": "What is the most popular chip/crisp flavour in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "شطه وليمون"
+        ],
+        "en_answers": [
+          "chilli and lime"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "طماطم"
+        ],
+        "en_answers": [
+          "tomato"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "خل وملح"
+        ],
+        "en_answers": [
+          "salt and vinegar"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-109": {
+    "question": "ما هو إسم الوجبة السريعة الاقتصادية في القاهرة الكبرى؟",
+    "en_question": "Which food is a cost-effective and quick meal option in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "طعميه",
+          "الطعميه"
+        ],
+        "en_answers": [
+          "taameya",
+          "ta'ameya",
+          "falafel"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "فول",
+          "الفول"
+        ],
+        "en_answers": [
+          "ful",
+          "ful medames",
+          "ful mudammas",
+          "foul",
+          "fava beans"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-110": {
+    "question": "ما هي أشهر ماركة شوكولاتة في القاهرة الكبرى؟",
+    "en_question": "What is the most popular chocolate brand in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "كورونا"
+        ],
+        "en_answers": [
+          "corona"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "كادبوري"
+        ],
+        "en_answers": [
+          "cadburry"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "باتشي"
+        ],
+        "en_answers": [
+          "patchi"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ماندولين"
+        ],
+        "en_answers": [
+          "mandolin"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-111": {
+    "question": "ما هو الجبن الأكثر استهلاكا في القاهرة الكبرى؟",
+    "en_question": "What is the most eaten cheese in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الجبنه الفلامنك",
+          "جبنه فلامنك"
+        ],
+        "en_answers": [
+          "edam cheese"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الجبنه البيضا",
+          "جرين لاند"
+        ],
+        "en_answers": [
+          "white cheese",
+          "greenland"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "رومي"
+        ],
+        "en_answers": [
+          "roumy",
+          "rumi"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-112": {
+    "question": "ما هي الخضار الأقل  استحسانا بين الناس في القاهرة الكبرى؟",
+    "en_question": "What is the most disliked vegetable in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "سبانخ"
+        ],
+        "en_answers": [
+          "spinach"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "القلقاس"
+        ],
+        "en_answers": [
+          "qolqas",
+          "kolkas"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-113": {
+    "question": "ما هي أكثر الأدوات التشجيعية شيوعًا بين مشجعي الرياضة في القاهرة الكبرى؟",
+    "en_question": "What are the most common cheering tools used by sports fans in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الطبله",
+          "طبله"
+        ],
+        "en_answers": [
+          "tabla"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "زماره"
+        ],
+        "en_answers": [
+          "horn"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "علم"
+        ],
+        "en_answers": [
+          "flag"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "لافتات"
+        ],
+        "en_answers": [
+          "banner"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-114": {
+    "question": "من هو أشهر وأنجح رائد أعمال في القاهرة الكبرى؟",
+    "en_question": "Who is the most well known and successful entrepreneur in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "احمد ابوهشيمه"
+        ],
+        "en_answers": [
+          "ahmed abu hashima"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "احمد عز"
+        ],
+        "en_answers": [
+          "ahmed ezz"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "نجيب ساويرس"
+        ],
+        "en_answers": [
+          "naguib sawiris"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-115": {
+    "question": "ما الذي يمكن أن نجده عادة في حديقة المنزل الخلفية في القاهرة الكبرى؟",
+    "en_question": "What can typically be found in the back garden of houses in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "المرجيحا",
+          "مرجيحا"
+        ],
+        "en_answers": [
+          "swing"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الكنبه"
+        ],
+        "en_answers": [
+          "sofa"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الاشجار",
+          "شجر"
+        ],
+        "en_answers": [
+          "tree",
+          "trees"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-116": {
+    "question": "ما هو اسم أشهر عائلة في القاهرة الكبرى؟",
+    "en_question": "What is the name of the most famous family in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "اباظه",
+          "عائله اباظه"
+        ],
+        "en_answers": [
+          "abaza",
+          "abaza family"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الشاذلي"
+        ],
+        "en_answers": [
+          "el-shazly"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-117": {
+    "question": "ما هو أكثر اسماء العائلة شيوعًا في القاهرة الكبرى؟",
+    "en_question": "What is the most common family name in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "نصير"
+        ],
+        "en_answers": [
+          "naseer",
+          "nasier",
+          "nasir"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "فراج"
+        ],
+        "en_answers": [
+          "farrag",
+          "farag"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "سويلم"
+        ],
+        "en_answers": [
+          "suweilam",
+          "suweilem",
+          "swelim",
+          "swaylem"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "متولي"
+        ],
+        "en_answers": [
+          "mitwally",
+          "metwali",
+          "metwally"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-118": {
+    "question": "ما هي العواقب المترتبة على السلوك السيئ في مدارس القاهرة الكبرى؟",
+    "en_question": "What repercussions are there for bad behavior in schools in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "انذار"
+        ],
+        "en_answers": [
+          "warning"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "استدعاء ولي الامر"
+        ],
+        "en_answers": [
+          "summoning parents"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الفصل من الدراسه"
+        ],
+        "en_answers": [
+          "expulsion"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-119": {
+    "question": "من هم الكتّاب الذين تدرس أعمالهم في حصص الأدب في القاهرة الكبرى؟",
+    "en_question": "Which writers are commonly studied in literature class in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "احمد شوقي"
+        ],
+        "en_answers": [
+          "ahmed shawqi"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "طه حسين"
+        ],
+        "en_answers": [
+          "taha hussein"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "نجيب محفوظ"
+        ],
+        "en_answers": [
+          "naguib mahfouz"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الطيب صالح"
+        ],
+        "en_answers": [
+          "tayeb salih"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-120": {
+    "question": "ماهو المصدر الإلكتروني الذي يستخدمه الطلاب للدراسة في القاهرة الكبرى؟",
+    "en_question": "Which online resource do students usually use to study in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "المنصه التعليميه"
+        ],
+        "en_answers": [
+          "educational platform"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "جوجل"
+        ],
+        "en_answers": [
+          "google"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اليوتيوب"
+        ],
+        "en_answers": [
+          "youtube"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-121": {
+    "question": "ما هو أشهر معلم تاريخي في القاهرة الكبرى؟",
+    "en_question": "What is the most famous historic landmark in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "ابوالهول"
+        ],
+        "en_answers": [
+          "sphinx"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "قلعه صلاح الدين"
+        ],
+        "en_answers": [
+          "saladin citadel"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الاهرامات"
+        ],
+        "en_answers": [
+          "the pyramids",
+          "the great pyramid of giza",
+          "the pyramids of giza"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "المتحف المصري"
+        ],
+        "en_answers": [
+          "grand egyptian museum"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-122": {
+    "question": "ما هو الطعام الأكثر شعبية بين الشباب في القاهرة الكبرى؟",
+    "en_question": "What is the most popular food in Greater Cairo among young people?",
+    "annotations": [
+      {
+        "answers": [
+          "البيتزا",
+          "بيتزا"
+        ],
+        "en_answers": [
+          "pizza"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "كريب"
+        ],
+        "en_answers": [
+          "savory crepe"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اندومي"
+        ],
+        "en_answers": [
+          "instant noodles",
+          "indomie"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-123": {
+    "question": "ما هي أشهر طبق حلويات تقليدي في القاهرة الكبرى؟",
+    "en_question": "What is the most popular traditional dessert in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "طاجن ام علي بالمكسرات",
+          "ام علي بالمكسرات",
+          "ام علي"
+        ],
+        "en_answers": [
+          "om ali with nuts",
+          "umm ali with nuts",
+          "oumm ali with nuts",
+          "om ali",
+          "umm ali",
+          "oumm ali"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "حلويات شرقيه"
+        ],
+        "en_answers": [
+          "traditional eastern sweets"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بسبوسه"
+        ],
+        "en_answers": [
+          "basbousa"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-124": {
+    "question": "ماهي الوظيفة التي  يعتبر أجرها منخفضا في القاهرة الكبرى؟",
+    "en_question": "Which job is considered underpaid in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "العمال"
+        ],
+        "en_answers": [
+          "manual worker"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "معلم",
+          "المدرسين"
+        ],
+        "en_answers": [
+          "teacher",
+          "teachers"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الموظفين"
+        ],
+        "en_answers": [
+          "government job",
+          "government employment"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-125": {
+    "question": "ما هو الطعام الذي يُقدم خلال عيد القيامة في القاهرة الكبرى؟",
+    "en_question": "What is the most common food served during Easter in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "سمك"
+        ],
+        "en_answers": [
+          "fish"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "اللحوم"
+        ],
+        "en_answers": [
+          "meat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ملوخيه"
+        ],
+        "en_answers": [
+          "molokhia",
+          "mulukhiyah",
+          "mulukhiyya",
+          "molokhiyya",
+          "melokhiyya"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فراخ"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-126": {
+    "question": "ما هو المشروب الذي يُقدم في الأفراح في القاهرة الكبرى؟",
+    "en_question": "What drink is usually offered at weddings in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "بيبسي"
+        ],
+        "en_answers": [
+          "pepsi"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "المشروبات الغازية",
+          "مشروبات غازيه"
+        ],
+        "en_answers": [
+          "soft drinks"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "كوكاكولا"
+        ],
+        "en_answers": [
+          "coca cola"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-127": {
+    "question": "ما هو الطعام الذي يعود أصله إلى القاهرة الكبرى ويمكن العثور عليه في جميع أنحاء العالم؟",
+    "en_question": "What food originated from Greater Cairo and can be found all over the world?",
+    "annotations": [
+      {
+        "answers": [
+          "السمين"
+        ],
+        "en_answers": [
+          "griled/fried organ meat"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الكبده"
+        ],
+        "en_answers": [
+          "liver"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الكوارع"
+        ],
+        "en_answers": [
+          "cow trotter"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-128": {
+    "question": "ما هو الطعام الذي يكرهه الأطفال و يستمتع به كبار السن عادة في القاهرة الكبرى؟",
+    "en_question": "What food is typically disliked by children but enjoyed by the elderly in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "العدس",
+          "عدس"
+        ],
+        "en_answers": [
+          "lentils"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "السبانخ"
+        ],
+        "en_answers": [
+          "spinach"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-129": {
+    "question": "ما هو نوع الخضار الأكثر شعبية في القاهرة الكبرى؟",
+    "en_question": "Which is the most popular vegetable in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الخيار",
+          "خيار"
+        ],
+        "en_answers": [
+          "cucumber"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "ملوخيه"
+        ],
+        "en_answers": [
+          "molokhia",
+          "mulukhiyah",
+          "mulukhiyya",
+          "molokhiyya",
+          "melokhiyya"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "خس"
+        ],
+        "en_answers": [
+          "lettuce"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-130": {
+    "question": "ما هو أشهر مكان لإقامة الأفراح في القاهرة الكبرى؟",
+    "en_question": "What is the most popular wedding venue in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "قاعه النيل"
+        ],
+        "en_answers": [
+          "nile hall"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "قاعه الف ليله وليله"
+        ],
+        "en_answers": [
+          "alf leila we leila hall"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "قاعه حياه للقوات الجويه"
+        ],
+        "en_answers": [
+          "hayat air force hall"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-131": {
+    "question": "ما هي الجامعة في القاهرة الكبرى المشهورة بتخصص الهندسة؟ (استعمل الاسم الرسمي.)",
+    "en_question": "What university in Greater Cairo is popular because of its engineering major? (Provide the official name.)",
+    "annotations": [
+      {
+        "answers": [
+          "جامعه القاهره"
+        ],
+        "en_answers": [
+          "cairo university"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "جامعه عين شمس"
+        ],
+        "en_answers": [
+          "ain shams university"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "جامعه الازهر"
+        ],
+        "en_answers": [
+          "al-azhar university"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-132": {
+    "question": "ما هي الجامعة في القاهرة الكبرى المشهورة بتخصص الطب؟ (استعمل الاسم الرسمي.)",
+    "en_question": "What university in Greater Cairo is popular because of its school of medicine? (Provide the official name.)",
+    "annotations": [
+      {
+        "answers": [
+          "جامعه القاهره"
+        ],
+        "en_answers": [
+          "cairo university"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "جامعه الازهر"
+        ],
+        "en_answers": [
+          "al-azhar university"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "جامعه عين شمس"
+        ],
+        "en_answers": [
+          "ain shams university"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-133": {
+    "question": "ما هي طريقة الدفع الأكثر استعمالا في القاهرة الكبرى؟",
+    "en_question": "What is the most popular payment method in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "فيزا",
+          "فيزاكارت"
+        ],
+        "en_answers": [
+          "visa",
+          "visa card"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "كاش"
+        ],
+        "en_answers": [
+          "cash"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-134": {
+    "question": "ما هو أشهر فيلم كرتون يشاهده الأطفال في القاهرة الكبرى بكثرة؟",
+    "en_question": "What is the most popular children's animation that is commonly watched by kids in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "بكار"
+        ],
+        "en_answers": [
+          "bakkar"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "علاء الدين والمصباح السحري"
+        ],
+        "en_answers": [
+          "alladin and the magic lamp"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ربانزل"
+        ],
+        "en_answers": [
+          "rapunzel"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "مواناا"
+        ],
+        "en_answers": [
+          "moana"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-135": {
+    "question": "ما هي أشهر أغنية للأطفال التي تغنيها العائلات معًا في القاهرة الكبرى؟",
+    "en_question": "What is the most popular children's song in Greater Cairo that families sing together?",
+    "annotations": [
+      {
+        "answers": [
+          "بيبي شارك"
+        ],
+        "en_answers": [
+          "baby Shark"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "جدو علي"
+        ],
+        "en_answers": [
+          "gedo ali"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "في منزلي انثي السنجاب"
+        ],
+        "en_answers": [
+          "fi manzili untha al-sinjab"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "انا عاوزه ماما"
+        ],
+        "en_answers": [
+          "ana ayza mama"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ماما زمانها جايه"
+        ],
+        "en_answers": [
+          "mama zamanha gaya"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-136": {
+    "question": "ما هي الألعاب الأكثر شعبية بين الفتيان في القاهرة الكبرى؟",
+    "en_question": "Which toys are most popular among boys in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "موتوسيكلات"
+        ],
+        "en_answers": [
+          "motorcycles"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "عربيات"
+        ],
+        "en_answers": [
+          "cars"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بلايستيشن"
+        ],
+        "en_answers": [
+          "playstation"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-137": {
+    "question": "ما هي الألعاب الأكثر شعبية بين الفتيات في القاهرة الكبرى؟",
+    "en_question": "Which toys are most popular among girls in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "للعرايس"
+        ],
+        "en_answers": [
+          "dolls"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الرسم"
+        ],
+        "en_answers": [
+          "coloring set"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-138": {
+    "question": "ما هي أشهر قصة شعبية تُروى عادة للأطفال في القاهرة الكبرى؟",
+    "en_question": "What is the most popular folk tale in Greater Cairo that is typically told to children?",
+    "annotations": [
+      {
+        "answers": [
+          "جحا"
+        ],
+        "en_answers": [
+          "guha"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "ابوزيد الهلالي",
+          "ابوالزيد الهلالي"
+        ],
+        "en_answers": [
+          "abu zayd al-hilali"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "قيس وليلي"
+        ],
+        "en_answers": [
+          "qays and layla"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-139": {
+    "question": "أين يميل طلاب الجامعة  للعمل بدوام جزئي في القاهرة الكبرى؟",
+    "en_question": "Where do university students in Greater Cairo tend to work part-time the most?",
+    "annotations": [
+      {
+        "answers": [
+          "اونلاين"
+        ],
+        "en_answers": [
+          "online"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "في المطاعم"
+        ],
+        "en_answers": [
+          "in restaurants"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "المحلات"
+        ],
+        "en_answers": [
+          "shops"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "كافيهات"
+        ],
+        "en_answers": [
+          "cafe"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اوبر"
+        ],
+        "en_answers": [
+          "uber"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-140": {
+    "question": "ما هي الأنشطة التي يقوم بها الناس كعمل إضافي في القاهرة الكبرى؟",
+    "en_question": "What are the most common activities people do as a side job in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "البيع الاون لاين",
+          "البيع اونلاين",
+          "الاونلاين"
+        ],
+        "en_answers": [
+          "selling online",
+          "online"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الشغل فالمحلات"
+        ],
+        "en_answers": [
+          "they work in shops"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اوبر"
+        ],
+        "en_answers": [
+          "uber"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-141": {
+    "question": "ما هو أشهر طاجين في القاهرة الكبرى؟",
+    "en_question": "What is the most popular stew in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "طاجن المكرونه"
+        ],
+        "en_answers": [
+          "pasta stew"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "طاجن الكوارع"
+        ],
+        "en_answers": [
+          "cow trotter stew"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "طاجن عكاوي"
+        ],
+        "en_answers": [
+          "cow tail stew"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "طاجن لحمه"
+        ],
+        "en_answers": [
+          "meat stew"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-142": {
+    "question": "ما هي التوابل أو الأعشاب الأكثر استعمالًا في أطباق القاهرة الكبرى؟",
+    "en_question": "What is the most common spice/herb used in dishes from Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الفلفل الاسود"
+        ],
+        "en_answers": [
+          "black pepper"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "شطه"
+        ],
+        "en_answers": [
+          "chilli pepper"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-143": {
+    "question": "أين تتجمع العائلات للصلاة معًا في القاهرة الكبرى؟",
+    "en_question": "Where do families gather to pray together in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "المسجد",
+          "في المسجد",
+          "فالمسجد"
+        ],
+        "en_answers": [
+          "at the mosque",
+          "mosque"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-144": {
+    "question": "ما هي الهدايا التي يحصل عليها الآباء في عيد الأب (أو عيد الوالدين) في القاهرة الكبرى؟",
+    "en_question": "What gifts do fathers get on Father's Day (or Parents' Day) in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "ملابس"
+        ],
+        "en_answers": [
+          "clothing"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "المصحف"
+        ],
+        "en_answers": [
+          "quran"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ساعه"
+        ],
+        "en_answers": [
+          "watch"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "محفظه"
+        ],
+        "en_answers": [
+          "wallet"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-145": {
+    "question": "ما هي الهدايا التي تحصل عليها الأمهات في عيد الأم (أو عيد الوالدين) في القاهرة الكبرى؟",
+    "en_question": "What gifts do mothers get on Mother's Day (or Parents' Day) in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "ملابس",
+          "لبس"
+        ],
+        "en_answers": [
+          "clothing"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "فلوس"
+        ],
+        "en_answers": [
+          "money"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "ساعه"
+        ],
+        "en_answers": [
+          "watch"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ادوات كهربائيه"
+        ],
+        "en_answers": [
+          "electronic appliances"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-146": {
+    "question": "في العائلة الواحدة في القاهرة الكبرى، ما عدد الأجيال التي تعيش معًا في منزل واحد؟ (استعمل الأرقام العربية فقط مثل 12.)",
+    "en_question": "How many generations typically live together in a household in Greater Cairo? (Provide Arabic numerals (e.g., 12) only.)",
+    "annotations": [
+      {
+        "answers": [
+          "3"
+        ],
+        "en_answers": [
+          "3"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "2"
+        ],
+        "en_answers": [
+          "2"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-147": {
+    "question": "ما هي النشاطات التي يمكن القيام بها في الحدائق في القاهرة الكبرى؟",
+    "en_question": "What is a popular activity to do in parks in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "كره القدم ",
+          "اللعب بالكوره"
+        ],
+        "en_answers": [
+          "football",
+          "playing football"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الجري"
+        ],
+        "en_answers": [
+          "running"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-148": {
+    "question": "ما هي لعبة الورق الشعبية التي يتم لعبها خلال اللقاءات الاجتماعية في القاهرة الكبرى؟",
+    "en_question": "What is the popular card game played during social gatherings in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "اونو"
+        ],
+        "en_answers": [
+          "uno"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الكوتشينه",
+          "كوتشينه"
+        ],
+        "en_answers": [
+          "playing cards"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-149": {
+    "question": "ماهو المنتج الزراعي الذي يتم تصديره من القاهرة الكبرى؟",
+    "en_question": "Which agricultural product is exported most often in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "القمح"
+        ],
+        "en_answers": [
+          "wheat"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الارز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-150": {
+    "question": "ما هي أشهر الحلويات في القاهرة الكبرى؟",
+    "en_question": "What are the most popular sweets in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "حلويات شرقيه"
+        ],
+        "en_answers": [
+          "traditional eastern sweets"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "ام علي"
+        ],
+        "en_answers": [
+          "om ali",
+          "umm ali",
+          "oumm ali"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بسبوسه",
+          "البسبوسه"
+        ],
+        "en_answers": [
+          "basbousa"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الكنافه"
+        ],
+        "en_answers": [
+          "kunafa",
+          "knafeh",
+          "kunafah",
+          "kanafeh"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-151": {
+    "question": "ما هو متوسط مستوى التعليم في القاهرة الكبرى؟",
+    "en_question": "What is the average education level for people in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "دبلوم",
+          "الدبلوم"
+        ],
+        "en_answers": [
+          "vocational education"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-152": {
+    "question": "ما هو المشروب الأكثر شعبية بين الأطفال في القاهرة الكبرى؟",
+    "en_question": "What is the most popular beverage among children in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "اللبن",
+          "لبن",
+          "حليب"
+        ],
+        "en_answers": [
+          "milk"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "العصير"
+        ],
+        "en_answers": [
+          "juice"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "عصير تفاح"
+        ],
+        "en_answers": [
+          "apple juice"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-153": {
+    "question": "ما هي الوجبات الخفيفة التي تباع عادة أمام المدارس في القاهرة الكبرى؟",
+    "en_question": "What snacks are usually sold in front of schools in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "اندومي"
+        ],
+        "en_answers": [
+          "instant noodles",
+          "indomie"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "شبسي"
+        ],
+        "en_answers": [
+          "chips"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بسكوت"
+        ],
+        "en_answers": [
+          "biscuits"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "لب"
+        ],
+        "en_answers": [
+          "roasted seeds",
+          "lib"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فشار"
+        ],
+        "en_answers": [
+          "popcorn"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-154": {
+    "question": "ماهو نوع الزيت الذي يستعمل عادة للطبخ في القاهرة الكبرى؟",
+    "en_question": "What oil is usually used for cooking in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "زيت دره",
+          "زيت الدره"
+        ],
+        "en_answers": [
+          "corn oil"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "زيت عباد الشمس"
+        ],
+        "en_answers": [
+          "sunflower oil"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "زيت كريستال"
+        ],
+        "en_answers": [
+          "crystal oil"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-155": {
+    "question": "ما هي الأطعمة التي تستهلكها النساء الحوامل في القاهرة الكبرى؟",
+    "en_question": "What food is commonly consumed by pregnant women in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الفراخ البلدي",
+          "فراخ بلدي",
+          "فراخ"
+        ],
+        "en_answers": [
+          "baladi chicken",
+          "chicken"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "بيض"
+        ],
+        "en_answers": [
+          "egg"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "لحوم"
+        ],
+        "en_answers": [
+          "meat"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-156": {
+    "question": "ما هي المواشي الأكثر شيوعاً في القاهرة الكبرى؟",
+    "en_question": "What is the most common livestock raised in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "جاموس ",
+          "الجاموس"
+        ],
+        "en_answers": [
+          "buffalo"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الماعز"
+        ],
+        "en_answers": [
+          "goat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الاغنام"
+        ],
+        "en_answers": [
+          "sheep"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-157": {
+    "question": "ما هي الحيوانات التي تستخدم عادة في الزراعة في القاهرة الكبرى؟",
+    "en_question": "What animals are commonly used for agriculture in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الحصان",
+          "حصان"
+        ],
+        "en_answers": [
+          "horse"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-158": {
+    "question": "ما الذي يرتديه الفلاحون لحماية أنفسهم من الحرارة أثناء الزراعة  في القاهرة الكبرى؟",
+    "en_question": "What do farmers in Greater Cairo typically wear to protect themselves from the heat whilst farming?",
+    "annotations": [
+      {
+        "answers": [
+          "التلفيحه",
+          "تلفيعا"
+        ],
+        "en_answers": [
+          "scarf"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "كاب"
+        ],
+        "en_answers": [
+          "hat"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "اللباده"
+        ],
+        "en_answers": [
+          "labbadeh"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-159": {
+    "question": "ماذا يهدي الآباء أبنائهم في أعياد ميلادهم في القاهرة الكبرى؟",
+    "en_question": "What gifts do parents generally give to their children for their birthdays in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "العاب"
+        ],
+        "en_answers": [
+          "toys"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "العاب الكترونيه"
+        ],
+        "en_answers": [
+          "electronic toy"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "عجله"
+        ],
+        "en_answers": [
+          "bike"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-160": {
+    "question": "ما الذي يُهدى للأطفال خلال العيد عادةً في القاهرة الكبرى؟",
+    "en_question": "What is usually given to the children during Eid in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "فلوس",
+          "فلوس عيديه"
+        ],
+        "en_answers": [
+          "money",
+          "eid money",
+          "eidiya"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "ملابس"
+        ],
+        "en_answers": [
+          "clothing"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-161": {
+    "question": "ما هي الأطعمة التي تقدم عادة في الأفراح في القاهرة الكبرى؟",
+    "en_question": "What food is usually served at weddings in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "فراخ",
+          "دجاج"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "رز اصفر"
+        ],
+        "en_answers": [
+          "yellow rice"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "رز بسمتي"
+        ],
+        "en_answers": [
+          "basmati rice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "لحمه"
+        ],
+        "en_answers": [
+          "meat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "جاتوه"
+        ],
+        "en_answers": [
+          "cake"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-162": {
+    "question": "ما هو أشهر مبنى حكومي في القاهرة الكبرى؟",
+    "en_question": "What is the most famous government building in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "المجلس"
+        ],
+        "en_answers": [
+          "municipal council"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "المحافظه"
+        ],
+        "en_answers": [
+          "governorate building"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "السجل المدني"
+        ],
+        "en_answers": [
+          "civil registry office"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-163": {
+    "question": "ما هي أفضل جامعة في القاهرة الكبرى؟ (استعمل الاسم الرسمي.)",
+    "en_question": "What is the top university in Greater Cairo? (Provide the official name.)",
+    "annotations": [
+      {
+        "answers": [
+          "جامعه القاهره"
+        ],
+        "en_answers": [
+          "cairo university"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "جامعه الازهر"
+        ],
+        "en_answers": [
+          "al-azhar university"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "جامعه عين شمس"
+        ],
+        "en_answers": [
+          "ain shams university"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-164": {
+    "question": "ما الذي يأكله الناس في عيد الميلاد المجيد في القاهرة الكبرى؟",
+    "en_question": "What do people in Greater Cairo traditionally eat on Christmas Day?",
+    "annotations": [
+      {
+        "answers": [
+          "كفته"
+        ],
+        "en_answers": [
+          "kofte",
+          "kofta"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بيتزا"
+        ],
+        "en_answers": [
+          "pizza"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "سمك مشوي"
+        ],
+        "en_answers": [
+          "grilled fish"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "مشاوي"
+        ],
+        "en_answers": [
+          "grilled meat"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-165": {
+    "question": "ماهي المدينة التي تمثل الوجهة الرئيسية للباحثين عن عمل في القاهرة الكبرى؟",
+    "en_question": "Which city is the main destination for job seekers in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "القاهره"
+        ],
+        "en_answers": [
+          "cairo"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "القاهره الجديده"
+        ],
+        "en_answers": [
+          "new Cairo"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "وسط البلد"
+        ],
+        "en_answers": [
+          "downtown cairo"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-166": {
+    "question": "ما هي سلسلة الوجبات السريعة الأكثر شعبية في القاهرة الكبرى؟",
+    "en_question": "What is Greater Cairo's most popular fast food chain?",
+    "annotations": [
+      {
+        "answers": [
+          "جاد"
+        ],
+        "en_answers": [
+          "gad"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "ماكدونالدز"
+        ],
+        "en_answers": [
+          "mcdonalds"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بيتزا هت"
+        ],
+        "en_answers": [
+          "pizza hut"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "كنتاكي"
+        ],
+        "en_answers": [
+          "kfc"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "قصر الكبابجي"
+        ],
+        "en_answers": [
+          "kasr el-kababgy"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الدهان"
+        ],
+        "en_answers": [
+          "el-dahan"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-167": {
+    "question": "ما هو الطعام الذي يثير الانقسامات (إما الحب أو الكراهية) في القاهرة الكبرى؟",
+    "en_question": "What is the food that is most divisive (either love or hate) in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "القلقاس"
+        ],
+        "en_answers": [
+          "qolqas",
+          "kolkas"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "كوسه"
+        ],
+        "en_answers": [
+          "zucchini"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "سبانخ"
+        ],
+        "en_answers": [
+          "spinach"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "رنجه"
+        ],
+        "en_answers": [
+          "smoked herring"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فسيخ"
+        ],
+        "en_answers": [
+          "fesikh",
+          "feseekh"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-168": {
+    "question": "ما هو الطعام  السريع الأكثر شعبية في القاهرة الكبرى (للأكل بعيدا عن المطعم)؟",
+    "en_question": "What is the most popular takeaway food in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "بيتزا"
+        ],
+        "en_answers": [
+          "pizza"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "فول"
+        ],
+        "en_answers": [
+          "ful",
+          "ful medames",
+          "ful mudammas",
+          "foul",
+          "fava beans"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "طعميه"
+        ],
+        "en_answers": [
+          "taameya",
+          "ta'ameya",
+          "falafel"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-169": {
+    "question": "ما هي الوجبات الخفيفة المشهورة في القاهرة الكبرى؟",
+    "en_question": "What are popular snacks in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "سوداني"
+        ],
+        "en_answers": [
+          "peanuts"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "فشار"
+        ],
+        "en_answers": [
+          "popcorn"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ترمس"
+        ],
+        "en_answers": [
+          "lupine beans"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فواكهه مجففه"
+        ],
+        "en_answers": [
+          "dried fruit"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بسكوت"
+        ],
+        "en_answers": [
+          "biscuits"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-170": {
+    "question": "من هو/هي أشهر رياضي/رياضية في القاهرة الكبرى؟",
+    "en_question": "Who is the most popular sportperson in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "محمود الخطيب"
+        ],
+        "en_answers": [
+          "mahmoud el-khatib"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "محمد صلاح"
+        ],
+        "en_answers": [
+          "mohamed salah"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "امام عاشور"
+        ],
+        "en_answers": [
+          "emam ashour"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-171": {
+    "question": "ما هي المدينة أو المنطقة في القاهرة الكبرى المعروفة بالصناعة التحويلية؟",
+    "en_question": "What is a city or region in Greater Cairo known for manufacturing industry?",
+    "annotations": [
+      {
+        "answers": [
+          "العاشر من رمضان"
+        ],
+        "en_answers": [
+          "10th of ramadan city"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "حلوان",
+          "مدينه حلوان"
+        ],
+        "en_answers": [
+          "helwan",
+          "helwan city"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-172": {
+    "question": "ما هي أهم صناعة في القاهرة الكبرى؟",
+    "en_question": "What is the most important industry in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الملابس"
+        ],
+        "en_answers": [
+          "clothing"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "كابلات الكهرباء",
+          "كابلات كهربا"
+        ],
+        "en_answers": [
+          "electrical cables"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الصلب والحديد"
+        ],
+        "en_answers": [
+          "iron and steel"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-173": {
+    "question": "ما هي النشاطات العائلية الشائعة التي يمكن القيام بها مع الأطفال في عطلة نهاية الأسبوع في  القاهرة الكبرى؟",
+    "en_question": "What is a popular family activity with a child to do on weekends in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الرسم"
+        ],
+        "en_answers": [
+          "drawing"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اللعب في الجناين"
+        ],
+        "en_answers": [
+          "playing at the park"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "مسابقات الجري"
+        ],
+        "en_answers": [
+          "running competition"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الذهاب للنادي"
+        ],
+        "en_answers": [
+          "go to the sportsclub"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اللعب بالكره"
+        ],
+        "en_answers": [
+          "play football"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-174": {
+    "question": "ما هي اللعبة العائلية الأكثر شعبية في القاهرة الكبرى؟",
+    "en_question": "What is a popular family game in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "كره القدم",
+          "كوره القدم"
+        ],
+        "en_answers": [
+          "football"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "كوتشينه"
+        ],
+        "en_answers": [
+          "playing cards"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "طاوله"
+        ],
+        "en_answers": [
+          "backgammon"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "دومينو"
+        ],
+        "en_answers": [
+          "domino"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-175": {
+    "question": "ما هو أكثرالأطعمة شعبية في وجبات العائلة عند عطل نهاية الأسبوع في القاهرة الكبرى؟",
+    "en_question": "What is Greater Cairo's most popular food for family meals on weekends?",
+    "annotations": [
+      {
+        "answers": [
+          "محشي"
+        ],
+        "en_answers": [
+          "mahshi"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "طواجن مكرونه"
+        ],
+        "en_answers": [
+          "pasta stew"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "رز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "كريب"
+        ],
+        "en_answers": [
+          "savory crepe"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فراخ"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "كشري"
+        ],
+        "en_answers": [
+          "koshari",
+          "koshary",
+          "kushari"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بيتزا"
+        ],
+        "en_answers": [
+          "pizza"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-176": {
+    "question": "ماهي أهم مادة بالنسبة للطلاب في القاهرة الكبرى؟",
+    "en_question": "Which subject is considered the most important for students in Greater Cairo",
+    "annotations": [
+      {
+        "answers": [
+          "الانجليزي",
+          "انجليزي"
+        ],
+        "en_answers": [
+          "english"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الدين"
+        ],
+        "en_answers": [
+          "religion"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "القران الكريم"
+        ],
+        "en_answers": [
+          "the holy quran"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-177": {
+    "question": "ما هي وسيلة النقل العام الشائعة بين الناس للذهاب إلى الجامعة في القاهرة الكبرى؟",
+    "en_question": "What is a common public transport that people use to go to university in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "ميكروباص",
+          "سرفيس"
+        ],
+        "en_answers": [
+          "microbus",
+          "minibus"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "الاتوبيس"
+        ],
+        "en_answers": [
+          "bus"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-178": {
+    "question": "ما هو المشروب الصباحي الأكثر شيوعا في القاهرة الكبرى؟",
+    "en_question": "What is the most common morning drink in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "القهوه",
+          "قهوه"
+        ],
+        "en_answers": [
+          "coffee"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "شاي"
+        ],
+        "en_answers": [
+          "tea"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-179": {
+    "question": "ما هي أشهر النشاطات العائلية المسائية في أيام الأسبوع في القاهرة الكبرى؟",
+    "en_question": "What is the most popular weekday evening family activity in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "النادي"
+        ],
+        "en_answers": [
+          "sportsclub"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "العاب جيمز"
+        ],
+        "en_answers": [
+          "playing games"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "تنضيف البيت"
+        ],
+        "en_answers": [
+          "cleaning the house"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اللعب بالطاوله"
+        ],
+        "en_answers": [
+          "playing backgammon"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-180": {
+    "question": "ماذا يتغدى الفلاحون عادة في القاهرة الكبرى؟",
+    "en_question": "What do farmers in Greater Cairo usually eat for lunch?",
+    "annotations": [
+      {
+        "answers": [
+          "فراخ"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "خضار",
+          "خضروات"
+        ],
+        "en_answers": [
+          "vegetables"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "محشي"
+        ],
+        "en_answers": [
+          "mahshi"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بشاميل"
+        ],
+        "en_answers": [
+          "macarona bechamel"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "مكرونه"
+        ],
+        "en_answers": [
+          "pasta"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-181": {
+    "question": "ما هي أشهر وجبة فطور سريعة في القاهرة الكبرى؟",
+    "en_question": "What is the most popular grab-and-go breakfast option in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "طعميه",
+          "سندوتشات طعميه"
+        ],
+        "en_answers": [
+          "taameya",
+          "ta'ameya",
+          "falafel",
+          "taameya sandwiches",
+          "ta'ameya sandwiches",
+          "falafel sandwiches"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "فول",
+          "سندوتشات فول"
+        ],
+        "en_answers": [
+          "ful",
+          "ful medames",
+          "ful mudammas",
+          "foul",
+          "fava beans",
+          "foul sandwiches",
+          "ful sandwiches"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "بطاطس"
+        ],
+        "en_answers": [
+          "potato"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-182": {
+    "question": "ماذا يأكل الناس في القاهرة الكبرى على الشاطئ؟",
+    "en_question": "What do people from Greater Cairo eat at the beach?",
+    "annotations": [
+      {
+        "answers": [
+          "سمك مشوي"
+        ],
+        "en_answers": [
+          "grilled fish"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "فراخ مشويه"
+        ],
+        "en_answers": [
+          "grilled chicken"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "جمبري"
+        ],
+        "en_answers": [
+          "shrimp"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "سمك"
+        ],
+        "en_answers": [
+          "fish"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "كباب "
+        ],
+        "en_answers": [
+          "kebab"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "كفته"
+        ],
+        "en_answers": [
+          "kofte",
+          "kofta"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بيتزا"
+        ],
+        "en_answers": [
+          "pizza"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-183": {
+    "question": "ما هي أشهر وجهة سياحية خارج البلاد لأهل القاهرة الكبرى؟",
+    "en_question": "Where is the most popular tourist destination abroad for people from Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "السعوديه"
+        ],
+        "en_answers": [
+          "saudi arabia"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "ماليزيا"
+        ],
+        "en_answers": [
+          "malaysia"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "تركيا"
+        ],
+        "en_answers": [
+          "turkey"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "تايلاند"
+        ],
+        "en_answers": [
+          "thailand"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-184": {
+    "question": "ها هي أهم منطقة زراعية في القاهرة الكبرى؟",
+    "en_question": "What region in Greater Cairo has been traditionally associated with agriculture?",
+    "annotations": [
+      {
+        "answers": [
+          "المرج"
+        ],
+        "en_answers": [
+          "al-marj",
+          "el-marg"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "جزيره الدهب"
+        ],
+        "en_answers": [
+          "dahab island"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-185": {
+    "question": "متى يتناول الناس العشاء عادة في القاهرة الكبرى؟ (قدم الوقت بتنسيق الساعة:الدقيقة مثلاً،",
+    "en_question": "What time do people usually have dinner in Greater Cairo? (Provide in HH:MM format (e.g., 18:00, 09:00).)",
+    "annotations": [
+      {
+        "answers": [
+          "11:00 صباحا"
+        ],
+        "en_answers": [
+          "11:00PM"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-186": {
+    "question": "أين يتناول طلبة الجامعة غداءهم في القاهرة الكبرى؟",
+    "en_question": "Where do university students have lunch in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "فالبيت",
+          "البيت"
+        ],
+        "en_answers": [
+          "at home",
+          "home"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الجامعه"
+        ],
+        "en_answers": [
+          "university"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "في المطاعم"
+        ],
+        "en_answers": [
+          "in restaurants"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-187": {
+    "question": "ما هي أهم وجبة يومية بالنسبة لأهل القاهرة الكبرى؟",
+    "en_question": "Which is the most important meal of the day to people from Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الغداء",
+          "الغدا"
+        ],
+        "en_answers": [
+          "lunch"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-188": {
+    "question": "على ماذا ينفق الناس في القاهرة الكبرى أول راتب لهم؟",
+    "en_question": "What do people especially spend their first salary on in Greater Cairo's society?",
+    "annotations": [
+      {
+        "answers": [
+          "هدايا"
+        ],
+        "en_answers": [
+          "gift"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "صدقات"
+        ],
+        "en_answers": [
+          "charity"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "ملابس"
+        ],
+        "en_answers": [
+          "clothing"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فواتير"
+        ],
+        "en_answers": [
+          "bills"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-189": {
+    "question": "ما هي ثاني أكثر رياضة شعبيةً في القاهرة الكبرى؟",
+    "en_question": "What is the second most popular sport in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "سله",
+          "السله"
+        ],
+        "en_answers": [
+          "basketball"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "اسكواش"
+        ],
+        "en_answers": [
+          "squash"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "كراتيه"
+        ],
+        "en_answers": [
+          "karate"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-190": {
+    "question": "ماهي المهنة التي تفضلها النساء عادة في القاهرة الكبرى؟",
+    "en_question": "Which occupation is most preferred among females in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "التدريس"
+        ],
+        "en_answers": [
+          "teaching"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "محل خاص"
+        ],
+        "en_answers": [
+          "shop owner"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الوظيفه الحكوميه"
+        ],
+        "en_answers": [
+          "government job",
+          "government employment"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-191": {
+    "question": "ماهي المهنة التي يفضلها الرجال عادة في القاهرة الكبرى؟",
+    "en_question": "Which occupation is most preferred among males in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الوظيفه"
+        ],
+        "en_answers": [
+          "government job",
+          "government employment"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بزنس"
+        ],
+        "en_answers": [
+          "business"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "اوبر"
+        ],
+        "en_answers": [
+          "uber"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "يشتغل في شركه"
+        ],
+        "en_answers": [
+          "company worker"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-192": {
+    "question": "ماهي المدينة التي تعتبر المركز التجاري الرئيسي في القاهرة الكبرى؟",
+    "en_question": "Which city is the primary commercial hub in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "وسط القاهره",
+          "وسط البلد"
+        ],
+        "en_answers": [
+          "downtown cairo"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "العتبه"
+        ],
+        "en_answers": [
+          "attaba"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-193": {
+    "question": "ما هي الرقصة التقليدية في القاهرة الكبرى؟",
+    "en_question": "What is the traditional dance in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "الرقص الشرقي",
+          "رقص شرقي"
+        ],
+        "en_answers": [
+          "belly dance",
+          "raqs sharqi"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الرقص البلدي"
+        ],
+        "en_answers": [
+          "raqs baladi"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-194": {
+    "question": "ما هي الوجبة الأكثر شيوعًا في أول يوم من رمضان في القاهرة الكبرى؟",
+    "en_question": "What meal is most popular on the first day of Ramadan in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "فراخ"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "محشي"
+        ],
+        "en_answers": [
+          "mahshi"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "جلاش باللحمه المفرومه"
+        ],
+        "en_answers": [
+          "phyllo pastry with meat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "رز بسمتي"
+        ],
+        "en_answers": [
+          "basmati rice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "طعميه"
+        ],
+        "en_answers": [
+          "taameya",
+          "ta'ameya",
+          "falafel"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فول"
+        ],
+        "en_answers": [
+          "ful",
+          "ful medames",
+          "ful mudammas",
+          "foul",
+          "fava beans"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-195": {
+    "question": "ما هي المهنة الأكثر شيوعًا في القاهرة الكبرى؟",
+    "en_question": "What is the most common occupation in  Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "العماله"
+        ],
+        "en_answers": [
+          "manual labor"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "المحاسبين"
+        ],
+        "en_answers": [
+          "accountant"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الاونلاين"
+        ],
+        "en_answers": [
+          "online"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اوبر"
+        ],
+        "en_answers": [
+          "uber"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-196": {
+    "question": "ماذا تفعل العائلات عادةً عند ولادة طفل في القاهرة الكبرى؟",
+    "en_question": "What do families from Greater Cairo usually do when a baby is born?",
+    "annotations": [
+      {
+        "answers": [
+          "عقيقه"
+        ],
+        "en_answers": [
+          "aqiqa",
+          "aqiqah"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "حفله سبوع"
+        ],
+        "en_answers": [
+          "sebou party"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-197": {
+    "question": "ماذا يحمل الناس معهم عند زيارة شخص مريض في القاهرة الكبرى؟",
+    "en_question": "What do people from Greater Cairo bring with them while visiting an ill person?",
+    "annotations": [
+      {
+        "answers": [
+          "فواكه",
+          "فواكهه"
+        ],
+        "en_answers": [
+          "fruit"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-198": {
+    "question": "ما هي الحلويات أو المعجنات الأكثر شراءً خلال عيد الفطر في القاهرة الكبرى؟",
+    "en_question": "Which pastries/sweets are the most bought during Eid al Fitr in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "بسكوت"
+        ],
+        "en_answers": [
+          "biscuits"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "باتيه"
+        ],
+        "en_answers": [
+          "filled pastry"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "كعك"
+        ],
+        "en_answers": [
+          "ka'ak",
+          "kahk",
+          "kaak"
+        ],
+        "count": 4
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-199": {
+    "question": "ماذا تشرب النساء عادةً بعد الولادة في القاهرة الكبرى؟",
+    "en_question": "What do women from  Greater Cairo drink right after giving birth?",
+    "annotations": [
+      {
+        "answers": [
+          "حلبه"
+        ],
+        "en_answers": [
+          "fenugreek"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "مغات"
+        ],
+        "en_answers": [
+          "moghat",
+          "mughat"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-200": {
+    "question": "ما هو المطرب الذي تُشغَّل أغانيه أكثر في حفلات الزفاف في القاهرة الكبرى؟",
+    "en_question": "Which artist is the most played during weddings in Greater Cairo?",
+    "annotations": [
+      {
+        "answers": [
+          "رضا البحراوي"
+        ],
+        "en_answers": [
+          "reda el-bahrawy"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "يارا محمد"
+        ],
+        "en_answers": [
+          "yara mohamed"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "عمرو دياب"
+        ],
+        "en_answers": [
+          "amr diab"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  }
+}

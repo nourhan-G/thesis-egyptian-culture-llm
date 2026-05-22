@@ -1,0 +1,201 @@
+,ID,Topic,Source,Question,Translation
+0,EG-DIA-01,Food,English (US),ايه اكتر سناكس  بيحبو اطفال مدن القناة  ف الحضانه؟,What is a common snack for preschool kids in the Suez Canal Cities?
+1,EG-DIA-02,Food,English (US),ايه اكتر فاكهه مشهوره في مدن القناة؟,What is the most popular fruit in the Suez Canal cities?
+2,EG-DIA-03,Education,English (US),علي كام سنه بيدخل الطفل الحضانه في مدن القناة؟(استخدم رقم مثلا 12),"At what age do kids start preschool in the Suez Canal cities?(use arabic numerals) (e.g., 12) only.)"
+3,EG-DIA-04,Holidays/Celebration/Leisure	,English (US) ,ازاي الناس بتحتفل بشم النسيم في مدن القناة؟,What do people do to celebrate Easter in the Suez Canal cities?
+4,EG-DIA-05,Holidays/Celebration/Leisure	,English (US),ايه الاكله اللي ليها علاقه بشم النسيم في مدن القناة؟,What food is associated with Easter in the Suez Canal cities?
+5,EG-DIA-06,Food,Spanish (Spain),ايه اكتر مكون بيستخدم فالاكل في مدن القناة؟,What is the most common ingredient used in the Suez Canal cities's diet?
+6,EG-DIA-07,Food,Spanish (Spain),اية الحلوي اللي بياكلوها بعد الاكل في مدن القناة؟,What do people from the Suez Canal cities usually eat for dessert?
+7,EG-DIA-08,Food,Spanish (Spain),اشهر مشروب ساخن في مدن القناة؟,Which is the most popular hot drink in the Suez Canal cities?
+8,EG-DIA-09,Family,Spanish (Spain),إيه نوع البيت المعتاد للعيلة في مدن القناة؟,Which is the typical type of house for a family in the Suez Canal cities?
+9,EG-DIA-10,Family,Spanish (Spain),ايه الاماكن المشهوره اللي العيله في مدن القناة بتروحها للمصيف؟,What destination is commonly chosen for a family vacation in the Suez Canal cities?
+10,EG-DIA-11,Work life	,Korean (South Korea)	,ايه السلعه  المشهوره بيها مدن القناة للتصدير؟,What is the representative export item of the Suez Canal cities?
+11,EG-DIA-12,Family,Korean (South Korea)	,ايه اكتر هديه ممكن تجيبها وانت بتزور اهالي كبار فالسن في مدن القناة؟,What is the common gift you give when visiting elderly parents in the Suez Canal cities?
+12,EG-DIA-13,Education	,Korean (South Korea)	,طالب الابتدائي بيروح المدرسه ازاي في مدن القناة؟,How do elementary school students in the Suez Canal cities go to school?
+13,EG-DIA-14,Education	,Korean (South Korea)	,ايه اكتر مدينه فيها اكبر حماس للدراسه في مدن القناة؟,Which region (within a city) in the Suez Canal cities has the highest academic fervor?
+14,EG-DIA-15,Sport,Spanish (Spain),ايه اشهر رياضه بتتلعب من غير كوره في مدن القناة؟,What is the most popular sport played without a ball in the Suez Canal cities?
+15,EG-DIA-16,Food,Chinese (China)	,الناس في مدن القناة بيحبوا يشربوا إيه مشروبات غازية؟,What soft drink do people in the Suez Canal cities like to have?
+16,EG-DIA-17,Food,Chinese (China)	,الناس في مدن القناة بيحبوا يشربوا شوربة إيه؟,What kind of soup do people from the Suez Canal cities like to have?
+17,EG-DIA-18,Food,Chinese (China)	,الناس في مدن القناة بيحبوا ياكلوا إيه أكل شارع؟,What street food do people from the Suez Canal cities like to eat?
+18,EG-DIA-19,Food,Chinese (China)	,الناس في مدن القناة بيحبوا ياكلوا إيه مأكولات بحرية؟,What kind of seafood do people from the Suez Canal cities like to eat
+19,EG-DIA-20,Holidays/Celebration/Leisure,Chinese (China)	,الناس بيستخدموا مواصلات عامه ايه لما بيسافرو داخل المدن في مدن القناة؟,What is the most commonly used public transport by people when travelling between cites in the Suez Canal cities?
+20,EG-DIA-21,Holidays/Celebration/Leisure        ,Chinese (China)	,الستات في العشرينات عادة بيعملوا إيه في وقت الفراغ في مدن القناة؟,What is the common leisure activity that females in their 20s in the Suez Canal cities engage in?
+21,EG-DIA-22,Holidays/Celebration/Leisure	,Chinese (China)	,الرجال في العشرينات عاده بيعملوا ايه في وقت الفراغ في مدن القناة؟,What is the common leisure activity that males in their 20s in the Suez Canal cities engage in?
+22,EG-DIA-23,Work life	,Chinese (China)	,الناس بيأكلو ايه للغدا في ايام الشغل في مدن القناة؟,What do people eat for lunch during the working days in the Suez Canal cities?
+23,EG-DIA-24,Work life	,Chinese (China)	,وقت المواصلات فالمتوسط للشغل  كام دقيقه في مدن القناة؟ (استخدم رقم مثلا 1),"What is the average commute time (in minutes) for people in the Suez Canal cities? (Provide Arabic numerals (e.g., 1) only.)"
+24,EG-DIA-25,Work life	,Chinese (China)	,أكتر وسيلة مواصلات الناس بيستخدموها عشان يروحوا الشغل في مدن القناة إيه؟,What is the most common transportation that people take to get to work in the Suez Canal cities?
+25,EG-DIA-26,Food	,Persian (Iran),الناس بيعملوا اكل ايه للضيوف في مدن القناة؟,What food do the hosts usually prepare for the guests in the Suez Canal cities?
+26,EG-DIA-27,Food	,Persian (Iran),عادة بيشربوا إيه على الفطار في مدن القناة؟,What is the usual drink in the breakfast in the Suez Canal cities?
+27,EG-DIA-28,Food	,Persian (Iran),بيعملو اكل ايه في نزهه العيله في مدن القناة؟,What food is usually prepared for a family picnic in the Suez Canal cities?
+28,EG-DIA-29,Food	,Persian (Iran),ايه الاكل اللي في مدن القناه ممكن الناس بره مصر تشوفو مقرف؟,Which food from the Suez Canal cities is considered disgusting by the rest of the world?
+29,EG-DIA-30,Food	,Persian (Iran),إيه اسم العيش المشهور في مدن القناة؟,What is the name of the popular bread in the Suez Canal cities?
+30,EG-DIA-31,Holidays/Celebration/Leisure        ,Indonesian (Indonesia)	,ايه الحفله اللي بتتعمل قبل الفرح في مدن القناة؟,What event is usually held before a wedding in the Suez Canal cities?
+31,EG-DIA-32,Holidays/Celebration/Leisure        ,Indonesian (Indonesia)	,ايه هي الانشطه اللي بتتعمل قبل رمضان في مدن القناة؟,What activities are usually done days before Ramadan in the Suez Canal cities?
+32,EG-DIA-33,Holidays/Celebration/Leisure        ,Indonesian (Indonesia)	,إيه أكتر مكان سياحي مشهور للزوار الأجانب في مدن القناة؟,What is the most popular tourist attraction for foreign visitors in the Suez Canal cities?
+33,EG-DIA-34,Holidays/Celebration/Leisure        ,Indonesian (Indonesia)	,اكتر اماكن دينيه ( مثال مسجد،كنيسه،معبد) مشهوره للسياحه في مدن القناة؟,"What is the most popular religious sites (mosque, church, temple, etc.) for tourism in the Suez Canal cities?"
+34,EG-DIA-35,Food	,Indonesian (Indonesia)	,ايه اكتر مشروب بيتشرب  والجو ساقع في مدن القناة؟,What drink is commonly consumed in the Suez Canal cities when the weather is cold?
+35,EG-DIA-36,Food	,Indonesian (Indonesia)	,ايه اكتر فاكهه بتتباع ومتوفره في رمضان في مدن القناة؟,What fruit is more commonly sold and found during Ramadan in the Suez Canal cities?
+36,EG-DIA-37,Food	,Indonesian (Indonesia)	,ايه النشويات اللي بتتقدم مع الفراخ في المطاعم في مدن القناة؟,What carbohydrate is usually served with chicken in a fast-food restaurant in the Suez Canal cities?
+37,EG-DIA-38,Sport,Indonesian (Indonesia)	,عادة المدارس بيكون فيها إيه من ملاعب أو تجهيزات رياضية في مدن القناة؟,What sports field facilities are usually available at schools in the Suez Canal cities?
+38,EG-DIA-39,Food	,Korean (South Korea),إيه أكتر مشروب كافيه الناس في مدن القناة بيستمتعوا بيه؟,What cafe beverage do people from the Suez Canal cities most commonly enjoy?
+39,EG-DIA-40,Food	,Korean (South Korea),إيه أكتر أكل بيتعمل دليفري في مدن القناة؟,What is the typical delivery food in the Suez Canal cities?
+40,EG-DIA-41,Food	,Korean (South Korea),إيه أكتر نوع لحم الناس بتاكله في مدن القناة؟,What type of meat is consumed most by people from the Suez Canal cities?
+41,EG-DIA-42,Food	,Korean (South Korea),إيه أكتر فاكهة الناس بيأكلوها في الخريف في مدن القناة؟,What fruit do people from the Suez Canal cities  often eat in the autumn season?
+42,EG-DIA-43,Food	,Korean (South Korea),إيه أكتر طبق جانبي بيتقدم على السفرة في مدن القناة؟,What side dish is the most commonly served on a dining table in the Suez Canal cities?
+43,EG-DIA-44,Food	,Korean (South Korea),الناس بيأكلوا إيه وهما بيتفرجوا على ماتش كورة في مدن القناة؟,What do people from the Suez Canal cities eat while watching a soccer game?
+44,EG-DIA-45,Food	,Korean (South Korea),ايه اكتر اكل مغزي في مدن القناة؟,What is the representative nourishing food in the Suez Canal cities?
+45,EG-DIA-46,Sport,Korean (South Korea),مين اشهر لاعب كوره قدم في مدن القناة؟,Who is the most famous soccer player in the Suez Canal cities?
+46,EG-DIA-47,Sport,Korean (South Korea),إيه أكتر بطولة رياضية الناس في مدن القناة بتحب تشجعها في البطولات الدولية؟,What sports event do people from the Suez Canal cities passionately support the most in international competitions?
+47,EG-DIA-48,Sport,Korean (South Korea), إيه أكتر أكل الناس بتاكله في الاستاد وهي بتتفرج على الماتشات في مدن القناة؟,What is the most commonly eaten food in sports stadiums while watching games in the Suez Canal cities?
+48,EG-DIA-49,Sport,Korean (South Korea),اكتر لعبه إلكترونيه مشهوره في مدن القناة؟,What is the most popular online game in the Suez Canal cities?
+49,EG-DIA-50,Holidays/Celebration/Leisure        ,Korean (South Korea),إيه أكتر مكان سياحي جوه مدن القناة الناس بتحب تروحه في الإجازات؟,What is the most popular domestic vacation spot for people from the Suez Canal cities?
+50,EG-DIA-51,Holidays/Celebration/Leisure        ,Korean (South Korea), إيه أكتر هدية شائعة بين العريس والعروسة في مدن القناة؟,What is the most common wedding gift between bride and groom in the Suez Canal cities?
+51,EG-DIA-52,Holidays/Celebration/Leisure        ,Korean (South Korea),اكتر هديه بناخدها للعريس والعروسه في مدن القناة؟,What is typically given as a congratulatory gesture when attending a friend's wedding in the Suez Canal cities?
+52,EG-DIA-53,Holidays/Celebration/Leisure        ,Korean (South Korea),بيتاخد ايه واحنا رايحين العزا في مدن القناة؟,What should you prepare as a condolence offering when attending a funeral in the Suez Canal cities?
+53,EG-DIA-54,Holidays/Celebration/Leisure        ,Korean (South Korea),ايه الاكل اللي بيتقدم في العزا في مدن القناة؟,What type of food is commonly provided at funeral parlors in the Suez Canal cities?
+54,EG-DIA-55,Holidays/Celebration/Leisure        ,Korean (South Korea),ايه اكتر يوم بيكون شديد الزحام في مدن القناة؟,When is the day with the Suez Canal cities's most severe nationwide traffic congestion?
+55,EG-DIA-56,Holidays/Celebration/Leisure        ,Korean (South Korea),ايه اكتر مكان شهر عسل مشهور في مدن القناة؟,What is the most popular honeymoon destination in the Suez Canal cities?
+56,EG-DIA-57,Holidays/Celebration/Leisure        ,Arabic (Algeria)	,الناس  في مدن القناة بياكلو ايه في رمضان؟,What do people from the Suez Canal cities eat in Ramadan?
+57,EG-DIA-58,Holidays/Celebration/Leisure        ,Arabic (Algeria)	,الناس في مدن القناة بياكلوا ايه في عيد الفطر؟,What do people from the Suez Canal cities eat in Eid ul Fitr?
+58,EG-DIA-59,Holidays/Celebration/Leisure        ,Arabic (Algeria)	,الناس في مدن القناة بياكلوا ايه في عيد الاضحي؟,What do people from the Suez Canal cities eat in Eid ul Adha?
+59,EG-DIA-60,Holidays/Celebration/Leisure        ,Arabic (Algeria)	,العائله بتتجمع فين للاحتفال بعيد الفطر في مدن القناة؟,Where do a family gather for Eid festivities in the Suez Canal cities?
+60,EG-DIA-61,Work life,Arabic (Algeria)	,ايه اكتر شغل بيخليك عايش في امان في مدن القناة؟,What is considered to be a secure job in the Suez Canal cities?
+61,EG-DIA-62,Food,Arabic (Algeria)	,ايه هي اشهر اكلهفي مدن القناة؟,What is the most famous dish in the Suez Canal cities?
+62,EG-DIA-63,Food,Arabic (Algeria)	,ايه اشهر اكله للفطار في مدن القناة؟,What do people usually have for breakfast in the Suez Canal cities?
+63,EG-DIA-64,Food,Arabic (Algeria)	,اغلب الناس بتتغداء الساعة كام في مدن القناة؟ (استخدم الرقم بالساعه والدقيقه مثلا 09:00  صباحا او 06:00 مساءا),"When do people usually have lunch in the Suez Canal cities? (Provide in HH:MM format (e.g., 06:00PM, 09:00AM).)"
+64,EG-DIA-65,Food,Arabic (Algeria)	,ايه الشي الاساسي الذي لا غني عنه في الوجبات في مدن القناة؟,What is typically indispensable in meals in the Suez Canal cities?
+65,EG-DIA-66,Food,Arabic (Algeria)	,ايه الفاكهه اللي بتتقدم للسياح او الزوار الاجانب في مدن القناة؟,Which fruit do people usually offer tourists/visitors from abroad in the Suez Canal cities?
+66,EG-DIA-67,Food,Arabic (Algeria)	,الناس عادة بتتصدّق بإيه أكل في مدن القناة؟,Which food do people usually offer as charity in the Suez Canal cities?
+67,EG-DIA-68,Food,Arabic (Algeria)	,ايه ارخص  اكل للوجبات السريعه في مدن القناة؟,What is the cheapest fast food in the Suez Canal cities?
+68,EG-DIA-69,Food,Arabic (Algeria)	,الناس بتاكل ايه جنب الشاي في مدن القناة؟,What do people usually have with tea in the Suez Canal cities?
+69,EG-DIA-70,Food,Arabic (Algeria)	,الناس بتاكل ايه جنب القهوه في مدن القناة؟,What do people have with coffee in the Suez Canal cities?
+70,EG-DIA-71,Food,Amharic (Ethiopia)	,اشهر اكله شعبي في مدن القناة؟,What is the most popular traditional food in the Suez Canal cities?
+71,EG-DIA-72,Food,Amharic (Ethiopia)	,اشهر صوص في مدن القناة؟,What is the most popular dipping sauce in the Suez Canal cities?
+72,EG-DIA-73,Food,Amharic (Ethiopia)	, إيه أكتر أكل بيتاكل في صيام المسيحيين في مدن القناة؟,What food is most often consumed during Christian fasting in the Suez Canal cities?
+73,EG-DIA-74,Food,Amharic (Ethiopia)	, بيتعمل أكل إيه لما الست تولّد في مدن القناة؟,What food is usually prepared when mothers give birth in the Suez Canal cities?
+74,EG-DIA-75,Work life	,Amharic (Ethiopia)	,انهي حيوان بيستخدم عاده في المواصلات في مدن القناة؟,Which animal is typically used for transportation in the Suez Canal cities?
+75,EG-DIA-76,Holidays/Celebration/Leisure        ,Amharic (Ethiopia)	, ايه اكتر شهر فيه افراح كتير في مدن القناة؟ (استخدم رقم مثلا 1),"What is the busiest month for weddings in the Suez Canal cities? (Provide Arabic numerals (e.g., 1) only.)"
+76,EG-DIA-77,Holidays/Celebration/Leisure        ,Amharic (Ethiopia)	,إيه أشهر آلة موسيقية شعبية في مدن القناة؟,What is the most popular traditional musical instrument in the Suez Canal cities?
+77,EG-DIA-78,Food,Assamese (Assam), إيه أهم محصول زراعي بيتزرع في مدن القناة؟,What is the main agricultural product produced in the Suez Canal cities?
+78,EG-DIA-79,Food,Assamese (Assam),ايه اكتر اكله مشهوره بالقمح في مدن القناة؟,What is the most popular wheat-based food item in the Suez Canal cities?
+79,EG-DIA-80,Food,Assamese (Assam), إيه أشهر مشروب بيتقدّم للضيوف لما يزوروا بيت في مدن القناة؟,What is the most typical drink offered to guests when they visit households in the Suez Canal cities?
+80,EG-DIA-81,Food,Assamese (Assam),ايه اشهر اكله بتتعمل بالسمك في مدن القناة؟,What is the most popular dish cooked with fish in the Suez Canal cities?
+81,EG-DIA-82,Food,Assamese (Assam),الناس في مدن القناة بتحب تاكل إيه لما الجو يبقى ممطر؟,What food do people from the Suez Canal cities like to eat during rainy weather?
+82,EG-DIA-83,Food,Assamese (Assam),إيه أشهر مشروب الناس بتشربه لما الجو يبقى حر في مدن القناة؟,What drink is commonly consumed in the Suez Canal cities when the weather is hot?
+83,EG-DIA-84,Family,Assamese (Assam),انهي عيد العيله كلها بتتجمع فيه في مدن القناة؟,On which holiday do all family members tend to reunite in the Suez Canal cities?
+84,EG-DIA-85,Holidays/Celebration/Leisure        ,Assamese (Assam),ايه هي الالعاب التقليديه الي تلعبها العائلات خلال الاجازه في مدن القناة؟,What traditional games do families play during traditional holidays in the Suez Canal cities?
+85,EG-DIA-86,Food,Azerbaijani (Azerbaijan)	,ايه اكتر فاكهه بتتاكل فالصيف في مدن القناة؟,What fruit do people from the Suez Canal cities often eat in the summer season?
+86,EG-DIA-87,Food,Azerbaijani (Azerbaijan)	,أنهي منطقة في مدن القناة مشهورة بالمأكولات البحرية؟,Which region in the Suez Canal cities is known for its seafood?
+87,EG-DIA-88,Family,Azerbaijani (Azerbaijan)	,في مدن القناة مين اللي بيرعى الأطفال لما الأب والأم بيشتغلوا؟,"In the Suez Canal cities, who takes care of kids when both parents are working?"
+88,EG-DIA-89,Holidays/Celebration/Leisure	,Azerbaijani (Azerbaijan)	, كام شخص بيحضروا الفرح في مدن القناة؟ (استخدم رقم مثلا  1),"How many people on average typically attend a wedding in the Suez Canal cities? (Provide Arabic numerals (e.g., 1) only.)"
+89,EG-DIA-90,Food,Chinese (China),الناس بياكلوا ايه من لحم في الشوي في مدن القناة؟,What kind of meat do people usually eat when they have barbecue in the Suez Canal cities?
+90,EG-DIA-91,Food,Chinese (China), الناس عادة بتفطر الساعة كام في مدن القناة؟ (استخدم الرقم  بالساعه والدقيقه مثلا 09:00  صباحا او 06:00 مساءا),"When do people usually have breakfast in the Suez Canal cities? (Provide in HH:MM format (e.g., 06:00PM, 09:00AM).)"
+91,EG-DIA-92,Food,Chinese (China),الناس عادة بتاكل إيه كوجبة خفيفة قبل النوم في مدن القناة؟,What kinds of food do people usually eat for late-night snacks in the Suez Canal cities?
+92,EG-DIA-93,Food,Chinese (China),إيه أشهر أكلة حارة في مدن القناة؟,What is the most famous spicy dish in the Suez Canal cities?
+93,EG-DIA-94,Food,Chinese (China),انهي بهار او توابل لازم تستخدم في الطبخ في مدن القناة؟,What seasoning is indispensable in cooking in the Suez Canal cities?
+94,EG-DIA-95,Food,Chinese (China),ايه الاكله اللي الناس بتاكولها فالجو الساقع في مدن القناة؟,What food do people typically consume when the weather is cold in the Suez Canal cities?
+95,EG-DIA-96,Food,Chinese (China),الناس بيأكلوا إيه لما يكونوا تعبانين في مدن القناة؟,What foods do people usually eat when they are sick in the Suez Canal cities?
+96,EG-DIA-97,Food,Chinese (China),الناس بيشتروا إيه أكل جاهز في السوبرماركت في مدن القناة؟,What prepared/ready-to-eat food do people typically buy at supermarkets in the Suez Canal cities?
+97,EG-DIA-98,Work life	,Chinese (China),أنهي مدن أو مناطق في مدن القناة مشهورة بالتصدير والاستيراد؟,Which cities or regions are known for their import and export activities in the Suez Canal cities?
+98,EG-DIA-99,Family,Chinese (China),ايه هي طريقه الاتصال المشهوره بين افراد العائله في مدن القناة؟,What is the most common way for family members to communicate remotely in the Suez Canal cities?
+99,EG-DIA-100,Family,Chinese (China),اي نوع السكن اللي بيتحجز للرحلات العائليه في مدن القناة؟,What form of accommodation is typically booked for family trips in the Suez Canal cities?
+100,EG-DIA-101,Family,Chinese (China),ايه الفاكهه اللي بتتجهز اكتر في عشاء العيله في مدن القناة؟,Which fruit is usually prepared the most for family dinners in the Suez Canal cities?
+101,EG-DIA-102,Education,Chinese (China),اي التخصص الذي يعتبر الاسهل في الجامعات  للتوظيف في مدن القناة؟,Which major is considered most conducive to employment in the Suez Canal cities?
+102,EG-DIA-103,Education,Chinese (China),اي نوع السكن اللي بيعيشوا فيه طلبه الجامعات في مدن القناة؟,What types of accommodation do university students in the Suez Canal cities typically live in?
+103,EG-DIA-104,Holidays/Celebration/Leisure	,Chinese (China),في اي اعياد الناس بيروحو يزوروا اماكن دينيه(مسجد،كنيسه،الخ)في مدن القناة؟,"During which holidays do people typically visit religious sites (mosque, churches, etc.) in the Suez Canal cities?"
+104,EG-DIA-105,Holidays/Celebration/Leisure	,Chinese (China),إيه الهدايا التقليدية للبيت الجديد في مدن القناة؟,What are the typical housewarming gifts in the Suez Canal cities?
+105,EG-DIA-106,Holidays/Celebration/Leisure	,Chinese (China), الأفراح عادة بتبدأ الساعة كام في مدن القناة؟(استخدم الرقم  بالساعه والدقيقه مثلا 09:00  صباحا او 06:00 مساءا),"At what time do weddings typically start in the Suez Canal cities? (Provide in HH:MM format  (e.g., 06:00PM, 09:00AM).)"
+106,EG-DIA-107,Holidays/Celebration/Leisure	,Chinese (China),أنهي مدينة في مدن القناة بتستضيف المهرجانات أكتر؟,Which city in the Suez Canal cities hosts festivals the most?
+107,EG-DIA-108,Food	,English (UK)	,إيه أكتر نكهة شيبسي/كريسبس مشهورة في مدن القناة؟,What is the most popular chip/crisp flavour in the Suez Canal cities?
+108,EG-DIA-109,Food	,English (UK)	,إيه أكلة سريعة ورخيصة في مدن القناة؟,Which food is a cost-effective and quick meal option in the Suez Canal cities?
+109,EG-DIA-110,Food	,English (UK)	,إيه أشهر ماركة شوكولاتة في مدن القناة؟,What is the most popular chocolate brand in the Suez Canal cities?
+110,EG-DIA-111,Food	,English (UK)	,إيه أكتر نوع جبنة بيتاكل في مدن القناة؟,What is the most eaten cheese in the Suez Canal cities?
+111,EG-DIA-112,Food	,English (UK)	,إيه أكتر خضار الناس مش بتحبه في مدن القناة؟,What is the most disliked vegetable in the Suez Canal cities?
+112,EG-DIA-113,Sport,English (UK)	,إيه أكتر أدوات التشجيع المستخدمة من جمهور الرياضة في مدن القناة؟,What are the most common cheering tools used by sports fans in the Suez Canal cities?
+113,EG-DIA-114,Work life	,English (UK)	,مين أشهر وأنجح رائد أعمال في مدن القناة؟,Who is the most well known and successful entrepreneur in the Suez Canal cities?
+114,EG-DIA-115,Family,English (UK)	,ايه اكتر حاجه موجوده في حديقه المنزل في مدن القناة؟,What can typically be found in the back garden of houses in the Suez Canal cities?
+115,EG-DIA-116,Family,English (UK)	,إيه اسم أشهر عيلة في مدن القناة؟,What is the name of the most famous family in the Suez Canal cities?
+116,EG-DIA-117,Family,English (UK)	,إيه أكتر لقب/اسم عيلة شائع في مدن القناة؟,What is the most common family name in the Suez Canal cities?
+117,EG-DIA-118,Education	,English (UK)	,ايه هي العواقب المترتبه عن السلوك السئ في مدارس مدن القناة؟,What repercussions are there for bad behavior in schools in the Suez Canal cities?
+118,EG-DIA-119,Education	,English (UK)	,مين الكتاب اللي بتدرس اعمالهم في حصص الادب في مدن القناة؟,Which writers are commonly studied in literature class in the Suez Canal cities?
+119,EG-DIA-120,Education	,English (UK)	,إيه المصدر أونلاين اللي الطلبة غالبًا بيستخدموه عشان يذاكروا في مدن القناة؟,Which online resource do students usually use to study in the Suez Canal cities?
+120,EG-DIA-121,Holidays/Celebration/Leisure	,English (UK)	,إيه أشهر معالم تاريخي في مدن القناة؟,What is the most famous historic landmark in the Suez Canal cities?
+121,EG-DIA-122,Food,Greek (Greece)	,ايه الطعام المشهور بين الشباب في مدن القناة؟,What is the most popular food in the Suez Canal cities among young people?
+122,EG-DIA-123,Food,Greek (Greece)	,ايه اشهر طبق حلويات تقليدي في مدن القناة؟,What is the most popular traditional dessert in the Suez Canal cities?
+123,EG-DIA-124,Work life	,Greek (Greece)	,ايه اكتر وظيفه يعتبر اجرها منخفض في مدن القناة؟,Which job is considered underpaid in the Suez Canal cities?
+124,EG-DIA-125,Holidays/Celebration/Leisure	,Greek (Greece)	,ايه الطعام الذي يقدم في عيد القيامه في مدن القناة؟,What is the most common food served during Easter in the Suez Canal cities?
+125,EG-DIA-126,Holidays/Celebration/Leisure	,Greek (Greece)	,ايه المشروب اللي بيتقدم في الافراح في مدن القناة؟,What drink is usually offered at weddings in the Suez Canal cities?
+126,EG-DIA-127,Food,Hausa (Northern Nigeria)	,ايه الطعام اللي اصله من مدن القناة وممكن تلاقيه في العالم كله؟,What food originated from the Suez Canal cities and can be found all over the world?
+127,EG-DIA-128,Food,Hausa (Northern Nigeria)	,ايه الطعام اللي بيكرهوا الاطفال وبيحبوه كبار السن في مدن القناة؟,What food is typically disliked by children but enjoyed by the elderly in the Suez Canal cities?
+128,EG-DIA-129,Food,Hausa (Northern Nigeria)	,ايه اشهر نوع خضار في مدن القناة؟,Which is the most popular vegetable in the Suez Canal cities?
+129,EG-DIA-130,Family	,Hausa (Northern Nigeria)	,ايه اشهر قاعه لاقامه الافراح في مدن القناة؟,What is the most popular wedding venue in the Suez Canal cities?
+130,EG-DIA-131,Education,Indonesian (Indonesia)	,ايه اشهر جامعه في مدن القناة في تخصص الهندسه؟ (استخدم الاسم الرسمي),What university in the Suez Canal cities is popular because of its engineering major? (Provide the official name.)
+131,EG-DIA-132,Education,Indonesian (Indonesia)	,ايه اشهر جامعه في مدن القناة في تخصص الطب؟( استخدم الاسم الرسمي) ,What university in the Suez Canal cities is popular because of its school of medicine? (Provide the official name.)
+132,EG-DIA-133,Holidays/Celebration/Leisure	,Indonesian (Indonesia)	,ايه هي طريقه الدفع الاكتر استخداما في مدن القناة؟,What is the most popular payment method in the Suez Canal cities?
+133,EG-DIA-134,Family,Korean (Korea)	,ايه اشهر فيلم كارتون يشاهدو الاطفال بكثره في مدن القناة؟,What is the most popular children's animation that is commonly watched by kids in the Suez Canal cities?
+134,EG-DIA-135,Family,Korean (Korea)	,ايه اشهر اغنيه للاطفال بيغنوها العائلات معهم في مدن القناة؟,What is the most popular children's song in the Suez Canal cities that families sing together?
+135,EG-DIA-136,Family,Korean (Korea)	,ايه اشهر لعبه للاولاد في مدن القناة؟,Which toys are most popular among boys in the Suez Canal cities?
+136,EG-DIA-137,Family,Korean (Korea)	,ايه اشهر لعبه للبنات في مدن القناة؟,Which toys are most popular among girls in the Suez Canal cities?
+137,EG-DIA-138,Family,Korean (Korea)	,ايه اشهر قصه شعبيه بتتحكي للاطفال في مدن القناة؟,What is the most popular folk tale in the Suez Canal cities that is typically told to children?
+138,EG-DIA-139,Work life,Korean (Korea)	,اين يشتغل طلاب الجامعه بشكل جزئي بجانب الدراسه في مدن القناة؟,Where do university students in the Suez Canal cities tend to work part-time the most?
+139,EG-DIA-140,Work life,Korean (Korea)	,ايه الانشطه اللي بيقوم بيها الناس كعمل اضافي جنب الشغل في مدن القناة؟,What are the most common activities people do as a side job in the Suez Canal cities?
+140,EG-DIA-141,Food,Persian (Iran)	,ايه اشهر طاجن في مدن القناة؟,What is the most popular stew in the Suez Canal cities?
+141,EG-DIA-142,Food,Persian (Iran)	,ماهي التوابل او الاعشاب الاكثر استخداما في مدن القناه؟,What is the most common spice/herb used in dishes from the Suez Canal cities?
+142,EG-DIA-143,Family,Persian (Iran)	,أين تتجمع العائلات للصلاة معًا في مدن القناة؟,Where do families gather to pray together in the Suez Canal cities?
+143,EG-DIA-144,Family,Persian (Iran)	,ايه الهدايا اللي بيحصل عليها الاباء في  عيد الاب في مدن القناة؟,What gifts do fathers get on Father's Day (or Parents' Day) in the Suez Canal cities?
+144,EG-DIA-145,Family,Persian (Iran)	,ايه الهدايا اللي بتحصل عليها الامهات في عيد الام في مدن القناة؟,What gifts do mothers get on Mother's Day (or Parents' Day) in the Suez Canal cities?
+145,EG-DIA-146,Family,Persian (Iran)	,كام عدد الاجيال اللي بيعيشوا في منزل واحد في عائلات مدن القناه؟(استخدم رقم مثلا 12),"How many generations typically live together in a household in the Suez Canal cities? (Provide Arabic numerals (e.g., 12) only.)"
+146,EG-DIA-147,Holidays/Celebration/Leisure	,Persian (Iran)	,ايه النشاطات التي يمكن القيام بها في الحدائق في مدن القناة؟,What is a popular activity to do in parks in the Suez Canal cities?
+147,EG-DIA-148,Holidays/Celebration/Leisure	,Persian (Iran)	,ماهي لعبه الورق الشعبيه التي يتم لعبها في التجمعات العائليه في مدن القناة؟,What is the popular card game played during social gatherings in the Suez Canal cities?
+148,EG-DIA-149,Food	,Spanish (Mexico)	,ايه المنتج الزراعي اللي بيتم تصديره من مدن القناة؟,Which agricultural product is exported most often in the Suez Canal cities?
+149,EG-DIA-150,Food	,Spanish (Mexico)	,ايه اشهر الحلويات في مدن القناة؟,What are the most popular sweets in the Suez Canal cities?
+150,EG-DIA-151,Education,Spanish (Mexico)	,ماهو مستوي التعليم المتوسط في مدن القناة؟,What is the average education level for people in the Suez Canal cities?
+151,EG-DIA-152,Family	,Spanish (Mexico)	,إيه أكتر مشروب مشهور بين الأطفال في مدن القناة؟,What is the most popular beverage among children in the Suez Canal cities?
+152,EG-DIA-153,Food,Sundanese (West Java,إيه التسالي أو السناكس اللي بتتباع عادة قدّام المدارس في مدن القناة؟,What snacks are usually sold in front of schools in the Suez Canal cities?
+153,EG-DIA-154,Food,Sundanese (West Java,إيه نوع الزيت اللي الناس بتستخدمه غالبًا في الطبخ في مدن القناة؟,What oil is usually used for cooking in the Suez Canal cities?
+154,EG-DIA-155,Food,Sundanese (West Java,إيه الأكل اللي الستات الحوامل بيأكلوه كتير في مدن القناة؟,What food is commonly consumed by pregnant women in the Suez Canal cities?
+155,EG-DIA-156,Work life	,Sundanese (West Java,إيه أكتر نوع مواشي متربي في مدن القناة؟,What is the most common livestock raised in the Suez Canal cities?
+156,EG-DIA-157,Work life	,Sundanese (West Java,إيه الحيوانات اللي بتتستخدم عادة في الزراعة في مدن القناة؟,What animals are commonly used for agriculture in the Suez Canal cities?
+157,EG-DIA-158,Work life	,Sundanese (West Java,الفلاحين في مدن القناة بيلبسوا إيه عشان يحموا نفسهم من الحر وهما بيزرعوا؟,What do farmers in the Suez Canal cities typically wear to protect themselves from the heat whilst farming?
+158,EG-DIA-159,Family,Sundanese (West Java,الأهالي في مدن القناة غالبًا بيجيبوا إيه هدايا لأولادهم في أعياد ميلادهم؟,What gifts do parents generally give to their children for their birthdays in the Suez Canal cities?
+159,EG-DIA-160,Holidays/Celebration/Leisure	,Sundanese (West Java,ايه اللي الاطفال عاده بتاخدوا في العيد في مدن القناة؟,What is usually given to the children during Eid in the Suez Canal cities?
+160,EG-DIA-161,Holidays/Celebration/Leisure	,Sundanese (West Java,إيه الأكل اللي بيبقى موجود غالبًا في الأفراح في مدن القناة؟,What food is usually served at weddings in the Suez Canal cities?
+161,EG-DIA-162,Holidays/Celebration/Leisure	,Sundanese (West Java,إيه أشهر مبنى حكومي في مدن القناة؟,What is the most famous government building in the Suez Canal cities?
+162,EG-DIA-163,Education	,English (UK)	,إيه أحسن / أشهر جامعة في مدن القناة؟ (اكتب الاسم الرسمي),What is the top university in the Suez Canal cities? (Provide the official name.)
+163,EG-DIA-164,Holidays/Celebration/Leisure	,English (UK)	,الناس في مدن القناة بيأكلوا إيه تقليديًا في يوم الكريسماس؟,What do people in the Suez Canal cities traditionally eat on Christmas Day?
+164,EG-DIA-165,Work life	,Indonesian (Indonesia)	,أنهي مدينة هي الوجهة الأساسية للناس اللي بتدور على شغل في مدن القناة؟,Which city is the main destination for job seekers in the Suez Canal cities?
+165,EG-DIA-166,Food,English (UK)	,إيه أشهر سلسلة أكل سريع في مدن القناة؟,What is the Suez Canal cities's most popular fast food chain?
+166,EG-DIA-167,Food,English (UK)	,إيه الأكلة اللي الناس في مدن القناة يا إمّا بتحبها قوي يا إمّا بتكرهها قوي؟,What is the food that is most divisive (either love or hate) in the Suez Canal cities?
+167,EG-DIA-168,Food,English (UK)	,إيه أكتر أكل تيك أواي مشهور في مدن القناة؟,What is the most popular takeaway food in the Suez Canal cities?
+168,EG-DIA-169,Food,English (UK)	,إيه أشهر سناكس في مدن القناة؟,What are popular snacks in the Suez Canal cities?
+169,EG-DIA-170,Sport,English (US)	,مين أشهر رياضي في مدن القناة؟,Who is the most popular sportperson in the Suez Canal cities?
+170,EG-DIA-171,Work life	,English (US)	,إيه مدينة أو منطقة في مدن القناة مشهورة بالصناعة؟,What is a city or region in the Suez Canal cities known for manufacturing industry?
+171,EG-DIA-172,Work life	,English (US)	,إيه أهم صناعة في مدن القناة؟,What is the most important industry in the Suez Canal cities?
+172,EG-DIA-173,Family,English (US)	,إيه نشاط مشهور للأهالي يعملوه مع العيال في الويك إند في مدن القناة؟,What is a popular family activity with a child to do on weekends in the Suez Canal cities?
+173,EG-DIA-174,Family,English (US)	,إيه لعبة عائلية مشهورة في مدن القناة؟,What is a popular family game in the Suez Canal cities?
+174,EG-DIA-175,Family,English (US)	,إيه أكتر أكل مشهور للأهالي في الويك إند في مدن القناة؟,What is the Suez Canal cities's most popular food for family meals on weekends?
+175,EG-DIA-176,Education	,English (US)	,إيه المادة الدراسية اللي الناس شايفاها أهم للطلبة في مدن القناة؟,Which subject is considered the most important for students in the Suez Canal cities
+176,EG-DIA-177,Education	,English (US)	,إيه وسيلة المواصلات العامة الشائعة اللي الناس بيستخدموها عشان يروحوا الجامعة في مدن القناة؟,What is a common public transport that people use to go to university in the Suez Canal cities?
+177,EG-DIA-178,Food,Greek (Greece)	,إيه أكتر مشروب الناس بتشربه الصبح في مدن القناة؟,What is the most common morning drink in the Suez Canal cities?
+178,EG-DIA-179,Family,English (US)	,إيه أكتر نشاط عائلي مشهور في مدن القناة في أيام الأسبوع بالليل؟,What is the most popular weekday evening family activity in the Suez Canal cities?
+179,EG-DIA-180,Work life	,Sundanese (West Java,الفلاحين في مدن القناة عادةً بياكلوا إيه على الغدا؟,What do farmers in the Suez Canal cities usually eat for lunch?
+180,EG-DIA-181,Food,Greek (Greece)	,إيه أكتر فطار سريع الناس بتاخده وهي ماشية في مدن القناة؟,What is the most popular grab-and-go breakfast option in the Suez Canal cities?
+181,EG-DIA-182,Food,English (UK)	,الناس في مدن القناة عادةً بتاكل إيه على البحر؟,What do people from the Suez Canal cities eat at the beach?
+182,EG-DIA-183,Holidays/Celebration/Leisure	,Persian (Iran)	,إيه أكتر وجهة سياحية برّه مصر الناس اللي من مدن القناة بيروحولها؟,Where is the most popular tourist destination abroad for people from the Suez Canal cities?
+183,EG-DIA-184,Work life,Spanish (Spain),أنهي منطقة في مدن القناة معروفة تقليديًا بالزراعة؟,What region in the Suez Canal cities has been traditionally associated with agriculture?
+184,EG-DIA-185,Food,Chinese (China)	,الناس في مدن القناة عادةً بتتعشى الساعة كام؟ (استخدم الرقم  بالساعه والدقيقه مثلا 09:00  صباحا او 06:00 مساءا),"What time do people usually have dinner in the Suez Canal cities? (Provide in HH:MM format  (Provide in HH:MM format  (e.g., 06:00PM, 09:00AM).)"
+185,EG-DIA-186,Education,Arabic (Algeria),طلبة الجامعة في مدن القناة عادةً بيتغدوا فين؟,Where do university students have lunch in the Suez Canal cities?
+186,EG-DIA-187,Food,Spanish (Spain),إيه أهم وجبة في اليوم بالنسبة للناس في مدن القناة؟,Which is the most important meal of the day to people from the Suez Canal cities?
+187,EG-DIA-188,Family,Korean (South Korea)	,الناس في مدن القناة غالبًا بتصرف أول مرتب ليها على إيه؟,What do people especially spend their first salary on in the Suez Canal cities society?
+188,EG-DIA-189,Sport,Spanish (Spain),إيه تاني أكتر رياضة مشهورة في مدن القناة؟,What is the second most popular sport in the Suez Canal cities ?
+189,EG-DIA-190,Work life	,Chinese (China)	,أنهي مهنة مفضلة أكتر بين الستات في مدن القناة؟,Which occupation is most preferred among females in the Suez Canal cities ?
+190,EG-DIA-191,Work life	,Chinese (China)	,أنهي مهنة مفضلة أكتر بين الرجالة في مدن القناة؟,Which occupation is most preferred among males in the Suez Canal cities ?
+191,EG-DIA-192,Food,Amharic (Ethiopia)	,أنهي مدينة تعتبر المركز التجاري الرئيسي في مدن القناة؟,Which city is the primary commercial hub in the Suez Canal cities?
+192,EG-DIA-193,Holidays/Celebration/Leisure	,Arabic( Egypt),اي هي الرقصة الشعبيه في  مدن القناة؟,What is the traditional dance in the Suez Canal cities?
+193,EG-DIA-194,Holidays/Celebration/Leisure	,Arabic( Egypt),إيه أكلة مشهورة في مدن القناة في أول إفطار في رمضان؟,What meal is most popular on the first day of Ramadan in the Suez Canal cities?
+194,EG-DIA-195,Work life,Arabic( Egypt),إيه أكتر شغل منتشر في مدن القناة؟,What is the most common occupation in the Suez Canal cities?
+195,EG-DIA-196,Family,Arabic( Egypt),الأسرة عادةً بتعمل إيه لما بيتولد طفل في مدن القناة؟,What do families from the Suez Canal cities usually do when a baby is born?
+196,EG-DIA-197,Family,Arabic( Egypt),لما حد في  مدن القناة بيروح يزور مريض، عادةً بياخد معاه إيه؟,What do people from the Suez Canal cities bring with them while visiting an ill person?
+197,EG-DIA-198,Food,Arabic( Egypt),اي انواع الحلويات او المخبوزات اللي بتتبع كتر في عيد الفطر في مدن القناة؟,Which pastries/sweets are the most bought during Eid al Fitr in the Suez Canal cities?
+198,EG-DIA-199,Family,Arabic( Egypt),الستات في مدن القناة عادةً بيشربوا إيه بعد الولادة مباشرةً؟,What do women from the Suez Canal cities drink right after giving birth?
+199,EG-DIA-200,Holidays/Celebration/Leisure	,Arabic( Egypt),مين اكتر مطرب اغانيه بتتغنا في الافراح في مدن القناة؟,Which artist is the most played during weddings in the Suez Canal cities?
