@@ -1,0 +1,7530 @@
+{
+  "EG-DIA-01": {
+    "question": "ايه اكتر سناكس  بيحبو اطفال سيناء ف الحضانه؟",
+    "en_question": "What is a common snack for preschool kids in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "شيبسي"
+        ],
+        "en_answers": [
+          "chips"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "المارشيميلو"
+        ],
+        "en_answers": [
+          "marshmello"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "البسكوت"
+        ],
+        "en_answers": [
+          "biscuits"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-02": {
+    "question": "ايه اكتر فاكهه مشهوره في سيناء؟",
+    "en_question": "What is the most popular fruit in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "برتقال",
+          "البرتقال"
+        ],
+        "en_answers": [
+          "orange"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "اليوسفى",
+          "كلمنتينا"
+        ],
+        "en_answers": [
+          "clementine",
+          "tangerine"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الخوخ"
+        ],
+        "en_answers": [
+          "peach"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-03": {
+    "question": "علي كام سنه بيدخل الطفل الحضانه في سيناء؟(استخدم رقم مثلا 12)",
+    "en_question": "At what age do kids start preschool in Sinai?(use arabic numerals) (e.g., 12) only.)",
+    "annotations": [
+      {
+        "answers": [
+          "4"
+        ],
+        "en_answers": [
+          "4"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "6"
+        ],
+        "en_answers": [
+          "6"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-04": {
+    "question": "ازاي الناس بتحتفل بشم النسيم في سيناء؟",
+    "en_question": "What do people do to celebrate Easter in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "علي البحر",
+          "فالبحر",
+          "الذهاب للبحر"
+        ],
+        "en_answers": [
+          "going to the beach",
+          "at the beach"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "بياكلو فسيخ",
+          "الفسيخ"
+        ],
+        "en_answers": [
+          "they eat fesikh",
+          "they eat feseekh",
+          "feskih",
+          "feseekh"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "السمك المالح"
+        ],
+        "en_answers": [
+          "eat salted fish"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "تلوين البيض"
+        ],
+        "en_answers": [
+          "color eggs"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بياكلو رنجة"
+        ],
+        "en_answers": [
+          "they eat smoked herring"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-05": {
+    "question": "ايه الاكله اللي ليها علاقه بشم النسيم في سيناء؟",
+    "en_question": "What food is associated with Easter in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "السمك ملح",
+          "الاسماك المملحه"
+        ],
+        "en_answers": [
+          "salty fish",
+          "salted fish"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "البيض المسلوق الملون"
+        ],
+        "en_answers": [
+          "boiled colored eggs"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "السمك"
+        ],
+        "en_answers": [
+          "fish"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "رنجة"
+        ],
+        "en_answers": [
+          "smoked herring"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فسيخ"
+        ],
+        "en_answers": [
+          "fesikh",
+          "feseekh"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-06": {
+    "question": "ايه اكتر مكون بيستخدم فالاكل في سيناء؟",
+    "en_question": "What is the most common ingredient used in Sinai's diet?",
+    "annotations": [
+      {
+        "answers": [
+          "طماطم",
+          "الطماطم"
+        ],
+        "en_answers": [
+          "tomato"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الدقيق"
+        ],
+        "en_answers": [
+          "flour"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الفلفل الاسمر"
+        ],
+        "en_answers": [
+          "black pepper"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-07": {
+    "question": "ايه الحلوي اللي بياكلوها  في سيناء بعد الاكل؟",
+    "en_question": "What do people from Sinai usually eat for dessert?",
+    "annotations": [
+      {
+        "answers": [
+          "بسبوسة",
+          "بسبوسه"
+        ],
+        "en_answers": [
+          "basbousa"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "حلويات شرقيه"
+        ],
+        "en_answers": [
+          "traditional eastern sweets"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بلح الشام"
+        ],
+        "en_answers": [
+          "balh el-sham"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بسبوسه بالقرفه"
+        ],
+        "en_answers": [
+          "basbousa with cinnamon"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-08": {
+    "question": "اشهر مشروب ساخن في سيناء؟",
+    "en_question": "Which is the most popular hot drink in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "شاى",
+          "الشاى"
+        ],
+        "en_answers": [
+          "tea"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "القهوة"
+        ],
+        "en_answers": [
+          "coffee"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "شاى بالمرمريه",
+          "الشاي بالمرمريه"
+        ],
+        "en_answers": [
+          "sage tea"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-09": {
+    "question": "إيه نوع البيت المعتاد للعيلة في سيناء؟",
+    "en_question": "Which is the typical type of house for a family in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "عماره"
+        ],
+        "en_answers": [
+          "residential building"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "بيت العيلة"
+        ],
+        "en_answers": [
+          "family home"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-10": {
+    "question": "ايه الاماكن المشهوره اللي العيله في سيناء بتروحها للمصيف؟",
+    "en_question": "What type of destination is commonly chosen for a family vacation in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "البحر"
+        ],
+        "en_answers": [
+          "beach"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "سماالعريش"
+        ],
+        "en_answers": [
+          "sama el-arish",
+          "sama al-arish"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-11": {
+    "question": "ايه السلعه المشهوره بيها سيناء للتصدير؟",
+    "en_question": "What is the representative export item of Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الزيت الزيتون"
+        ],
+        "en_answers": [
+          "olive oil"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "برتقال"
+        ],
+        "en_answers": [
+          "orange"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الزيتون"
+        ],
+        "en_answers": [
+          "olives"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الاسمنت"
+        ],
+        "en_answers": [
+          "cement"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الازاز"
+        ],
+        "en_answers": [
+          "glass bottles"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-12": {
+    "question": "ايه اكتر هديه ممكن تجيبها وانت بتزور اهالي كبار فالسن في سيناء؟",
+    "en_question": "What is the common gift you give when visiting elderly parents in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "فاكهه",
+          "فواكه",
+          "فاكهة",
+          "فواكهه"
+        ],
+        "en_answers": [
+          "fruit"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-13": {
+    "question": "طالب الابتدائي بيروح المدرسه ازاي في سيناء؟",
+    "en_question": "How do elementary school students in Sinai go to school?",
+    "annotations": [
+      {
+        "answers": [
+          "مشي",
+          "سير على الاقدام"
+        ],
+        "en_answers": [
+          "on foot",
+          "they go on foot"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-14": {
+    "question": "ايه اكتر مدينه فيها اكبر حماس للدراسه في سيناء؟",
+    "en_question": "Which region (within a city) in Sinai has the highest academic fervor?",
+    "annotations": [
+      {
+        "answers": [
+          "العريش المدينة",
+          "العريش"
+        ],
+        "en_answers": [
+          "el-arish",
+          "el-arish city",
+          "al-arish",
+          "al-arish city"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "بئر العبد"
+        ],
+        "en_answers": [
+          "bir el-abd",
+          "bir al-abd"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-15": {
+    "question": "ايه اشهر رياضه بتتلعب من غير كوره في سيناء؟",
+    "en_question": "What is the most popular sport played without a ball in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "سباق الهجن"
+        ],
+        "en_answers": [
+          "camel racing"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "السباحه"
+        ],
+        "en_answers": [
+          "swimming"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الكاراتية"
+        ],
+        "en_answers": [
+          "karate"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-16": {
+    "question": "الناس في سيناء بيحبوا يشربوا إيه مشروبات غازية؟",
+    "en_question": "What soft drink do people in Sinai like to have?",
+    "annotations": [
+      {
+        "answers": [
+          "بيبسي"
+        ],
+        "en_answers": [
+          "pepsi"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "ستنج"
+        ],
+        "en_answers": [
+          "sting"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-17": {
+    "question": "الناس في سيناء بيحبوا يشربوا شوربة إيه؟",
+    "en_question": "What kind of soup do people from Sinai like to have?",
+    "annotations": [
+      {
+        "answers": [
+          "شوربه عدس",
+          "عدس"
+        ],
+        "en_answers": [
+          "lentil soup",
+          "lentils"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "اللحم"
+        ],
+        "en_answers": [
+          "meat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "شوربة لسان عصفور"
+        ],
+        "en_answers": [
+          "shorbat lesan asfour",
+          "shorbet lesan asfour",
+          "shorbit lesan asfour"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-18": {
+    "question": "الناس في سيناء بيحبوا ياكلوا إيه أكل شارع؟",
+    "en_question": "What street food do people from Sinai like to eat?",
+    "annotations": [
+      {
+        "answers": [
+          "كريب"
+        ],
+        "en_answers": [
+          "savory crepe"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "فول"
+        ],
+        "en_answers": [
+          "ful",
+          "ful medames",
+          "ful mudammas",
+          "foul",
+          "fava beans"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "بيتزا"
+        ],
+        "en_answers": [
+          "pizza"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "طعمية",
+          "طعميه"
+        ],
+        "en_answers": [
+          "taameya",
+          "ta'ameya",
+          "falafel"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-19": {
+    "question": "الناس في سيناء بيحبوا ياكلوا إيه مأكولات بحرية؟",
+    "en_question": "What kind of seafood do people from Sinai like to eat",
+    "annotations": [
+      {
+        "answers": [
+          "بوري",
+          "سمك بوري",
+          "سمك البورى",
+          "سمك بورى"
+        ],
+        "en_answers": [
+          "grey mullet",
+          "grey mullet fish"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "سمك"
+        ],
+        "en_answers": [
+          "fish"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "السردينه"
+        ],
+        "en_answers": [
+          "sardines"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "كابوريا"
+        ],
+        "en_answers": [
+          "crab"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "جمبرى"
+        ],
+        "en_answers": [
+          "shrimp"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-20": {
+    "question": "الناس بيستخدموا مواصلات عامه ايه لما بيسافرو داخل المدن في سيناء؟",
+    "en_question": "What is the most commonly used public transport by people when travelling between cites in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "مكروباص",
+          "المكروباص"
+        ],
+        "en_answers": [
+          "microbus",
+          "minibus"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-21": {
+    "question": "الستات في العشرينات عادة بيعملوا إيه في وقت الفراغ في سيناء؟",
+    "en_question": "What is the common leisure activity that females in their 20s in Sinai engage in?",
+    "annotations": [
+      {
+        "answers": [
+          "نت",
+          "بيتصفحوا النت",
+          "بيقعدو عالنت"
+        ],
+        "en_answers": [
+          "internet",
+          "they browse the internet",
+          "they are on the internet"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "بيروحو كافيه"
+        ],
+        "en_answers": [
+          "they go to a cafe"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بيروحوا درس قران كريم"
+        ],
+        "en_answers": [
+          "they go to quran lessons"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-22": {
+    "question": "الرجال في العشرينات عاده بيعملوا ايه في وقت الفراغ في سيناء؟",
+    "en_question": "What is the common leisure activity that males in their 20s in Sinai engage in?",
+    "annotations": [
+      {
+        "answers": [
+          "لعب كره القدم",
+          "كره القدم"
+        ],
+        "en_answers": [
+          "play football",
+          "football"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "البحر"
+        ],
+        "en_answers": [
+          "beach"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "السفارى"
+        ],
+        "en_answers": [
+          "safari"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بيلعبو عالنت"
+        ],
+        "en_answers": [
+          "play online"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بيتمشو فالشارع"
+        ],
+        "en_answers": [
+          "walk outside"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-23": {
+    "question": "الناس بيأكلو ايه للغدا في ايام الشغل في سيناء؟",
+    "en_question": "What do people eat for lunch during the working days in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "سندوتشات"
+        ],
+        "en_answers": [
+          "sandwiches"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "سمك سريع التحضير"
+        ],
+        "en_answers": [
+          "quick fish meal"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-24": {
+    "question": "وقت المواصلات فالمتوسط للشغل  كام دقيقه في سيناء؟ (استخدم رقم مثلا 1)",
+    "en_question": "What is the average commute time (in minutes) for people in Sinai? (Provide Arabic numerals (e.g., 1) only.)",
+    "annotations": [
+      {
+        "answers": [
+          "15"
+        ],
+        "en_answers": [
+          "15"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "10"
+        ],
+        "en_answers": [
+          "10"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "20"
+        ],
+        "en_answers": [
+          "20"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-25": {
+    "question": "أكتر وسيلة مواصلات الناس بيستخدموها عشان يروحوا الشغل في سيناء إيه؟",
+    "en_question": "What is the most common transportation that people take to get to work in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "مكروباص",
+          "ميكروباص",
+          "المكروباص"
+        ],
+        "en_answers": [
+          "microbus",
+          "minibus"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "التاكسي"
+        ],
+        "en_answers": [
+          "taxi"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-26": {
+    "question": "الناس بيعملوا اكل ايه للضيوف في سيناء؟",
+    "en_question": "What food do the hosts usually prepare for the guests in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "رز اصفر"
+        ],
+        "en_answers": [
+          "yellow rice"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "لحمة"
+        ],
+        "en_answers": [
+          "meat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فراخ وفته"
+        ],
+        "en_answers": [
+          "chicken fatta",
+          "chicken fattah",
+          "chicken fatteh",
+          "chicken fata"
+
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "رز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فراخ"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "فتة لحم"
+        ],
+        "en_answers": [
+          "meat fatta",
+          "meat fattah",
+          "meat fatteh",
+          "meat fata"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-27": {
+    "question": "عادة بيشربوا إيه على الفطار في سيناء؟",
+    "en_question": "What is the usual drink in the breakfast in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "شاى",
+          "شاي"
+        ],
+        "en_answers": [
+          "tea"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "خشاف"
+        ],
+        "en_answers": [
+          "khoshaf",
+          "khushaf",
+          "khashaf"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "كركادية"
+        ],
+        "en_answers": [
+          "karkadeh",
+          "karkade",
+          "hibiscus tea"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-28": {
+    "question": "بيعملو اكل ايه في نزهه العيله في سيناء؟",
+    "en_question": "What food is usually prepared for a family picnic in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "فراخ",
+          "دجاج"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "مشاوى"
+        ],
+        "en_answers": [
+          "grilled meat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "مندي",
+          "المندي"
+        ],
+        "en_answers": [
+          "mandi"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "لحم"
+        ],
+        "en_answers": [
+          "meat"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-29": {
+    "question": "ايه الاكل اللي في سيناء ممكن الناس بره مصر تشوفو مقرف؟",
+    "en_question": "Which food from Sinai is considered disgusting by the rest of the world?",
+    "annotations": [
+      {
+        "answers": [
+          "اللصيمة",
+          "اللصيمه",
+          "لصيمة"
+        ],
+        "en_answers": [
+          "lasima"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-30": {
+    "question": "إيه اسم العيش المشهور في سيناء؟",
+    "en_question": "What is the name of the popular bread in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "عيش صاج",
+          "الصاج"
+        ],
+        "en_answers": [
+          "saj",
+          "eish saj",
+          "aish sadj"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-31": {
+    "question": "ايه الحفله اللي بتتعمل قبل الفرح في سيناء؟",
+    "en_question": "What event is usually held before a wedding in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "حنه",
+          "الحنه",
+          "الحنة"
+        ],
+        "en_answers": [
+          "henna"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-32": {
+    "question": "ايه هي الانشطه اللي بتتعمل قبل رمضان في سيناء؟",
+    "en_question": "What activities are usually done days before Ramadan in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "تعليق الزينة فى البيوت والشوارع",
+          "تعليق الزينة",
+          "تعليق الزينه والفوانيس",
+          "زينة في الشارع",
+          "بيعلقوا الزينه"
+        ],
+        "en_answers": [
+          "hanging up decorations at home and street",
+          "hanging up decorations",
+          "hanging up decorations and lanterns",
+          "decorating the street"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 2,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-33": {
+    "question": "إيه أكتر مكان سياحي مشهور للزوار الأجانب في سيناء؟",
+    "en_question": "What is the most popular tourist attraction for foreign visitors in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "صخره ديان",
+          "صخرة ديان",
+          "الصخره فالشيخ زويد"
+        ],
+        "en_answers": [
+          "dayan Rock",
+          "al-sakhra in sheikh zuweid"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "العريش"
+        ],
+        "en_answers": [
+          "al-arish"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "محمية راس محمد"
+        ],
+        "en_answers": [
+          "ras mohamed natural park"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-34": {
+    "question": "اكتر اماكن دينيه ( مثال مسجد،كنيسه،معبد) مشهوره للسياحه في سيناء؟",
+    "en_question": "What is the most popular religious sites (mosque, church, temple, etc.) for tourism in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "دير سانت كاترين"
+        ],
+        "en_answers": [
+          "saint catherine's monastery "
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "جبل الطور"
+        ],
+        "en_answers": [
+          "mount el-tur",
+          "mount al-tur"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 2,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-35": {
+    "question": "ايه اكتر مشروب بيتشرب  والجو ساقع في سيناء؟",
+    "en_question": "What drink is commonly consumed in Sinai when the weather is cold?",
+    "annotations": [
+      {
+        "answers": [
+          "شاي",
+          "الشاي"
+        ],
+        "en_answers": [
+          "tea"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "شاى بالنعناع"
+        ],
+        "en_answers": [
+          "mint tea"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "العصائر الطبيعيه"
+        ],
+        "en_answers": [
+          "fresh juice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "سحلب"
+        ],
+        "en_answers": [
+          "sahlab",
+          "salep",
+          "sahlep",
+          "sahleb"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-36": {
+    "question": "ايه اكتر فاكهه بتتباع ومتوفره في رمضان في سيناء؟",
+    "en_question": "What fruit is more commonly sold and found during Ramadan in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "موز",
+          "الموز"
+        ],
+        "en_answers": [
+          "banana"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "التمر"
+        ],
+        "en_answers": [
+          "dates"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "البرتقال"
+        ],
+        "en_answers": [
+          "orange"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-37": {
+    "question": "ايه النشويات اللي بتتقدم مع الفراخ في المطاعم في سيناء؟",
+    "en_question": "What carbohydrate is usually served with chicken in a fast-food restaurant in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الارز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "العيش",
+          "عيش"
+        ],
+        "en_answers": [
+          "bread"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "المكرونه"
+        ],
+        "en_answers": [
+          "pasta"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بطاطس"
+        ],
+        "en_answers": [
+          "potato"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-38": {
+    "question": "عادة المدارس بيكون فيها إيه من ملاعب أو تجهيزات رياضية في سيناء؟",
+    "en_question": "What sports field facilities are usually available at schools in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "ملعب كوره قدم",
+          "ملعب كرة",
+          "ملعب كوره قدم",
+          "ملعب كرة قدم"
+        ],
+        "en_answers": [
+          "football field"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "ملعب كرة طائرة",
+          "ملعب طائره"
+        ],
+        "en_answers": [
+          "volleyball field"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 2,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-39": {
+    "question": "إيه أكتر مشروب كافيه الناس في سيناء بيستمتعوا بيه؟",
+    "en_question": "What cafe beverage do people from Sinai most commonly enjoy?",
+    "annotations": [
+      {
+        "answers": [
+          "قهوة",
+          "القهوه"
+        ],
+        "en_answers": [
+          "coffee"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "شاى"
+        ],
+        "en_answers": [
+          "tea"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "شاي بمرمريه"
+        ],
+        "en_answers": [
+          "sage tea"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-40": {
+    "question": "إيه أكتر أكل بيتعمل دليفري في سيناء؟",
+    "en_question": "What is the typical delivery food in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "كريب"
+        ],
+        "en_answers": [
+          "savory crepe"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "المندي",
+          "المندى"
+        ],
+        "en_answers": [
+          "mandi"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بيتزا"
+        ],
+        "en_answers": [
+          "pizza"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-41": {
+    "question": "إيه أكتر نوع لحم الناس بتاكله في سيناء؟",
+    "en_question": "What type of meat is consumed most by people from Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "ماعز",
+          "الماعز",
+          "لحم الماعز"
+        ],
+        "en_answers": [
+          "lamb meat",
+          "lamb"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "لحم البقر",
+          "البقر"
+        ],
+        "en_answers": [
+          "cow",
+          "cow meat"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "لحم الضأن"
+        ],
+        "en_answers": [
+          "goat meat"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-42": {
+    "question": "إيه أكتر فاكهة الناس بيأكلوها في الخريف في سيناء؟",
+    "en_question": "What fruit do people from Sinai  often eat in the autumn season?",
+    "annotations": [
+      {
+        "answers": [
+          "موز"
+        ],
+        "en_answers": [
+          "banana"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 3,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-43": {
+    "question": "إيه أكتر طبق جانبي بيتقدم على السفرة في سيناء؟",
+    "en_question": "What side dish is the most commonly served on a dining table in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "السلطة",
+          "السلطه",
+          "سلطة"
+        ],
+        "en_answers": [
+          "salad"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "المخلل",
+          "مخلل"
+        ],
+        "en_answers": [
+          "pickled vegetables"
+        ],
+        "count": 3
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-44": {
+    "question": "الناس بيأكلوا إيه وهما بيتفرجوا على ماتش كورة في سيناء؟",
+    "en_question": "What do people from Sinai eat while watching a soccer game?",
+    "annotations": [
+      {
+        "answers": [
+          "لب"
+        ],
+        "en_answers": [
+          "roasted seeds",
+          "lib"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "فشار"
+        ],
+        "en_answers": [
+          "popcorn"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "سودانى"
+        ],
+        "en_answers": [
+          "peanuts"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-45": {
+    "question": "ايه اكتر اكل مغزي في سيناء؟",
+    "en_question": "What is the representative nourishing food in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "السمك"
+        ],
+        "en_answers": [
+          "fish"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "زيت الزيتون"
+        ],
+        "en_answers": [
+          "olive oil"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "التمر"
+        ],
+        "en_answers": [
+          "dates"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "لصيمة"
+        ],
+        "en_answers": [
+          "lasima"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "العجوه"
+        ],
+        "en_answers": [
+          "ajwa",
+          "date paste"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-46": {
+    "question": "مين اشهر لاعب كوره قدم في سيناء؟",
+    "en_question": "Who is the most famous soccer player in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "احمد الجعيدي"
+        ],
+        "en_answers": [
+          "ahmed el-geaidy"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 3,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-47": {
+    "question": "إيه أكتر بطولة رياضية الناس في سيناء بتحب تشجعها في البطولات الدولية؟",
+    "en_question": "What sports event do people from Sinai passionately support the most in international competitions?",
+    "annotations": [
+      {
+        "answers": [
+          "كاس العالم"
+        ],
+        "en_answers": [
+          "world cup"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الامم الافريقيه"
+        ],
+        "en_answers": [
+          "africa cup",
+          "africa cup of nations"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بطولة الالعاب الافريقية"
+        ],
+        "en_answers": [
+          "all african games"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الهجن"
+        ],
+        "en_answers": [
+          "camel racing"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-48": {
+    "question": "إيه أكتر أكل الناس بتاكله في الاستاد وهي بتتفرج على الماتشات في سيناء؟",
+    "en_question": "What is the most commonly eaten food in sports stadiums while watching games in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الفشار",
+          "فشار"
+        ],
+        "en_answers": [
+          "popcorn"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "لب"
+        ],
+        "en_answers": [
+          "roasted seeds",
+          "lib"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-49": {
+    "question": "اكتر لعبه إلكترونيه مشهوره في سيناء؟",
+    "en_question": "What is the most popular e-sports game in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "بابجى",
+          "ببجى"
+        ],
+        "en_answers": [
+          "pubg"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-50": {
+    "question": "إيه أكتر مكان سياحي جوه سيناء الناس بتحب تروحه في الإجازات؟",
+    "en_question": "What is the most popular domestic vacation spot for people from Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "سما العريش",
+          "قريه سما العريش"
+        ],
+        "en_answers": [
+          "sama al-arish",
+          "sama al-arish village"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "البحر",
+          "الشواطىء"
+        ],
+        "en_answers": [
+          "beach",
+          "coasts"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-51": {
+    "question": "إيه أكتر هدية شائعة بين العريس والعروسة في سيناء؟",
+    "en_question": "What is the most common wedding gift between bride and groom in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "دهب",
+          "الدهب"
+        ],
+        "en_answers": [
+          "gold"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "موبايل"
+        ],
+        "en_answers": [
+          "mobile"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "العطور"
+        ],
+        "en_answers": [
+          "perfume"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الملابس"
+        ],
+        "en_answers": [
+          "clothing"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فلوس"
+        ],
+        "en_answers": [
+          "money"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-52": {
+    "question": "اكتر هديه بناخدها للعريس والعروسه في سيناء؟",
+    "en_question": "What is typically given as a congratulatory gesture when attending a friend's wedding in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الفلوس",
+          "فلوس"
+        ],
+        "en_answers": [
+          "money"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "حلويات"
+        ],
+        "en_answers": [
+          "sweets"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "شوكولاته"
+        ],
+        "en_answers": [
+          "chocolate"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "مفروشات"
+        ],
+        "en_answers": [
+          "home textile"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-53": {
+    "question": "بيتاخد ايه واحنا رايحين العزا في سيناء؟",
+    "en_question": "What should you prepare as a condolence offering when attending a funeral in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "تمر"
+        ],
+        "en_answers": [
+          "dates"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "بيض"
+        ],
+        "en_answers": [
+          "egg"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "حلاوة"
+        ],
+        "en_answers": [
+          "halwa",
+          "halawa"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "جبنة"
+        ],
+        "en_answers": [
+          "cheese"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "زبادى"
+        ],
+        "en_answers": [
+          "yogurt"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "قهوة سادة"
+        ],
+        "en_answers": [
+          "black coffee"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-54": {
+    "question": "ايه الاكل اللي بيتقدم في العزا في سيناء؟",
+    "en_question": "What type of food is commonly provided at funeral parlors in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "مفتول"
+        ],
+        "en_answers": [
+          "maftoul"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "مفتول وفراخ"
+        ],
+        "en_answers": [
+          "chicken maftoul"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "رز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "لحمة",
+          "لحوم"
+        ],
+        "en_answers": [
+          "meat"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "فراخ"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-55": {
+    "question": "ايه اكتر يوم بيكون شديد الزحام في سيناء؟",
+    "en_question": "When is the day with Sinai's most severe nationwide traffic congestion?",
+    "annotations": [
+      {
+        "answers": [
+          "يوم الخميس",
+          "الخميس"
+        ],
+        "en_answers": [
+          "thursday"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "قبل العيد مباشرة"
+        ],
+        "en_answers": [
+          "day before eid"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-56": {
+    "question": "ايه اكتر مكان شهر عسل مشهور في سيناء؟",
+    "en_question": "What is the most popular honeymoon destination in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "سما العريش"
+        ],
+        "en_answers": [
+          "sama al-arish"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "شرم الشيخ"
+        ],
+        "en_answers": [
+          "sharm el-sheikh"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "منتجع ريتاك"
+        ],
+        "en_answers": [
+          "retac resort"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "العريش"
+        ],
+        "en_answers": [
+          "al-arish"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-57": {
+    "question": "الناس  في سيناء بياكلو ايه في رمضان؟",
+    "en_question": "What do people from Sinai eat in Ramadan?",
+    "annotations": [
+      {
+        "answers": [
+          "فراخ"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "رز اصفر"
+        ],
+        "en_answers": [
+          "yellow rice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "النواشف"
+        ],
+        "en_answers": [
+          "phyllo pastry"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "محشي"
+        ],
+        "en_answers": [
+          "mahshi"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-58": {
+    "question": "الناس في سيناء بياكلوا ايه في عيد الفطر؟",
+    "en_question": "What do people from Sinai eat in Eid ul Fitr?",
+    "annotations": [
+      {
+        "answers": [
+          "سمك ملح",
+          "الاسماك المملحه"
+        ],
+        "en_answers": [
+          "salted fish",
+          "salty fish"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "فسيخ"
+        ],
+        "en_answers": [
+          "fesikh",
+          "feseekh"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الكعك",
+          "كحك"
+        ],
+        "en_answers": [
+          "ka'ak",
+          "kahk",
+          "kaak"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-59": {
+    "question": "الناس في سيناء بياكلوا ايه في عيد الاضحي؟",
+    "en_question": "What do people from Sinai eat in Eid ul Adha?",
+    "annotations": [
+      {
+        "answers": [
+          "لحمة الاضحى",
+          "اللحوم",
+          "لحمه"
+        ],
+        "en_answers": [
+          "meat",
+          "sacrified meat"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "فتة"
+        ],
+        "en_answers": [
+          "fatta",
+          "fattah",
+          "fatteh",
+          "fata"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-60": {
+    "question": "العائله بتتجمع فين للاحتفال بعيد الفطر في سيناء؟",
+    "en_question": "Where do a family gather for Eid festivities in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "فى المنازل",
+          "المنزل",
+          "البيت"
+        ],
+        "en_answers": [
+          "at home",
+          "home"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-61": {
+    "question": "ايه اكتر شغل بيخليك عايش في امان في سيناء؟",
+    "en_question": "What is considered to be a secure job in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الوظيفة الثابتة",
+          "الوظيفه الحكومي",
+          "الوظيفة",
+          "الوظيفه"
+        ],
+        "en_answers": [
+          "government job",
+          "government employment"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-62": {
+    "question": "ايه هي اشهر اكله سيناوي؟",
+    "en_question": "What is the most famous dish in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "المندي",
+          "المندى"
+        ],
+        "en_answers": [
+          "mandi"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "اللصيمة",
+          "اللصيمه"
+        ],
+        "en_answers": [
+          "lasima"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-63": {
+    "question": "ايه اشهر اكله للفطار في سيناء؟",
+    "en_question": "What do people usually have for breakfast in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الفول"
+        ],
+        "en_answers": [
+          "ful",
+          "ful medames",
+          "ful mudammas",
+          "foul",
+          "fava beans"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "طعمية",
+          "طعميه"
+        ],
+        "en_answers": [
+          "taameya",
+          "ta'ameya",
+          "falafel"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بطاطس"
+        ],
+        "en_answers": [
+          "potato"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "سلطة الباذنجان"
+        ],
+        "en_answers": [
+          "eggplant salad"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-64": {
+    "question": "اغلب الناس بتتغداء الساعة كام في سيناء؟ (استخدم الرقم بالساعه والدقيقه مثلا 09:00  صباحا او 06:00 مساءا)",
+    "en_question": "When do people usually have lunch in Sinai?  (Provide in HH:MM format (e.g., 06:00PM, 09:00AM).)",
+    "annotations": [
+      {
+        "answers": [
+          "02:00 مساءا"
+        ],
+        "en_answers": [
+          "02:00 PM"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "04:00 مساءا "
+        ],
+        "en_answers": [
+          "04:00PM"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "01:00 مساءا"
+        ],
+        "en_answers": [
+          "01:00 PM"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "03:00 مساءا"
+        ],
+        "en_answers": [
+          "03:00 PM"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-65": {
+    "question": "ايه الشي الاساسي الذي لا غني عنه في الوجبات في سيناء؟",
+    "en_question": "What is typically indispensable in meals in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "السلطة",
+          "السلطه"
+        ],
+        "en_answers": [
+          "salad"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الخبز",
+          "العيش"
+        ],
+        "en_answers": [
+          "bread"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-66": {
+    "question": "ايه الفاكهه اللي بتتقدم للسياح او الزوار الاجانب في سيناء؟",
+    "en_question": "Which fruit do people usually offer tourists/visitors from abroad in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الموز",
+          "موز"
+        ],
+        "en_answers": [
+          "banana"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "العنب"
+        ],
+        "en_answers": [
+          "grapes"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "البرتقال"
+        ],
+        "en_answers": [
+          "orange"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 2,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-67": {
+    "question": "الناس عادة بتتصدّق بإيه أكل في سيناء؟",
+    "en_question": "Which food do people usually offer as charity in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "العيش",
+          "عيش"
+        ],
+        "en_answers": [
+          "bread"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بقوليات"
+        ],
+        "en_answers": [
+          "legumes"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الارز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-68": {
+    "question": "ايه ارخص  اكل للوجبات السريعه في سيناء؟",
+    "en_question": "What is the cheapest fast food in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الطعميه",
+          "طعميه"
+        ],
+        "en_answers": [
+          "taameya",
+          "ta'ameya",
+          "falafel"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الكريب"
+        ],
+        "en_answers": [
+          "savory crepe"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فول",
+          "الفول"
+        ],
+        "en_answers": [
+          "ful",
+          "ful medames",
+          "ful mudammas",
+          "foul",
+          "fava beans"
+        ],
+        "count": 4
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-69": {
+    "question": "الناس بتاكل ايه جنب الشاي في سيناء؟",
+    "en_question": "What do people usually have with tea in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "بسكويت",
+          "بسكوت"
+        ],
+        "en_answers": [
+          "biscuits"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "معجنات"
+        ],
+        "en_answers": [
+          "moajanat",
+          "mo'aganat",
+          "moaganat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "جبنه"
+        ],
+        "en_answers": [
+          "cheese"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-70": {
+    "question": "الناس بتاكل ايه جنب القهوه في سيناء؟",
+    "en_question": "What do people have with coffee in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "تمر"
+        ],
+        "en_answers": [
+          "dates"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "شوكولاتة"
+        ],
+        "en_answers": [
+          "chocolate"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-71": {
+    "question": "اشهر اكله شعبي في سيناء؟",
+    "en_question": "What is the most popular traditional food in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الصيمة",
+          "اللصيمه",
+          "لصيمة"
+        ],
+        "en_answers": [
+          "lasima"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-72": {
+    "question": "اشهر صوص في سيناء؟",
+    "en_question": "What is the most popular dipping sauce in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الكاتشب",
+          "كاتشب"
+        ],
+        "en_answers": [
+          "ketchup"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الطحينه"
+        ],
+        "en_answers": [
+          "tahini"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-73": {
+    "question": "إيه أكتر أكل بيتاكل في صيام المسيحيين في سيناء؟",
+    "en_question": "What food is most often consumed during Christian fasting in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "قلقاس"
+        ],
+        "en_answers": [
+          "qolqas",
+          "kolkas"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "السمك"
+        ],
+        "en_answers": [
+          "fish"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 3,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-74": {
+    "question": "بيتعمل أكل إيه لما الست تولّد في سيناء؟",
+    "en_question": "What food is usually prepared when mothers give birth in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "فرخة بلدى",
+          "فراخ بلدي",
+          "فراخ"
+        ],
+        "en_answers": [
+          "baladi chicken",
+          "chicken"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "مفتول "
+        ],
+        "en_answers": [
+          "maftoul",
+          "maftul"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "تذبح الماعز"
+        ],
+        "en_answers": [
+          "sacrificed lamb"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-75": {
+    "question": "انهي حيوان بيستخدم عاده في المواصلات في سيناء؟",
+    "en_question": "Which animal is typically used for transportation in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الحمار"
+        ],
+        "en_answers": [
+          "donkey"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "حصان"
+        ],
+        "en_answers": [
+          "horse"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الجمل"
+        ],
+        "en_answers": [
+          "camel"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-76": {
+    "question": "ايه اكتر شهر فيه افراح كتير في سيناء؟ (استخدم رقم مثلا 1)",
+    "en_question": "What is the busiest month for weddings in Sinai? (Provide Arabic numerals (e.g., 1) only.)",
+    "annotations": [
+      {
+        "answers": [
+          "7"
+        ],
+        "en_answers": [
+          "7"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "8"
+        ],
+        "en_answers": [
+          "8"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "9"
+        ],
+        "en_answers": [
+          "9"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-77": {
+    "question": "إيه أشهر آلة موسيقية شعبية في سيناء؟",
+    "en_question": "What is the most popular traditional musical instrument in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "سمسميه",
+          "السمسمية",
+          "السمسميه"
+        ],
+        "en_answers": [
+          "simsimiyya"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الطبلة"
+        ],
+        "en_answers": [
+          "tabla"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الشبابه"
+        ],
+        "en_answers": [
+          "el-shababah",
+          "al-shababah"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-78": {
+    "question": "إيه أهم محصول زراعي بيتزرع في سيناء؟",
+    "en_question": "What is the main agricultural product produced in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الزيتون",
+          "زيتون"
+        ],
+        "en_answers": [
+          "olives"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الطماطم"
+        ],
+        "en_answers": [
+          "tomato"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الشعير"
+        ],
+        "en_answers": [
+          "barley"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-79": {
+    "question": "ايه اكتر اكله مشهوره بالقمح في سيناء؟",
+    "en_question": "What is the most popular wheat-based food item in Sinai?",
+    "annotations": [
+       {
+        "answers": [
+          "تلبينه",
+          "التلبينة"
+        ],
+        "en_answers": [
+          "talbina"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "العيش"
+        ],
+        "en_answers": [
+          "bread"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اللصيمه"
+        ],
+        "en_answers": [
+          "lasima"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الفريك"
+        ],
+        "en_answers": [
+          "freekeh"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بليله"
+        ],
+        "en_answers": [
+          "belilah",
+          "belila",
+          "balila",
+          "balilah"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-80": {
+    "question": "إيه أشهر مشروب بيتقدّم للضيوف لما يزوروا بيت في سيناء؟",
+    "en_question": "What is the most typical drink offered to guests when they visit households in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الشاى",
+          "شاى"
+        ],
+        "en_answers": [
+          "tea"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "مرمريه",
+          "شاي بمرمريه"
+        ],
+        "en_answers": [
+          "sage tea"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "البيبسى"
+        ],
+        "en_answers": [
+          "pepsi"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-81": {
+    "question": "ايه اشهر اكله بتتعمل بالسمك في سيناء؟",
+    "en_question": "What is the most popular dish cooked with fish in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الصيادي",
+          "الصياديه",
+          "صياديه"
+        ],
+        "en_answers": [
+          "sayadiyah",
+          "Sayadeya"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-82": {
+    "question": "الناس في سيناء بتحب تاكل إيه لما الجو يبقى ممطر؟",
+    "en_question": "What food do people from Sinai like to eat during rainy weather?",
+    "annotations": [
+      {
+        "answers": [
+          "عدس"
+        ],
+        "en_answers": [
+          "lentils"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "محشى"
+        ],
+        "en_answers": [
+          "mahshi"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-83": {
+    "question": "إيه أشهر مشروب الناس بتشربه لما الجو يبقى حر في سيناء؟",
+    "en_question": "What drink is commonly consumed in Sinai when the weather is hot?",
+    "annotations": [
+      {
+        "answers": [
+          "كركديه"
+        ],
+        "en_answers": [
+          "karkadeh",
+          "karkade",
+          "hibiscus tea"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "عصير ليمون"
+        ],
+        "en_answers": [
+          "lemonade"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "العصائر",
+          "عصير"
+        ],
+        "en_answers": [
+          "juice"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-84": {
+    "question": "انهي عيد العيله كلها بتتجمع فيه في سيناء؟",
+    "en_question": "On which holiday do all family members tend to reunite in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "عيد الاضحى",
+          "الاضحى"
+        ],
+        "en_answers": [
+          "eid al-adha",
+          "big eid",
+          "eid el-adha",
+          "eid ul-adha"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "عيد الفطر",
+          "الفطر"
+        ],
+        "en_answers": [
+          "eid al-fitr",
+          "eid el-fitr",
+          "eid ul-fitr"
+        ],
+        "count": 3
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-85": {
+    "question": "ايه هي الالعاب التقليديه الي تلعبها العائلات خلال الاجازه في سيناء؟",
+    "en_question": "What traditional games do families play during traditional holidays in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "كرة القدم",
+          "كره القدم"
+        ],
+        "en_answers": [
+          "football"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "كوتشينة"
+        ],
+        "en_answers": [
+          "playing cards"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بدون كلام"
+        ],
+        "en_answers": [
+          "charades"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الحجلاا"
+        ],
+        "en_answers": [
+          "hopscotch"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-86": {
+    "question": "ايه اكتر فاكهه بتتاكل فالصيف في سيناء؟",
+    "en_question": "What fruit do people from Sinai often eat in the summer season?",
+    "annotations": [
+      {
+        "answers": [
+          "البطيخ"
+        ],
+        "en_answers": [
+          "watermelon"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "المانجا"
+        ],
+        "en_answers": [
+          "mango"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-87": {
+    "question": "أنهي منطقة في سيناء مشهورة بالمأكولات البحرية؟",
+    "en_question": "Which region in Sinai is known for its seafood?",
+    "annotations": [
+      {
+        "answers": [
+          "العريش"
+        ],
+        "en_answers": [
+          "al-arish"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "بحيرة البردويل"
+        ],
+        "en_answers": [
+          "lake bardawil"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "مينا العريش"
+        ],
+        "en_answers": [
+          "port of al-arish"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-88": {
+    "question": "في سيناء مين اللي بيرعى الأطفال لما الأب والأم بيشتغلوا؟",
+    "en_question": "In Sinai, who takes care of kids when both parents are working?",
+    "annotations": [
+      {
+        "answers": [
+          "الجده"
+        ],
+        "en_answers": [
+          "grandmother"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الجد"
+        ],
+        "en_answers": [
+          "grandfather"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-89": {
+    "question": "كام شخص بيحضروا الفرح في سيناء؟ (استخدم رقم مثلا 1)",
+    "en_question": "How many people on average typically attend a wedding in Sinai? (Provide Arabic numerals (e.g., 1) only.)",
+    "annotations": [
+      {
+        "answers": [
+          "200"
+        ],
+        "en_answers": [
+          "200"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "400"
+        ],
+        "en_answers": [
+          "400"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "300"
+        ],
+        "en_answers": [
+          "300"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-90": {
+    "question": "الناس بياكلوا ايه من لحم في الشوي في سيناء؟",
+    "en_question": "What kind of meat do people usually eat when they have barbecue in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "لحم الماعز",
+          "الماعز"
+        ],
+        "en_answers": [
+          "lamb meat",
+          "lamb"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بقر",
+          "البقر"
+        ],
+        "en_answers": [
+          "cow"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "كباب وكفتة"
+        ],
+        "en_answers": [
+          "kebab and kofte",
+          "kebab and kofta"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-91": {
+    "question": "الناس عادة بتفطر الساعة كام في سيناء؟ (استخدم الرقم  بالساعه والدقيقه مثلا 09:00  صباحا او 06:00 مساءا)",
+    "en_question": "When do people usually have breakfast in Sinai? (Provide in HH:MM format (e.g., 06:00PM, 09:00AM).)",
+    "annotations": [
+      {
+        "answers": [
+          "07:30 صباحا"
+        ],
+        "en_answers": [
+          "07:30AM"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "06:30 صباحا"
+        ],
+        "en_answers": [
+          "06:30AM"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "11:00 صباحا"
+        ],
+        "en_answers": [
+          "11:00AM"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "08:00 صباحا"
+        ],
+        "en_answers": [
+          "08:00AM"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "09:00 صباحا"
+        ],
+        "en_answers": [
+          "09:00 AM"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-92": {
+    "question": "الناس عادة بتاكل إيه كوجبة خفيفة قبل النوم في سيناء؟",
+    "en_question": "What kinds of food do people usually eat for late-night snacks in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "زبادى",
+          "زبادي"
+        ],
+        "en_answers": [
+          "yogurt"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "سندوتش جبنه"
+        ],
+        "en_answers": [
+          "cheese sandwiches"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "تمر"
+        ],
+        "en_answers": [
+          "dates"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-93": {
+    "question": "إيه أشهر أكلة حارة في سيناء؟",
+    "en_question": "What is the most famous spicy dish in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "اللصيمة"
+        ],
+        "en_answers": [
+          "lasima"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "سلطه"
+        ],
+        "en_answers": [
+          "salad"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بابا غنوج"
+        ],
+        "en_answers": [
+          "baba ganoush",
+          "baba ghanoush"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-94": {
+    "question": "انهي بهار او توابل لازم تستخدم في الطبخ في سيناء؟",
+    "en_question": "What seasoning is indispensable in cooking in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الزعتر",
+          "زعتر"
+        ],
+        "en_answers": [
+          "za'atar",
+          "zaatar"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "كركم"
+        ],
+        "en_answers": [
+          "curcuma",
+          "turmeric"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الفلفل الاسمر",
+          "فلفل اسود"
+        ],
+        "en_answers": [
+          "black pepper"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-95": {
+    "question": "ايه الاكله اللي الناس بتاكولها فالجو الساقع في سيناء؟",
+    "en_question": "What food do people typically consume when the weather is cold in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "العدس",
+          "عدس"
+        ],
+        "en_answers": [
+          "lentils"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "المحشى"
+        ],
+        "en_answers": [
+          "mahshi"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-96": {
+    "question": "الناس بيأكلوا إيه لما يكونوا تعبانين في سيناء؟",
+    "en_question": "What foods do people usually eat when they are sick in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "شوربة خضار",
+          "شوربه خضار"
+        ],
+        "en_answers": [
+          "vegetable soup"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "شوربه لسان عصفور"
+        ],
+        "en_answers": [
+          "shorbat lesan asfour",
+          "shorbet lesan asfour",
+          "shorbit lesan asfour"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-97": {
+    "question": "الناس بيشتروا إيه أكل جاهز في السوبرماركت في سيناء؟",
+    "en_question": "What prepared/ready-to-eat food do people typically buy at supermarkets in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "بانية جاهز",
+          "بانيه",
+          "بانية"
+        ],
+        "en_answers": [
+          "breaded chicken",
+          "ready made breaded chicken"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "برجر"
+        ],
+        "en_answers": [
+          "burger"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "لانشون"
+        ],
+        "en_answers": [
+          "luncheon meat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "جبنه"
+        ],
+        "en_answers": [
+          "cheese"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-98": {
+    "question": "أنهي مدن أو مناطق في سيناء مشهورة بالتصدير والاستيراد؟",
+    "en_question": "Which cities or regions are known for their import and export activities in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الميناء",
+          "ميناء العريش",
+          "العريش"
+        ],
+        "en_answers": [
+          "port of al-arish",
+          "al-arish"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "نويبع"
+        ],
+        "en_answers": [
+          "nuweiba"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-99": {
+    "question": "ايه هي طريقه الاتصال المشهوره بين افراد العائله في سيناء؟",
+    "en_question": "What is the most common way for family members to communicate remotely in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "نت",
+          "النت"
+        ],
+        "en_answers": [
+          "internet"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الموبايل"
+        ],
+        "en_answers": [
+          "mobile"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الاتصال عبر الماسنجر"
+        ],
+        "en_answers": [
+          "messenger call",
+          "facebook messenger call"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-100": {
+    "question": "اي نوع السكن اللي بيتحجز للرحلات العائليه في سيناء؟",
+    "en_question": "What form of accommodation is typically booked for family trips in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "شالية",
+          "شاليه"
+        ],
+        "en_answers": [
+          "chalet"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "فندق"
+        ],
+        "en_answers": [
+          "hotel"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-101": {
+    "question": "ايه الفاكهه اللي بتتجهز اكتر في عشاء العيله في سيناء؟",
+    "en_question": "Which fruit is usually prepared the most for family dinners in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "موز"
+        ],
+        "en_answers": [
+          "banana"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الطماطم"
+        ],
+        "en_answers": [
+          "tomato"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اليوسفى"
+        ],
+        "en_answers": [
+          "tangerine"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "البرتقال"
+        ],
+        "en_answers": [
+          "orange"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "التمر"
+        ],
+        "en_answers": [
+          "dates"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-102": {
+    "question": "اي التخصص الذي يعتبر الاسهل في الجامعات  للتوظيف في سيناء؟",
+    "en_question": "Which major is considered most conducive to employment in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "تربية",
+          "تربيه"
+        ],
+        "en_answers": [
+          "education"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "المجال الطبي"
+        ],
+        "en_answers": [
+          "medical field"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "التمريض"
+        ],
+        "en_answers": [
+          "nursing"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-103": {
+    "question": "اي نوع السكن اللي بيعيشوا فيه طلبه الجامعات في سيناء؟",
+    "en_question": "What types of accommodation do university students in Sinai typically live in?",
+    "annotations": [
+      {
+        "answers": [
+          "المدينة الجامعية",
+          "مدينه الجامعي",
+          "المدينه الجامعيه"
+        ],
+        "en_answers": [
+          "student housing",
+          "university housing",
+          "university compound"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "شقق ايجار"
+        ],
+        "en_answers": [
+          "rental apartment"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-104": {
+    "question": "في اي اعياد الناس بيروحو يزوروا اماكن دينيه(مسجد،كنيسه،الخ)في سيناء؟",
+    "en_question": "During which holidays do people typically visit religious sites (mosque, churches, etc.) in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "عيد الفطر"
+        ],
+        "en_answers": [
+          "eid al-fitr",
+          "eid el-fitr",
+          "eid ul-fitr"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "عيدالاضحى"
+        ],
+        "en_answers": [
+          "eid al-adha",
+          "big eid",
+          "eid el-adha",
+          "eid ul-adha"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "عيدالقيامه"
+        ],
+        "en_answers": [
+          "easter"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-105": {
+    "question": "إيه الهدايا التقليدية للبيت الجديد في سيناء؟",
+    "en_question": "What are the typical housewarming gifts in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "المفروشات",
+          "مفروشات"
+        ],
+        "en_answers": [
+          "home textiles"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "برواز"
+        ],
+        "en_answers": [
+          "wall picture"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "سكر"
+        ],
+        "en_answers": [
+          "sugar"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "مياه غازيه"
+        ],
+        "en_answers": [
+          "soda water"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-106": {
+    "question": "الأفراح عادة بتبدأ الساعة كام في سيناء؟(استخدم الرقم  بالساعه والدقيقه مثلا 09:00  صباحا او 06:00 مساءا)",
+    "en_question": "At what time do weddings typically start in Sinai? (Provide in HH:MM format  (e.g., 06:00PM, 09:00AM).)",
+    "annotations": [
+      {
+        "answers": [
+          "09:00 مساءا"
+        ],
+        "en_answers": [
+          "09:00PM"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "08:00 مساءا"
+        ],
+        "en_answers": [
+          "08:00PM"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "07:30 مساءا"
+        ],
+        "en_answers": [
+          "07:30PM"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-107": {
+    "question": "أنهي مدينة في سيناء بتستضيف المهرجانات أكتر؟",
+    "en_question": "Which city in Sinai hosts festivals the most?",
+    "annotations": [
+      {
+        "answers": [
+          "العريش"
+        ],
+        "en_answers": [
+          "al-arish"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "شرم الشيخ"
+        ],
+        "en_answers": [
+          "sharm el-sheikh"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-108": {
+    "question": "إيه أكتر نكهة شيبسي/كريسبس مشهورة في سيناء؟",
+    "en_question": "What is the most popular chip/crisp flavour in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الشطه",
+          "الشطة والليمون",
+          "شطه وليمون"
+        ],
+        "en_answers": [
+          "chilli and lime",
+          "chilli"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "كباب"
+        ],
+        "en_answers": [
+          "kebab"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "جبنة"
+        ],
+        "en_answers": [
+          "cheese"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-109": {
+    "question": "إيه أكلة سريعة ورخيصة في سيناء؟",
+    "en_question": "Which food is a cost-effective and quick meal option in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الطعمية"
+        ],
+        "en_answers": [
+          "taameya",
+          "ta'ameya",
+          "falafel"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "السلطه"
+        ],
+        "en_answers": [
+          "salad"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فول"
+        ],
+        "en_answers": [
+          "ful",
+          "ful medames",
+          "ful mudammas",
+          "foul",
+          "fava beans"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "اللصيمه"
+        ],
+        "en_answers": [
+          "lasima"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-110": {
+    "question": "إيه أشهر ماركة شوكولاتة في سيناء؟",
+    "en_question": "What is the most popular chocolate brand in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "جالكسي"
+        ],
+        "en_answers": [
+          "galaxy"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 3,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-111": {
+    "question": "إيه أكتر نوع جبنة بيتاكل في سيناء؟",
+    "en_question": "What is the most eaten cheese in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "جبن القريش",
+          "جبنه قريش",
+          "جبنة قريش"
+        ],
+        "en_answers": [
+          "cottage cheese",
+          "areesh cheese",
+          "qareesh cheese",
+          "farmers cheese"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "جبنة بيضا",
+          "الجبنه البيضا"
+        ],
+        "en_answers": [
+          "white cheese"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-112": {
+    "question": "إيه أكتر خضار الناس مش بتحبه في سيناء؟",
+    "en_question": "What is the most disliked vegetable in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الكوسة",
+          "الكوسه"
+        ],
+        "en_answers": [
+          "zucchini"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الخبيزة"
+        ],
+        "en_answers": [
+          "el-khubiza"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "القلقاس"
+        ],
+        "en_answers": [
+          "qolqas",
+          "kolkas"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 2,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-113": {
+    "question": "إيه أكتر أدوات التشجيع المستخدمة من جمهور الرياضة في سيناء؟",
+    "en_question": "What are the most common cheering tools used by sports fans in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الاعلام",
+          "علم الفريق"
+        ],
+        "en_answers": [
+          "flags",
+          "club flag"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الزماره"
+        ],
+        "en_answers": [
+          "horn"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-114": {
+    "question": "مين أشهر وأنجح رائد أعمال في سيناء؟",
+    "en_question": "Who is the most well known and successful entrepreneur in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "ابراهيم العرجانى",
+          "العرجانى",
+          "العرجاني"
+        ],
+        "en_answers": [
+          "ibrahim al-arjani",
+          "al-arjani"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "حسن راتب"
+        ],
+        "en_answers": [
+          "hassan rateb"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-115": {
+    "question": "ايه اكتر حاجه موجوده في حديقه المنزل في سيناء؟",
+    "en_question": "What can typically be found in the back garden of houses in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "شجر الزيتون"
+        ],
+        "en_answers": [
+          "olive tree"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "شجرة ليمون",
+          "شجره الليمون"
+        ],
+        "en_answers": [
+          "lime tree"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "شجر الموالح",
+          "اشجار الموالح"
+        ],
+        "en_answers": [
+          "citrus tree"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-116": {
+    "question": "إيه اسم أشهر عيلة في سيناء؟",
+    "en_question": "What is the name of the most famous family in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الفواخريه",
+          "الفواخرية",
+          "فواخريه"
+        ],
+        "en_answers": [
+          "el-fawakhreya",
+          "el-fawakhriya",
+          "el-fawakhry"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-117": {
+    "question": "ايه أكتر اسم عيلة منتشر في سينا؟",
+    "en_question": "What is the most common family name in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "البيك"
+        ],
+        "en_answers": [
+          "el-beik",
+          "el-bayk",
+          "el-beyk"
+        ],
+        "count": 3
+      },
+       {
+        "answers": [
+          "الفواخريه",
+          "الفواخرية"
+        ],
+        "en_answers": [
+          "el-fawakhreya",
+          "el-fawakhriya",
+          "el-fawakhry"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-118": {
+    "question": "ايه هي العواقب المترتبه عن السلوك السئ في مدارس سيناء؟",
+    "en_question": "What repercussions are there for bad behavior in schools in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الفصل من المدرسه",
+          "فصل مؤقت",
+          "الفصل المؤقت"
+        ],
+        "en_answers": [
+          "expulsion",
+          "temporary expulsion"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "انذار"
+        ],
+        "en_answers": [
+          "warning"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "استدعاء ولي الامر"
+        ],
+        "en_answers": [
+          "summoning parents"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-119": {
+    "question": "مين الكتاب اللي بتدرس اعمالهم في حصص الادب في سيناء؟",
+    "en_question": "Which writers are commonly studied in literature class in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "احمد شوقى"
+        ],
+        "en_answers": [
+          "ahmed shawqi"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 2,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-120": {
+    "question": "إيه المصدر أونلاين اللي الطلبة غالبًا بيستخدموه عشان يذاكروا في سيناء؟",
+    "en_question": "Which online resource do students usually use to study in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "المنصات التعليميه",
+          "منصات تعليمية",
+          "منصه التعليميه"
+        ],
+        "en_answers": [
+          "educational platform"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "بنك المعرفه المصرى",
+          "بنك المعرفة"
+        ],
+        "en_answers": [
+          "egyptian knowledge bank",
+          "knowledge bank"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-121": {
+    "question": "إيه أشهر معالم تاريخيه في سيناء؟",
+    "en_question": "What is the most famous historic landmark in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "قلعة العريش"
+        ],
+        "en_answers": [
+          "al-arish castle"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "صخره ديان",
+          "صخرة ديان"
+        ],
+        "en_answers": [
+          "dayan Rock"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "جبل الطور"
+        ],
+        "en_answers": [
+          "mount sinai"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "دير سانت كاترين"
+        ],
+        "en_answers": [
+          "saint catherine's monastery"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-122": {
+    "question": "ايه الطعام المشهور بين الشباب في سيناء؟",
+    "en_question": "What is the most popular food in Sinai among young people?",
+    "annotations": [
+      {
+        "answers": [
+          "اللصيمه",
+          "اللصيمة"
+        ],
+        "en_answers": [
+          "lasima"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "المندى"
+        ],
+        "en_answers": [
+          "mandi"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الشاورما"
+        ],
+        "en_answers": [
+          "shawarma"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-123": {
+    "question": "ايه اشهر طبق حلويات تقليدي في سيناء؟",
+    "en_question": "What is the most popular traditional dessert in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "حلويات شرقية",
+          "حلويات شرقيه"
+        ],
+        "en_answers": [
+          "traditional eastern sweets"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بلح الشام"
+        ],
+        "en_answers": [
+          "balh-el-sham",
+          "balah el sham"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بسبوسه"
+        ],
+        "en_answers": [
+          "basbousa"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-124": {
+    "question": "ايه اكتر وظيفه يعتبر اجرها منخفض في سيناء؟",
+    "en_question": "Which job is considered underpaid in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "التدريس"
+        ],
+        "en_answers": [
+          "teaching"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "زراعه",
+          "الزراعة"
+        ],
+        "en_answers": [
+          "agriculture"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-125": {
+    "question": "ايه الطعام الذي يقدم في عيد القيامه في سيناء؟",
+    "en_question": "What is the most common food served during Easter in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "بسكوت"
+        ],
+        "en_answers": [
+          "biscuits"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "كعك"
+        ],
+        "en_answers": [
+          "ka'ak",
+          "kahk",
+          "kaak"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 3,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-126": {
+    "question": "ايه المشروب اللي بيتقدم في الافراح في سيناء؟",
+    "en_question": "What drink is usually offered at weddings in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الشربات",
+          "شربات"
+        ],
+        "en_answers": [
+          "sharbat"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "بيبسى"
+        ],
+        "en_answers": [
+          "pepsi"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "المياه الغازيه"
+        ],
+        "en_answers": [
+          "soda water"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-127": {
+    "question": "ايه الطعام اللي اصله من سيناء وممكن تلاقيه في العالم كله؟",
+    "en_question": "What food originated from Sinai and can be found all over the world?",
+    "annotations": [
+      {
+        "answers": [
+          "بابا غنوج"
+        ],
+        "en_answers": [
+          "baba ganoush",
+          "baba ghanoush"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "اللصيمة"
+        ],
+        "en_answers": [
+          "lasima"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "المندي",
+          "مندى"
+        ],
+        "en_answers": [
+          "mandi"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-128": {
+    "question": "ايه الطعام اللي بيكرهوا الاطفال وبيحبوه كبار السن في سيناء؟",
+    "en_question": "What food is typically disliked by children but enjoyed by the elderly in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الخبيزة",
+          "خبيزة"
+        ],
+        "en_answers": [
+          "el-khubiza"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "اللبن"
+        ],
+        "en_answers": [
+          "milk"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الحمصيص"
+        ],
+        "en_answers": [
+          "el-hamsis"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الكشك"
+        ],
+        "en_answers": [
+          "kashk"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-129": {
+    "question": "ايه اشهر نوع خضار في سيناء؟",
+    "en_question": "Which is the most popular vegetable in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "خيار",
+          "الخيار"
+        ],
+        "en_answers": [
+          "cucumber"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الملوخيه",
+          "ملوخية"
+        ],
+        "en_answers": [
+          "molokhia",
+          "mulukhiyah",
+          "mulukhiyya",
+          "molokhiyya",
+          "melokhiyya"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "طماطم"
+        ],
+        "en_answers": [
+          "tomato"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-130": {
+    "question": "ايه اشهر قاعه لاقامه الافراح في سيناء؟",
+    "en_question": "What is the most popular wedding venue in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "قمرالزمان"
+        ],
+        "en_answers": [
+          "qamr el-zaman"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "قاعة القوات المسلحة",
+          "القوات المسلحه"
+        ],
+        "en_answers": [
+          "armed forces hall"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-131": {
+    "question": "ايه اشهر جامعه في سيناءفي تخصص الهندسه؟ (استخدم الاسم الرسمي)",
+    "en_question": "What university in Sinai is popular because of its engineering major? (Provide the official name.)",
+    "annotations": [
+      {
+        "answers": [
+          "جامعة سيناء",
+          "جامعه سيناء"
+        ],
+        "en_answers": [
+          "sinai university"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-132": {
+    "question": "ايه اشهر جامعه في سيناء في تخصص الطب؟ ( استخدم الاسم الرسمي)",
+    "en_question": "What university in Sinai is popular because of its school of medicine? (Provide the official name.)",
+    "annotations": [
+      {
+        "answers": [
+          "جامعة سيناء",
+          "جامعه سيناء"
+        ],
+        "en_answers": [
+          "sinai university"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "جامعة العريش"
+        ],
+        "en_answers": [
+          "al-arish university"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-133": {
+    "question": "ايه هي طريقه الدفع الاكتر استخداما في سيناء؟",
+    "en_question": "What is the most popular payment method in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "كاش",
+          "الكاش",
+          "يدوي",
+          "يدوى"
+        ],
+        "en_answers": [
+          "cash",
+          "manual payment"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-134": {
+    "question": "ايه اشهر فيلم كارتون يشاهدو الاطفال بكثره في سيناء؟",
+    "en_question": "What is the most popular children's animation that is commonly watched by kids in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "توم وجيرى",
+          "توم وجيري",
+          "توم جيري"
+        ],
+        "en_answers": [
+          "tom and jerry"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "تنة ورنة"
+        ],
+        "en_answers": [
+          "tinker bell"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-135": {
+    "question": "ايه اشهر اغنيه للاطفال بيغنوها العائلات معهم في سيناء؟",
+    "en_question": "What is the most popular children's song in Sinai that families sing together?",
+    "annotations": [
+      {
+        "answers": [
+          "اغنية الأعياد",
+          "اغاني الاعياد"
+        ],
+        "en_answers": [
+          "eid songs"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "انا عايزه ماما"
+        ],
+        "en_answers": [
+          "ana ayza mama"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ماما جابت بيبى"
+        ],
+        "en_answers": [
+          "mama gabit baby"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ماما زمانها جاءي"
+        ],
+        "en_answers": [
+          "mama zamanha gayha"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-136": {
+    "question": "ايه اشهر لعبه للاولاد في سيناء؟",
+    "en_question": "Which toys are most popular among boys in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "دراجة"
+        ],
+        "en_answers": [
+          "bike"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "عربيات"
+        ],
+        "en_answers": [
+          "cars"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "مكعبات"
+        ],
+        "en_answers": [
+          "play cubes"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الكوره"
+        ],
+        "en_answers": [
+          "football"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-137": {
+    "question": "ايه اشهر لعبه للبنات في سيناء؟",
+    "en_question": "Which toys are most popular among girls in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "عروسة باربي",
+          "العرايس"
+        ],
+        "en_answers": [
+          "barbie doll",
+          "dolls"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "دباديب"
+        ],
+        "en_answers": [
+          "teddy bears"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-138": {
+    "question": "ايه اشهر قصه شعبيه بتتحكي للاطفال في سيناء؟",
+    "en_question": "What is the most popular folk tale in Sinai that is typically told to children?",
+    "annotations": [
+      {
+        "answers": [
+          "جحا"
+        ],
+        "en_answers": [
+          "guha"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الزير سالم"
+        ],
+        "en_answers": [
+          "al-zeer salem"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+           "ابو زيد الهلالي"
+        ],
+        "en_answers": [
+          "abu zayd al-hilali"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ثعلب والماعز",
+          "الذيب والتلاث معزات"
+        ],
+        "en_answers": [
+          "the fox and the goats",
+          "the wolf and the three goats."
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-139": {
+    "question": "اين يشتغل طلاب الجامعه بشكل جزئي بجانب الدراسه في سيناء؟",
+    "en_question": "Where do university students in Sinai tend to work part-time the most?",
+    "annotations": [
+      {
+        "answers": [
+          "فى المحلات"
+        ],
+        "en_answers": [
+          "in shops"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "كافيتريات",
+          "الكافيتيريا"
+        ],
+        "en_answers": [
+          "cafeterias"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "المزرعه"
+        ],
+        "en_answers": [
+          "farm"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-140": {
+    "question": "ايه الانشطه اللي بيقوم بيها الناس كعمل اضافي جنب الشغل في سيناء؟",
+    "en_question": "What are the most common activities people do as a side job in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "كافيتريات"
+        ],
+        "en_answers": [
+          "cafeterias"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "سواقين"
+        ],
+        "en_answers": [
+          "drivers"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الزراعه"
+        ],
+        "en_answers": [
+          "farming"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "التجارة"
+        ],
+        "en_answers": [
+          "trading"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بيشتغلو في السوبر ماركت"
+        ],
+        "en_answers": [
+          "they work at a supermarket"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-141": {
+    "question": "ايه اشهر طاجن في سيناء؟",
+    "en_question": "What is the most popular stew in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "طاجن الباميه",
+          "طاجن بامية",
+          "باميه"
+        ],
+        "en_answers": [
+          "bamia",
+          "bamieh",
+          "bamiya",
+          "bamya",
+          "bamia stew",
+          "bamieh stew",
+          "bamiya stew",
+          "bamya stew"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-142": {
+    "question": "ماهي التوابل او الاعشاب الاكثر استخداما في الاكل السيناوي؟",
+    "en_question": "What is the most common spice/herb used in dishes from Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "زعتر",
+          "الزعتر"
+        ],
+        "en_answers": [
+          "za'atar",
+          "zaatar"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الكركم"
+        ],
+        "en_answers": [
+          "curcuma",
+          "turmeric"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الفلفل الاسمر"
+        ],
+        "en_answers": [
+          "black pepper"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الكمون"
+        ],
+        "en_answers": [
+          "cumin"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-143": {
+    "question": "أين تتجمع العائلات للصلاة معًا في سيناء؟",
+    "en_question": "Where do families gather to pray together in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "المسجد",
+          "فى المساجد",
+          "المساجد"
+        ],
+        "en_answers": [
+          "mosque",
+          "at the mosques",
+          "mosques"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "الساحات"
+        ],
+        "en_answers": [
+          "town square"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-144": {
+    "question": "ايه الهدايا اللي بيحصل عليها الاباء في عيد الاب في سيناء؟",
+    "en_question": "What gifts do fathers get on Father's Day (or Parents' Day) in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "لبس"
+        ],
+        "en_answers": [
+          "clothing"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 3,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-145": {
+    "question": "ايه الهدايا اللي بتحصل عليها الامهات في عيد الام في سيناء؟",
+    "en_question": "What gifts do mothers get on Mother's Day (or Parents' Day) in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "اداوت منزليه",
+          "ادوات منزلة"
+        ],
+        "en_answers": [
+          "household items"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "طقم اكواب"
+        ],
+        "en_answers": [
+          "glassware"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "لبس"
+        ],
+        "en_answers": [
+          "clothing"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-146": {
+    "question": "كام عدد الاجيال اللي بيعيشوا في منزل واحد في العائله السيناويه الواحده؟(استخدم رقم مثلا 12)",
+    "en_question": "How many generations typically live together in a household in Sinai? (Provide Arabic numerals (e.g., 12) only.)",
+    "annotations": [
+      {
+        "answers": [
+          "3"
+        ],
+        "en_answers": [
+          "3"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "2"
+        ],
+        "en_answers": [
+          "2"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-147": {
+    "question": "ايه النشاطات التي يمكن القيام بها في الحدائق في سيناء؟",
+    "en_question": "What is a popular activity to do in parks in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "كرة القدم",
+          "الكورة"
+        ],
+        "en_answers": [
+          "football"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "العب"
+        ],
+        "en_answers": [
+          "playing"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الجري"
+        ],
+        "en_answers": [
+          "running"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الدردشه"
+        ],
+        "en_answers": [
+          "chatting"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-148": {
+    "question": "ماهي لعبه الورق الشعبيه التي يتم لعبها في التجمعات العائليه في سيناء؟",
+    "en_question": "What is the popular card game played during social gatherings in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الكوتشينه",
+          "الكوتشينة",
+          "كوتشينة"
+        ],
+        "en_answers": [
+          "playing cards"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-149": {
+    "question": "ايه المنتج الزراعي اللي بيتم تصديره من سيناء؟",
+    "en_question": "Which agricultural product is exported most often in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الزيتون",
+          "زيتون"
+        ],
+        "en_answers": [
+          "olives"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "البرتقال"
+        ],
+        "en_answers": [
+          "orange"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "البطاطس"
+        ],
+        "en_answers": [
+          "potato"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-150": {
+    "question": "ايه اشهر الحلويات في سيناء؟",
+    "en_question": "What are the most popular sweets in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "النموره",
+          "بسبوسة بالقرفة",
+          "بسبوسه بالقرفه"
+        ],
+        "en_answers": [
+          "namoura",
+          "basbousa with cinnamon"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "بلح الشام"
+        ],
+        "en_answers": [
+          "balh-el-sham",
+          "balah el sham"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-151": {
+    "question": "ماهو مستوي التعليم المتوسط في سيناء؟",
+    "en_question": "What is the average education level for people in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "دبلوم",
+          "متوسط"
+        ],
+        "en_answers": [
+          "vocational education"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-152": {
+    "question": "إيه أكتر مشروب مشهور بين الأطفال في سيناء؟",
+    "en_question": "What is the most popular beverage among children in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "لبن",
+          "اللبن"
+        ],
+        "en_answers": [
+          "milk"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الشاى"
+        ],
+        "en_answers": [
+          "tea"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "لبن شوكولاتة"
+        ],
+        "en_answers": [
+          "chocolate milk"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-153": {
+    "question": "إيه التسالي أو السناكس اللي بتتباع عادة قدّام المدارس في سيناء؟",
+    "en_question": "What snacks are usually sold in front of schools in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "اندومى",
+          "الاندومي"
+        ],
+        "en_answers": [
+          "instant noodles",
+          "indomie"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الشيبسى"
+        ],
+        "en_answers": [
+          "chips"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اللب"
+        ],
+        "en_answers": [
+          "roasted seeds",
+          "lib"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-154": {
+    "question": "إيه نوع الزيت اللي الناس بتستخدمه غالبًا في الطبخ في سيناء؟",
+    "en_question": "What oil is usually used for cooking in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الزيتون",
+          "زيت زيتون",
+          "زيت الزيتون"
+        ],
+        "en_answers": [
+          "olive",
+          "olive oil"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-155": {
+    "question": "إيه الأكل اللي الستات الحوامل بيأكلوه كتير في سيناء؟",
+    "en_question": "What food is commonly consumed by pregnant women in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الفراخ"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "البروتين"
+        ],
+        "en_answers": [
+          "protein"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "عجوه"
+        ],
+        "en_answers": [
+          "ajwa",
+          "date paste"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "تمر"
+        ],
+        "en_answers": [
+          "dates"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "البيض"
+        ],
+        "en_answers": [
+          "egg"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-156": {
+    "question": "إيه أكتر نوع مواشي متربي في سيناء؟",
+    "en_question": "What is the most common livestock raised in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الماعز"
+        ],
+        "en_answers": [
+          "goats"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "الاغنام"
+        ],
+        "en_answers": [
+          "sheep"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-157": {
+    "question": "إيه الحيوانات اللي بتتستخدم عادة في الزراعة في سيناء؟",
+    "en_question": "What animals are commonly used for agriculture in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "حصان"
+        ],
+        "en_answers": [
+          "horse"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الحمار",
+          "حمار"
+        ],
+        "en_answers": [
+          "donkey"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الجمل"
+        ],
+        "en_answers": [
+          "camel"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 2,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-158": {
+    "question": "المزارعين في سيناء بيلبسوا إيه عشان يحموا نفسهم من الحر وهما بيزرعوا؟",
+    "en_question": "What do farmers in Sinai typically wear to protect themselves from the heat whilst farming?",
+    "annotations": [
+      {
+        "answers": [
+          "كاب",
+          "الطاقيه"
+        ],
+        "en_answers": [
+          "cap",
+          "taqiyah"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "قماش على الراس",
+          "العمة"
+        ],
+        "en_answers": [
+          "fabric over their head",
+          "scarf"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-159": {
+    "question": "الأهالي في سيناء غالبًا بيجيبوا إيه هدايا لأولادهم في أعياد ميلادهم؟",
+    "en_question": "What gifts do parents generally give to their children for their birthdays in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "ملابس"
+        ],
+        "en_answers": [
+          "clothing"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "العاب",
+          "لعب اطفال"
+        ],
+        "en_answers": [
+          "toy",
+          "kids toy"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "اكسسوارات"
+        ],
+        "en_answers": [
+          "accessories"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-160": {
+    "question": "ايه اللي الاطفال عاده بتاخدوا في العيد في سيناء؟",
+    "en_question": "What is usually given to the children during Eid in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "نقود",
+          "فلوس",
+          "عيديه",
+          "عيدية"
+        ],
+        "en_answers": [
+          "money",
+          "cash",
+          "eid money",
+          "eidiya"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-161": {
+    "question": "إيه الأكل اللي بيبقى موجود غالبًا في الأفراح في سيناء؟",
+    "en_question": "What food is usually served at weddings in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "لحمة",
+          "اللحوم",
+          "لحمه"
+        ],
+        "en_answers": [
+          "meat"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "رز"
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "فراخ"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-162": {
+    "question": "إيه أشهر مبنى حكومي في سيناء؟",
+    "en_question": "What is the most famous government building in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "مبنى المحافظه",
+          "مبنى المحافظة",
+          "المحافظه",
+          "مجمع المصالح"
+
+        ],
+        "en_answers": [
+          "governorate building",
+          "governorate",
+          "governorate service complex"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-163": {
+    "question": "إيه أحسن / أشهر جامعة في سيناء؟ (اكتب الاسم الرسمي)",
+    "en_question": "What is the top university in Sinai? (Provide the official name.)",
+    "annotations": [
+      {
+        "answers": [
+          "جامعة سيناء",
+          "جامعى سيناء",
+          "جامعة سيناء بالعريش ",
+          "جامعه سيناء"
+        ],
+        "en_answers": [
+          "sinai university"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-164": {
+    "question": "الناس في سيناء بيأكلوا إيه تقليديًا في يوم الكريسماس؟",
+    "en_question": "What do people in Sinai traditionally eat on Christmas Day?",
+    "annotations": [],
+    "idks": {
+      "idk": 4,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-165": {
+    "question": "أنهي مدينة هي الوجهة الأساسية للناس اللي بتدور على شغل في سيناء؟",
+    "en_question": "Which city is the main destination for job seekers in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "العريش"
+        ],
+        "en_answers": [
+          "al-arish"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "بئر العبد"
+        ],
+        "en_answers": [
+          "bir al-abd"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-166": {
+    "question": "إيه أشهر سلسلة أكل سريع في سيناء؟",
+    "en_question": "What is Sinai's most popular fast food chain?",
+    "annotations": [
+      {
+        "answers": [
+          "درغام"
+        ],
+        "en_answers": [
+          "dirgam"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 4,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-167": {
+    "question": "إيه الأكلة اللي الناس في سيناء يا إمّا بتحبها قوي يا إمّا بتكرهها قوي؟",
+    "en_question": "What is the food that is most divisive (either love or hate) in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "لصيمه",
+          "لصيمة"
+        ],
+        "en_answers": [
+          "lasima"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الخبيزة"
+        ],
+        "en_answers": [
+          "el-khubiza"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الكوسه"
+        ],
+        "en_answers": [
+          "zucchini"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "السمك"
+        ],
+        "en_answers": [
+          "fish"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "السبانخ"
+        ],
+        "en_answers": [
+          "spinach"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-168": {
+    "question": "إيه أكتر أكل تيك أواي مشهور في سيناء؟",
+    "en_question": "What is the most popular takeaway food in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "كريب"
+        ],
+        "en_answers": [
+          "savory crepe"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "طعمية"
+        ],
+        "en_answers": [
+          "taameya",
+          "ta'ameya",
+          "falafel"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "االشاورما"
+        ],
+        "en_answers": [
+          "shawarma"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فول"
+        ],
+        "en_answers": [
+          "ful",
+          "ful medames",
+          "ful mudammas",
+          "foul",
+          "fava beans"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-169": {
+    "question": "إيه أشهر سناكس في سيناء؟",
+    "en_question": "What are popular snacks in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "اللب",
+          "لب"
+        ],
+        "en_answers": [
+          "roasted seeds",
+          "lib"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "البطاطس"
+        ],
+        "en_answers": [
+          "potato"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "مقرمشات"
+        ],
+        "en_answers": [
+          "crunchy snacks"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اندومى"
+        ],
+        "en_answers": [
+          "instant noodles",
+          "indomie"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-170": {
+    "question": "مين أشهر رياضي في سيناء؟",
+    "en_question": "Who is the most popular sports person in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "محمد معروف"
+        ],
+        "en_answers": [
+          "mohamed maarouf"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "محمد صلاح"
+        ],
+        "en_answers": [
+          "mohamed salah"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "ابو تريكة"
+        ],
+        "en_answers": [
+          "abu trika"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "احمد الجعيدي"
+        ],
+        "en_answers": [
+          "ahmed el-jaidi"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "حسام حسن"
+        ],
+        "en_answers": [
+          "hossam hassan"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-171": {
+    "question": "إيه مدينة أو منطقة في سيناء مشهورة بالصناعة؟",
+    "en_question": "What is a city or region in Sinai known for manufacturing industry?",
+    "annotations": [
+      {
+        "answers": [
+          "وسط سيناء"
+        ],
+        "en_answers": [
+          "central sinai"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "العريش"
+        ],
+        "en_answers": [
+          "al-arish"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-172": {
+    "question": "إيه أهم صناعة في سيناء؟",
+    "en_question": "What is the most important industry in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الاسمنت",
+          "صناعة الاسمنت"
+        ],
+        "en_answers": [
+          "cement",
+          "cement industry"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "الرخام"
+        ],
+        "en_answers": [
+          "marble"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-173": {
+    "question": "إيه نشاط مشهور للأهالي يعملوه مع العيال في الويك إند في سيناء؟",
+    "en_question": "What is a popular family activity with a child to do on weekends in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الذهاب الى البحر",
+          "البحر",
+          "خروج علي البحر"
+        ],
+        "en_answers": [
+          "beach",
+          "going to the beach"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "كرة القدم"
+        ],
+        "en_answers": [
+          "football"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-174": {
+    "question": "إيه لعبة عائلية مشهورة في سيناء؟",
+    "en_question": "What is a popular family game in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "كرة القدم"
+        ],
+        "en_answers": [
+          "football"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الكوتشينة",
+          "الكوتشينه"
+        ],
+        "en_answers": [
+          "playing cards"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-175": {
+    "question": "إيه أكتر أكل مشهور للأهالي في الويك إند في سيناء؟",
+    "en_question": "What is Sinai's most popular food for family meals on weekends?",
+    "annotations": [
+      {
+        "answers": [
+          "فراخ"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "الفراخ مع الملوخية"
+        ],
+        "en_answers": [
+          "molokhia with chicken"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "رز اصفر"
+        ],
+        "en_answers": [
+          "yellow rice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "فته",
+          "فتة"
+        ],
+        "en_answers": [
+          "fatta",
+          "fattah",
+          "fatteh",
+          "fata"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "رز "
+        ],
+        "en_answers": [
+          "rice"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-176": {
+    "question": "إيه المادة الدراسية اللي الناس شايفاها أهم للطلبة في سيناء؟",
+    "en_question": "Which subject is considered the most important for students in Sinai",
+    "annotations": [
+      {
+        "answers": [
+          "الانجليزى",
+          "الانجليزي"
+        ],
+        "en_answers": [
+          "english"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "حفظ القرآن الكريم",
+          "القرآن الكريم"
+        ],
+        "en_answers": [
+          "memorizing the the holy quran",
+          "the holy quran"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "البرمجه"
+        ],
+        "en_answers": [
+          "programming"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-177": {
+    "question": "إيه وسيلة المواصلات العامة الشائعة اللي الناس بيستخدموها عشان يروحوا الجامعة في سيناء؟",
+    "en_question": "What is a common public transport that people use to go to university in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "المكروباص"
+        ],
+        "en_answers": [
+          "microbus",
+          "minibus"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-178": {
+    "question": "إيه أكتر مشروب الناس بتشربه الصبح في  سيناء؟",
+    "en_question": "What is the most common morning drink in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الشاى",
+          "شاى"
+        ],
+        "en_answers": [
+          "tea"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-179": {
+    "question": "إيه أكتر نشاط عائلي مشهور في  سيناء   في أيام الأسبوع بالليل؟",
+    "en_question": "What is the most popular weekday evening family activity in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الخروج عالبحر",
+          "الجلوس علي البحر"
+        ],
+        "en_answers": [
+          "going to the beach",
+          "sitting at on the beach"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "لعب كرة القدم",
+          "لعب الكوره"
+        ],
+        "en_answers": [
+          "play football"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "بيتفرجوا علي التيلفزيون"
+        ],
+        "en_answers": [
+          "watch tv"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "النت"
+        ],
+        "en_answers": [
+          "internet"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 1,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-180": {
+    "question": "المزارعين في  سيناء   عادةً بياكلوا إيه على الغدا؟",
+    "en_question": "What do farmers in Sinai usually eat for lunch?",
+    "annotations": [
+      {
+        "answers": [
+          "سلطه بتنجان",
+          "سلطة باذنجان"
+        ],
+        "en_answers": [
+          "eggplant salad"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "طبيخ"
+        ],
+        "en_answers": [
+          "stew"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-181": {
+    "question": "إيه أكتر فطار سريع الناس بتاخده وهي ماشية في سيناء؟",
+    "en_question": "What is the most popular grab-and-go breakfast option in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "فول",
+          "سندوش فول",
+          "الفول"
+        ],
+        "en_answers": [
+          "ful sandwich",
+          "foul sandwich",
+          "ful",
+          "fava beans",
+          "ful medames",
+          "ful mudammas",
+          "foul"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "طعمية",
+          "الطعمية",
+          "طعميه"
+        ],
+        "en_answers": [
+          "taameya",
+          "ta'ameya",
+          "falafel"
+        ],
+        "count": 4
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-182": {
+    "question": "الناس في  سيناء عادةً بتاكل إيه على البحر؟",
+    "en_question": "What do people from Sinai eat at the beach?",
+    "annotations": [
+      {
+        "answers": [
+          "دجاج مشوى",
+          "فراخ مشوية"
+        ],
+        "en_answers": [
+          "grilled chicken"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "مندي"
+        ],
+        "en_answers": [
+          "mandi"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "مشاوي",
+          "مشاوى"
+        ],
+        "en_answers": [
+          "grilled meat"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "سمك"
+        ],
+        "en_answers": [
+          "fish"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "لصيمه"
+        ],
+        "en_answers": [
+          "lasima"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-183": {
+    "question": "إيه أكتر وجهة سياحية برّه مصر الناس اللي من سينا بيروحولها؟",
+    "en_question": "Where is the most popular tourist destination abroad for people from Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "السعودية",
+          "السعوديه"
+        ],
+        "en_answers": [
+          "saudi arabia"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-184": {
+    "question": "أنهي منطقة في  سيناء   معروفة تقليديًا بالزراعة؟",
+    "en_question": "What region in Sinai has been traditionally associated with agriculture?",
+    "annotations": [
+      {
+        "answers": [
+          "رفح"
+        ],
+        "en_answers": [
+          "rafah"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "شمال سيناء"
+        ],
+        "en_answers": [
+          "northern sinai"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "بئر العبد"
+        ],
+        "en_answers": [
+          "bir al-abd"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الشيخ زويد"
+        ],
+        "en_answers": [
+          "sheikh zuweid",
+          "sheikh zuwayid"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-185": {
+    "question": "الناس في  سيناء عادةً بتتعشى الساعة كام؟ (استخدم الرقم  بالساعه والدقيقه مثلا 09:00  صباحا او 06:00 مساءا)",
+    "en_question": "What time do people usually have dinner in Sinai? (Provide in HH:MM format (e.g., 18:00, 09:00).)",
+    "annotations": [
+        {
+        "answers": [
+          "09:00مساءا"
+        ],
+        "en_answers": [
+          "09:00PM"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "06:00 مساءا"
+        ],
+        "en_answers": [
+          "06:00PM"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "11:00مساءا"
+        ],
+        "en_answers": [
+          "11:00PM"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-186": {
+    "question": "طلبة الجامعة في  سيناء عادةً بيتغدوا فين؟",
+    "en_question": "Where do university students have lunch in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "فى البيت",
+          "البيت"
+        ],
+        "en_answers": [
+          "at home",
+          "home"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "المطعم"
+        ],
+        "en_answers": [
+          "restaurant"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "مطعم المدينة الجامعية"
+        ],
+        "en_answers": [
+          "university restaurant"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-187": {
+    "question": "إيه أهم وجبة في اليوم بالنسبة للناس في سيناء؟",
+    "en_question": "Which is the most important meal of the day to people from Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الغداء",
+          "الغدا"
+        ],
+        "en_answers": [
+          "lunch"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-188": {
+    "question": "الناس في  سيناء غالبًا بتصرف أول مرتب ليها على إيه؟",
+    "en_question": "What do people especially spend their first salary on in Sinai's society?",
+    "annotations": [
+      {
+        "answers": [
+          "هدايا",
+          "الهدايا"
+        ],
+        "en_answers": [
+          "gift"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "غداء للعائله"
+        ],
+        "en_answers": [
+          "family lunch"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-189": {
+    "question": "إيه تاني أكتر رياضة مشهورة في  سيناء؟",
+    "en_question": "What is the second most popular sport in Sinai?",
+    "annotations": [
+        {
+        "answers": [
+          "سباحة",
+          "السباحة",
+          "السباحه"
+        ],
+        "en_answers": [
+          "swimming"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "سباق الابل",
+          "الهجن"
+        ],
+        "en_answers": [
+          "camel racing"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-190": {
+    "question": "أنهي مهنة مفضلة أكتر بين الستات في  سيناء؟",
+    "en_question": "Which occupation is most preferred among females in Sinai?",
+    "annotations": [
+       {
+        "answers": [
+          "التدريس"
+        ],
+        "en_answers": [
+          "teaching"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "التطريز"
+        ],
+        "en_answers": [
+          "tatreez"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "موظفة حكومية"
+        ],
+        "en_answers": [
+          "government job",
+          "government employment"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-191": {
+    "question": "أنهي مهنة مفضلة أكتر بين الرجالة في  سيناء؟",
+    "en_question": "Which occupation is most preferred among males in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "وظيفة حكومى",
+          "وظيفه"
+        ],
+        "en_answers": [
+          "government job",
+          "government employment"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "المجال الطبي"
+        ],
+        "en_answers": [
+          "medical worker"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اعمال حره"
+        ],
+        "en_answers": [
+          "self employed"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الزراعه"
+        ],
+        "en_answers": [
+          "farming"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-192": {
+    "question": "أنهي مدينة تعتبر المركز التجاري الرئيسي في  سيناء؟",
+    "en_question": "Which city is the primary commercial hub in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "العريش"
+        ],
+        "en_answers": [
+          "al-arish"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 1,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-193": {
+    "question": "اي هي الرقصة الشعبيه في سيناء؟",
+    "en_question": "What is the traditional dance in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الدبكه",
+          "الدبكة",
+          "دبكه"
+        ],
+        "en_answers": [
+          "dabke"
+        ],
+        "count": 5
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-194": {
+    "question": "إيه أكلة مشهورة في سيناء في أول إفطار في رمضان؟",
+    "en_question": "what meal is most popular on the first day of Ramadan in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "محشى"
+        ],
+        "en_answers": [
+          "mahshi"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "رز اصفر"
+        ],
+        "en_answers": [
+          "yellow rice"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "اللحوم"
+        ],
+        "en_answers": [
+          "meat"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الفتة"
+        ],
+        "en_answers": [
+          "fatta",
+          "fatteh",
+          "fattah",
+          "fata"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الدجاج"
+        ],
+        "en_answers": [
+          "chicken"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-195": {
+    "question": "إيه أكتر شغل منتشر في سيناء؟",
+    "en_question": "What is the most common occupation in Sinai ?",
+    "annotations": [
+      {
+        "answers": [
+          "الزراعه",
+          "الزراعة"
+        ],
+        "en_answers": [
+          "farming"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "التدريس"
+        ],
+        "en_answers": [
+          "teaching"
+        ],
+        "count": 2
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-196": {
+    "question": "الأسرة عادةً بتعمل إيه لما بيتولد طفل في سيناء؟",
+    "en_question": "What do families from Sinai  usually do when a baby is born?",
+    "annotations": [
+      {
+        "answers": [
+          "ذبح الحيوانات",
+          "عقيقه"
+        ],
+        "en_answers": [
+          "sacrificing an animal",
+          "aqiqah",
+          "aqiqa"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "بيعملوا سبوع"
+        ],
+        "en_answers": [
+          "they hold a sebou"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-197": {
+    "question": "لما حد في سيناء بيروح يزور مريض، عادةً بياخد معاه إيه؟",
+    "en_question": "What do people from Sinai  bring with them while visiting an ill person?",
+    "annotations": [
+      {
+        "answers": [
+          "فاكهه",
+          "فاكهة",
+          "فواكهه"
+        ],
+        "en_answers": [
+          "fruit",
+          "fruits"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "زبادى"
+        ],
+        "en_answers": [
+          "yogurt"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "عصير"
+        ],
+        "en_answers": [
+          "juice"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-198": {
+    "question": "ايه انواع الحلويات او المخبوزات اللي بتتباع كتير في عيد الفطر في سيناء؟",
+    "en_question": "Which pastries/sweets are the most sold during Eid al Fitr in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "الكعك"
+        ],
+        "en_answers": [
+          "ka'ak",
+          "kahk",
+          "kaak"
+        ],
+        "count": 4
+      },
+      {
+        "answers": [
+          "بسكويت",
+          "بسكوت"
+        ],
+        "en_answers": [
+          "biscuits"
+        ],
+        "count": 3
+      },
+      {
+        "answers": [
+          "الفطائر"
+        ],
+        "en_answers": [
+          "feteer"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-199": {
+    "question": "الستات في سيناء عادةً بيشربوا إيه بعد الولادة مباشرةً؟",
+    "en_question": "What do women from Sinai drink right after giving birth?",
+    "annotations": [
+      {
+        "answers": [
+          "حلبة مطحونة",
+          "حلبه"
+        ],
+        "en_answers": [
+          "ground fenugreek",
+          "fenugreek"
+        ],
+        "count": 5
+      },
+      {
+        "answers": [
+          "مغات"
+        ],
+        "en_answers": [
+          "moghat",
+          "mughat"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  },
+  "EG-DIA-200": {
+    "question": "مين اكتر مطرب اغانيه بتتغنا في الافراح في سيناء؟",
+    "en_question": "Which artist is the most played during weddings in Sinai?",
+    "annotations": [
+      {
+        "answers": [
+          "عمرو دياب"
+        ],
+        "en_answers": [
+          "amr diab"
+        ],
+        "count": 2
+      },
+      {
+        "answers": [
+          "شفيق كبها"
+        ],
+        "en_answers": [
+          "shafiq kabha"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "محمد البصيلى"
+        ],
+        "en_answers": [
+          "mohamed el-basily"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "الليثي"
+        ],
+        "en_answers": [
+          "el-Leithy"
+        ],
+        "count": 1
+      },
+      {
+        "answers": [
+          "رضا البحراوي"
+        ],
+        "en_answers": [
+          "reda el-bahrawy"
+        ],
+        "count": 1
+      }
+    ],
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
