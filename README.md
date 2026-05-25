@@ -10,18 +10,18 @@ The datasets covers six Egyptian regions: Alexandria, Greater Cairo, Lower Egypt
 <p align="center">
   <img src="egypt-map.png" alt="Egypt map" width="350">
 </p
-The data was collected through a multi-phase Google Forms process. The questions were presented to participants in the Egyptian dialect. Participants had to have lived more than half of their lives in the region they were answering for. This data collection process resulted in 3,333 validated question-answer pairs across the six regional datasets, and 1,738 distinct question-answer pairs for the broader Egypt-wide dataset.
+The data was collected through a multi-phase Google Forms process. The questions were presented to participants in the Egyptian dialect. Participants had to have lived more than half of their lives in the region they were answering for. 
 
-We evaluated how well Large Language Models answer cultural knowledge questions across these regions and language varieties. The evaluation was done in two parts: automated evaluation and human evaluation. First, the models were evaluated on both Short-Answer Questions (SAQ), where they had to generate an answer, and Multiple-Choice Questions (MCQ), where they had to choose one answer from the given options. Second, the zero-scored SAQ responses for GPT-5.4, Qwen2.5-72B, and command-r7b-arabic-02-2025 were manually assigned an applicability score to check whether the answers were still culturally or regionally possible. Responses that were not applicable at all were then categorized by the type of error the model made.
+We evaluated how well Large Language Models answer cultural knowledge questions across these regions and language varieties. The evaluation was done in two parts: automated evaluation and human evaluation. The automated scoring was conducted across 14 models on both Short-Answer Questions(SAQ) and Multiple-Choice Questions(MCQ). Our evaluation used the the inst-4 and pers-3 prompts. Second, the zero-scored SAQ responses in The Egyptian dialect and Modern Standard Arabic(MSA) for GPT-5.4, Qwen2.5-72B, and command-r7b-arabic-02-2025 were manually assigned an applicability score to check whether the answers were still culturally or regionally possible. Responses that were not applicable at all were then categorized by the type of error the model made.
 
 ## Data
 
-All short-answer question data, including the human-annotated answers, can be found in the `data/annotations/` directory. This directory includes files for the six Egyptian regions and for Egypt as a whole. The Egypt-wide dataset is created by combining the answers from all the regional datasets.
+The human-annotated answers, can be found in the `data/annotations/` directory. This directory includes files for the six Egyptian regions and for Egypt as a whole. The Egypt-wide dataset is created by combining the answers from all the regional datasets.
 
 Each region has two annotation files:
 
 - `{region}_data.json` contains the Egyptian dialect version of the dataset.
-- `{region}_MSA_data.json` contains the Modern Standard Arabic version of the dataset.
+- `{region}_MSA_data.json` contains the MSA version of the dataset.
 
 The annotations are the same in both files, but the questions are written in different language varieties. Each file contains a JSON object where the unique question IDs are used as keys. The values include the question, the human annotations, and their vote counts.
 
@@ -29,8 +29,6 @@ The question files are located in the `data/questions/` directory. Each region h
 
 - `{region}_questions.csv` contains the English and Egyptian dialect questions.
 - `{region}_MSA_questions.csv` contains the English and Modern Standard Arabic questions.
-
-Each file includes the question ID, topic, source language, and the relevant question columns for that language setting.
 
 The multiple-choice question files can be found in `evaluation/mc_data/{region}/`. Each region has three MCQ files:
 
@@ -40,17 +38,19 @@ The multiple-choice question files can be found in `evaluation/mc_data/{region}/
 
 The answer options are kept the same across the Egyptian dialect and MSA versions, with only the question wording changing. Each file includes the question, the answer options, and the correct answer.
 
-For the final evaluation, we used the `inst-4` and `pers-3` prompts. The prompt templates are included in `model_inference.py`. The file contains two prompt settings: one for English and Egyptian dialect, and one for English and MSA. To run a specific setting, uncomment the prompt set you want to use and comment out the other one.
+
 
 ## Code adaptation
 
-The adapted `evaluation_utils.py` mainly combines the helper parts from BLEnD’s `utils.py` and `evaluation_utils.py`. From `utils.py`, it keeps the general idea of having helper functions for model access, JSON extraction, CSV writing, and simple format checks. However, it is simplified for this project by only supporting API-based inference through OpenAI, Anthropic, and Hugging Face. From BLEnD’s `evaluation_utils.py`, it keeps the functions for loading the question and annotation files.
+The prompt templates are adapted into the in `model_inference.py`. The file contains two prompt settings: one for English and Egyptian dialect, and one for English and MSA. To run a specific setting, uncomment the prompt set you want to use and comment out the other one.
+
+Our `evaluation_utils.py` combines the helper parts from BLEnD’s `utils.py` and `evaluation_utils.py`. From `utils.py`, it keeps the general idea of having helper functions for model access, JSON extraction, CSV writing, and simple format checks. However, it is simplified for this project by only supporting API-based inference through OpenAI, Anthropic, and Hugging Face. From BLEnD’s `evaluation_utils.py`, it keeps the functions for loading the question and annotation files.
 
 The adapted `eval.py` combines the short-answer evaluation parts that were originally split across BLEnD’s `evaluate.py`, `evaluation_utils.py`, and `exact_match.py`. From `evaluate.py`, it keeps the role of running the evaluation and saving the final short-answer scores. From `evaluation_utils.py`, it keeps the logic for reading model response files, matching responses by question ID, and removing the prompt from the model answer if the model repeated it. From `exact_match.py`, it keeps the soft exact-match scoring logic, but this is now integrated directly into `eval.py` instead of being kept in a separate file.
 
 For Arabic scoring, the adapted code also adds Arabic-specific normalization before Qalsadi lemmatization, which helps handle spelling differences and surface-form variation in MSA and Egyptian dialect more consistently.
 
-For the MCQ evaluation, GPT-5.4 was used for the meaning-based similarity check between answer options and for generating dummy options when there were not enough valid regional distractors. The code was also changed to generate MCQ files separately for each region and language setting, including English, MSA, and Egyptian dialect.
+For the MCQ evaluation, we used GPT-5.4 for the meaning-based similarity check between answer options and for generating dummy options when there were not enough valid regional distractors.
 
 ## Citation
 
