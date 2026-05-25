@@ -1,7 +1,4 @@
-# thesis-egyptian-culture-llm
 # Beyond the Pyramids
-
-
 
 ## About
 
