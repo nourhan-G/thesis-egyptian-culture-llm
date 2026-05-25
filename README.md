@@ -7,7 +7,9 @@ This repository contains the materials for **Beyond the Pyramids: Evaluating Reg
 Arabic-speaking countries are often treated as one general cultural unit in Arabic NLP, which can overlook regional and dialectal variation within countries such as Egypt. This project adapts the BLEnD framework to the national and regional Egyptian contexts using a newly collected dataset of everyday Egyptian cultural questions.
 
 The dataset covers six Egyptian regions: Alexandria, Greater Cairo, Lower Egypt, Upper Egypt, Sinai, and the Suez Canal Cities. Both the question wording and the prompt language were adapted into three language varieties: English, Modern Standard Arabic (MSA), and Egyptian dialect.
-![Egypt map](egypt-map.png)
+<p align="center">
+  <img src="egypt-map.png" alt="Egypt map" width="350">
+</p
 The data was collected through a multi-phase Google Forms process. The questions were presented to participants in the Egyptian dialect. Participants had to have lived more than half of their lives in the region they were answering for. This data collection process resulted in 3,333 validated question-answer pairs across the six regional datasets, and 1,738 distinct question-answer pairs for the broader Egypt-wide dataset.
 
 We evaluated how well Large Language Models answer cultural knowledge questions across these regions and language varieties. The evaluation was done in two parts: automated evaluation and human evaluation. First, the models were evaluated on both Short-Answer Questions (SAQ), where they had to generate an answer, and Multiple-Choice Questions (MCQ), where they had to choose one answer from the given options. Second, the zero-scored SAQ responses for GPT-5.4, Qwen2.5-72B, and command-r7b-arabic-02-2025 were manually assigned an applicability score to check whether the answers were still culturally or regionally possible. Responses that were not applicable at all were then categorized by the type of error the model made.
