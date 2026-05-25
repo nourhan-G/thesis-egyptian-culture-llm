@@ -4,7 +4,7 @@
 
 This repository contains the materials for **Beyond the Pyramids: Evaluating Regional and Linguistic Variation in LLMs' Knowledge of Egyptian Culture**, a Bachelor's thesis project in Artificial Intelligence at Vrije Universiteit Amsterdam.
 
-Arabic-speaking countries are often treated as one general cultural unit in Arabic NLP, which can overlook regional and dialectal variation within countries such as Egypt. This project adapts the BLEnD framework to the national and regional Egyptian contexts using a newly collected dataset of everyday Egyptian cultural questions.
+This project adapts the BLEnD framework to the national and regional Egyptian contexts using a newly collected dataset of everyday Egyptian cultural questions.
 
 The dataset covers six Egyptian regions: Alexandria, Greater Cairo, Lower Egypt, Upper Egypt, Sinai, and the Suez Canal Cities. Both the question wording and the prompt language were adapted into three language varieties: English, Modern Standard Arabic (MSA), and Egyptian dialect.
 <p align="center">
