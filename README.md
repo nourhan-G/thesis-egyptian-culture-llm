@@ -6,7 +6,7 @@ This repository contains the materials for **Beyond the Pyramids: Evaluating Reg
 
 This project adapts the BLEnD framework to the national and regional Egyptian contexts using newly collected datasets of everyday Egyptian cultural questions.
 
-The dataset covers six Egyptian regions: Alexandria, Greater Cairo, Lower Egypt, Upper Egypt, Sinai, and the Suez Canal Cities. Both the question wording and the prompt language were adapted into three language varieties: English, Modern Standard Arabic (MSA), and Egyptian dialect.
+The datasets covers six Egyptian regions: Alexandria, Greater Cairo, Lower Egypt, Upper Egypt, Sinai, and the Suez Canal Cities. Both the question wording and the prompt language were adapted into three language varieties: English, Modern Standard Arabic (MSA), and Egyptian dialect.
 <p align="center">
   <img src="egypt-map.png" alt="Egypt map" width="350">
 </p
