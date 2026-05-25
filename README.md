@@ -20,21 +20,21 @@ The human-annotated answers, can be found in the `data/annotations/` directory. 
 
 Each region has two annotation files:
 
-- `{region}_data.json` contains the Egyptian dialect version of the dataset.
-- `{region}_MSA_data.json` contains the MSA version of the dataset.
+- `{REGION/COUNTRY}_data.json` contains the Egyptian dialect version of the dataset.
+- `{REGION/COUNTRY}_MSA_data.json` contains the MSA version of the dataset.
 
 The annotations are the same in both files, but the questions are written in different language varieties. Each file contains a JSON object where the unique question IDs are used as keys. The values include the question, the human annotations, and their vote counts.
 
 The question files are located in the `data/questions/` directory. Each region has two question files:
 
-- `{region}_questions.csv` contains the English and Egyptian dialect questions.
-- `{region}_MSA_questions.csv` contains the English and Modern Standard Arabic questions.
+- `{REGION/COUNTRY}_questions.csv` contains the English and Egyptian dialect questions.
+- `{REGION/COUNTRY}_MSA_questions.csv` contains the English and Modern Standard Arabic questions.
 
-The multiple-choice question files can be found in `evaluation/mc_data/{region}/`. Each region has three MCQ files:
+The multiple-choice question files can be found in `evaluation/mc_data/{REGION}/`. Each region has three MCQ files:
 
-- `mc_questions_{region}_ar.csv` for Egyptian dialect
-- `mc_questions_{region}_en.csv` for English
-- `mc_questions_{region}_msa.csv` for Modern Standard Arabic
+- `mc_questions_{REGION}_ar.csv` for Egyptian dialect
+- `mc_questions_{REGION}_en.csv` for English
+- `mc_questions_{REGION}_msa.csv` for Modern Standard Arabic
 
 The answer options are kept the same across the Egyptian dialect and MSA versions, with only the question wording changing. Each file includes the question, the answer options, and the correct answer.
 
