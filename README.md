@@ -98,7 +98,7 @@ At the bottom of `model_inference.py`.
 The file `eval.py` is used to evaluate the model responses generated for the SAQ.
 
 To evaluate  all models:
-
+```bash
 python eval.py \
   --country {region_name} \
   --response_dir {folder_containing_model_responses} \
