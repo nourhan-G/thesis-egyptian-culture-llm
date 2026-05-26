@@ -1,10 +1,14 @@
 # Beyond the Pyramids
 
+
+## Attribution
+
+This repository is adapted from the original BLEnD framework repository: https://github.com/nlee0212/BLEnD
+
+The original framework was adapted for the Egyptian regional and linguistic context. 
+
 ## About
-
 This repository contains the materials for **Beyond the Pyramids: Evaluating Regional and Linguistic Variation in LLMs' Knowledge of Egyptian Culture**, a Bachelor's thesis project in Artificial Intelligence at Vrije Universiteit Amsterdam.
-
-This project adapts the BLEnD framework to the national and regional Egyptian contexts using newly collected datasets of everyday Egyptian cultural questions.
 
 The datasets covers six Egyptian regions: Alexandria, Greater Cairo, Lower Egypt, Upper Egypt, Sinai, and the Suez Canal Cities. Both the question wording and the prompt language were adapted into three language varieties: English, Modern Standard Arabic (MSA), and the Egyptian dialect.
 <p align="center">
