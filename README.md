@@ -38,8 +38,6 @@ The multiple-choice question files can be found in `evaluation/mc_data/{REGION}/
 
 The answer options are kept the same across the Egyptian dialect and MSA versions, with only the question wording changing. Each file includes the question, the answer options, and the correct answer.
 
-
-
 ## Code adaptation
 
 The prompt templates are adapted into the in `model_inference.py`. The file contains two prompt settings: one for English and Egyptian dialect, and one for English and MSA. To run a specific setting, uncomment the prompt set you want to use and comment out the other one.
@@ -54,18 +52,17 @@ For the MCQ evaluation, we used GPT-5.4 for the meaning-based similarity check b
 
 ## How to run the code
 
-### Run multiple_choice_generation.py
+### Multiple-Choice Question Generation
 
+Run `multiple_choice_generation.py` to generate the multiple-choice question files.
+
+```bash
 python multiple_choice_generation.py \
-  --lang {language_variety} \ en or ar
+  --lang {language_variety} \
   --question_dir {folder_containing_question_csv_files} \
   --annotation_dir {folder_containing_annotation_json_files} \
   --mc_dir {folder_where_generated_mcq_files_will_be_saved} \
   --target_region {region_name}
-
-### Note on MSA MCQ Files
-
-The multiple_choice_generation.py script does not have a separate `msa` mode for {language_variety}. To create the MSA MCQ files, I reused the Arabic MCQ files and replaced the Egyptian dialect questions/prompts with their MSA versions. The answer choices, distractors, question IDs, and correct labels were kept the same to make the Egyptian dialect and MSA results directly comparable.
 
 ### Run multiple_choice_evaluation.py
 runs multiple-choice evaluation across several models, all regions, and all language varieties.
