@@ -56,7 +56,6 @@ For the MCQ evaluation, we used GPT-5.4 for the meaning-based similarity check b
 
 Run `multiple_choice_generation.py` to generate the multiple-choice question files.
 
-```bash
 python multiple_choice_generation.py \
   --lang {language_variety} \
   --question_dir {folder_containing_question_csv_files} \
@@ -98,7 +97,7 @@ At the bottom of `model_inference.py`.
 The file `eval.py` is used to evaluate the model responses generated for the SAQ.
 
 To evaluate  all models:
-```bash
+
 python eval.py \
   --country {region_name} \
   --response_dir {folder_containing_model_responses} \
