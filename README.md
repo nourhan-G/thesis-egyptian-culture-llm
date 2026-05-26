@@ -52,6 +52,58 @@ For Arabic scoring, the adapted code also adds Arabic-specific normalization bef
 
 For the MCQ evaluation, we used GPT-5.4 for the meaning-based similarity check between answer options and for generating dummy options when there were not enough valid regional distractors.
 
+## How to run the code
+
+### Run multiple_choice_generation.py
+
+python multiple_choice_generation.py \
+  --lang {language_variety} \ en, ar or msa
+  --question_dir {folder_containing_question_csv_files} \
+  --annotation_dir {folder_containing_annotation_json_files} \
+  --mc_dir {folder_where_generated_mcq_files_will_be_saved} \
+  --target_region {region_name}
+
+### Run multiple_choice_evaluation.py
+runs multiple-choice evaluation across several models, all regions, and all language varieties.
+
+bash run_all_mc_regions.sh
+
+### SAQ Model Inference
+
+`model_inference.py` generates model responses for the Short-Answer Questions.
+
+First, in `prompt_maker()`, choose the Arabic template you want to use by uncommenting either the Egyptian dialect template or the Modern Standard Arabic template.
+
+Second, fill in the required values inside the call to `prompt_maker()` in `csv_maker()`.
+
+`question_file` is the question CSV file for the selected region.
+
+`region_en` is the English region name used in the prompt.
+
+`region_ar` is the Arabic region name used in the prompt.
+
+
+At the bottom of `model_inference.py`.
+
+`model_name` is the model you want to run.
+
+`csv_maker("{region_name}", model_name)` creates the SAQ prompt CSV files for the selected region and model.
+
+`fill_csv_responses("{region_name}", model_name)` sends the prompts to the selected model and saves the model responses.
+
+
+### SAQ Evaluation
+
+The file `eval.py` is used to evaluate the model responses generated for the SAQ.
+
+To evaluate  all models:
+
+python eval.py \
+  --country {region_name} \
+  --response_dir {folder_containing_model_responses} \
+  --annotation_dir {folder_containing_annotation_json_files} \
+  --all_models_region
+
 ## Citation
 
 This project adapts the BLEnD framework. If you use this repository, please also cite the original BLEnD paper.
