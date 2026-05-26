@@ -57,11 +57,15 @@ For the MCQ evaluation, we used GPT-5.4 for the meaning-based similarity check b
 ### Run multiple_choice_generation.py
 
 python multiple_choice_generation.py \
-  --lang {language_variety} \ en, ar or msa
+  --lang {language_variety} \ en or ar
   --question_dir {folder_containing_question_csv_files} \
   --annotation_dir {folder_containing_annotation_json_files} \
   --mc_dir {folder_where_generated_mcq_files_will_be_saved} \
   --target_region {region_name}
+
+### Note on MSA MCQ Files
+
+The multiple_choice_generation.py script does not have a separate `msa` mode for {language_variety}. To create the MSA MCQ files, I reused the Arabic MCQ files and replaced the Egyptian dialect questions/prompts with their MSA versions. The answer choices, distractors, question IDs, and correct labels were kept the same to make the Egyptian dialect and MSA results directly comparable.
 
 ### Run multiple_choice_evaluation.py
 runs multiple-choice evaluation across several models, all regions, and all language varieties.
