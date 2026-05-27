@@ -13,7 +13,7 @@ We evaluated how well Large Language Models answer cultural knowledge questions 
 
 ## Citation and Acknowledgment
 
-This project adapts the BLEnD framework Myung et al., 2024. If you use this repository, please also cite the original BLEnD paper:
+This project adapts the [BLEnD framework](https://github.com/nlee0212/BLEnD) (Myung et al., 2024). If you use this repository, please also cite the original BLEnD paper:
 
 ```bibtex
 @article{myung2024blend,
