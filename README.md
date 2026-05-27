@@ -13,7 +13,7 @@ We evaluated how well Large Language Models answer cultural knowledge questions 
 
 ## Citation and Acknowledgment
 
-This project adapts the BLEnD framework to the Egyptian context. If you use this repository, please also cite the original BLEnD paper:
+This project adapts the BLEnD framework Myung et al., 2024. If you use this repository, please also cite the original BLEnD paper:
 
 ```bibtex
 @article{myung2024blend,
@@ -25,9 +25,6 @@ This project adapts the BLEnD framework to the Egyptian context. If you use this
   year={2024}
 }
 ```
-The original BLEnD GitHub repository is available here:
-https://github.com/nlee0212/BLEnD
-
 The original BLEnD paper is available here:
 https://arxiv.org/abs/2406.09948
 
