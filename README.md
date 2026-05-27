@@ -1,25 +1,5 @@
 # Beyond the Pyramids
 
-## Citation and Acknowledgment
-
-This project adapts the BLEnD framework to the Egyptian context. If you use this repository, please also cite the original BLEnD paper:
-
-```bibtex
-@article{myung2024blend,
-  title={Blend: A benchmark for llms on everyday knowledge in diverse cultures and languages},
-  author={Myung, Junho and Lee, Nayeon and Zhou, Yi and Jin, Jiho and Putri, Rifki A and Antypas, Dimosthenis and Borkakoty, Hsuvas and Kim, Eunsu and Perez-Almendros, Carla and Ayele, Abinew A and others},
-  journal={Advances in Neural Information Processing Systems},
-  volume={37},
-  pages={78104--78146},
-  year={2024}
-}
-```
-The original BLEnD GitHub repository is available here:
-https://github.com/nlee0212/BLEnD
-
-The original BLEnD paper is available here:
-https://arxiv.org/abs/2406.09948
-
 ## About
 This repository contains the materials for **Beyond the Pyramids: Evaluating Regional and Linguistic Variation in LLMs' Knowledge of Egyptian Culture**, a Bachelor's thesis project in Artificial Intelligence at Vrije Universiteit Amsterdam.
 
