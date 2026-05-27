@@ -11,6 +11,26 @@ The data was collected through a multi-phase Google Forms process. The questions
 
 We evaluated how well Large Language Models answer cultural knowledge questions across these regions and language varieties. The evaluation was done in two parts: automated evaluation and human evaluation. The automated scoring was conducted across 14 models on both Short-Answer Questions(SAQ) and Multiple-Choice Questions(MCQ). Our evaluation used the the inst-4 and pers-3 prompts. Second, the zero-scored SAQ responses in The Egyptian dialect and Modern Standard Arabic(MSA) for GPT-5.4, Qwen2.5-72B, and command-r7b-arabic-02-2025 were manually assigned an applicability score to check whether the answers were still culturally or regionally possible. Responses that were not applicable at all were then categorized by the type of error the model made.
 
+## Citation and Acknowledgment
+
+This project adapts the BLEnD framework to the Egyptian context. If you use this repository, please also cite the original BLEnD paper:
+
+```bibtex
+@article{myung2024blend,
+  title={Blend: A benchmark for llms on everyday knowledge in diverse cultures and languages},
+  author={Myung, Junho and Lee, Nayeon and Zhou, Yi and Jin, Jiho and Putri, Rifki A and Antypas, Dimosthenis and Borkakoty, Hsuvas and Kim, Eunsu and Perez-Almendros, Carla and Ayele, Abinew A and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={78104--78146},
+  year={2024}
+}
+```
+The original BLEnD GitHub repository is available here:
+https://github.com/nlee0212/BLEnD
+
+The original BLEnD paper is available here:
+https://arxiv.org/abs/2406.09948
+
 ## Data
 
 The human-annotated answers, can be found in the `data/annotations/` directory. This directory includes files for the six Egyptian regions and for Egypt as a whole. The Egypt-wide dataset is created by combining the answers from all the regional datasets.
